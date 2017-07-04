@@ -8,22 +8,7 @@ restrictions and guidelines for using it.
 
 .. include:: pipeline_test.rst
 
-Overview
-########
-
-Goodman HTS
-***********
-
-What to expect from this Pipeline
-*********************************
-
-Getting the Data
-****************
-
-
-Package Content
-***************
-
+.. include:: overview.rst
 
 Installing
 ##########

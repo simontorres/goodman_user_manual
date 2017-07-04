@@ -2,12 +2,27 @@
 Goodman High Throughput Spectrograph Pipeline - User Manual
 ***********************************************************
 
+This document is the User Manual for Goodman HTS Pipeline. It will provide a
+quick overview of the main features of the pipeline, installation instructions,
+restrictions and guidelines for using it.
 
-This document is the user manual for Goodman HTS Pipeline
-
+.. include:: pipeline_test.rst
 
 Overview
 ########
+
+Goodman HTS
+***********
+
+What to expect from this Pipeline
+*********************************
+
+Getting the Data
+****************
+
+
+Package Content
+***************
 
 
 Installing
@@ -15,6 +30,8 @@ Installing
 
 Install prerequisites
 *********************
+
+
 
 Get Goodman HTS Pipeline
 ************************
@@ -31,4 +48,9 @@ You can import almost every function in this pipeline:
     :linenos:
 
     from goodman_ccd.core import spectroscopic_extraction
+    # do some stuff here
     print('Hello World')
+
+
+
+

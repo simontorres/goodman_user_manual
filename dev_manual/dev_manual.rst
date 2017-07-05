@@ -16,6 +16,10 @@ restrictions and guidelines for using it.
 
 .. include:: building_the_manuals.rst
 
+.. include:: installing_iraf.rst
+
+
+
 
 
 

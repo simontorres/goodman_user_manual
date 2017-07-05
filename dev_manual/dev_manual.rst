@@ -14,6 +14,8 @@ restrictions and guidelines for using it.
 
 .. include:: vnc_setup.rst
 
+.. include:: building_the_manuals.rst
+
 
 
 

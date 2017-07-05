@@ -8,7 +8,7 @@ restrictions and guidelines for using it.
 
 .. include:: pipeline_test.rst
 
-.. include:: overview.rst
+    .. include:: overview.rst
 
 Installing
 ##########

@@ -14,7 +14,11 @@ In order to facilitate things you should organize your data:
     region of interest (ROI), and grating/wavelength mode combination.
  2. You should have bias, flats (quartz or dome flats), and the appropriate comparison lamps.
     Other files like acquisition images, slit images and focus images should be deleted.
-
+ 3. Do not mix dome flats with quartz lamp flats. As an example, suppose I took both quartz lamps
+    and dome flats for my targets. I could create two folders, one with the science data
+    and the dome flats, and another with the same science data and the quartz lamps.
+    Then, if I run the pipeline in each folder I can compare the results and decide which type
+    of flat works best for my particular case.
 
 Command line arguments
 **********************

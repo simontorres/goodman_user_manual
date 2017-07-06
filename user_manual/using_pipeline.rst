@@ -1,23 +1,24 @@
-Testing the Pipeline
-####################
+General Considerations on using the pipeline
+############################################
+The Goodman Spectroscopic Pipeline is meant to work as a single package. However, the full process is
+split in two separate modules: ``redccd`` and ``redspec``. The first does the basic 2D image reduction,
+applying bias and flat field corrections, and cosmic ray removal. The second module, ``redspec``,
+takes the corrected 2D images output by ``redccd`` and produces wavelength-calibrated 1D spectra.
 
-We have set up a server that you can access using VNC. You can test it on your
-own data or the data we have provided for test. Also, you can test it on your
-own machine but we can't give you support, although we provide
-full documentation for installing and testing it.
+The pipeline is run from the command line in a terminal window. Each module is run separately, first
+``redccd`` followed by ``redspec``, however, you could run both sequentially from e.g. a shell script.
 
-Short Pipeline Overview
-***********************
-The Goodman Pipeline is distributed as a single package but the full process is
-split in two: ``redccd`` and ``redspec``. The first does the 2D image reduction,
-going from raw data to flatfielded data, and the second (``redspec``) takes a 2D
-image containing one or more spectrum and creates a wavelength calibrated 1D
-spectrum.
+In order to facilitate things you should organize your data:
 
-Getting Help
-^^^^^^^^^^^^
-The Goodman Pipeline comes with full documentation and you can get help by using
-the ``--help`` argument. For instance:
+ 1. Make sure all the data in your folder corresponds to the same binning, readout mode,
+    region of interest (ROI), and grating/wavelength mode combination.
+ 2. You should have bias, flats (quartz or dome flats), and the appropriate comparison lamps.
+    Other files like acquisition images, slit images and focus images should be deleted.
+
+
+Command line arguments
+**********************
+For a list of the options and command line arguments type ``--help`` argument:
 
 
 For ``redccd``::
@@ -91,30 +92,27 @@ And for ``redspec``::
 
 
 
+.. _`Using Pipeline`:
 
+Running the pipeline in the SOAR data reduction computer
+########################################################
 
-VPN Connection
-**************
-If you are connecting from outside AURA you must connect through the VPN
-if you don't have the information, ask your *support scientist* to provide it
-for you.
+The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer
+at SOAR. The procedure is to open a VNC session, for which you need to be connected to the SOAR VPN.
+The credentials for the VPN are the same you used for your observing run,
+provided by your *Support Scientist*, who will also give you the information for the
+data reduction computer VNC connection.
 
-VNC Connection
-**************
-The VNC connection information will also be provided separated from this Manual.
-
-    ``Host Name: ___________________``
-
-    ``Display Number: __________________``
-
-    ``IP Address: ___________________``
-
-    ``Password: ___________________``
-
+Establish a VNC connection
+**************************
 For the rest of this tutorial we will assume your host name is ``vnc-server``
-the display is ``1`` and your password is ``password``
+the display is ``1`` and your password is ``password``.
+Though we recommend using RealVNC, most other VNC clients will work fine (e.g., Remmina in Linux).
+For GNU/Linux and Mac OSX machines we suggest the RealVNC Viewer client.
+For Windows machines, we suggest either the RealVNC Viewer client or the UltraVNC viewer client.
+We also know that Vinagre and vncviewer on GNU/Linux work fine.
 
-Using the Terminal
+VNC from the Terminal
 ^^^^^^^^^^^^^^^^^^
 Open a terminal, and assuming you have installed ``vncviewer``.
 
@@ -122,21 +120,20 @@ Open a terminal, and assuming you have installed ``vncviewer``.
 
 You will be asked to type in the *password* provided above.
 
-Using Graphical VNC Clients
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+VNC using a Graphical Client
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Using a graphical VNC client is quite similar and intuitive
 
-.. image:: img/reminavnc.png
+.. image:: img/realvnc.png
     :width: 1200px
+.. image:: img/realvnc_login.png
+    :width: 800px
 
 In this case the *IP address* was used, which is equivalent and sometimes better.
 
+
 Running the Pipeline
 ********************
-The pipeline is designed to work even if you put no arguments but this not always
-the best. For well behaved data this might be useful or if you have a large
-survey with data obtained in an ordered and systematic way.
-
 
 1. Open a Terminal
 

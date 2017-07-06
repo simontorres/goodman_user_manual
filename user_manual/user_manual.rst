@@ -1,28 +1,18 @@
-***********************************************************
-Goodman High Throughput Spectrograph Pipeline - User Manual
-***********************************************************
+Introduction
+############
 
-This document is the User Manual for Goodman HTS Pipeline. It will provide a
-quick overview of the main features of the pipeline, installation instructions,
-restrictions and guidelines for using it.
+This document is the User Manual for the Goodman Spectroscopic Data Reduction Pipeline. It provides an
+overview of the main features of the pipeline, instructions on its use and how to run it on our
+dedicated SOAR data reduction computer, and installation instructions for those who wish to
+run it on their own computers.
 
-.. include:: pipeline_test.rst
+.. include:: overview.rst
 
-    .. include:: overview.rst
+.. include:: using_pipeline.rst
 
-Installing
-##########
-
-Install prerequisites
-*********************
+.. include:: install.rst
 
 
-
-Get Goodman HTS Pipeline
-************************
-
-Using built-in Help
-*******************
 
 Importing Parts of the Code
 ###########################

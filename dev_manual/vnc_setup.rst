@@ -101,7 +101,9 @@ Exit the ``goodman`` user
 Now you should be logged in as the ``sdevel`` user.
 
     ``systemctl daemon-reload``
+
     ``systemctl enable vncserver@:1.service``
+
     ``reboot``
 
 You will loose conection after this, wait for a reasonable time (1 minute or so)

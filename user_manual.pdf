@@ -408,7 +408,7 @@ endobj
 endobj
 67 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f3e30be3878> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f3e30be3878> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed1e83680> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed1e83680> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -523,7 +523,7 @@ endobj
 endobj
 89 0 obj
 <<
-/Length 898
+/Length 901
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -560,7 +560,7 @@ q
 1 0 0 1 40.01575 629.6 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.946 0 Td (Simon Torres) Tj T* -218.946 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.946 0 Td (Sim\363n Torres) Tj T* -218.946 0 Td ET
 Q
 Q
 q
@@ -570,7 +570,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 06, 2017) Tj T* -221.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 07, 2017) Tj T* -221.934 0 Td ET
 Q
 Q
 q
@@ -1981,7 +1981,7 @@ endstream
 endobj
 97 0 obj
 <<
-/Length 10279
+/Length 10307
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2292,7 +2292,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 192 cm
 q
-BT 1 0 0 1 0 26 Tm 7.351084 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( also you might want to consider) Tj T* 0 Tw -0.003289 Tw /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to saturation.) Tj T* 0 Tw (Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.977131 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using at least the ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( arguments, also you might want to) Tj T* 0 Tw .520241 Tw (consider ) Tj /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to) Tj T* 0 Tw (saturation. Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
 Q
 Q
 q
@@ -2840,26 +2840,26 @@ xref
 0000180055 00000 n 
 0000180184 00000 n 
 0000180307 00000 n 
-0000181256 00000 n 
-0000181381 00000 n 
-0000186436 00000 n 
-0000186561 00000 n 
-0000196451 00000 n 
-0000203546 00000 n 
-0000209257 00000 n 
-0000212124 00000 n 
-0000222456 00000 n 
-0000225586 00000 n 
-0000225721 00000 n 
-0000225756 00000 n 
-0000225791 00000 n 
-0000225826 00000 n 
-0000225861 00000 n 
-0000225896 00000 n 
-0000225931 00000 n 
-0000225966 00000 n 
-0000226001 00000 n 
-0000226036 00000 n 
+0000181259 00000 n 
+0000181384 00000 n 
+0000186439 00000 n 
+0000186564 00000 n 
+0000196454 00000 n 
+0000203549 00000 n 
+0000209260 00000 n 
+0000212127 00000 n 
+0000222487 00000 n 
+0000225617 00000 n 
+0000225752 00000 n 
+0000225787 00000 n 
+0000225822 00000 n 
+0000225857 00000 n 
+0000225892 00000 n 
+0000225927 00000 n 
+0000225962 00000 n 
+0000225997 00000 n 
+0000226032 00000 n 
+0000226067 00000 n 
 trailer
 <<
 /ID 
@@ -2871,7 +2871,7 @@ trailer
 /Size 110
 >>
 startxref
-226071
+226102
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -3283,7 +3283,7 @@ endobj
 endobj
 67 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f3e30b1bb90> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f3e30b1bb90> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed2075440> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed2075440> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -3398,7 +3398,7 @@ endobj
 endobj
 89 0 obj
 <<
-/Length 898
+/Length 901
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3435,7 +3435,7 @@ q
 1 0 0 1 40.01575 629.6 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.946 0 Td (Simon Torres) Tj T* -218.946 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.946 0 Td (Sim\363n Torres) Tj T* -218.946 0 Td ET
 Q
 Q
 q
@@ -3445,7 +3445,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 06, 2017) Tj T* -221.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 07, 2017) Tj T* -221.934 0 Td ET
 Q
 Q
 q
@@ -4856,7 +4856,7 @@ endstream
 endobj
 97 0 obj
 <<
-/Length 10279
+/Length 10307
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5167,7 +5167,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 192 cm
 q
-BT 1 0 0 1 0 26 Tm 7.351084 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( also you might want to consider) Tj T* 0 Tw -0.003289 Tw /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to saturation.) Tj T* 0 Tw (Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.977131 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using at least the ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( arguments, also you might want to) Tj T* 0 Tw .520241 Tw (consider ) Tj /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to) Tj T* 0 Tw (saturation. Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
 Q
 Q
 q
@@ -5715,26 +5715,26 @@ xref
 0000180055 00000 n 
 0000180184 00000 n 
 0000180307 00000 n 
-0000181256 00000 n 
-0000181381 00000 n 
-0000186436 00000 n 
-0000186561 00000 n 
-0000196451 00000 n 
-0000203546 00000 n 
-0000209257 00000 n 
-0000212124 00000 n 
-0000222456 00000 n 
-0000225586 00000 n 
-0000225721 00000 n 
-0000225756 00000 n 
-0000225791 00000 n 
-0000225826 00000 n 
-0000225861 00000 n 
-0000225896 00000 n 
-0000225931 00000 n 
-0000225966 00000 n 
-0000226001 00000 n 
-0000226036 00000 n 
+0000181259 00000 n 
+0000181384 00000 n 
+0000186439 00000 n 
+0000186564 00000 n 
+0000196454 00000 n 
+0000203549 00000 n 
+0000209260 00000 n 
+0000212127 00000 n 
+0000222487 00000 n 
+0000225617 00000 n 
+0000225752 00000 n 
+0000225787 00000 n 
+0000225822 00000 n 
+0000225857 00000 n 
+0000225892 00000 n 
+0000225927 00000 n 
+0000225962 00000 n 
+0000225997 00000 n 
+0000226032 00000 n 
+0000226067 00000 n 
 trailer
 <<
 /ID 
@@ -5746,5 +5746,5 @@ trailer
 /Size 110
 >>
 startxref
-226071
+226102
 %%EOF

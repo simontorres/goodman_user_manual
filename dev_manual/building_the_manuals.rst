@@ -26,6 +26,9 @@ most important here is to have *something that works* for you.
 
     ``cd ~/documentation/soar``
 
+Also you will need to install ``rst2pdf``
+
+
 Get the source Files
 ********************
 

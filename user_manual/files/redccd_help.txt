@@ -1,0 +1,30 @@
+usage: redccd [-h] [--cosmic] [--ignore-bias] [--ignore-flats] [--auto-clean]
+              [--saturation <Value>] [--raw-path raw_path]
+              [--red-path red_path] [--debug] [--log-to-file]
+              [--flat-normalize <Normalization Method>]
+              [--flat-norm-order <Order>] [--dcr-par-dir <dcr.par directory>]
+              [--keep-cosmic-files]
+
+Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --cosmic              Clean cosmic rays from science data.
+  --ignore-bias         Ignore bias correction
+  --ignore-flats        Ignore flat field correction
+  --auto-clean          Automatically clean reduced data directory
+  --saturation <Value>  Saturation limit. Default to 55.000 ADU (counts)
+  --raw-path raw_path   Path to raw data.
+  --red-path red_path   Path to reduced data.
+  --debug               Show detailed information of the process.
+  --log-to-file         Write log to a file.
+  --flat-normalize <Normalization Method>
+                        Choose a method to normalize the master flat
+                        forspectroscoy. Choices are: mean, simple (model) and
+                        full (fits model to each line).
+  --flat-norm-order <Order>
+                        Defines the order of the model to be fitted.
+  --dcr-par-dir <dcr.par directory>
+                        Directory of default dcr.par file.
+  --keep-cosmic-files   After cleaning cosmic rays with dcr, do not remove the
+                        input file and the cosmic rays file.

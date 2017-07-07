@@ -108,32 +108,32 @@ endobj
 endobj
 20 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /Rect [ 40.01575 628.0394 320.0557 640.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /Rect [ 40.01575 628.0394 320.0557 640.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /Rect [ 549.6998 628.7894 555.2598 640.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /Rect [ 549.6998 628.7894 555.2598 640.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /Rect [ 60.01575 610.0394 183.9557 622.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /Rect [ 60.01575 610.0394 183.9557 622.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /Rect [ 549.6998 610.7894 555.2598 622.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /Rect [ 549.6998 610.7894 555.2598 622.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Rect [ 80.01575 592.0394 182.2557 604.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Rect [ 80.01575 592.0394 182.2557 604.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Rect [ 549.6998 592.7894 555.2598 604.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Rect [ 549.6998 592.7894 555.2598 604.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
@@ -251,7 +251,7 @@ endobj
 endobj
 46 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 333.4394 0 ] /Rect [ 175.2671 585.0394 240.9934 597.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 345.4394 0 ] /Rect [ 175.2671 585.0394 240.9934 597.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
@@ -408,7 +408,7 @@ endobj
 endobj
 67 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed1e83680> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed1e83680> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f2551e26cb0> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f2551e26cb0> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -455,19 +455,19 @@ endobj
 endobj
 76 0 obj
 <<
-/Count 5 /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /First 77 0 R /Last 81 0 R /Next 82 0 R /Parent 68 0 R 
+/Count 5 /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /First 77 0 R /Last 81 0 R /Next 82 0 R /Parent 68 0 R 
   /Prev 74 0 R /Title (Running the pipeline in the SOAR data reduction computer)
 >>
 endobj
 77 0 obj
 <<
-/Count 2 /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /First 78 0 R /Last 79 0 R /Next 80 0 R /Parent 76 0 R 
+/Count 2 /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /First 78 0 R /Last 79 0 R /Next 80 0 R /Parent 76 0 R 
   /Title (Establish a VNC connection)
 >>
 endobj
 78 0 obj
 <<
-/Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Next 79 0 R /Parent 77 0 R /Title (VNC from the Terminal)
+/Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Next 79 0 R /Parent 77 0 R /Title (VNC from the Terminal)
 >>
 endobj
 79 0 obj
@@ -1413,7 +1413,7 @@ endstream
 endobj
 94 0 obj
 <<
-/Length 7043
+/Length 7067
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1609,7 +1609,7 @@ Q
 q
 1 0 0 1 40.01575 411.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj T* ET
 Q
 Q
 q
@@ -1625,7 +1625,7 @@ q
 n -4 0 514.4441 342 re B*
 Q
 q
-BT 1 0 0 1 0 326 Tm 12 TL /F3 10 Tf 0 0 0 rg (bash$ redccd --help) Tj T* (usage: redccd [-h] [--cosmic] [--ignore-bias] [--auto-clean]) Tj T* (              [--saturation ) Tj (<) Tj (Value) Tj (>) Tj (] [--raw-path raw_path]) Tj T* (              [--red-path red_path] [--debug] [--log-to-file]) Tj T* (              [--flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj (]) Tj T* (              [--flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj (] [--dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj (]) Tj T* (              [--keep-cosmic-files]) Tj T*  T* (Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --cosmic              Clean cosmic rays from science data.) Tj T* (  --ignore-bias         Ignore bias correction) Tj T* (  --auto-clean          Automatically clean reduced data directory) Tj T* (  --saturation ) Tj (<) Tj (Value) Tj (>) Tj (  Saturation limit. Default to 55.000 ADU \(counts\)) Tj T* (  --raw-path raw_path   Path to raw data.) Tj T* (  --red-path red_path   Path to reduced data.) Tj T* (  --debug               Show detailed information of the process.) Tj T* (  --log-to-file         Write log to a file.) Tj T* (  --flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj  T* (                        Choose a method to normalize the master flat) Tj T* (                        forspectroscoy. Choices are: mean, simple \(model\) and) Tj T* (                        full \(fits model to each line\).) Tj T* (  --flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj  T* (                        Defines the order of the model to be fitted.) Tj T* (  --dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj  T* (                        Directory of default dcr.par file.) Tj T* ET
+BT 1 0 0 1 0 326 Tm 12 TL /F3 10 Tf 0 0 0 rg (usage: redccd [-h] [--cosmic] [--ignore-bias] [--ignore-flats] [--auto-clean]) Tj T* (              [--saturation ) Tj (<) Tj (Value) Tj (>) Tj (] [--raw-path raw_path]) Tj T* (              [--red-path red_path] [--debug] [--log-to-file]) Tj T* (              [--flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj (]) Tj T* (              [--flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj (] [--dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj (]) Tj T* (              [--keep-cosmic-files]) Tj T*  T* (Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --cosmic              Clean cosmic rays from science data.) Tj T* (  --ignore-bias         Ignore bias correction) Tj T* (  --ignore-flats        Ignore flat field correction) Tj T* (  --auto-clean          Automatically clean reduced data directory) Tj T* (  --saturation ) Tj (<) Tj (Value) Tj (>) Tj (  Saturation limit. Default to 55.000 ADU \(counts\)) Tj T* (  --raw-path raw_path   Path to raw data.) Tj T* (  --red-path red_path   Path to reduced data.) Tj T* (  --debug               Show detailed information of the process.) Tj T* (  --log-to-file         Write log to a file.) Tj T* (  --flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj  T* (                        Choose a method to normalize the master flat) Tj T* (                        forspectroscoy. Choices are: mean, simple \(model\) and) Tj T* (                        full \(fits model to each line\).) Tj T* (  --flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj  T* (                        Defines the order of the model to be fitted.) Tj T* (  --dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj  T* (                        Directory of default dcr.par file.) Tj T* ET
 Q
 Q
 Q
@@ -1650,7 +1650,7 @@ endstream
 endobj
 95 0 obj
 <<
-/Length 5659
+/Length 5604
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1676,11 +1676,11 @@ Q
 q
 1 0 0 1 40.01575 736.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And for ) Tj /F3 10 Tf 0 0 0 rg (redspec) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And for ) Tj /F3 10 Tf 0 0 0 rg (redspec) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 345.4394 cm
+1 0 0 1 40.01575 357.4394 cm
 q
 q
 q
@@ -1689,17 +1689,17 @@ q
 .666667 .8 .6 RG
 .3 w
 .933333 1 .8 rg
-n -4 0 514.4441 390 re B*
+n -4 0 514.4441 378 re B*
 Q
 q
-BT 1 0 0 1 0 374 Tm 12 TL /F3 10 Tf 0 0 0 rg (bash$ redspec --help) Tj T* (usage: redspec [-h] [--data-path ) Tj (<) Tj (Source Path) Tj (>) Tj (]) Tj T* (               [--proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj (]) Tj T* (               [--search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj (]) Tj T* (               [--output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj (] [--extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj (]) Tj T* (               [--reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj (] [--interactive] [--debug]) Tj T* (               [--log-to-file] [--save-plots] [--plot-results]) Tj T*  T* (Extracts goodman spectra and does wavelength calibration.) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --data-path ) Tj (<) Tj (Source Path) Tj (>) Tj  T* (                        Path for location of raw data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj  T* (                        Path for destination of processed data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj  T* (                        Pattern for matching the goodman's reduced data.) Tj T* (  --output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj  T* (                        Prefix to add to calibrated spectrum.) Tj T* (  --extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj  T* (                        Choose a which extraction to perform. Simple is a sum) Tj T* (                        across the spatial direction after the background has) Tj T* (                        been removed. Optimal is a more advanced method that) Tj T* (                        considers weights and profilefitting.) Tj T* (  --reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj  T* (                        Directory of Reference files location) Tj T* (  --interactive         Interactive wavelength solution.Disbled by default.) Tj T* (  --debug               Debugging Mode) Tj T* (  --log-to-file         Write log to a file) Tj T* (  --save-plots          Save all plots in a directory) Tj T* (  --plot-results        Show wavelength calibrated spectrum at the end.) Tj T* ET
+BT 1 0 0 1 0 362 Tm 12 TL /F3 10 Tf 0 0 0 rg (usage: redspec [-h] [--data-path ) Tj (<) Tj (Source Path) Tj (>) Tj (]) Tj T* (               [--proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj (]) Tj T* (               [--search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj (]) Tj T* (               [--output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj (] [--extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj (]) Tj T* (               [--reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj (] [--interactive] [--debug]) Tj T* (               [--log-to-file] [--save-plots] [--plot-results]) Tj T*  T* (Extracts goodman spectra and does wavelength calibration.) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --data-path ) Tj (<) Tj (Source Path) Tj (>) Tj  T* (                        Path for location of raw data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj  T* (                        Path for destination of processed data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj  T* (                        Pattern for matching the goodman's reduced data.) Tj T* (  --output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj  T* (                        Prefix to add to calibrated spectrum.) Tj T* (  --extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj  T* (                        Choose a which extraction to perform. Simple is a sum) Tj T* (                        across the spatial direction after the background has) Tj T* (                        been removed. Optimal is a more advanced method that) Tj T* (                        considers weights and profilefitting.) Tj T* (  --reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj  T* (                        Directory of Reference files location) Tj T* (  --interactive         Interactive wavelength solution.Disbled by default.) Tj T* (  --debug               Debugging Mode) Tj T* (  --log-to-file         Write log to a file) Tj T* (  --save-plots          Save all plots in a directory) Tj T* (  --plot-results        Show wavelength calibrated spectrum at the end.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 40.01575 281.4394 cm
+1 0 0 1 40.01575 293.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1711,13 +1711,13 @@ BT 1 0 0 1 0 28 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Running the pipeli
 Q
 Q
 q
-1 0 0 1 40.01575 227.4394 cm
+1 0 0 1 40.01575 239.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .211147 Tw (procedure is to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials for the) Tj T* 0 Tw .695705 Tw (VPN are the same you used for your observing run, provided by your ) Tj /F4 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give you the) Tj T* 0 Tw (information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 192.2394 cm
+1 0 0 1 40.01575 204.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1729,13 +1729,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 126.2394 cm
+1 0 0 1 40.01575 138.2394 cm
 q
 BT 1 0 0 1 0 50 Tm .98829 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the rest of this tutorial we will assume your host name is ) Tj /F3 10 Tf 0 0 0 rg (vnc-server) Tj /F1 10 Tf 0 0 0 rg ( the display is ) Tj /F3 10 Tf 0 0 0 rg (1) Tj /F1 10 Tf 0 0 0 rg ( and your password is) Tj T* 0 Tw .235881 Tw /F3 10 Tf 0 0 0 rg (password) Tj /F1 10 Tf 0 0 0 rg (. Though we recommend using RealVNC, most other VNC clients will work fine \(e.g., Remmina in Linux\).) Tj T* 0 Tw -0.099744 Tw (For GNU/Linux and Mac OSX machines we suggest the RealVNC Viewer client. For Windows machines, we suggest) Tj T* 0 Tw 1.965535 Tw (either the RealVNC Viewer client or the UltraVNC viewer client. We also know that Vinagre and vncviewer on) Tj T* 0 Tw (GNU/Linux work fine.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 93.43937 cm
+1 0 0 1 40.01575 105.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1747,16 +1747,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (VNC from the Te
 Q
 Q
 q
-1 0 0 1 40.01575 75.43937 cm
+1 0 0 1 40.01575 87.43937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Open a terminal, and assuming you have installed ) Tj /F3 10 Tf 0 0 0 rg (vncviewer) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 69.43937 cm
+1 0 0 1 40.01575 81.43937 cm
 Q
 q
-1 0 0 1 40.01575 57.43937 cm
+1 0 0 1 40.01575 69.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1770,7 +1770,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 57.43937 cm
+1 0 0 1 40.01575 69.43937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -1981,7 +1981,7 @@ endstream
 endobj
 97 0 obj
 <<
-/Length 10307
+/Length 10279
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2292,7 +2292,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 192 cm
 q
-BT 1 0 0 1 0 26 Tm 1.977131 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using at least the ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( arguments, also you might want to) Tj T* 0 Tw .520241 Tw (consider ) Tj /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to) Tj T* 0 Tw (saturation. Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 7.351084 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( also you might want to consider) Tj T* 0 Tw -0.003289 Tw /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to saturation.) Tj T* 0 Tw (Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
 Q
 Q
 q
@@ -2845,21 +2845,21 @@ xref
 0000186439 00000 n 
 0000186564 00000 n 
 0000196454 00000 n 
-0000203549 00000 n 
-0000209260 00000 n 
-0000212127 00000 n 
-0000222487 00000 n 
-0000225617 00000 n 
-0000225752 00000 n 
-0000225787 00000 n 
-0000225822 00000 n 
-0000225857 00000 n 
-0000225892 00000 n 
-0000225927 00000 n 
-0000225962 00000 n 
-0000225997 00000 n 
-0000226032 00000 n 
-0000226067 00000 n 
+0000203573 00000 n 
+0000209229 00000 n 
+0000212096 00000 n 
+0000222428 00000 n 
+0000225558 00000 n 
+0000225693 00000 n 
+0000225728 00000 n 
+0000225763 00000 n 
+0000225798 00000 n 
+0000225833 00000 n 
+0000225868 00000 n 
+0000225903 00000 n 
+0000225938 00000 n 
+0000225973 00000 n 
+0000226008 00000 n 
 trailer
 <<
 /ID 
@@ -2871,7 +2871,7 @@ trailer
 /Size 110
 >>
 startxref
-226102
+226043
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -2983,32 +2983,32 @@ endobj
 endobj
 20 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /Rect [ 40.01575 628.0394 320.0557 640.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /Rect [ 40.01575 628.0394 320.0557 640.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /Rect [ 549.6998 628.7894 555.2598 640.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /Rect [ 549.6998 628.7894 555.2598 640.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /Rect [ 60.01575 610.0394 183.9557 622.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /Rect [ 60.01575 610.0394 183.9557 622.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /Rect [ 549.6998 610.7894 555.2598 622.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /Rect [ 549.6998 610.7894 555.2598 622.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Rect [ 80.01575 592.0394 182.2557 604.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Rect [ 80.01575 592.0394 182.2557 604.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Rect [ 549.6998 592.7894 555.2598 604.7894 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Rect [ 549.6998 592.7894 555.2598 604.7894 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
@@ -3126,7 +3126,7 @@ endobj
 endobj
 46 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 333.4394 0 ] /Rect [ 175.2671 585.0394 240.9934 597.0394 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 54 0 R /XYZ 40.01575 345.4394 0 ] /Rect [ 175.2671 585.0394 240.9934 597.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
@@ -3283,7 +3283,7 @@ endobj
 endobj
 67 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed2075440> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f0ed2075440> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f2551e8ee18> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f2551e8ee18> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -3330,19 +3330,19 @@ endobj
 endobj
 76 0 obj
 <<
-/Count 5 /Dest [ 54 0 R /XYZ 40.01575 329.4394 0 ] /First 77 0 R /Last 81 0 R /Next 82 0 R /Parent 68 0 R 
+/Count 5 /Dest [ 54 0 R /XYZ 40.01575 341.4394 0 ] /First 77 0 R /Last 81 0 R /Next 82 0 R /Parent 68 0 R 
   /Prev 74 0 R /Title (Running the pipeline in the SOAR data reduction computer)
 >>
 endobj
 77 0 obj
 <<
-/Count 2 /Dest [ 54 0 R /XYZ 40.01575 211.4394 0 ] /First 78 0 R /Last 79 0 R /Next 80 0 R /Parent 76 0 R 
+/Count 2 /Dest [ 54 0 R /XYZ 40.01575 223.4394 0 ] /First 78 0 R /Last 79 0 R /Next 80 0 R /Parent 76 0 R 
   /Title (Establish a VNC connection)
 >>
 endobj
 78 0 obj
 <<
-/Dest [ 54 0 R /XYZ 40.01575 110.2394 0 ] /Next 79 0 R /Parent 77 0 R /Title (VNC from the Terminal)
+/Dest [ 54 0 R /XYZ 40.01575 122.2394 0 ] /Next 79 0 R /Parent 77 0 R /Title (VNC from the Terminal)
 >>
 endobj
 79 0 obj
@@ -4288,7 +4288,7 @@ endstream
 endobj
 94 0 obj
 <<
-/Length 7043
+/Length 7067
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4484,7 +4484,7 @@ Q
 q
 1 0 0 1 40.01575 411.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj T* ET
 Q
 Q
 q
@@ -4500,7 +4500,7 @@ q
 n -4 0 514.4441 342 re B*
 Q
 q
-BT 1 0 0 1 0 326 Tm 12 TL /F3 10 Tf 0 0 0 rg (bash$ redccd --help) Tj T* (usage: redccd [-h] [--cosmic] [--ignore-bias] [--auto-clean]) Tj T* (              [--saturation ) Tj (<) Tj (Value) Tj (>) Tj (] [--raw-path raw_path]) Tj T* (              [--red-path red_path] [--debug] [--log-to-file]) Tj T* (              [--flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj (]) Tj T* (              [--flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj (] [--dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj (]) Tj T* (              [--keep-cosmic-files]) Tj T*  T* (Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --cosmic              Clean cosmic rays from science data.) Tj T* (  --ignore-bias         Ignore bias correction) Tj T* (  --auto-clean          Automatically clean reduced data directory) Tj T* (  --saturation ) Tj (<) Tj (Value) Tj (>) Tj (  Saturation limit. Default to 55.000 ADU \(counts\)) Tj T* (  --raw-path raw_path   Path to raw data.) Tj T* (  --red-path red_path   Path to reduced data.) Tj T* (  --debug               Show detailed information of the process.) Tj T* (  --log-to-file         Write log to a file.) Tj T* (  --flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj  T* (                        Choose a method to normalize the master flat) Tj T* (                        forspectroscoy. Choices are: mean, simple \(model\) and) Tj T* (                        full \(fits model to each line\).) Tj T* (  --flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj  T* (                        Defines the order of the model to be fitted.) Tj T* (  --dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj  T* (                        Directory of default dcr.par file.) Tj T* ET
+BT 1 0 0 1 0 326 Tm 12 TL /F3 10 Tf 0 0 0 rg (usage: redccd [-h] [--cosmic] [--ignore-bias] [--ignore-flats] [--auto-clean]) Tj T* (              [--saturation ) Tj (<) Tj (Value) Tj (>) Tj (] [--raw-path raw_path]) Tj T* (              [--red-path red_path] [--debug] [--log-to-file]) Tj T* (              [--flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj (]) Tj T* (              [--flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj (] [--dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj (]) Tj T* (              [--keep-cosmic-files]) Tj T*  T* (Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --cosmic              Clean cosmic rays from science data.) Tj T* (  --ignore-bias         Ignore bias correction) Tj T* (  --ignore-flats        Ignore flat field correction) Tj T* (  --auto-clean          Automatically clean reduced data directory) Tj T* (  --saturation ) Tj (<) Tj (Value) Tj (>) Tj (  Saturation limit. Default to 55.000 ADU \(counts\)) Tj T* (  --raw-path raw_path   Path to raw data.) Tj T* (  --red-path red_path   Path to reduced data.) Tj T* (  --debug               Show detailed information of the process.) Tj T* (  --log-to-file         Write log to a file.) Tj T* (  --flat-normalize ) Tj (<) Tj (Normalization Method) Tj (>) Tj  T* (                        Choose a method to normalize the master flat) Tj T* (                        forspectroscoy. Choices are: mean, simple \(model\) and) Tj T* (                        full \(fits model to each line\).) Tj T* (  --flat-norm-order ) Tj (<) Tj (Order) Tj (>) Tj  T* (                        Defines the order of the model to be fitted.) Tj T* (  --dcr-par-dir ) Tj (<) Tj (dcr.par directory) Tj (>) Tj  T* (                        Directory of default dcr.par file.) Tj T* ET
 Q
 Q
 Q
@@ -4525,7 +4525,7 @@ endstream
 endobj
 95 0 obj
 <<
-/Length 5659
+/Length 5604
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4551,11 +4551,11 @@ Q
 q
 1 0 0 1 40.01575 736.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And for ) Tj /F3 10 Tf 0 0 0 rg (redspec) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And for ) Tj /F3 10 Tf 0 0 0 rg (redspec) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 345.4394 cm
+1 0 0 1 40.01575 357.4394 cm
 q
 q
 q
@@ -4564,17 +4564,17 @@ q
 .666667 .8 .6 RG
 .3 w
 .933333 1 .8 rg
-n -4 0 514.4441 390 re B*
+n -4 0 514.4441 378 re B*
 Q
 q
-BT 1 0 0 1 0 374 Tm 12 TL /F3 10 Tf 0 0 0 rg (bash$ redspec --help) Tj T* (usage: redspec [-h] [--data-path ) Tj (<) Tj (Source Path) Tj (>) Tj (]) Tj T* (               [--proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj (]) Tj T* (               [--search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj (]) Tj T* (               [--output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj (] [--extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj (]) Tj T* (               [--reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj (] [--interactive] [--debug]) Tj T* (               [--log-to-file] [--save-plots] [--plot-results]) Tj T*  T* (Extracts goodman spectra and does wavelength calibration.) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --data-path ) Tj (<) Tj (Source Path) Tj (>) Tj  T* (                        Path for location of raw data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj  T* (                        Path for destination of processed data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj  T* (                        Pattern for matching the goodman's reduced data.) Tj T* (  --output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj  T* (                        Prefix to add to calibrated spectrum.) Tj T* (  --extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj  T* (                        Choose a which extraction to perform. Simple is a sum) Tj T* (                        across the spatial direction after the background has) Tj T* (                        been removed. Optimal is a more advanced method that) Tj T* (                        considers weights and profilefitting.) Tj T* (  --reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj  T* (                        Directory of Reference files location) Tj T* (  --interactive         Interactive wavelength solution.Disbled by default.) Tj T* (  --debug               Debugging Mode) Tj T* (  --log-to-file         Write log to a file) Tj T* (  --save-plots          Save all plots in a directory) Tj T* (  --plot-results        Show wavelength calibrated spectrum at the end.) Tj T* ET
+BT 1 0 0 1 0 362 Tm 12 TL /F3 10 Tf 0 0 0 rg (usage: redspec [-h] [--data-path ) Tj (<) Tj (Source Path) Tj (>) Tj (]) Tj T* (               [--proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj (]) Tj T* (               [--search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj (]) Tj T* (               [--output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj (] [--extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj (]) Tj T* (               [--reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj (] [--interactive] [--debug]) Tj T* (               [--log-to-file] [--save-plots] [--plot-results]) Tj T*  T* (Extracts goodman spectra and does wavelength calibration.) Tj T*  T* (optional arguments:) Tj T* (  -h, --help            show this help message and exit) Tj T* (  --data-path ) Tj (<) Tj (Source Path) Tj (>) Tj  T* (                        Path for location of raw data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --proc-path ) Tj (<) Tj (Destination Path) Tj (>) Tj  T* (                        Path for destination of processed data. Default ) Tj (<) Tj (./) Tj (>) Tj  T* (  --search-pattern ) Tj (<) Tj (Search Pattern) Tj (>) Tj  T* (                        Pattern for matching the goodman's reduced data.) Tj T* (  --output-prefix ) Tj (<) Tj (Out Prefix) Tj (>) Tj  T* (                        Prefix to add to calibrated spectrum.) Tj T* (  --extraction ) Tj (<) Tj (Extraction Type) Tj (>) Tj  T* (                        Choose a which extraction to perform. Simple is a sum) Tj T* (                        across the spatial direction after the background has) Tj T* (                        been removed. Optimal is a more advanced method that) Tj T* (                        considers weights and profilefitting.) Tj T* (  --reference-files ) Tj (<) Tj (Reference Dir) Tj (>) Tj  T* (                        Directory of Reference files location) Tj T* (  --interactive         Interactive wavelength solution.Disbled by default.) Tj T* (  --debug               Debugging Mode) Tj T* (  --log-to-file         Write log to a file) Tj T* (  --save-plots          Save all plots in a directory) Tj T* (  --plot-results        Show wavelength calibrated spectrum at the end.) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 40.01575 281.4394 cm
+1 0 0 1 40.01575 293.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4586,13 +4586,13 @@ BT 1 0 0 1 0 28 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Running the pipeli
 Q
 Q
 q
-1 0 0 1 40.01575 227.4394 cm
+1 0 0 1 40.01575 239.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .211147 Tw (procedure is to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials for the) Tj T* 0 Tw .695705 Tw (VPN are the same you used for your observing run, provided by your ) Tj /F4 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give you the) Tj T* 0 Tw (information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 192.2394 cm
+1 0 0 1 40.01575 204.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4604,13 +4604,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 126.2394 cm
+1 0 0 1 40.01575 138.2394 cm
 q
 BT 1 0 0 1 0 50 Tm .98829 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the rest of this tutorial we will assume your host name is ) Tj /F3 10 Tf 0 0 0 rg (vnc-server) Tj /F1 10 Tf 0 0 0 rg ( the display is ) Tj /F3 10 Tf 0 0 0 rg (1) Tj /F1 10 Tf 0 0 0 rg ( and your password is) Tj T* 0 Tw .235881 Tw /F3 10 Tf 0 0 0 rg (password) Tj /F1 10 Tf 0 0 0 rg (. Though we recommend using RealVNC, most other VNC clients will work fine \(e.g., Remmina in Linux\).) Tj T* 0 Tw -0.099744 Tw (For GNU/Linux and Mac OSX machines we suggest the RealVNC Viewer client. For Windows machines, we suggest) Tj T* 0 Tw 1.965535 Tw (either the RealVNC Viewer client or the UltraVNC viewer client. We also know that Vinagre and vncviewer on) Tj T* 0 Tw (GNU/Linux work fine.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 93.43937 cm
+1 0 0 1 40.01575 105.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4622,16 +4622,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (VNC from the Te
 Q
 Q
 q
-1 0 0 1 40.01575 75.43937 cm
+1 0 0 1 40.01575 87.43937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Open a terminal, and assuming you have installed ) Tj /F3 10 Tf 0 0 0 rg (vncviewer) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 69.43937 cm
+1 0 0 1 40.01575 81.43937 cm
 Q
 q
-1 0 0 1 40.01575 57.43937 cm
+1 0 0 1 40.01575 69.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -4645,7 +4645,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 57.43937 cm
+1 0 0 1 40.01575 69.43937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -4856,7 +4856,7 @@ endstream
 endobj
 97 0 obj
 <<
-/Length 10307
+/Length 10279
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5167,7 +5167,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 192 cm
 q
-BT 1 0 0 1 0 26 Tm 1.977131 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using at least the ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( arguments, also you might want to) Tj T* 0 Tw .520241 Tw (consider ) Tj /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to) Tj T* 0 Tw (saturation. Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 7.351084 Tw 12 TL /F1 10 Tf 0 0 0 rg (For ) Tj /F3 10 Tf 0 0 0 rg (redccd) Tj /F1 10 Tf 0 0 0 rg ( I suggest using ) Tj /F3 10 Tf 0 0 0 rg (--cosmic) Tj /F1 10 Tf 0 0 0 rg ( and ) Tj /F3 10 Tf 0 0 0 rg (auto-clean) Tj /F1 10 Tf 0 0 0 rg ( also you might want to consider) Tj T* 0 Tw -0.003289 Tw /F3 10 Tf 0 0 0 rg (--saturation) Tj ( ) Tj (<) Tj (new) Tj ( ) Tj (value) Tj (>) Tj /F1 10 Tf 0 0 0 rg ( to change the saturation level if you get all your flats rejected due to saturation.) Tj T* 0 Tw (Sometimes there is a hot column at the end that produced very high values.) Tj T* ET
 Q
 Q
 q
@@ -5720,21 +5720,21 @@ xref
 0000186439 00000 n 
 0000186564 00000 n 
 0000196454 00000 n 
-0000203549 00000 n 
-0000209260 00000 n 
-0000212127 00000 n 
-0000222487 00000 n 
-0000225617 00000 n 
-0000225752 00000 n 
-0000225787 00000 n 
-0000225822 00000 n 
-0000225857 00000 n 
-0000225892 00000 n 
-0000225927 00000 n 
-0000225962 00000 n 
-0000225997 00000 n 
-0000226032 00000 n 
-0000226067 00000 n 
+0000203573 00000 n 
+0000209229 00000 n 
+0000212096 00000 n 
+0000222428 00000 n 
+0000225558 00000 n 
+0000225693 00000 n 
+0000225728 00000 n 
+0000225763 00000 n 
+0000225798 00000 n 
+0000225833 00000 n 
+0000225868 00000 n 
+0000225903 00000 n 
+0000225938 00000 n 
+0000225973 00000 n 
+0000226008 00000 n 
 trailer
 <<
 /ID 
@@ -5746,5 +5746,5 @@ trailer
 /Size 110
 >>
 startxref
-226102
+226043
 %%EOF

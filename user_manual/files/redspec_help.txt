@@ -1,0 +1,31 @@
+usage: redspec [-h] [--data-path <Source Path>]
+               [--proc-path <Destination Path>]
+               [--search-pattern <Search Pattern>]
+               [--output-prefix <Out Prefix>] [--extraction <Extraction Type>]
+               [--reference-files <Reference Dir>] [--interactive] [--debug]
+               [--log-to-file] [--save-plots] [--plot-results]
+
+Extracts goodman spectra and does wavelength calibration.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --data-path <Source Path>
+                        Path for location of raw data. Default <./>
+  --proc-path <Destination Path>
+                        Path for destination of processed data. Default <./>
+  --search-pattern <Search Pattern>
+                        Pattern for matching the goodman's reduced data.
+  --output-prefix <Out Prefix>
+                        Prefix to add to calibrated spectrum.
+  --extraction <Extraction Type>
+                        Choose a which extraction to perform. Simple is a sum
+                        across the spatial direction after the background has
+                        been removed. Optimal is a more advanced method that
+                        considers weights and profilefitting.
+  --reference-files <Reference Dir>
+                        Directory of Reference files location
+  --interactive         Interactive wavelength solution.Disbled by default.
+  --debug               Debugging Mode
+  --log-to-file         Write log to a file
+  --save-plots          Save all plots in a directory
+  --plot-results        Show wavelength calibrated spectrum at the end.

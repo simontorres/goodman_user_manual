@@ -58,14 +58,14 @@ terminal is ``vim``.
 
 replace all ``<USER>`` appearances by ``goodman``
 
-.. literalinclude:: vncserver-service
+.. literalinclude:: files/vncserver-service
     :linenos:
     :emphasize-lines: 42-43
 
 So lines 42 and 43 will look like this now:
 
 
-.. literalinclude:: vncserver-1.service
+.. literalinclude:: files/vncserver-1.service
     :lines: 42-43
     :lineno-start: 42
 

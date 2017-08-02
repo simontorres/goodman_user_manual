@@ -80,6 +80,8 @@ MacOS X intallation has not been fully tested.
 Install Using Virtual Environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Virtual Environmnet installation has not been fully tested.
+
 .. _Download:
 Downloading the Goodman HTS Spectroscopic Pipeline
 **************************************************

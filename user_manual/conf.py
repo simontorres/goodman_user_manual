@@ -86,7 +86,7 @@ todo_include_todos = True
 
 # -- Options for PDF output ----------------------------------------------
 
-pdf_break_level = 0
+# pdf_break_level = 0
 
 # -- Options for HTML output ----------------------------------------------
 

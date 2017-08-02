@@ -39,6 +39,58 @@ And for ``redspec``
 
 .. literalinclude:: files/redspec_help.txt
 
+Lists of Reference Lamps Available
+**********************************
+
+The automatic wavelength calibration relies on having previously calibrated
+reference lamps obtained in the same configuration or mode. It is also important
+that the lamp names are correct, for instance ``HgAr`` is quite different than
+``HgArNe``. For interactive wavelength calibration, reference lamps are used as
+a visual aid only. It lets you find the matching laboratory lines values that
+will be used to fit a pixel to wavelength relation that we call
+*Wavelength Solution* The list of lamps is the following.
+
+    - ``goodman_comp_400_M1_HgAr.fits``
+
+    - ``goodman_comp_400_M1_HgArNe.fits``
+
+    - ``goodman_comp_400_M2_GG455_HgAr.fits``
+
+    - ``goodman_comp_400_M2_GG455_HgArNe.fits``
+
+    - ``goodman_comp_600-old_BLUE_CuHeAr.fits``
+
+    - ``goodman_comp_600-old_BLUE_HgAr.fits``
+
+    - ``goodman_comp_1200_M2_CuHeAr.fits``
+
+    - ``goodman_comp_1200_M3_CuHeAr.fits``
+
+    - ``goodman_comp_1200_M5_GG455_HgArNe.fits``
+
+
+Adding new reference lamps
+**************************
+
+It is possible to add new lamps very easily you just need a raw lamp that meets
+the following specifications with respect to your science project:
+
+   - Same instrument configuration or mode
+   - Same Grating
+   - Same order blocking filter if present
+   - Same binning
+   - Same lamp/combination that you use in your observations
+   - Smallest slit possible. Equal is OK too.
+
+Then you can use the interactive mode or other software (such as IRAF) to produce
+a wavelength-calibrated 1D spectrum. Now you have to options, identify the
+system folder where the lamps that come with the package are saved and simply
+put it there or put it in another directory and use the argument ``--reference-files``
+
+
+   ``redspec --reference-files /path/to/ref-lamp-location``
+
+Or send it to me and I will make it available as a package filea.
 
 .. _`Using Pipeline`:
 
@@ -95,7 +147,7 @@ Running the Pipeline
 3. Here you have a workspace to put your data according to your institution.
 
    .. image:: img/screenshot_1.png
-       :width: 200px
+       :width: 1200px
 
 4. Create a data folder inside your workspace.
 

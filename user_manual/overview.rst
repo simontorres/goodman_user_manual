@@ -30,7 +30,7 @@ carries out the following steps:
 - Create a new file for the wavelength calibrated 1D spectrum
 
 Features
-########
+********
 - Self-contained, full data reduction package for the most commonly used
   spectroscopic setups with Goodman.  Given the almost limitless number of
   possible configurations avaliable with the Goodman instrument, only the most
@@ -44,7 +44,7 @@ Features
 
 
 Ways to run the pipeline
-########################
+************************
 There are two ways to use the pipeline.
 
 1. **Run it directly on a SOAR data reduction server** that you can access
@@ -55,7 +55,7 @@ There are two ways to use the pipeline.
    installation issues, we cannot provide general installation support.
 
 What the pipeline does not do
-#############################
+*****************************
 - In its current version the pipeline does not perform combination of individual
   spectra. If you obtained several individual exposures of the same object, they
   will be output as separate 1-D, wavelength-calibrated spectra

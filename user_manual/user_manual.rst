@@ -15,18 +15,4 @@ computers.
 
 
 
-Importing Parts of the Code
-###########################
-
-You can import almost every function in this pipeline:
-
-.. code-block:: python
-    :linenos:
-
-    from goodman_ccd.core import spectroscopic_extraction
-    # do some stuff here
-    print('Hello World')
-
-
-
 

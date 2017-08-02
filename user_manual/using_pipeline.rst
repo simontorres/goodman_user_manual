@@ -13,18 +13,18 @@ run both sequentially from e.g. a shell script.
 
 In order to facilitate things you should organize your data:
 
- 1. Make sure all the data in your folder corresponds to the same binning,
-    readout mode, region of interest (ROI), and grating/wavelength mode
-    combination.
- 2. You should have bias, flats (quartz or dome flats), and the appropriate
-    comparison lamps. Other files like acquisition images, slit images and focus
-    images should be deleted.
- 3. Do not mix dome flats with quartz lamp flats. As an example, suppose I took
-    both quartz lamps and dome flats for my targets. I could create two folders,
-    one with the science data and the dome flats, and another with the same
-    science data and the quartz lamps. Then, if I run the pipeline in each
-    folder I can compare the results and decide which type of flat works best
-    for my particular case.
+1. Make sure all the data in your folder corresponds to the same binning,
+   readout mode, region of interest (ROI), and grating/wavelength mode
+   combination.
+2. You should have bias, flats (quartz or dome flats), and the appropriate
+   comparison lamps. Other files like acquisition images, slit images and focus
+   images should be deleted.
+3. Do not mix dome flats with quartz lamp flats. As an example, suppose I took
+   both quartz lamps and dome flats for my targets. I could create two folders,
+   one with the science data and the dome flats, and another with the same
+   science data and the quartz lamps. Then, if I run the pipeline in each
+   folder I can compare the results and decide which type of flat works best
+   for my particular case.
 
 Command line arguments
 **********************
@@ -95,7 +95,7 @@ Running the Pipeline
 3. Here you have a workspace to put your data according to your institution.
 
    .. image:: img/screenshot_1.png
-       :width: 1200px
+       :width: 200px
 
 4. Create a data folder inside your workspace.
 
@@ -154,7 +154,7 @@ Running the Pipeline
 
 8. Run ``redspec``:
 
-   By default ``redspec`` will search for images with the prefix ``cfzsto`` in case
+   By default ``redspec`` will search for images with the prefix ``cfzsto``, in case
    you have produced a different prefix you can change it by using ``--search-pattern``
 
    You can just run ``redspec`` in case everything is the default but if this is
@@ -171,3 +171,5 @@ Troubleshooting
 
 - The wavelength Solutions is way off: Check that the lamp was correctly
   registered in the header. Also check that the corresponding reference lamp exist.
+  for instance is not the same to have ``HgArNe`` to ``HgAr``
+- Can't detect any objects: Check that the keyword ``OBSTYPE`` is correct.

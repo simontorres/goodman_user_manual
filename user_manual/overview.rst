@@ -47,12 +47,12 @@ Ways to run the pipeline
 ########################
 There are two ways to use the pipeline.
 
-  1. **Run it directly on a SOAR data reduction server** that you can access
-     using VNC.
+1. **Run it directly on a SOAR data reduction server** that you can access
+   using VNC.
 
-  2. **Download and install the pipeline** (go to the Install_ section of this
-     manual). Though we will try our best to provide answers to quick and simple
-     installation issues, we cannot provide general installation support.
+2. **Download and install the pipeline** (go to the Install_ section of this
+   manual). Though we will try our best to provide answers to quick and simple
+   installation issues, we cannot provide general installation support.
 
 What the pipeline does not do
 #############################

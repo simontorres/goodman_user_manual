@@ -1,30 +1,39 @@
-usage: redccd [-h] [--cosmic] [--ignore-bias] [--ignore-flats] [--auto-clean]
-              [--saturation <Value>] [--raw-path raw_path]
-              [--red-path red_path] [--debug] [--log-to-file]
-              [--flat-normalize <Normalization Method>]
-              [--flat-norm-order <Order>] [--dcr-par-dir <dcr.par directory>]
-              [--keep-cosmic-files]
+usage: redccd [-h] [--auto-clean] [--cosmic <method>]
+              [--dcr-par-dir <dcr.par_directory>] [--debug]
+              [--flat-normalize <normalization_method>]
+              [--flat-norm-order <order>] [--ignore-bias] [--ignore-flats]
+              [--keep-cosmic-files] [--log-file <log_file>]
+              [--raw-path <raw_path>] [--red-path <red_path>]
+              [--saturation <value>]
 
-Goodman CCD Reduction - CCDreductions for Goodman spectroscopic data
+Goodman CCD Reduction - CCD reductions for Goodman spectroscopic data.
 
 optional arguments:
   -h, --help            show this help message and exit
-  --cosmic              Clean cosmic rays from science data.
-  --ignore-bias         Ignore bias correction
-  --ignore-flats        Ignore flat field correction
   --auto-clean          Automatically clean reduced data directory
-  --saturation <Value>  Saturation limit. Default to 55.000 ADU (counts)
-  --raw-path raw_path   Path to raw data.
-  --red-path red_path   Path to reduced data.
+  --cosmic <method>     Clean cosmic rays from all data. Options are: 'dcr',
+                        'lacosmic' or 'none'. Default is 'dcr'. See manual for
+                        full description of dcr.
+  --dcr-par-dir <dcr.par_directory>
+                        Directory of default dcr.par file
   --debug               Show detailed information of the process.
-  --log-to-file         Write log to a file.
-  --flat-normalize <Normalization Method>
+  --flat-normalize <normalization_method>
                         Choose a method to normalize the master flat
                         forspectroscoy. Choices are: mean, simple (model) and
                         full (fits model to each line).
-  --flat-norm-order <Order>
-                        Defines the order of the model to be fitted.
-  --dcr-par-dir <dcr.par directory>
-                        Directory of default dcr.par file.
+  --flat-norm-order <order>
+                        Defines the order of the model to be fitted. Default
+                        to 15
+  --ignore-bias         Ignore bias correction
+  --ignore-flats        Ignore flat field correction
   --keep-cosmic-files   After cleaning cosmic rays with dcr, do not remove the
                         input file and the cosmic rays file.
+  --log-file <log_file>
+                        Name for log file. Default name is goodman_ccd.log.
+                        The file is written in <red_path> and will be deleted
+                        each time you run this program
+  --raw-path <raw_path>
+                        Path to raw data.
+  --red-path <red_path>
+                        Path to reduced data.
+  --saturation <value>  Saturation limit. Default to 65.000 ADU (counts)

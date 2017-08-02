@@ -3,7 +3,8 @@ usage: redspec [-h] [--data-path <Source Path>]
                [--search-pattern <Search Pattern>]
                [--output-prefix <Out Prefix>] [--extraction <Extraction Type>]
                [--reference-files <Reference Dir>] [--interactive] [--debug]
-               [--log-to-file] [--save-plots] [--plot-results]
+               [--log-to-file] [--max-targets <max targets>] [--save-plots]
+               [--plot-results]
 
 Extracts goodman spectra and does wavelength calibration.
 
@@ -27,5 +28,8 @@ optional arguments:
   --interactive         Interactive wavelength solution.Disbled by default.
   --debug               Debugging Mode
   --log-to-file         Write log to a file
+  --max-targets <max targets>
+                        Maximum number of targets to be found in a single
+                        image. Default 3
   --save-plots          Save all plots in a directory
   --plot-results        Show wavelength calibrated spectrum at the end.

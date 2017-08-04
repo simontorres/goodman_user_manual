@@ -13,7 +13,9 @@ The pipeline is primarily intended to be run on a data reduction dedicated
 computer. Instructions for running the software are provided in the
 `Using Pipeline`_ section of this guide.
 The Goodman Spectroscopic Data Reduction Pipeline project is hosted at GitHub at
-`this link <https://github.com/soar-telescope/goodman>`_.
+`it's GitHub Repository <https://github.com/soar-telescope/goodman>`_.
+
+
 Currently the pipeline is separated into two main components. The initial
 processing is done by ``redccd``, which trims the images, and carries out bias
 and flat corrections. The spectroscopic processing is done by ``redspec`` and
@@ -22,7 +24,7 @@ carries out the following steps:
 - Identifies multiple targets (spectra of more than one object in the slit)
 - Trace the spectra
 - Extract the spectra
-- Do background subtraction
+- Estimate and subtract background
 - Find the wavelength solution. Defaults to automatic wavelength solution, but
   can be done interactively
 - Linearize data (resample)
@@ -54,6 +56,11 @@ There are two ways to use the pipeline.
    manual). Though we will try our best to provide answers to quick and simple
    installation issues, we cannot provide general installation support.
 
+
+.. raw:: pdf
+
+  Spacer 0 100
+
 What the pipeline does not do
 *****************************
 - In its current version the pipeline does not perform combination of individual
@@ -62,7 +69,7 @@ What the pipeline does not do
 
 - There is yet no flux calibration. We are working on a module that will do this.
 
-- The pipeline does not do miracles. If your have saturated flats, or your flats
-  were taken with a different slit than your science frames, or you have no bias
-  frames, the pipeline will fail.
+- This pipeline does not evaluate nor select data by quality. It will simply try
+  to run using all existing files. **Make sure you only have good data in the
+  folder that will be reduced**.
 

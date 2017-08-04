@@ -10,6 +10,11 @@ be sumarized in the following steps:
 - Install prerequisites_
 - :ref:`Install <general-installation>` the pipeline
 
+It is very important to note that this pipeline has been developed using
+*Python 2.7*, although we have done it in a way that would allow a smooth
+transition to *Python 3.5* we haven't tested it neither are we planning to do it
+in the near future.
+
 .. _prerequisites:
 Install Dependencies
 ********************
@@ -23,10 +28,6 @@ installing them is very easy. But it has to be done later on.
 .. _`ubuntu install`:
 Ubuntu 16.04
 ^^^^^^^^^^^^
-
-First install ``git`` that will let you clone the repository from GitHub.
-
-    ``sudo apt-get install git``
 
 Some other python-specific tools, if you already run python code most likely you
 already have them.
@@ -43,11 +44,8 @@ platform compatible backend.
 .. _`centos install`:
 CentOS 7
 ^^^^^^^^
-Install ``git`` if you don't have it already.
 
-    ``sudo yum install git``
-
-Then you need to install the ``EPEL repository``
+Start by installing the ``EPEL repository``
 
     ``sudo yum -y install epel-release``
 
@@ -55,7 +53,7 @@ Update the database with
 
     ``sudo yum -y update``
 
-This takes a while
+This takes a while...
 
 Install pip
 
@@ -74,7 +72,7 @@ Install python-devel
 Installing on MacOSX
 ^^^^^^^^^^^^^^^^^^^^
 
-MacOS X intallation has not been fully tested.
+MacOS X installation has not been fully tested.
 
 .. _`virtuenvinstall`:
 Install Using Virtual Environments
@@ -88,12 +86,7 @@ Downloading the Goodman HTS Spectroscopic Pipeline
 In order to get the code for the pipeline there a many options, our suggestion
 is to download the official release ``tar.gz`` file
 
-Also you can clone it from `GitHub <https://github.com/soar-telescope/goodman>`_
-
-    ``git clone https://github.com/soar-telescope/goodman.git``
-
-Although we will not provide support.
-
+https://github.com/soar-telescope/goodman/blob/master/dist/goodman-1.0b1.tar.gz
 
 .. _`general-installation`:
 Installing the Pipeline
@@ -122,7 +115,7 @@ LACosmic was not designed to work with spectroscopy though.
 
 Visit this `Link <http://users.camk.edu.pl/pych/DCR/>`_ to download the code and
 find the instructions for compiling. I have added a few pre-compiled binaries
-and if you are lucky they will work right way. The available binaries are
+and if you are lucky they will work right away. The available binaries are
 located in ``goodman/dcr`` and the options are:
 
   - dcr.Ubuntu16.04

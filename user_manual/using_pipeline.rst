@@ -11,7 +11,7 @@ The pipeline is run from the command line in a terminal window. Each module is
 run separately, first ``redccd`` followed by ``redspec``, however, you could
 run both sequentially from e.g. a shell script.
 
-In order to facilitate things you should organize your data:
+In order to make things easier you should organize your data:
 
 1. Make sure all the data in your folder corresponds to the same binning,
    readout mode, region of interest (ROI), and grating/wavelength mode
@@ -50,23 +50,27 @@ a visual aid only. It lets you find the matching laboratory lines values that
 will be used to fit a pixel to wavelength relation that we call
 *Wavelength Solution* The list of lamps is the following.
 
-    - ``goodman_comp_400_M1_HgAr.fits``
-
-    - ``goodman_comp_400_M1_HgArNe.fits``
-
-    - ``goodman_comp_400_M2_GG455_HgAr.fits``
-
-    - ``goodman_comp_400_M2_GG455_HgArNe.fits``
-
-    - ``goodman_comp_600-old_BLUE_CuHeAr.fits``
-
-    - ``goodman_comp_600-old_BLUE_HgAr.fits``
-
-    - ``goodman_comp_1200_M2_CuHeAr.fits``
-
-    - ``goodman_comp_1200_M3_CuHeAr.fits``
-
-    - ``goodman_comp_1200_M5_GG455_HgArNe.fits``
+   +---------+------+--------+--------+
+   | Grating | Mode | Filter |  Lamp  |
+   +=========+======+========+========+
+   |   400   |  M1  | None   | HgAr   |
+   +---------+------+--------+--------+
+   |   400   |  M1  | None   | HgArNe |
+   +---------+------+--------+--------+
+   |   400   |  M2  | GG455  | HgAr   |
+   +---------+------+--------+--------+
+   |   400   |  M2  | GG455  | HgArNe |
+   +---------+------+--------+--------+
+   | 600-old | Blue | None   | HgAr   |
+   +---------+------+--------+--------+
+   | 600-old | Blue | None   | CuHeAr |
+   +---------+------+--------+--------+
+   |  1200   |  M2  | None   | CuHeAr |
+   +---------+------+--------+--------+
+   |  1200   |  M3  | None   | CuHeAr |
+   +---------+------+--------+--------+
+   |  1200   |  M5  | GG455  | CuHeAr |
+   +---------+------+--------+--------+
 
 
 Adding new reference lamps
@@ -120,7 +124,7 @@ Open a terminal, and assuming you have installed ``vncviewer``.
 
     ``vncviewer vnc-server:1``
 
-You will be asked to type in the *password* provided above.
+You will be asked to type in the *password* provided.
 
 VNC using a Graphical Client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

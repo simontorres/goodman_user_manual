@@ -72,13 +72,15 @@ Install python-devel
 Installing on MacOSX
 ^^^^^^^^^^^^^^^^^^^^
 
-MacOS X installation has not been fully tested.
+Although I have succesfully run the pipeline in two separated MacOS X machines
+the installation process was a bit tricky and has not been fully tested. I plan
+to update this section in the next weeks.
 
 .. _`virtuenvinstall`:
 Install Using Virtual Environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Virtual Environmnet installation has not been fully tested.
+Virtual Environment installation has not been fully tested.
 
 .. _Download:
 Downloading the Goodman HTS Spectroscopic Pipeline

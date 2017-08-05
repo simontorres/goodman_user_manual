@@ -110,8 +110,27 @@ connection.
 
 Establish a VNC connection
 **************************
+Separately, you should receive a server hostname, IP, port and VNC-password. If
+you don't you can ask for it. We have decided to use a similar organization of
+vnc desktops:
+
+.. table:: VNC ports and working folder assigned to each partner.
+   :align: center
+   :widths: auto
+
+
+   ========= ===================== ====================================
+      Port    Partner/Institution     Folder
+   ========= ===================== ====================================
+       :1      NOAO                  ``/home/goodman/data/NOAO``
+       :2      Brazil                ``/home/goodman/data/BRAZIL``
+       :3      UNC                   ``/home/goodman/data/UNC``
+       :4      MSU                   ``/home/goodman/data/MSU``
+       :5      Chile                 ``/home/goodman/data/CHILE``
+   ========= ===================== ====================================
+
 For the rest of this tutorial we will assume your host name is ``vnc-server``
-the display is ``1`` and your password is ``password``.
+the port is ``1`` and your password is ``password``.
 Though we recommend using RealVNC, most other VNC clients will work fine (e.g.,
 Remmina in Linux). For GNU/Linux and Mac OSX machines we suggest the RealVNC
 Viewer client. For Windows machines, we suggest either the RealVNC Viewer client
@@ -130,8 +149,8 @@ VNC using a Graphical Client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Using a graphical VNC client is quite similar and intuitive
 
-.. image:: img/realvnc.png
-    :width: 1200px
+.. image:: img/realvnc1.png
+    :width: 1300px
 .. image:: img/realvnc_login.png
     :width: 800px
 
@@ -203,10 +222,25 @@ Running the Pipeline
    have the new name (including the reduced data folder):
    
        ``cfzsto_image_file.fits``
-   
-   Where ``c`` stands for *cosmic ray rejected*,  ``f`` for flatfielded, ``z``
-   for zero or bias corrected, ``s`` for slit trimmed, ``t`` for trimmed and ``o``
-   for overscan corrected.
+
+   The meaning of every letter in ``cfzsto`` is summarized in the following table:
+
+   +--------+-----------------------------------------------------------------------+
+   | Letter | Meaning                                                               |
+   +========+=======================================================================+
+   |    c   | Cosmic ray cleaned or mask created depending on the method            |
+   +--------+-----------------------------------------------------------------------+
+   |    f   | Flat corrected                                                        |
+   +--------+-----------------------------------------------------------------------+
+   |    z   | Zero or Bias corrected                                                |
+   +--------+-----------------------------------------------------------------------+
+   |    s   | Slit trimmed, trims off the non-illuminated sections of the detector  |
+   +--------+-----------------------------------------------------------------------+
+   |    t   | Initial Image trimming                                                |
+   +--------+-----------------------------------------------------------------------+
+   |    o   | Overscan corrected                                                    |
+   +--------+-----------------------------------------------------------------------+
+
 
 8. Run ``redspec``:
 
@@ -221,6 +255,11 @@ Running the Pipeline
    In that way two important plots will be shown full screen, the comparison lamp
    fitted to a reference comparison lamp and some values for the wavelength solution
    fit and the extracted spectrum plotted with the wavelength solution.
+
+   The final image has a ``g`` added to the start of the name, following the
+   above example your final 1D and wavelength calibrated image will be named:
+
+      ``gcfzsto_image_file.fits``
 
 Troubleshooting
 ***************

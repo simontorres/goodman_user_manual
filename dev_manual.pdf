@@ -751,7 +751,7 @@ endobj
 endobj
 124 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f59057297e8> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f59057297e8> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7ff2f099eab8> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7ff2f099eab8> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -959,7 +959,7 @@ endobj
 endobj
 164 0 obj
 <<
-/Length 906
+/Length 908
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1006,7 +1006,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 07, 2017) Tj T* -221.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 213.924 0 Td (August 08, 2017) Tj T* -213.924 0 Td ET
 Q
 Q
 q
@@ -2271,7 +2271,7 @@ endstream
 endobj
 170 0 obj
 <<
-/Length 12377
+/Length 12657
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2308,6 +2308,8 @@ q
 n -4 0 478 330 re B*
 Q
 q
+.933333 1 .8 rg
+n 132 300 6 12 re f*
 .933333 1 .8 rg
 n 120 276 18 12 re f*
 .933333 1 .8 rg
@@ -2371,7 +2373,11 @@ n 78 60 6 12 re f*
 .933333 1 .8 rg
 n 90 60 6 12 re f*
 .933333 1 .8 rg
+n 114 36 6 12 re f*
+.933333 1 .8 rg
 n 108 24 6 12 re f*
+.933333 1 .8 rg
+n 114 24 6 12 re f*
 .933333 1 .8 rg
 n 132 24 6 12 re f*
 .933333 1 .8 rg
@@ -2382,7 +2388,7 @@ n 138 0 6 12 re f*
 n 150 0 6 12 re f*
 .933333 1 .8 rg
 n 162 0 6 12 re f*
-BT 1 0 0 1 0 314 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ sphinx-quickstart) Tj T* (Welcome to the Sphinx 1.4.5 quickstart utility.) Tj T*  T* (Please enter values ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the following settings ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (just press Enter to) Tj T* (accept a default value, ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( one is given in brackets) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (.) Tj T*  T* (Enter the root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( documentation.) Tj T* (>) Tj ( Root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the documentation ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (.) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: docs) Tj T*  T* (You have two options ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( placing the build directory ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( Sphinx output.) Tj T* (Either, you use a directory ) Tj .729412 .129412 .129412 rg ("_build") Tj 0 0 0 rg ( within the root path, or you separate) Tj T* .729412 .129412 .129412 rg ("source") Tj 0 0 0 rg ( and ) Tj .729412 .129412 .129412 rg ("build") Tj 0 0 0 rg ( directories within the root path.) Tj T* (>) Tj ( Separate ) Tj 0 .439216 .12549 rg (source) Tj 0 0 0 rg ( and build directories ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (n) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: y) Tj T*  T* (Inside the root directory, two more directories will be created) Tj 0 0 0 rg (;) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("_templates") Tj 0 0 0 rg  T* /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom HTML templates and ) Tj .729412 .129412 .129412 rg ("_static") Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom stylesheets and other static) Tj T* (files. You can enter another prefix ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (such as ) Tj .729412 .129412 .129412 rg (".") Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( to replace the underscore.) Tj T* (>) Tj ( Name prefix ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( templates and static dir ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (_) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T*  T* (The project name will occur in several places in the built documentation.) Tj T* (>) Tj ( Project name: MyProject) Tj T* (>) Tj ( Author name) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (s) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (: The Author) Tj T* (...) Tj T* (>) Tj ( Project version: 1.0) Tj T* (>) Tj ( Project release ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (1.0) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* (...) Tj T* (>) Tj ( Create Makefile? ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (y) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 314 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ sphinx-quickstart) Tj T* (Welcome to the Sphinx ) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.4.5 quickstart utility.) Tj T*  T* (Please enter values ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the following settings ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (just press Enter to) Tj T* (accept a default value, ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( one is given in brackets) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (.) Tj T*  T* (Enter the root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( documentation.) Tj T* (>) Tj ( Root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the documentation ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (.) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: docs) Tj T*  T* (You have two options ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( placing the build directory ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( Sphinx output.) Tj T* (Either, you use a directory ) Tj .729412 .129412 .129412 rg ("_build") Tj 0 0 0 rg ( within the root path, or you separate) Tj T* .729412 .129412 .129412 rg ("source") Tj 0 0 0 rg ( and ) Tj .729412 .129412 .129412 rg ("build") Tj 0 0 0 rg ( directories within the root path.) Tj T* (>) Tj ( Separate ) Tj 0 .439216 .12549 rg (source) Tj 0 0 0 rg ( and build directories ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (n) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: y) Tj T*  T* (Inside the root directory, two more directories will be created) Tj 0 0 0 rg (;) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("_templates") Tj 0 0 0 rg  T* /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom HTML templates and ) Tj .729412 .129412 .129412 rg ("_static") Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom stylesheets and other static) Tj T* (files. You can enter another prefix ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (such as ) Tj .729412 .129412 .129412 rg (".") Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( to replace the underscore.) Tj T* (>) Tj ( Name prefix ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( templates and static dir ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (_) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T*  T* (The project name will occur in several places in the built documentation.) Tj T* (>) Tj ( Project name: MyProject) Tj T* (>) Tj ( Author name) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (s) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (: The Author) Tj T* (...) Tj T* (>) Tj ( Project version: ) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.0) Tj T* (>) Tj ( Project release ) Tj .188235 .188235 .188235 rg ([) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.0) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* (...) Tj T* (>) Tj ( Create Makefile? ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (y) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 Q
@@ -5858,38 +5864,38 @@ xref
 0000753554 00000 n 
 0000753677 00000 n 
 0000753854 00000 n 
-0000754812 00000 n 
-0000754938 00000 n 
-0000764507 00000 n 
-0000764633 00000 n 
-0000772338 00000 n 
-0000780097 00000 n 
-0000792528 00000 n 
-0000800668 00000 n 
-0000807684 00000 n 
-0000815837 00000 n 
-0000824059 00000 n 
-0000832770 00000 n 
-0000841079 00000 n 
-0000845983 00000 n 
-0000847952 00000 n 
-0000853954 00000 n 
-0000854162 00000 n 
-0000854197 00000 n 
-0000854232 00000 n 
-0000854267 00000 n 
-0000854302 00000 n 
-0000854337 00000 n 
-0000854372 00000 n 
-0000854407 00000 n 
-0000854442 00000 n 
-0000854477 00000 n 
-0000854512 00000 n 
-0000854547 00000 n 
-0000854582 00000 n 
-0000854617 00000 n 
-0000854653 00000 n 
+0000754814 00000 n 
+0000754940 00000 n 
+0000764509 00000 n 
+0000764635 00000 n 
+0000772340 00000 n 
+0000780099 00000 n 
+0000792810 00000 n 
+0000800950 00000 n 
+0000807966 00000 n 
+0000816119 00000 n 
+0000824341 00000 n 
+0000833052 00000 n 
+0000841361 00000 n 
+0000846265 00000 n 
+0000848234 00000 n 
+0000854236 00000 n 
+0000854444 00000 n 
+0000854479 00000 n 
+0000854514 00000 n 
+0000854549 00000 n 
+0000854584 00000 n 
+0000854619 00000 n 
+0000854654 00000 n 
 0000854689 00000 n 
+0000854724 00000 n 
+0000854759 00000 n 
+0000854794 00000 n 
+0000854829 00000 n 
+0000854864 00000 n 
+0000854899 00000 n 
+0000854935 00000 n 
+0000854971 00000 n 
 trailer
 <<
 /ID 
@@ -5901,7 +5907,7 @@ trailer
 /Size 197
 >>
 startxref
-854725
+855007
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -6656,7 +6662,7 @@ endobj
 endobj
 124 0 obj
 <<
-/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f5904dea9e0> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7f5904dea9e0> /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7ff2f08c15f0> /Creator (\(unspecified\)) /Keywords () /ModDate <rst2pdf.createpdf.PDFDate instance at 0x7ff2f08c15f0> /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -6864,7 +6870,7 @@ endobj
 endobj
 164 0 obj
 <<
-/Length 906
+/Length 908
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6911,7 +6917,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 221.934 0 Td (July 07, 2017) Tj T* -221.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 213.924 0 Td (August 08, 2017) Tj T* -213.924 0 Td ET
 Q
 Q
 q
@@ -8176,7 +8182,7 @@ endstream
 endobj
 170 0 obj
 <<
-/Length 12377
+/Length 12657
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -8213,6 +8219,8 @@ q
 n -4 0 478 330 re B*
 Q
 q
+.933333 1 .8 rg
+n 132 300 6 12 re f*
 .933333 1 .8 rg
 n 120 276 18 12 re f*
 .933333 1 .8 rg
@@ -8276,7 +8284,11 @@ n 78 60 6 12 re f*
 .933333 1 .8 rg
 n 90 60 6 12 re f*
 .933333 1 .8 rg
+n 114 36 6 12 re f*
+.933333 1 .8 rg
 n 108 24 6 12 re f*
+.933333 1 .8 rg
+n 114 24 6 12 re f*
 .933333 1 .8 rg
 n 132 24 6 12 re f*
 .933333 1 .8 rg
@@ -8287,7 +8299,7 @@ n 138 0 6 12 re f*
 n 150 0 6 12 re f*
 .933333 1 .8 rg
 n 162 0 6 12 re f*
-BT 1 0 0 1 0 314 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ sphinx-quickstart) Tj T* (Welcome to the Sphinx 1.4.5 quickstart utility.) Tj T*  T* (Please enter values ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the following settings ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (just press Enter to) Tj T* (accept a default value, ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( one is given in brackets) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (.) Tj T*  T* (Enter the root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( documentation.) Tj T* (>) Tj ( Root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the documentation ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (.) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: docs) Tj T*  T* (You have two options ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( placing the build directory ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( Sphinx output.) Tj T* (Either, you use a directory ) Tj .729412 .129412 .129412 rg ("_build") Tj 0 0 0 rg ( within the root path, or you separate) Tj T* .729412 .129412 .129412 rg ("source") Tj 0 0 0 rg ( and ) Tj .729412 .129412 .129412 rg ("build") Tj 0 0 0 rg ( directories within the root path.) Tj T* (>) Tj ( Separate ) Tj 0 .439216 .12549 rg (source) Tj 0 0 0 rg ( and build directories ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (n) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: y) Tj T*  T* (Inside the root directory, two more directories will be created) Tj 0 0 0 rg (;) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("_templates") Tj 0 0 0 rg  T* /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom HTML templates and ) Tj .729412 .129412 .129412 rg ("_static") Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom stylesheets and other static) Tj T* (files. You can enter another prefix ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (such as ) Tj .729412 .129412 .129412 rg (".") Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( to replace the underscore.) Tj T* (>) Tj ( Name prefix ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( templates and static dir ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (_) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T*  T* (The project name will occur in several places in the built documentation.) Tj T* (>) Tj ( Project name: MyProject) Tj T* (>) Tj ( Author name) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (s) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (: The Author) Tj T* (...) Tj T* (>) Tj ( Project version: 1.0) Tj T* (>) Tj ( Project release ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (1.0) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* (...) Tj T* (>) Tj ( Create Makefile? ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (y) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 314 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ sphinx-quickstart) Tj T* (Welcome to the Sphinx ) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.4.5 quickstart utility.) Tj T*  T* (Please enter values ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the following settings ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (just press Enter to) Tj T* (accept a default value, ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( one is given in brackets) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (.) Tj T*  T* (Enter the root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( documentation.) Tj T* (>) Tj ( Root path ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( the documentation ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (.) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: docs) Tj T*  T* (You have two options ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( placing the build directory ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( Sphinx output.) Tj T* (Either, you use a directory ) Tj .729412 .129412 .129412 rg ("_build") Tj 0 0 0 rg ( within the root path, or you separate) Tj T* .729412 .129412 .129412 rg ("source") Tj 0 0 0 rg ( and ) Tj .729412 .129412 .129412 rg ("build") Tj 0 0 0 rg ( directories within the root path.) Tj T* (>) Tj ( Separate ) Tj 0 .439216 .12549 rg (source) Tj 0 0 0 rg ( and build directories ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (n) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (: y) Tj T*  T* (Inside the root directory, two more directories will be created) Tj 0 0 0 rg (;) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("_templates") Tj 0 0 0 rg  T* /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom HTML templates and ) Tj .729412 .129412 .129412 rg ("_static") Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( custom stylesheets and other static) Tj T* (files. You can enter another prefix ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (such as ) Tj .729412 .129412 .129412 rg (".") Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( to replace the underscore.) Tj T* (>) Tj ( Name prefix ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F3 10 Tf 0 0 0 rg ( templates and static dir ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (_) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T*  T* (The project name will occur in several places in the built documentation.) Tj T* (>) Tj ( Project name: MyProject) Tj T* (>) Tj ( Author name) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (s) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg (: The Author) Tj T* (...) Tj T* (>) Tj ( Project version: ) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.0) Tj T* (>) Tj ( Project release ) Tj .188235 .188235 .188235 rg ([) Tj /F6 10 Tf .376471 0 .878431 rg (1) Tj /F3 10 Tf 0 0 0 rg (.0) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* (...) Tj T* (>) Tj ( Create Makefile? ) Tj .188235 .188235 .188235 rg (\() Tj 0 0 0 rg (y/n) Tj .188235 .188235 .188235 rg (\)) Tj 0 0 0 rg ( ) Tj .188235 .188235 .188235 rg ([) Tj 0 0 0 rg (y) Tj .188235 .188235 .188235 rg (]) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 Q
@@ -11763,38 +11775,38 @@ xref
 0000753554 00000 n 
 0000753677 00000 n 
 0000753854 00000 n 
-0000754812 00000 n 
-0000754938 00000 n 
-0000764507 00000 n 
-0000764633 00000 n 
-0000772338 00000 n 
-0000780097 00000 n 
-0000792528 00000 n 
-0000800668 00000 n 
-0000807684 00000 n 
-0000815837 00000 n 
-0000824059 00000 n 
-0000832980 00000 n 
-0000841256 00000 n 
-0000845983 00000 n 
-0000848160 00000 n 
-0000853952 00000 n 
-0000854160 00000 n 
-0000854195 00000 n 
-0000854230 00000 n 
-0000854265 00000 n 
-0000854300 00000 n 
-0000854335 00000 n 
-0000854370 00000 n 
-0000854405 00000 n 
-0000854440 00000 n 
-0000854475 00000 n 
-0000854510 00000 n 
-0000854545 00000 n 
-0000854580 00000 n 
-0000854615 00000 n 
-0000854651 00000 n 
+0000754814 00000 n 
+0000754940 00000 n 
+0000764509 00000 n 
+0000764635 00000 n 
+0000772340 00000 n 
+0000780099 00000 n 
+0000792810 00000 n 
+0000800950 00000 n 
+0000807966 00000 n 
+0000816119 00000 n 
+0000824341 00000 n 
+0000833262 00000 n 
+0000841538 00000 n 
+0000846265 00000 n 
+0000848442 00000 n 
+0000854234 00000 n 
+0000854442 00000 n 
+0000854477 00000 n 
+0000854512 00000 n 
+0000854547 00000 n 
+0000854582 00000 n 
+0000854617 00000 n 
+0000854652 00000 n 
 0000854687 00000 n 
+0000854722 00000 n 
+0000854757 00000 n 
+0000854792 00000 n 
+0000854827 00000 n 
+0000854862 00000 n 
+0000854897 00000 n 
+0000854933 00000 n 
+0000854969 00000 n 
 trailer
 <<
 /ID 
@@ -11806,5 +11818,5 @@ trailer
 /Size 197
 >>
 startxref
-854723
+855005
 %%EOF

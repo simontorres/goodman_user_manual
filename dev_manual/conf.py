@@ -38,7 +38,7 @@ extensions = ['sphinx.ext.todo',
 pdf_documents = [('dev_manual',
                   u'dev_manual',
                   u'Goodman HTS Pipeline Developer Manual',
-                  u'Simón Torres, Cesar Briceno and Bruno Quint'), ]
+                  u'Simón Torres, Bruno Quint and César Briceño'), ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

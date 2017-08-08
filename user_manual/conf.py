@@ -54,8 +54,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Goodman HTS Pipeline User Manual'
-copyright = u'2017, Simon Torres R.'
-author = u'Simon Torres R.'
+copyright = u'2017, Simón Torres R.'
+author = u'Simón Torres R.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

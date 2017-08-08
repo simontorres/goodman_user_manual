@@ -39,6 +39,10 @@ And for ``redspec``
 
 .. literalinclude:: files/redspec_help.txt
 
+.. raw:: pdf
+
+    PageBreak
+
 Lists of Reference Lamps Available
 **********************************
 

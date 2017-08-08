@@ -19,11 +19,11 @@ In order to make things easier you should organize your data:
 2. You should have bias, flats (quartz or dome flats), and the appropriate
    comparison lamps. Other files like acquisition images, slit images and focus
    images should be deleted.
-3. Do not mix dome flats with quartz lamp flats. As an example, suppose I took
-   both quartz lamps and dome flats for my targets. I could create two folders,
+3. Do not mix dome flats with quartz lamp flats. As an example, suppose you took
+   both quartz lamps and dome flats for your targets. You could create two folders,
    one with the science data and the dome flats, and another with the same
-   science data and the quartz lamps. Then, if I run the pipeline in each
-   folder I can compare the results and decide which type of flat works best
+   science data and the quartz lamps. Then, if you run the pipeline in each
+   folder you can compare the results and decide which type of flat works best
    for my particular case.
 
 Command line arguments
@@ -98,7 +98,12 @@ put it there or put it in another directory and use the argument ``--reference-f
 
    ``redspec --reference-files /path/to/ref-lamp-location``
 
-Or send it to me and I will make it available as a package filea.
+Or contact ``storres [at] ctio [dot] noao [dot] edu``  and we will make it
+available as a package file.
+
+.. raw:: pdf
+
+    PageBreak
 
 .. _`Using Pipeline`:
 
@@ -204,7 +209,7 @@ Running the Pipeline
 
 7. Run ``redccd``:
 
-   For ``redccd`` I suggest using ``--cosmic`` and ``auto-clean`` also you might
+   For ``redccd`` we suggest using ``--cosmic`` and ``auto-clean`` also you might
    want to consider ``--saturation <new value>`` to change the saturation level
    if you get all your flats rejected due to saturation. Sometimes there is a
    hot column at the end that produced very high values.
@@ -252,7 +257,7 @@ Running the Pipeline
    you have produced a different prefix you can change it by using ``--search-pattern``
 
    You can just run ``redspec`` in case everything is the default but if this is
-   the first time you run the pipeline I suggest:
+   the first time you run the pipeline we suggest:
 
        ``redspec --plot-results``
 

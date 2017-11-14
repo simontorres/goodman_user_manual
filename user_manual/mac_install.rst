@@ -1,10 +1,5 @@
-MacOS X Install
-###############
 
 .. warning::
-    MacOS installation hasn't been completed
+    MacOS installation requires to be installed using
+    `Virtual Environment <virtuenvinstall>`_
 
-``brew install cartr/qt4/pyqt``
-
-
-DCR to ``/usr/local/bin``

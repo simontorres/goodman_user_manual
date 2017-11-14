@@ -68,19 +68,21 @@ Install python-devel
     ``sudo yum install python-devel``
 
 
-.. _`macos install`:
-Installing on MacOSX
-^^^^^^^^^^^^^^^^^^^^
-
-Although I have succesfully run the pipeline in two separated MacOS X machines
-the installation process was a bit tricky and has not been fully tested. I plan
-to update this section in the next weeks.
-
 .. _`virtuenvinstall`:
 Install Using Virtual Environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Virtual Environment installation has not been fully tested.
+
+.. _`macos install`:
+Installing on MacOSX
+^^^^^^^^^^^^^^^^^^^^
+
+.. include:: mac_install.rst
+
+Although I have succesfully run the pipeline in two separated MacOS X machines
+the installation process was a bit tricky and has not been fully tested. I plan
+to update this section in the next weeks.
 
 .. _Download:
 Downloading the Goodman HTS Spectroscopic Pipeline

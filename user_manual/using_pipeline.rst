@@ -117,6 +117,9 @@ same you used for your observing run, provided by your *Support Scientist*, who
 will also give you the information for the data reduction computer VNC
 connection.
 
+.. note:: IRAF is available in all three data servers. Running ``iraf`` will
+    open an *xgterm* and *ds9* windows. ``iraf-only`` will not open *ds9*
+
 Establish a VNC connection
 **************************
 Separately, you should receive a server hostname, IP, port and VNC-password. If

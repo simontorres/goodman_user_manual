@@ -212,19 +212,23 @@ Running the Pipeline
 
 7. Run ``redccd``:
 
-   For ``redccd`` we suggest using ``--cosmic`` and ``auto-clean`` also you might
-   want to consider ``--saturation <new value>`` to change the saturation level
-   if you get all your flats rejected due to saturation. Sometimes there is a
-   hot column at the end that produced very high values.
+   If you are running ``redccd`` for the first time you can use ``redccd`` alone
+   but if it's a second or third time you will need to use ``--auto-clean``
+   which is a built-in protection for your data, in case you don't want to
+   delete what has been done. Also you might want to consider
+   ``--saturation <new value>`` to change the saturation level if you get all
+   your flats rejected due to saturation. Sometimes there is a hot column at the
+   end that produced very high values.
 
-       ``redccd --cosmic --auto-clean``
+       ``redccd --auto-clean``
 
    In case you want to use ``--saturation`` here is an example:
 
-       ``redccd --cosmic --auto-clean --saturation 70000``
+       ``redccd --auto-clean --saturation 70000``
 
    This changes the saturation level to `70000 ADU`` in this context
-   the saturation value works as a threshold for rejecting images.
+   the saturation value works as a threshold for rejecting images and it varies
+   from one instrument configuration to another.
 
 
    By default, ``redccd`` puts reduced data in a subdirectory ``RED``, you can

@@ -23,7 +23,70 @@ For anaconda installation we recommend you to check the `astroconda channel's
 documentation page <https://astroconda.readthedocs.io>`_. The instructions will
 be reproduced here but they might change for newer versions.
 
-- Get Anaconda Installer:
+.. warning:: Anaconda installer requieres BASH. Don't try with other shell.
+
+1. Installing ``anaconda``
+   - Go to https://www.anaconda.com/downloads and download the appropriate
+     *anaconda installer* for your platform, most likely it has been
+     automatically selected.
+
+
+   - Run the installer.
+
+     ``cd <download_directory>``
+
+     ``bash <install_script>``
+
+   - Once completed, check the bottom of ``~/.bash_profile`` or  ``~/.bashrc``
+     there should be a new ``PATH`` definition with anaconda included.
+
+2. Check ``anaconda`` installation
+
+   ``which conda``
+
+   You should get a response similar to this:
+
+   ``~/bin/anaconda3/bin/conda``
+
+   If you don't get this response check the detailed instructions on the
+   astroconda site. Otherwise continue to the next step.
+
+3. Configure Conda to use the *Astroconda Channel*
+
+   ``conda config --add channels http://ssb.stsci.edu/astroconda``
+
+4. Create a virtual environment.
+   Here you have two options, one with ``iraf`` and one without it.
+
+   - Standard: Without Iraf.
+
+     ``conda create -n astroconda stsci``
+
+     *astroconda* is the name of your environment, you can use any name you want.
+
+   - Legacy software stack: Iraf included
+
+     ``conda create -n iraf27 python=2.7 iraf-all pyraf-all stsci``
+
+5. Activate your environment.
+
+   ``source activate astroconda``
+
+6. Get latest release of the *Goodman Spectroscopic Pipeline*
+
+   ``download link here``
+
+   ``unpack instructions``
+
+7. Install requirements from ``requirements.txt``
+
+   ``cd <goodman_pipeline_unpacked_location>``
+
+   ``pip install -r requirements.txt``
+
+8. Install the pipeline
+
+   ``pip install .``
 
 
 Install DCR

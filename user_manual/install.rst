@@ -58,15 +58,19 @@ be reproduced here but they might change for newer versions.
 4. Create a virtual environment.
    Here you have two options, one with ``iraf`` and one without it.
 
-   - Standard: Without Iraf.
+   - Standard: Without Iraf (Python 2 or 3).
 
-     ``conda create -n astroconda stsci``
+     ``conda create -n astroconda python=2.7 stsci``
+
+    or
+
+     ``conda create -n astroconda python=3 stsci``
 
      *astroconda* is the name of your environment, you can use any name you want.
 
-   - Legacy software stack: Iraf included
+   - Legacy software stack: Iraf included (Requires Python 2.7).
 
-     ``conda create -n iraf27 python=2.7 iraf-all pyraf-all stsci``
+     ``conda create -n astroconda python=2.7 iraf-all pyraf-all stsci``
 
 5. Activate your environment.
 
@@ -74,9 +78,17 @@ be reproduced here but they might change for newer versions.
 
 6. Get latest release of the *Goodman Spectroscopic Pipeline*
 
-   ``download link here``
+   visit https://github.com/soar-telescope/goodman/releases/latest and download
+   the ``*.zip`` or ``*.tar.gz``
 
-   ``unpack instructions``
+   ``cd <download_location>``
+
+   ``tar -xvf <pipeline_file>.tar.gz``
+
+   or
+
+   ``unzip <pipeline_file>.zip``
+
 
 7. Install requirements from ``requirements.txt``
 

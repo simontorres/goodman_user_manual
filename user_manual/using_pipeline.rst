@@ -122,17 +122,17 @@ connection.
 
 Establish a VNC connection
 **************************
-Separately, you should receive a server hostname, IP, port and VNC-password. If
-you don't you can ask for it. We have decided to use a similar organization of
-vnc desktops:
+Separately, you should receive a server hostname, IP, display number and
+VNC-password. If you don't you can ask for it. We have decided to use a similar
+organization of vnc displays as for ``soaric7``:
 
-.. table:: VNC ports and working folder assigned to each partner.
+.. table:: VNC display number and working folder assigned to each partner.
    :align: center
    :widths: auto
 
 
    ========= ===================== ====================================
-      Port    Partner/Institution     Folder
+    Display    Partner/Institution     Folder
    ========= ===================== ====================================
        :1      NOAO                  ``/home/goodman/data/NOAO``
        :2      Brazil                ``/home/goodman/data/BRAZIL``

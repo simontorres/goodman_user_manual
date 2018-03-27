@@ -25,6 +25,7 @@ carries out the following steps:
 - Trace the spectra
 - Extract the spectra
 - Estimate and subtract background
+- Saves extracted (1D) spectrum, without wavelength calibration.
 - Find the wavelength solution. Defaults to automatic wavelength solution, but
   can be done interactively
 - Linearize data (resample)
@@ -65,9 +66,13 @@ What the pipeline does not do
 *****************************
 - In its current version the pipeline does not perform combination of individual
   spectra. If you obtained several individual exposures of the same object, they
-  will be output as separate 1-D, wavelength-calibrated spectra
+  will be output as separate 1-D, wavelength-calibrated spectra.
+
+- It does not combine lamps. If there are more than one comparison lamp
+  associated with an spectrum they will be processed and saved separately.
 
 - There is yet no flux calibration. We are working on a module that will do this.
+  But this will be left for a later release.
 
 - This pipeline does not evaluate nor select data by quality. It will simply try
   to run using all existing files. **Make sure you only have good data in the

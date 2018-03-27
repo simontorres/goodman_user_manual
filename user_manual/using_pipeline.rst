@@ -2,14 +2,15 @@ General Considerations on using the pipeline
 ############################################
 The Goodman Spectroscopic Pipeline is meant to work as a single package.
 However, the full process is split in two separate modules: ``redccd`` and
-``redspec``. The first does the basic 2D image reduction, applying bias and flat
+``redspec``. The first does the basic 2D image reduction, applying bias, flat
 field corrections, and cosmic ray removal. The second module, ``redspec``, takes
 the corrected 2D images output by ``redccd`` and produces wavelength-calibrated
 1D spectra.
 
 The pipeline is run from the command line in a terminal window. Each module is
 run separately, first ``redccd`` followed by ``redspec``, however, you could
-run both sequentially from e.g. a shell script.
+run both sequentially from e.g. a shell script, just make sure you move to the
+the right directory.
 
 In order to make things easier you should organize your data:
 
@@ -100,6 +101,84 @@ put it there or put it in another directory and use the argument ``--reference-f
 
 Or contact ``storres [at] ctio [dot] noao [dot] edu``  and we will make it
 available as a package file.
+
+On Goodman's Radial Velocity Precision
+**************************************
+Here we present a summary of the best *radial velocity* precision that can be
+obtained with a given configuration. The equations used are listed below.
+
+.. math::
+
+    R = \frac{\lambda}{\Delta\lambda} = \frac{c}{v}
+
+Then,
+
+.. math::
+
+    v = \frac{c}{R}
+
+We can calculate the central wavelength for a given configuration which will
+correspond to :math:`\lambda ` and :math:`\Delta\lambda` is the dispersion in
+units of *Angstrom/Pixel* obtained from the Goodman Spectrograph Cheat Sheet.
+
+The smallest grating available is the 0.45", then:
+
+.. math::
+
+    FWHM = \frac{slit-size}{pixel-scale} = \frac{0.45}{0.15} = 3.0
+
+Then the limiting factor is not the spectrograph's dispersion but the *FWHM*,
+
+.. math::
+
+   \Delta\lambda = 3 * dispersion
+
+
+.. table::
+
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    | Grating | Mode | Central Wavelength | Dispersion | Resolving Power (R) |  RV Limit       |
+    +=========+======+====================+============+=====================+=================+
+    |   400   |  m1  |      505.281       | 1.00       | 1516                |  197.773 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   400   |  m2  |      700.154       | 1.00       | 2100                |  142.727 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   600   |  UV  |      442.270       | 0.65       | 2041                |  146.867 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   600   | Blue |      492.529       | 0.65       | 2273                |  131.881 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   600   | Mid  |      578.827       | 0.65       | 2672                |  112.218 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   600   | Red  |      777.885       | 0.65       | 3590                |  83.502 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m1  |      384.521       | 0.42       | 2747                |  109.151 km / s |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m2  |      469.125       | 0.42       | 3351                |  89.466 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m3  |      554.787       | 0.42       | 3963                |  75.652 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m4  |      639.418       | 0.42       | 4567                |  65.639 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m5  |      724.936       | 0.42       | 5178                |  57.896 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |   930   |  m6  |      809.084       | 0.42       | 5779                |  51.875 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m0  |      374.297       | 0.31       | 3622                |  82.765 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m1  |      424.181       | 0.31       | 4105                |  73.031 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m2  |      492.678       | 0.31       | 4768                |  62.878 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m3  |      561.804       | 0.31       | 5437                |  55.141 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m4  |      629.735       | 0.31       | 6094                |  49.193 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m5  |      699.087       | 0.31       | 6765                |  44.313 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m6  |      767.000       | 0.31       | 7423                |  40.389 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
+    |  1200   |  m7  |      835.851       | 0.31       | 8089                |  37.062 km / s  |
+    +---------+------+--------------------+------------+---------------------+-----------------+
 
 .. raw:: pdf
 
@@ -234,28 +313,10 @@ Running the Pipeline
    By default, ``redccd`` puts reduced data in a subdirectory ``RED``, you can
    provide a different one by using ``--red-path``.
    
-   An image ``image_file.fits`` that has been fully (and propperly) processed should
+   An image ``image_file.fits`` that has been fully (and properly) processed should
    have the new name (including the reduced data folder):
    
        ``cfzsto_image_file.fits``
-
-   The meaning of every letter in ``cfzsto`` is summarized in the following table:
-
-   +--------+-----------------------------------------------------------------------+
-   | Letter | Meaning                                                               |
-   +========+=======================================================================+
-   |    c   | Cosmic ray cleaned or mask created depending on the method            |
-   +--------+-----------------------------------------------------------------------+
-   |    f   | Flat corrected                                                        |
-   +--------+-----------------------------------------------------------------------+
-   |    z   | Zero or Bias corrected                                                |
-   +--------+-----------------------------------------------------------------------+
-   |    s   | Slit trimmed, trims off the non-illuminated sections of the detector  |
-   +--------+-----------------------------------------------------------------------+
-   |    t   | Initial Image trimming                                                |
-   +--------+-----------------------------------------------------------------------+
-   |    o   | Overscan corrected                                                    |
-   +--------+-----------------------------------------------------------------------+
 
 
 8. Run ``redspec``:
@@ -272,10 +333,103 @@ Running the Pipeline
    fitted to a reference comparison lamp and some values for the wavelength solution
    fit and the extracted spectrum plotted with the wavelength solution.
 
-   The final image has a ``g`` added to the start of the name, following the
-   above example your final 1D and wavelength calibrated image will be named:
+   Before the wavelength solution is calculated, the extracted spectrum (1D already)
+   is saved with an ``e`` as prefix. The final image has a ``w`` added to the
+   start of the name, following the above example your final 1D and wavelength
+   calibrated image will be named:
 
-      ``gcfzsto_image_file.fits``
+      ``wecfzsto_image_file.fits``
+
+9. Finally, review the results. Below is a table with the definition of all
+   letters used in the construction of the prefix.
+
+     The meaning of every letter in ``wecfzsto`` is summarized in the following table:
+
+   +--------+-----------------------------------------------------------------------+
+   | Letter | Meaning                                                               |
+   +========+=======================================================================+
+   |    w   | Wavelength calibrated                                                 |
+   +--------+-----------------------------------------------------------------------+
+   |    e   | Extracted spectrum, 1D                                                |
+   +--------+-----------------------------------------------------------------------+
+   |    c   | Cosmic ray cleaned or mask created depending on the method            |
+   +--------+-----------------------------------------------------------------------+
+   |    f   | Flat corrected                                                        |
+   +--------+-----------------------------------------------------------------------+
+   |    z   | Zero or Bias corrected                                                |
+   +--------+-----------------------------------------------------------------------+
+   |    s   | Slit trimmed, trims off the non-illuminated sections of the detector  |
+   +--------+-----------------------------------------------------------------------+
+   |    t   | Initial Image trimming                                                |
+   +--------+-----------------------------------------------------------------------+
+   |    o   | Overscan corrected                                                    |
+   +--------+-----------------------------------------------------------------------+
+
+
+Headers
+*******
+
+The pipeline adds several keywords to keep track of the process and in general
+for keeping important information available. In the following table is a description
+of all Goodman Spectroscopic Pipeline keywords added, though not all of them are
+added to all the images.
+
++----------+---------------------------------------------------+
+| Keyword  | Purpose                                           |
++==========+===================================================+
+| GSP_VERS | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_ONAM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_PNAM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_FNAM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_PATH | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_TECH | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_DATE | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_OVER | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_TRIM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_SLIT | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_BIAS | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_FLAT | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_NORM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_COSM | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_WRMS | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_WPOI | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_WREJ | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_DCRR | Purpose                                           |
++----------+---------------------------------------------------+
+
++----------+---------------------------------------------------+
+| Keyword  | Purpose                                           |
++==========+===================================================+
+| GSP_FUNC | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_ORDR | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_NPIX | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_C000 | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_C001 | Purpose                                           |
++----------+---------------------------------------------------+
+| GSP_C002 | Purpose                                           |
++----------+---------------------------------------------------+
+
 
 .. include:: interactive_mode.rst
 

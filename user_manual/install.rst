@@ -56,21 +56,11 @@ be reproduced here but they might change for newer versions.
    ``conda config --add channels http://ssb.stsci.edu/astroconda``
 
 4. Create a virtual environment.
-   Here you have two options, one with ``iraf`` and one without it.
-
-   - Standard: Without Iraf (Python 2 or 3).
-
-     ``conda create -n astroconda python=2.7 stsci``
-
-    or
+   We have dropped support for python2.7 so you have to use >3.5.
 
      ``conda create -n astroconda python=3 stsci``
 
      *astroconda* is the name of your environment, you can use any name you want.
-
-   - Legacy software stack: Iraf included (Requires Python 2.7).
-
-     ``conda create -n astroconda python=2.7 iraf-all pyraf-all stsci``
 
 5. Activate your environment.
 
@@ -100,9 +90,15 @@ be reproduced here but they might change for newer versions.
 
    ``pip install .``
 
+9. Upgrading the pipeline
+
+   ``pip install . --upgrade``
+
 
 Install DCR
 ***********
+
+.. warning:: Don't forget to cite: Pych, W., 2004, PASP, 116, 148
 
 In terms of cosmic ray rejection we shifted to a non-python package because the
 results were way better compared to LACosmic's implementation in astropy.

@@ -102,8 +102,8 @@ the interactive mode.
 
 5. If you see that your current solution is decent you can press F3 or **a** and
    the pipeline will try to find more points automatically. The new matches found
-    by the software are shown as red dots at the base of each line in the two main *Upper*
-    and *Lower* panels.
+   by the software are shown as red dots at the base of each line in the two main *Upper*
+   and *Lower* panels.
 
    The automatic finding routine is not perfect, and indeed it depends on the preliminary wavelength
    solution. It uses the detected lines in the uncalibrated 1-D lamp, applies the preliminary

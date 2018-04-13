@@ -9,6 +9,8 @@ Below you will find a summary of installation steps.
 .. warning:: Remember that we are not providing any kind of support for
   installation. This documentation will be the only existing.
 
+The following list provides a summary of all the steps.
+
 - Install ``anaconda``
 - Add ``astroconda`` channel
 - Create virtual environment
@@ -104,20 +106,21 @@ In terms of cosmic ray rejection we shifted to a non-python package because the
 results were way better compared to LACosmic's implementation in astropy.
 LACosmic was not designed to work with spectroscopy though.
 
-Visit this `Link <http://users.camk.edu.pl/pych/DCR/>`_ to download the code and
-find the instructions for compiling. I have added a few pre-compiled binaries
-and if you are lucky they will work right away. The available binaries are
-located in ``goodman/dcr`` and the options are:
+The latest version of the Goodman Spectroscopic Pipeline uses a modified version
+of ``dcr`` to help with the pipeline's workflow.
 
-  - dcr.Ubuntu16.04
-  - dcr.Centos7
-  - dcr.MacOSSierra
-  - dcr.Solaris11
+.. important::
+
+    The changes includes deletion of all ``HISTORY`` and ``COMMENT`` keywords,
+    which we don't use in the pipeline. And addition of a couple of custom
+    keywords, such as: ``GSP_FNAM``, which stores the name of the file being
+    created. ``GSP_DCRR`` which stores the reference to the paper to cite.
 
 
-Choose whatever version fits your needs and rename it ``dcr`` and put it in a
-folder that at the same time is in your ``$PATH`` variable. If you don't know
-what that is follow the next section.
+You are still encouraged to visit the official  `Link <http://users.camk.edu.pl/pych/DCR/>`_
+own by the author and let me remind you once more that you have to cite the
+paper mentioned several times in this manual.
+
 
 Install binary DCR
 ^^^^^^^^^^^^^^^^^^

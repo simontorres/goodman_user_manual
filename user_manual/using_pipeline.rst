@@ -92,7 +92,7 @@ the following specifications with respect to your science project:
    - Smallest slit possible. Equal is OK too.
 
 Then you can use the interactive mode or other software (such as IRAF) to produce
-a wavelength-calibrated 1D spectrum. Now you have to options, identify the
+a wavelength-calibrated 1D spectrum. Now you have two options, identify the
 system folder where the lamps that come with the package are saved and simply
 put it there or put it in another directory and use the argument ``--reference-files``
 
@@ -355,7 +355,7 @@ Running the Pipeline
    +--------+-----------------------------------------------------------------------+
    |    e   | Extracted spectrum, 1D                                                |
    +--------+-----------------------------------------------------------------------+
-   |    c   | Cosmic ray cleaned or mask created depending on the method            |
+   |    c   | Cosmic ray cleaned or mask created depending on the method.           |
    +--------+-----------------------------------------------------------------------+
    |    f   | Flat corrected                                                        |
    +--------+-----------------------------------------------------------------------+

@@ -11,7 +11,7 @@ spectra can be produced shortly after the shutter closes.
 
 The pipeline is primarily intended to be run on a data reduction dedicated
 computer. Instructions for running the software are provided in the
-`Using Pipeline`_ section of this guide.
+`Running Pipeline`_ section of this guide.
 The Goodman Spectroscopic Data Reduction Pipeline project is hosted at GitHub at
 `it's GitHub Repository <https://github.com/soar-telescope/goodman>`_.
 
@@ -53,7 +53,7 @@ There are two ways to use the pipeline.
 1. **Run it directly on a SOAR data reduction server** that you can access
    using VNC.
 
-2. **Download and install the pipeline** (go to the Install_ section of this
+2. **Download and install the pipeline** (go to the `Installing Pipeline`_ section of this
    manual). Though we will try our best to provide answers to quick and simple
    installation issues, we cannot provide general installation support.
 

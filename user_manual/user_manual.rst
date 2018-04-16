@@ -21,6 +21,12 @@ computers.
 
 .. include:: install.rst
 
+.. raw:: pdf
+
+    PageBreak
+
+.. include:: appendix_goodman_rv.rst
+
 
 
 

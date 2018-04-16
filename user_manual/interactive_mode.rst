@@ -1,16 +1,23 @@
 Using the Interactive Mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you need to make sure that your solution is the best possible you can use
-the *Interactive Mode*. Some of the key features are:
+.. warning::
 
-- Manually match spectroscopic lines
-- Zoom in to get a better reference
-- Evaluate the quality of your solution
+    The automatic wavelength calibration method has become every time more
+    reliable therefore is more likely that you will find bugs using the
+    interactive mode.
+
+
+If you are not convinced with the *automatic wavelength solution* you can try to
+improve it by using the *Interactive Mode*. Some of the key features are:
+
+- Manually match spectroscopic lines.
+- Zoom in to get a better reference.
+- Evaluate the quality of your solution as you progress.
 - Uses a visual reference for matching the lines
 - Uses laboratory values for reference lines
 
-Right now it uses matplotlib as the underlying tool to enable interaction.
+Right now it uses ``matplotlib.pyplot`` as the underlying tool to enable interaction.
 
 Below you will see a sequence as well as a description of the procedure to use
 the interactive mode.

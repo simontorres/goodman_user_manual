@@ -3,11 +3,10 @@ usage: redspec [-h] [--data-path <Source Path>]
                [--search-pattern <Search Pattern>]
                [--output-prefix <Out Prefix>] [--extraction <Extraction Type>]
                [--reference-files <Reference Dir>] [--interactive] [--debug]
-               [--log-file <log_file>] [--max-targets <max targets>]
-               [--save-plots] [--plot-results]
+               [--max-targets <max targets>] [--save-plots] [--plot-results]
 
 Extracts goodman spectra and does automatic wavelength calibration. Pipeline
-Version: 1.0b6
+Version: 1.0b10
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -25,10 +24,6 @@ optional arguments:
                         Directory of Reference files location
   --interactive         Interactive wavelength solution.Disbled by default.
   --debug               Debugging Mode
-  --log-file <log_file>
-                        Name for log file. Default name is <goodman_spec.log>.
-                        The file is written in <red_path> and will be deleted
-                        each time you run this program
   --max-targets <max targets>
                         Maximum number of targets to be found in a single
                         image. Default 3

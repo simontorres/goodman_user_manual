@@ -2,12 +2,11 @@ usage: redccd [-h] [--auto-clean] [--cosmic <method>] [--combine]
               [--dcr-par-dir <dcr.par_directory>] [--debug]
               [--flat-normalize <normalization_method>]
               [--flat-norm-order <order>] [--ignore-bias] [--ignore-flats]
-              [--keep-cosmic-files] [--log-file <log_file>]
-              [--raw-path <raw_path>] [--red-path <red_path>]
-              [--saturation <value>]
+              [--keep-cosmic-files] [--raw-path <raw_path>]
+              [--red-path <red_path>] [--saturation <value>]
 
 Goodman CCD Reduction - CCD reductions for Goodman spectroscopic data.
-Pipeline Version: 1.0b6
+Pipeline Version: 1.0b10
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -15,7 +14,7 @@ optional arguments:
   --cosmic <method>     Clean cosmic rays from all data. Options are: 'dcr',
                         'lacosmic' or 'none'. Default is 'dcr'. See manual for
                         full description of dcr.
-  --combine             Combine compatible data
+  --combine             Combine compatible data (experimental)
   --dcr-par-dir <dcr.par_directory>
                         Directory of default dcr.par file
   --debug               Show detailed information of the process.
@@ -30,10 +29,6 @@ optional arguments:
   --ignore-flats        Ignore flat field correction
   --keep-cosmic-files   After cleaning cosmic rays with dcr, do not remove the
                         input file and the cosmic rays file.
-  --log-file <log_file>
-                        Name for log file. Default name is <goodman_ccd.log>.
-                        The file is written in <red_path> and will be deleted
-                        each time you run this program
   --raw-path <raw_path>
                         Path to raw data.
   --red-path <red_path>

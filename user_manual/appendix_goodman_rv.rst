@@ -3,6 +3,10 @@
 Appendix B: On Goodman's Radial Velocity Precision
 ##################################################
 
+.. important::
+
+    The calculations presented here are for a single line only.
+    Using the ``0.45`` arcsecond slit.
 
 Here we present a summary of the best *radial velocity* precision that can be
 obtained with a given configuration. The equations used are listed below.

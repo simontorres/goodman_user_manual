@@ -156,16 +156,26 @@ I have successfully compiled *dcr* in several platforms, such as:
 Install binary DCR
 ^^^^^^^^^^^^^^^^^^
 
+This is a suggested method. If you are not so sure what you are doing, we recommend
+you following this suggestion. If you are more advanced user you just need the
+``dcr`` executable binary in your ``$PATH`` variable.
+
+
 1. Open a terminal
 2. In your home directory create a hidden directory ``.bin`` (Home directory
    should be the default when you open a new terminal window)
 
    ``mkdir .bin``
 
-3. Move the binary of your choice and rename it ``dcr``. If you compiled it
-   most likey it's already called ``dcr`` so you can ignore this step.
+3. Move the binary of your choice and rename it ``dcr``. If you compiled it,
+   most likely it's already called ``dcr`` so you can ignore the renaming part of
+   this step.
 
    ``mv dcr.Ubuntu16.04 ~/.bin/dcr``
+
+   Or
+
+   ``mv dcr ~/.bin/dcr``
 
 4. Add your ``$HOME/.bin`` directory to your ``$PATH`` variable. Open the file
    ``.bashrc`` and add the following line.

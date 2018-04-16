@@ -62,11 +62,27 @@ will be used to fit a pixel to wavelength relation that we call
    +---------+------+--------+--------+
    |   400   |  M1  | None   | HgArNe |
    +---------+------+--------+--------+
+   |   400   |  M2  | GG455  | Ar     |
+   +---------+------+--------+--------+
+   |   400   |  M2  | GG455  | Ne     |
+   +---------+------+--------+--------+
    |   400   |  M2  | GG455  | HgAr   |
    +---------+------+--------+--------+
    |   400   |  M2  | GG455  | HgArNe |
    +---------+------+--------+--------+
-   | 600-old | Blue | None   | HgAr   |
+   |   400   |  M2  | GG455  | CuHeAr |
+   +---------+------+--------+--------+
+   |   400   |  M2  | GG455  | FeHeAr |
+   +---------+------+--------+--------+
+
+
+.. important::
+
+    More lamps will be made public shortly.
+
+
+
+..   | 600-old | Blue | None   | HgAr   |
    +---------+------+--------+--------+
    | 600-old | Blue | None   | CuHeAr |
    +---------+------+--------+--------+
@@ -81,7 +97,7 @@ will be used to fit a pixel to wavelength relation that we call
 Adding new reference lamps
 **************************
 
-It is possible to add new lamps very easily you just need a raw lamp that meets
+It is possible to add new lamps, you just need a raw lamp that meets
 the following specifications with respect to your science project:
 
    - Same instrument configuration or mode
@@ -91,94 +107,123 @@ the following specifications with respect to your science project:
    - Same lamp/combination that you use in your observations
    - Smallest slit possible. Equal is OK too.
 
-Then you can use the interactive mode or other software (such as IRAF) to produce
-a wavelength-calibrated 1D spectrum. Now you have two options, identify the
-system folder where the lamps that come with the package are saved and simply
-put it there or put it in another directory and use the argument ``--reference-files``
 
+See `Creating Reference Lamps`_ for instructions on how to proceed.
+Now you have two options, identify the system folder where the lamps that come
+with the package are saved and simply put it there or put it in another
+directory and use the argument ``--reference-files``
 
    ``redspec --reference-files /path/to/ref-lamp-location``
 
-Or contact ``storres [at] ctio [dot] noao [dot] edu``  and we will make it
-available as a package file.
+If you requiere that your lamps are made available as a part of the package you
+can contact ``storres [at] ctio [dot] noao [dot] edu`` and we will handle your
+request.
 
-On Goodman's Radial Velocity Precision
-**************************************
-Here we present a summary of the best *radial velocity* precision that can be
-obtained with a given configuration. The equations used are listed below.
+.. _`Header Requirements`:
 
-.. math::
+Headers Requirements
+^^^^^^^^^^^^^^^^^^^^
 
-    R = \frac{\lambda}{\Delta\lambda} = \frac{c}{v}
+Goodman HTS spectra have small non-linearities on their wavelength solutions.
+They are small but big enough that they MUST be taken into account.
 
-Then,
+It was necessary to  implement a custom way of storing non-linear wavelength
+solutions that at the same time allowed for keeping data as *untouched* as
+possible. The main reason is that linearizing the reference lamps made
+harder to track down those non-linearities on the new data being calibrated and
+also; The documentation on how to write non-linear solution to a FITS header is
+not good, besides it appears that nobody is trying to improve it neither
+trying to implement it. Below I compile a list of requiered keywords for
+comparison lamps if they want to be used as reference lamps. The full list of
+keywords is listed under Headers_.
 
-.. math::
+General Custom Keywords:
 
-    v = \frac{c}{R}
+  Every image processed with the *Goodman Spectroscopic Pipeline* will have the
+  general custom keywords. The one required for a reference lamp is the following:
 
-We can calculate the central wavelength for a given configuration which will
-correspond to :math:`\lambda ` and :math:`\Delta\lambda` is the dispersion in
-units of *Angstrom/Pixel* obtained from the Goodman Spectrograph Cheat Sheet.
-
-The smallest grating available is the 0.45", then:
-
-.. math::
-
-    FWHM = \frac{slit-size}{pixel-scale} = \frac{0.45}{0.15} = 3.0
-
-Then the limiting factor is not the spectrograph's dispersion but the *FWHM*,
-
-.. math::
-
-   \Delta\lambda = 3 * dispersion
+    ``GSP_FNAM = file-name.fits // Current file name``
 
 
-.. table::
+Record of line centers in Pixel and Angstrom:
 
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    | Grating | Mode | Central Wavelength | Dispersion | Resolving Power (R) |  RV Limit       |
-    +=========+======+====================+============+=====================+=================+
-    |   400   |  m1  |      505.281       | 1.00       | 1516                |  197.773 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   400   |  m2  |      700.154       | 1.00       | 2100                |  142.727 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   600   |  UV  |      442.270       | 0.65       | 2041                |  146.867 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   600   | Blue |      492.529       | 0.65       | 2273                |  131.881 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   600   | Mid  |      578.827       | 0.65       | 2672                |  112.218 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   600   | Red  |      777.885       | 0.65       | 3590                |  83.502 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m1  |      384.521       | 0.42       | 2747                |  109.151 km / s |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m2  |      469.125       | 0.42       | 3351                |  89.466 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m3  |      554.787       | 0.42       | 3963                |  75.652 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m4  |      639.418       | 0.42       | 4567                |  65.639 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m5  |      724.936       | 0.42       | 5178                |  57.896 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |   930   |  m6  |      809.084       | 0.42       | 5779                |  51.875 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m0  |      374.297       | 0.31       | 3622                |  82.765 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m1  |      424.181       | 0.31       | 4105                |  73.031 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m2  |      492.678       | 0.31       | 4768                |  62.878 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m3  |      561.804       | 0.31       | 5437                |  55.141 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m4  |      629.735       | 0.31       | 6094                |  49.193 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m5  |      699.087       | 0.31       | 6765                |  44.313 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m6  |      767.000       | 0.31       | 7423                |  40.389 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
-    |  1200   |  m7  |      835.851       | 0.31       | 8089                |  37.062 km / s  |
-    +---------+------+--------------------+------------+---------------------+-----------------+
+  Every line detected in the reference lamp is recorded both in its pixel value
+  and later (most likely entered by hand) in angstrom value. The root string is
+  ``GSP_P`` followed by a zero-padded three digit sequential number
+  (001, 002, etc). For instance.
+
+    ``GSP_P001= 499.5377036976768  / Line location in pixel value``
+
+    ``GSP_P002= 810.5548319623747  / Line location in pixel value``
+
+    ``GSP_P003= 831.6984711087946  / Line location in pixel value``
+
+  The equivalent values in angstrom are then recorded with the root string
+  ``GSP_A`` and the same numerical pattern as before.
+
+    ``GSP_A001= 5460.75            / Line location in angstrom value``
+
+    ``GSP_A002= 5769.61            / Line location in angstrom value``
+
+    ``GSP_A003= 5790.67            / Line location in angstrom value``
+
+
+  ``GSP_P001`` and ``GSP_A001`` are a match. If any of the angstrom value entries
+  have a value of ``0`` (default value) the equivalent pixel entry is ignored.
+
+.. important::
+
+  Those keywords are used to calculate the mathematical fit of the
+  wavelength solution and are not used on normal operation. Our philosophy here
+  is that the line identification has to be done only once and then the
+  model can be fitted several time, actually you can try several models
+  if you want.
+
+Non-linear wavelength solution:
+
+  The method for recording the non-linear wavelength solution is actually
+  very simple. It requires: ``GSP_FUNC`` which stores a string with the name of
+  the mathematical model from ``astropy.modeling.models``. ``GSP_ORDR`` stores
+  the order or degree of the model. ``GSP_NPIX`` stores the number of pixels in
+  the spectral axis. Then there is N+1 parameter keywords where N is the order
+  of the model defined by ``GSP_ORDR``. The root string of the keyword is ``GSP_C``
+  and the rest is a zero-padded three digit number starting on zero to N.
+  See the example below.
+
+    ``GSP_FUNC= Chebyshev1D          / Mathematical model of non-linearized data``
+
+    ``GSP_ORDR= 3                    / Mathematical model order``
+
+    ``GSP_NPIX= 4060                 / Number of Pixels``
+
+    ``GSP_C000= 4963.910057577853    / Value of parameter c0``
+
+    ``GSP_C001= 0.9943952599223119   / Value of parameter c1``
+
+    ``GSP_C002= 5.59241584012648e-08 / Value of parameter c2``
+
+    ``GSP_C003= -1.2283411678846e-10 / Value of parameter c3``
+
+.. warning::
+
+    This method has been developed and tested to write correctly polynomial-like
+    models. And ONLY reads ``Chebyshev1D`` models.
+    Other models will just be ignored. More development will be done based on
+    request, suggestions or needs.
+
+
+.. _`Creating Reference Lamps`:
+
+Creating Your Own Reference Lamps
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you use a Custom mode you will need a Custom reference lamp too. You are welcome
+to try to do it, just make sure the `Header Requirements`_ are met. If not
+we might be able to help, depending on time availability, it will help a lot if
+you have the lines identified already.
+
+.. important::
+
+    We are not ready to offer a simple tool to construct the reference lamps.
 
 
 .. include:: headers.rst
@@ -187,7 +232,7 @@ Then the limiting factor is not the spectrograph's dispersion but the *FWHM*,
 
     PageBreak
 
-.. _`Using Pipeline`:
+.. _`Running Pipeline`:
 
 Running the pipeline in the SOAR data reduction computer
 ########################################################
@@ -209,9 +254,6 @@ VNC-password. If you don't you can ask for it. We have decided to use a similar
 organization of vnc displays as for ``soaric7``:
 
 .. table:: VNC display number and working folder assigned to each partner.
-   :align: center
-   :widths: auto
-
 
    ========= ===================== ====================================
     Display    Partner/Institution     Folder
@@ -224,7 +266,7 @@ organization of vnc displays as for ``soaric7``:
    ========= ===================== ====================================
 
 For the rest of this tutorial we will assume your host name is ``vnc-server``
-the port is ``1`` and your password is ``password``.
+the display number  is ``1`` and your password is ``password``.
 Though we recommend using RealVNC, most other VNC clients will work fine (e.g.,
 Remmina in Linux). For GNU/Linux and Mac OSX machines we suggest the RealVNC
 Viewer client. For Windows machines, we suggest either the RealVNC Viewer client
@@ -251,6 +293,14 @@ Using a graphical VNC client is quite similar and intuitive
 In this case the *IP address* was used, which is equivalent and sometimes
 better.
 
+Dealing with Virtual Environments
+*********************************
+
+The Goodman Spectroscopic Pipeline uses virtual environments since they allow
+for easy portability and also give a higher level of safety for the host system.
+
+All terminals using bash are configured to start with the appropriate virtual
+environment activated.
 
 Running the Pipeline
 ********************

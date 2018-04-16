@@ -1,7 +1,7 @@
-.. _Install:
+.. _`Installing Pipeline`:
 
-Installation Instructions
-#########################
+Apendix A: Installation Instructions
+####################################
 
 We strongly recommend installing the pipeline using *virtual environments*.
 Below you will find a summary of installation steps.
@@ -18,20 +18,20 @@ The following list provides a summary of all the steps.
 - Install requirements
 - Install pipeline
 
-Anaconda
-********
+Anaconda and Virtual Environment
+********************************
 
 For anaconda installation we recommend you to check the `astroconda channel's
 documentation page <https://astroconda.readthedocs.io>`_. The instructions will
-be reproduced here but they might change for newer versions.
+be reproduced here but they might change for newer versions. Also they are
+limited to the *best case scenario*.
 
 .. warning:: Anaconda installer requieres BASH. Don't try with other shell.
 
 1. Installing ``anaconda``
    - Go to https://www.anaconda.com/downloads and download the appropriate
-     *anaconda installer* for your platform, most likely it has been
-     automatically selected.
-
+   *anaconda installer* for your platform, most likely it has been
+   automatically selected.
 
    - Run the installer.
 
@@ -68,6 +68,9 @@ be reproduced here but they might change for newer versions.
 
    ``source activate astroconda``
 
+Goodman Spectroscopic Pipeline
+******************************
+
 6. Get latest release of the *Goodman Spectroscopic Pipeline*
 
    visit https://github.com/soar-telescope/goodman/releases/latest and download
@@ -103,11 +106,16 @@ Install DCR
 .. warning:: Don't forget to cite: Pych, W., 2004, PASP, 116, 148
 
 In terms of cosmic ray rejection we shifted to a non-python package because the
-results were way better compared to LACosmic's implementation in astropy.
+results were much better compared to LACosmic's implementation in astropy.
 LACosmic was not designed to work with spectroscopy though.
 
 The latest version of the Goodman Spectroscopic Pipeline uses a modified version
-of ``dcr`` to help with the pipeline's workflow.
+of ``dcr`` to help with the pipeline's workflow. It is included under
+
+  ``<path_to_download_location>/goodman/pipeline/data/dcr-source/dcr/``
+
+``goodman`` is the folder that will be created once you untar or unzip the latest
+release of the *Goodman Spectroscopic Pipeline*.
 
 .. important::
 
@@ -120,6 +128,28 @@ of ``dcr`` to help with the pipeline's workflow.
 You are still encouraged to visit the official  `Link <http://users.camk.edu.pl/pych/DCR/>`_
 own by the author and let me remind you once more that you have to cite the
 paper mentioned several times in this manual.
+
+Compiling DCR
+^^^^^^^^^^^^^
+
+Compiling ``dcr`` is actually very simple.
+
+  ``cd <path_to_download_location>/goodman/pipeline/data/dcr-source/dcr/``
+
+Then simply type:
+
+  ``make``
+
+This will compile `dcr` and also it will create other files. The executable
+binary here is ``dcr``.
+
+
+I have successfully compiled *dcr* in several platforms, such as:
+
+1. Ubuntu 16.04
+2. Centos 7.1, 7.4
+3. MacOS Sierra
+4. Solaris 11
 
 
 Install binary DCR

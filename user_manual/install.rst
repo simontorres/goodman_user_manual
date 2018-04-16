@@ -99,6 +99,7 @@ Goodman Spectroscopic Pipeline
 
    ``pip install . --upgrade``
 
+.. _`Install DCR`:
 
 Install DCR
 ***********

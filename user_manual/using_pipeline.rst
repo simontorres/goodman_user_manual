@@ -227,6 +227,7 @@ you have the lines identified already.
 
     We are not ready to offer a simple tool to construct the reference lamps.
 
+.. include:: cosmic_rays.rst
 
 .. include:: headers.rst
 

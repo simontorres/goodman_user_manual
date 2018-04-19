@@ -35,8 +35,8 @@ carries out the following steps:
 Features
 ********
 - Self-contained, full data reduction package for the most commonly used
-  spectroscopic setups with Goodman.  Given the almost limitless number of
-  possible configurations avaliable with the Goodman instrument, only the most
+  predefined setups with Goodman HTS.  Given the almost limitless number of
+  possible configurations available with the Goodman instrument, only the most
   popular configurations will be supported, though we will try to add as many
   modes as possible.
 - Python based, using existing Astropy libraries as much as feasible.

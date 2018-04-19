@@ -117,7 +117,7 @@ directory and use the argument ``--reference-files``
 
    ``redspec --reference-files /path/to/ref-lamp-location``
 
-If you requiere that your lamps are made available as a part of the package you
+If you require that your lamps are made available as a part of the package you
 can contact ``storres [at] ctio [dot] noao [dot] edu`` and we will handle your
 request.
 
@@ -135,7 +135,7 @@ possible. The main reason is that linearizing the reference lamps made
 harder to track down those non-linearities on the new data being calibrated and
 also; The documentation on how to write non-linear solution to a FITS header is
 not good, besides it appears that nobody is trying to improve it neither
-trying to implement it. Below I compile a list of requiered keywords for
+trying to implement it. Below I compile a list of required keywords for
 comparison lamps if they want to be used as reference lamps. The full list of
 keywords is listed under Headers_.
 

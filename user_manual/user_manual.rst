@@ -13,13 +13,13 @@
 
     PageBreak
 
-.. include:: install.rst
+.. include:: appendix_a_install.rst
 
 .. raw:: pdf
 
     PageBreak
 
-.. include:: appendix_goodman_rv.rst
+.. include:: appendix_b_goodman_rv.rst
 
 
 

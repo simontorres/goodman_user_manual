@@ -209,6 +209,3 @@ Running the Pipeline
    |    o   | Overscan corrected.                                                   |
    +--------+-----------------------------------------------------------------------+
 
-
-
-.. include:: interactive_mode.rst

@@ -6,7 +6,7 @@ usage: redccd [-h] [--auto-clean] [--cosmic <method>] [--combine]
               [--red-path <red_path>] [--saturation <value>]
 
 Goodman CCD Reduction - CCD reductions for Goodman spectroscopic data.
-Pipeline Version: 1.0b10
+Pipeline Version: 0.10.1rc
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -19,8 +19,8 @@ optional arguments:
                         Directory of default dcr.par file
   --debug               Show detailed information of the process.
   --flat-normalize <normalization_method>
-                        Choose a method to normalize the master flat
-                        forspectroscoy. Choices are: mean, simple (model) and
+                        Choose a method to normalize the master flat for
+                        spectroscopy. Choices are: mean, simple (model) and
                         full (fits model to each line).
   --flat-norm-order <order>
                         Defines the order of the model to be fitted. Default

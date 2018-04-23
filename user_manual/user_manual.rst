@@ -19,7 +19,9 @@
 
 .. include:: conclusion.rst
 
-.. |pipeline name| replace:: *Goodman Pipeline*
+.. |pipeline name| replace:: *The Goodman Pipeline*
+
+.. |pipeline full name| replace:: *Goodman Spectroscopic Pipeline*
 
 .. |goodman HTS| replace:: Goodman High Throughput Spectrograph
 

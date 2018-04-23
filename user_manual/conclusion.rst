@@ -1,5 +1,5 @@
 Conclusion
-**********
+##########
 
 .. include:: _conclusion_performance.rst
 

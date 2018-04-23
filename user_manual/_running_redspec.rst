@@ -1,2 +1,2 @@
-redspec
-^^^^^^^
+Run redspec
+***********

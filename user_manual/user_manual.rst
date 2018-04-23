@@ -1,25 +1,31 @@
 .. include:: introduction.rst
 
+.. raw:: pdf
 
-.. include:: overview.rst
+    PageBreak
+
+.. include:: requirements.rst
 
 .. raw:: pdf
 
     PageBreak
 
-.. include:: using_pipeline.rst
+.. include:: running_pipeline.rst
 
 .. raw:: pdf
 
     PageBreak
 
-.. include:: appendix_a_install.rst
 
-.. raw:: pdf
+.. include:: conclusion.rst
 
-    PageBreak
+.. |pipeline name| replace:: *The Goodman Pipeline*
 
-.. include:: appendix_b_goodman_rv.rst
+.. |pipeline full name| replace:: *Goodman Spectroscopic Pipeline*
+
+.. |goodman HTS| replace:: Goodman High Throughput Spectrograph
+
+.. |goodman hts| replace:: Goodman Spectrograph
 
 
 

@@ -1,14 +1,14 @@
 .. _`New Keywords`:
 
-Description of new keywords
-***************************
+Description of custom keywords
+******************************
 
 The pipeline adds several keywords to keep track of the process and in general
 for keeping important information available. In the following table is a description
 of all the keywords added by |pipeline name|, though not all of them are
 added to all the images.
 
-
+.. _`general keywords`:
 General Purpose Keywords
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -42,7 +42,7 @@ used to keep track of the file name.
      GSP_DCRR   Reference paper for DCR software (cosmic ray rejection).
     ========== =============================================================
 
-
+.. _`non-linear wavelength solutions`:
 Non-linear wavelength solution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -70,6 +70,7 @@ model by default.
       GSP_C002   Value of paramter ``c2``. This goes on depending the order.
      ========== =============================================================
 
+.. _`combined images`:
 Combined Images
 ^^^^^^^^^^^^^^^
 
@@ -88,7 +89,7 @@ of the first one will be used
      GSP_IC02   Second image used to create combined.
     ========== =============================================================
 
-
+.. _`detected lines`:
 Detected lines
 ^^^^^^^^^^^^^^
 

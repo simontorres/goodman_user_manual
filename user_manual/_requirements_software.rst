@@ -181,7 +181,7 @@ you following this suggestion. If you are a more advanced user you just need the
 
 System Installation (not recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-System installation is not recommended because can mess up things specially in Mac OS.
+System installation is not recommended because can mess things up specially in Mac OS.
 If you are really committed to install the pipeline in your system we recommend the `Conda Installation`_
 
 6. Get latest release of the |pipeline full name|

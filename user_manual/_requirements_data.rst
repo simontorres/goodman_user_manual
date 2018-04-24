@@ -4,14 +4,18 @@ The |goodman HTS|'s data has seen some evolution in the past years in shape and
 most importantly in its headers. The |pipeline name| relies heavily on the data's
 header so this is in fact very important.
 
+The headers must be `FITS Compliant <https://fits.gsfc.nasa.gov/fits_standard.html>`_
+first of all, if not the software exits with errors.
 
-Data Format
-^^^^^^^^^^^
+Remember that the |goodman hts| has `**two** cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
 
+The Red camera does not create any problems.
 
-Header Format
-^^^^^^^^^^^^^
+The Blue camera instead had some issues until **ESTIMATED DATE**. They can be simplified in three groups.
 
+- There were non fits-compliant characters in some comments.
+- The data was defined as 3D, just like a single frame of a data cube.
+- There were several differences in keyword names and some other did not exist.
 
 Reference Lamp Files
 ^^^^^^^^^^^^^^^^^^^^
@@ -23,7 +27,7 @@ that the lamp names are correct, for instance ``HgAr`` is quite different than
 
 .. _`Table Supported Modes`:
 
-.. table:: List of |goodman hts| modes supported by the current version of the pipeline.
+.. table:: List of |goodman hts| supported modes
 
    ========= ====== ======== ========
     Grating   Mode   Filter    Lamp   
@@ -65,12 +69,12 @@ keywords is listed under `New Keywords`_.
 General Custom Keywords:
 
   Every image processed with the *Goodman Spectroscopic Pipeline* will have the
-  general custom keywords. The one required for a reference lamp is the following:
+  `general keywords`_. The one required for a reference lamp is the following:
 
     ``GSP_FNAM = file-name.fits / Current file name``
 
 
-Record of line centers in Pixel and Angstrom:
+Record of `detected lines`_ in Pixel and Angstrom:
 
   Every line detected in the reference lamp is recorded both in its pixel value
   and later (most likely entered by hand) in angstrom value. The root string is
@@ -104,7 +108,7 @@ Record of line centers in Pixel and Angstrom:
   model can be fitted several times, actually you can try several models
   if you want. (On your own)
 
-Non-linear wavelength solution:
+`Non-linear wavelength solution`_:
 
   The method for recording the non-linear wavelength solution is actually
   very simple. It requires: ``GSP_FUNC`` which stores a string with the name of

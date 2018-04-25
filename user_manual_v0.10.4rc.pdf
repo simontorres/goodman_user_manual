@@ -22,12 +22,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 170 0 R
+<< /Contents 175 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -39,12 +39,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 171 0 R
+<< /Contents 176 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -56,12 +56,12 @@ endobj
  /Type /Page >>
 endobj
 6 0 obj
-<< /Contents 172 0 R
+<< /Contents 177 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -893,7 +893,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
@@ -910,7 +910,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
@@ -927,10 +927,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 747.0394
+ 614.0394
  0 ]
  /Rect [ 60.01575
  304.7894
@@ -944,10 +944,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 747.0394
+ 614.0394
  0 ]
  /Rect [ 544.1398
  304.7894
@@ -961,10 +961,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 711.8394
+ 263.8394
  0 ]
  /Rect [ 60.01575
  286.7894
@@ -978,10 +978,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 711.8394
+ 263.8394
  0 ]
  /Rect [ 544.1398
  286.7894
@@ -995,10 +995,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 676.6394
+ 787.0394
  0 ]
  /Rect [ 60.01575
  268.7894
@@ -1012,10 +1012,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 676.6394
+ 787.0394
  0 ]
  /Rect [ 544.1398
  268.7894
@@ -1029,10 +1029,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 641.4394
+ 571.8394
  0 ]
  /Rect [ 60.01575
  250.7894
@@ -1046,10 +1046,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 641.4394
+ 571.8394
  0 ]
  /Rect [ 544.1398
  250.7894
@@ -1063,10 +1063,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 606.2394
+ 362.6394
  0 ]
  /Rect [ 60.01575
  232.7894
@@ -1080,10 +1080,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 606.2394
+ 362.6394
  0 ]
  /Rect [ 544.1398
  232.7894
@@ -1097,10 +1097,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 529.0394
+ 285.4394
  0 ]
  /Rect [ 80.01575
  214.7894
@@ -1114,10 +1114,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 529.0394
+ 285.4394
  0 ]
  /Rect [ 544.1398
  214.7894
@@ -1131,10 +1131,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 787.0394
+ 573.0394
  0 ]
  /Rect [ 80.01575
  196.7894
@@ -1148,10 +1148,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 787.0394
+ 573.0394
  0 ]
  /Rect [ 544.1398
  196.7894
@@ -1165,10 +1165,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 503.8394
+ 289.8394
  0 ]
  /Rect [ 80.01575
  178.7894
@@ -1182,10 +1182,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 503.8394
+ 289.8394
  0 ]
  /Rect [ 544.1398
  178.7894
@@ -1199,10 +1199,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 346.6394
+ 132.6394
  0 ]
  /Rect [ 80.01575
  160.7894
@@ -1216,10 +1216,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 346.6394
+ 132.6394
  0 ]
  /Rect [ 544.1398
  160.7894
@@ -1233,7 +1233,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  787.0394
@@ -1250,7 +1250,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  787.0394
@@ -1267,7 +1267,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  747.0394
@@ -1284,7 +1284,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  747.0394
@@ -1301,7 +1301,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  711.8394
@@ -1318,7 +1318,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  711.8394
@@ -1335,10 +1335,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
  /Rect [ 80.01575
  88.78937
@@ -1352,10 +1352,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
  /Rect [ 544.1398
  88.78937
@@ -1369,10 +1369,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
  /Rect [ 80.01575
  70.78937
@@ -1386,10 +1386,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
  /Rect [ 544.1398
  70.78937
@@ -1403,10 +1403,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
  /Rect [ 60.01575
  52.78937
@@ -1420,10 +1420,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
  /Rect [ 544.1398
  52.78937
@@ -1513,12 +1513,12 @@ endobj
  84 0 R
  85 0 R
  86 0 R ]
- /Contents 173 0 R
+ /Contents 178 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1534,10 +1534,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
  /Rect [ 60.01575
  784.7894
@@ -1551,10 +1551,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
  /Rect [ 544.1398
  784.7894
@@ -1566,12 +1566,12 @@ endobj
 90 0 obj
 << /Annots [ 88 0 R
  89 0 R ]
- /Contents 174 0 R
+ /Contents 179 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1583,12 +1583,12 @@ endobj
  /Type /Page >>
 endobj
 91 0 obj
-<< /Contents 175 0 R
+<< /Contents 180 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1611,7 +1611,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  791.0394
@@ -1665,12 +1665,12 @@ endobj
 << /Annots [ 93 0 R
  94 0 R
  96 0 R ]
- /Contents 176 0 R
+ /Contents 181 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1682,12 +1682,12 @@ endobj
  /Type /Page >>
 endobj
 98 0 obj
-<< /Contents 177 0 R
+<< /Contents 182 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1736,12 +1736,12 @@ endobj
 102 0 obj
 << /Annots [ 99 0 R
  100 0 R ]
- /Contents 178 0 R
+ /Contents 183 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1757,10 +1757,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 609.4394
+ 365.8394
  0 ]
  /Rect [ 288.4357
  665.3894
@@ -1774,10 +1774,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 125 0 R
  /XYZ
  40.01575
- 531.8394
+ 288.2394
  0 ]
  /Rect [ 429.9968
  634.3894
@@ -1791,10 +1791,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 349.4394
+ 135.4394
  0 ]
  /Rect [ 89.46575
  588.3894
@@ -1808,10 +1808,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 123 0 R
+ /Dest [ 126 0 R
  /XYZ
  40.01575
- 789.8394
+ 575.8394
  0 ]
  /Rect [ 40.01575
  266.5894
@@ -1825,12 +1825,12 @@ endobj
  104 0 R
  105 0 R
  106 0 R ]
- /Contents 179 0 R
+ /Contents 184 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1842,12 +1842,12 @@ endobj
  /Type /Page >>
 endobj
 108 0 obj
-<< /Contents 180 0 R
+<< /Contents 185 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1892,12 +1892,12 @@ endobj
 111 0 obj
 << /Annots [ 109 0 R
  110 0 R ]
- /Contents 181 0 R
+ /Contents 186 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1957,12 +1957,12 @@ endobj
 << /Annots [ 112 0 R
  113 0 R
  114 0 R ]
- /Contents 182 0 R
+ /Contents 187 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2037,12 +2037,12 @@ endobj
  117 0 R
  118 0 R
  119 0 R ]
- /Contents 183 0 R
+ /Contents 188 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2054,12 +2054,12 @@ endobj
  /Type /Page >>
 endobj
 121 0 obj
-<< /Contents 184 0 R
+<< /Contents 189 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2071,46 +2071,42 @@ endobj
  /Type /Page >>
 endobj
 122 0 obj
-<< /Contents 185 0 R
- /MediaBox [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://conda.io/docs/index.html) >>
+ /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 169 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Rect [ 332.3857
+ 505.5894
+ 380.1857
+ 517.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 123 0 obj
-<< /Contents 186 0 R
- /MediaBox [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://conda.io/docs/user-guide/tasks/manage-environments.html) >>
+ /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 169 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Rect [ 184.5257
+ 463.5894
+ 220.6457
+ 475.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 124 0 obj
-<< /Contents 187 0 R
+<< /Annots [ 122 0 R
+ 123 0 R ]
+ /Contents 190 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 169 0 R
+ /Parent 174 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2122,13 +2118,95 @@ endobj
  /Type /Page >>
 endobj
 125 0 obj
-<< /Outlines 127 0 R
- /PageLabels 188 0 R
- /PageMode /UseNone
- /Pages 169 0 R
- /Type /Catalog >>
+<< /Contents 191 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 174 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
 endobj
 126 0 obj
+<< /Contents 192 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 174 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+127 0 obj
+<< /Contents 193 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 174 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+128 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 878
+ /Length 23511
+ /Subtype /Image
+ /Type /XObject
+ /Width 1191 >>
+stream
+Gb"0W$$P?"HA,5aW0ZHAY=<CkZW.VE"C_H3)"'QEZ*Pa>+pj+c.o$'Aci<nf8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk@,p%it\?Lj_<s"*@"3Thl<>Al1@]GdF*8mdc7pI<OVIpQ`R$Z&&tiAI]#H^F$S%nA&<IX&nU:>\okmqFd`[EEo8h8`UV>SS'BIKUMQG[3M/gip.P8^_],T&a-?s7u7N%pt]Q8`JhlB<SocGMaA(MsWT+8tXU-r=#pu*FQ5q=;.&$aeJ2tkPV6Ip'[t6J%C-F4urICN`XLnb2=?ROsK;6%fc.qgHRl/Q20mTQR#mDqJ<CZe(U>$<W-b'Cm).V^='>`rUfQU/MknY\GK!BJ+(WH60@FP)1?Gl;'D\fkC((rI4.[MG3JPn6d?@+p?,WT9<d$u.(Vbu0;RelF8k"DEe0S?HC]HXm.W^SrsM*OCC5h5R!;WjC0[@rn;KBr!/V(G46RD\56&D5*L&2F.[N*ik7(5ER@!YkirsV=a`SEpoC;>>Z*E;@W:08f][%Pc6V3HJA;TI^pPln]k@SX.[.9h-eNH.CH.GsbCoZ\ZJ)(:*:Rp&L7@P^gSkgGmMK>=/Q^mkPn[;&nI,4>8^Gjm(hs*[<q?gJVUm,1nbO&#r/,o\"UG%$+Zja+Kj)oNBe\b=K,d#e`'9rSg?c=<m5Ng.6.bf3Qh_44U,"gbhfkWs8@/fBeH,%ncY+0tU?,QA'OFCF$s$>T2/)PdbX"UL4!ad&L*NA7.ip`*EmqcWTX7:Gb/TF@FZtH#W<AL0H?Tr6t]SZRPo?YrCX8K"qHCo:aHoZCDl%S"RqWb52h*EK9eb;LD5,1<RP3HWSeaM-2hZ6n-<Ta0qqj"qO18S'XoNL@HX*TaH*fGo"[el(dpP0GSP-f1fcbkZIFnj\gl]ZC([uS2rb:J'5d03Rcp$STYic=;oA_l`GO1m5j6J^>L7pl7_lMJk-]rbHjjRQOj(O4g^>L>;bqBSX1hkh?@eQ8O<5,iedSbRM$olIPo?PE7JS0nh>h7;qpI@pPKj_a*!K'I\-o*qNlG'VE@]X,"Qi!>7EoUn%$^@pSeE@shGZtG_$RpUHub>`\g[nA,t>;qPUZV1;an20t(8mbc@"f?4`ficbLS.k'8I9#+8:!3_&*8`AeX6r,#oA7Q9>F4dtl$&M\GII5>hWf=OmMAuL:l=*I>)l\E;3iJ!OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,jF8o?a&q8YDf9Vo6;HNOu-Qj4?"5W=l7o_qtYUsn_1nbNd6hhDq@5:miIHI\aJn!]S+Lu>]E8F?=;bRr&eKK<H\%BdB,KXH,TsDE@(2e9(b82p\0ZcI@Ir$W]u:l0<jY?j7L,W_&ufcP,.:,ri%CG`%:g)SmB%QkE'>S*;jl+p$MV=Hk&!ijRe&IHr]0LV/LCn*L1o$Q`Hq**E`'c^$_Z$nTn6.\+-+Rq7^iohff#Bb.5=cO0<PLk!+8&EoeT=HG6LNhZM1J8#uImn=P3^4\<B#54.t/F('3@@UF-K]1:c35q0Bf;ieZ2X$T;5_]M;B(YEtr+0OTDH^n;;rD>"8dZ\8A=6RsXfWXo8F?7(McRpk)EL+eKOa1H_c<.bPo'c:YRp:0`BAOT(\#\sR`l!^OH1q75Irc*Gl,bP2+`Y+,8%JK0[rM&R^&75l\FH+Ar>$?Up=[,bE@;dpbU5W2ddI23pI>$B8O%U!h_u&&SLUdEqJB6Fp\oQ^h,dpGV!#@;rp]WEbGPn3TDOM;PE]CkU)TSCiAoA^mb)s7h:lsH8oN>C91j-n5N`9bjX,KVhjjQeo:TW#8E+e=Sf_!\eC:&!oHmhW]^D=BEOU&#g1O4Jl`PX7<I4Fm.-J=H\;#tX]jiF-Ds9bXrr1(9kYD&Nqj!Knl1rb'fJ5Z%IfCYUBh[d?h1nL-d7`br]iU8Na)4uT-1*Y%fBCC?EDE-QmI68PY:;T=]rl+qM(_(C)b494Q)qTZS<&]>>Fkf`<P9:=q]O$G/t"Z/=*K$#<h/r9dF[^,99Spp'r*G\e>VAPDs7q;_\[J6IALk_f@;j-mH<"]]VE'qY/ZeJ^9+_cS!ulSl#X)oX)YZaEj!jH:G;%bBR38#%EXW3qtgMa-VGQ(\h!C5#>s:\hD+jV5*i8<iJK]?rD@icjc)GqdZRUh^5<<B4R_7N*ZKP':LA#\IGZF9oi/BZFu@"0kT4CWI76**kb(lpjgo;/HA07,?d?ap8)G<pBW)H9f[4p#gZgcp>0^^O8WoAjnV$<$s.5e\ncF_USp1UopW6Y=9ZTG"qtBs#cS*UEp\ZE%*dD)bV6<A-4^[sMX8D)gH#EO@rrj)O(YJ;PQak9;)uJ\d9&1M:FtXTdMTi,`s&S\T^=j+?lh;4=EfNTKIq6':>PY&_<VVin?<:HrV!"e'qYI5gDTpE^0C\-2nukOZ-=:(_iWSM8<dGdDSu(UT^%?`BH+OuU=2fMl`R-o^bfcJ\EDSDD/cT)C="j+#R/-07F#Bu$I/5E1]rO9eOj\9r5P%0?G;V![eTapiq>I#]q:a$$<VHN`ITr6/!2!=VrN=]:b"IoiI#EEQ3rB]ir(S-kC:MBg@Gjic^G:*p#@3K<8Wjk7k`[8`P,*dfqBSXq,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8NQ52od*1m,jFa6TD<9K_Var2D:61*YOF%e8Q&OHci:C]J)C3RqKrUMEi_2S`e",5n3p]JQ&Tdb\X`i9&'&uN7\>8fqR5NgDdnY-rUp3&mq).IC5cZIm2Y><37a!Bq@o1A[l)3P'4W"qU[JM!*,BHT5juUq?B!:0TT$Ue3S'Z:i'@><c;(/'For_"T&;m&_m*O,dANXr^9'EHRi('KJ,T@=T6IoZ$ui:nJci[sa*KI0T7Sip[cU\1@XnRZp%O@Aq9>JXf4JFn*,D/(5juUq?B!:0TT$Ue3S'Z:i'860%iO;-o)o;E+--#'N'7DVoPMjXhS]C!qKqXYs'KXu^p3#.%eMq)lbs]h$L7)48RkH:iS29N#MSBga8j8L-TKKME3)RYj-au`o7(VEdC1ugD\LM'qKq<AICG+uei^m%hM5T()P^)LG48o!iFO*kod6CDo_/mdq3etO73?:di]utMZ!NC:VkB!_XZ=t%Ld'0ThfGNQ2%O]"pYf4-`op>t7c2c:lV0bhBVY#VdDq]237.PAX;>C=:"&!EjrU*:ESdEkh4;s&291"Vd0JChHVX4<jrk6,4rin-(k'm,F/b`/]D>M<AFs``Z/.n@JN!@r'7Hs-L]b=$a*KI0hjgP;g@n8*?M-u]hpre59nXSO^I.JQ^]4?6H-a*V&*ckKd/.d`(M!)3=Q0^3D_EjA(mJODM=F'mbNQQp&*ckKd/.d`(M!*^f&oif)1B`LZ/3E\UQ8XST\b>(]ar/00h1'-2(gtcO%><(-3b<8Du[9Cmc&kF'+XXu*:(Q\IFDg#0ep^p'1UkCHr+auJ_l/l]bmM_g(kZV!<&FI5*%c*Crbb/V"@,Lr.n_9Wuf@G")df-1OUpO%tHe\IIm+0.pUq[OiuKp'5&kBe_M*k^o`PZ!;Ob$;c#q*E%@[o!<+bM'U6uMgreg_JA7%,"_I<,[kdd[i%Lj$5oG*dIK!MtDu\;M"(4JcT7SipJGUT]?dLY3J2g#jJhm1Qq\X_]n1UP45oG*dIGVu7d0IJ<N'7DVoE"\XN'<:a!,T^>;c#q*E$(hc!<-R%.4Cr%\BiL9fC1Ql!8*ghVkAu4i''UP!;t%(;c#q*E$(hc!<-R%.4Cr%\<##B!<4hN'U6uMgrJU\J:AGb$HhQ7mUPki^qYgl"_I<,pIU=XTPFZ1EK!'bAb6#t8c5-nLoUUXTo;/=Ab6#t1&:n.?UgZ>1AZOu,Y"EH*<<NXoI22`&%K`r'CYN=7NVUL1AV]Ld0JIFkQ??BN'7DVoDpm*q>fFiUJF/nIDAR94okAskYk;I+)hmg%fh&5q@o1A#Md8]"+Xa;4p>Ni!B2b0!8nZg:I,kH^eKbO!;OOs;c#q*E0JUVpN,siIWYW5RaJ%+N'?/H7NVX.@e;)tUCXkkd0BZd(jub6kQ>_nBA%]]]]AQ^!3eY^:I,kH^eKbO!;OOs;c#q*E"euW!.H[!'U6uMga"WN?N+[A!#m]i'U6uMgr/CYJ7"7!"_I<,GPM*Zln>+EJB\s[$HhQ7mU5Yf^cS;e5oG*d*=aIQgZX"Rl2\U"N'7DVoDs.iq>fHEdANXr52Zo?*rrr0q@o1A#Md/AoDu`hUJF/nID?k^4ofh?oI22`&%I8>#6=4O4p>Ni!I$6o!8sEqVkAu4i!r3u!5(,a'U6uMgqi1VJ9OJTJhm1Q3uEAGnBU5r:duOGLHh!jbNK%YDap@N1AZOhcM!bmc47Y@N'7DVoE!bcI/n6%kYk;I+4+<mkk"!?^da8H"_I<,h&ZJ1Q^?))^ugS>"_I<,h&1V@E5:[9:duPRS^@ZB#E1hMAb6#Z)1;L(_!"]n7N^!Jd0BXVN'7DVoE!bcI/n6%kYk;I+4-S+#65!f4p>Ni!Suju4oj5kdANXr5+o*tRPXd?fUC3cTSu(-0;B$XNZ!6Pb3/s(3r@dZf?*7J!!L(iN'7DVoDs@XI/n61kYk;I+4-A%#6;f'4p>Ni!IYi6!-$0G;c#q*d$N,b!6:$^"_I<,I2RG5E6RNE:duPRQdH$<a,E1cAb6"O)1;L(bihu%7N^!D5L'`=a,E1cAb6!DV5Kj2#JeoL4p>Ni!?L9_^<7/l^hSfl"_I<,*W>h<?LkM]s3h&]!4sr]'U6uMFCb"E^aZ$S5oG)97n+R#S20pTPgK_XAFoo<.AK[))1=b?7NVW#1AV]Ld0Fc(oDu`VUJF/nI6^:l*rqfdq@o1A#BXMK!Pg.Z:I,kH5Y(f53rkd+q@o1A#P<$sif$&$[V#.\.&.=:-2kNJYOg0)0aN:](jub6kQ?,cq>_YWkYk;I+4,qn#662BT7SipJ6n0u!(\j@'U6uMoO@Fn5`3seTSu(-(S_K@;N*dCAb6#:(juCG@e;)tUCZS-kQ?>LUJF/nI6]Ib3'.,9(jub6kQ?,cq>_YWkYk;I+4,qn#662BT7SipJ6r.I*rr)RI1"-\"*u]u!$K8E;c#q*d#69V!%CC0Jhm1Q?Aq&J829rTPgKa.@e9[dMUA>pN'<mNUCR?&N'7DVoDuWBI/o@<oI22`&*V!r"+V)\:I,kH5VN*r3rl&nI1"-\"*u]u!$K8E;c#q*d#69V!%CC0Jhm1Q0&?h=c>!2M*roM"q@qH:dFT5>4eiO<p%<Rl*<,kC)eS^C>o7tiXO$+ZS69\o(IfJH>VQ!gPgK_X@IsT9"f$"-hS)='p@=iZ9t]cY"OGsFUCZSJnh7>ac:;7$/-)maUMl;ZG?JCSr>^6RQhgRI1\uVSN'76O@.[/krohOqE^_MLNf6/pMk!#CkO8$DYVi1oc8+#,T7<J];eZ/AhN?1jFCFeB^]gKO_XbHjGPFOQB,>%L!AcM-!8rIV2d?)BVO'Jtd0HbHib/*oIXrjH>;>uOWc@S-A+TfF1&:n.K$cMQq-V+a3K;DkXMO*&J."j(,h4K\oWn'9)h8)/I/n6&kaSB<5I6r&`j=8\IuB7LTF7M*!%o+:$HhQ7\hNs\i.B@STSu(-$_n44/f9!Db3/r=0_te-K$gKhN'<nmMEfCXGqK)!K[H]jN'<mBUCR>W(jub6kQACMq>fH*dANXr5+i9Jdg#jhN'7DVoDr57I/n6&kYk;I+4,_h#65R!4p>Ni!F6Oj!-#d<;c#q*d"TjP!#LSX"_I<,>o7tiE5Ca::duPRL!^,*(Q:N]Ab6"/(juC'_<=fo7N^!25L'`=(Q:N]Ab6"/(juC'_<=fo7N^!2d0BXfN'7DVoDr7mR6CV\@.YlrUCZS*kQ?>C7\>8fqLEa-CT_RIGpEH!ECQRP1AZNEm@u=S/c]",dANXr5+nIo#6<A74p>Ni!UYh0!4ZY5.4Cr%BP6r<^bql_5oG)9].Tih!#B5>.4Cr%BU?9cN'76MB(RN#UCV$NoDu`bUJF/nI6bCsUX(.s!/iZ0'U6uM[.B2\!8s<nVkAu4TUjI8!8!/n"_I<,m>O4/\7Y@^.&.;dBCl5?25<r5)1=b3UCR@-)1;k7kQBNVI/n62kYk;I+4.16kQ?@S)1;k7kQBNVI/n62kYk;I+4.16+(kh/`>O(2b3/r])1;L(c0/)&7N^![bNSOg"Mj#U4p>Ni!U]gY:&qe9oI22`%qoVJ!PgRf:I,kH5Wb_O!3R2f$HhQ7g/X3JQe_n^5)_Z/Ab6#jN'76OB(RN#UCV$NoDu`bUJF/nI6bDNUCR?*B(RN#UCV$NoDu`bUJF/nI6bF05L,jM?3$@adANXr5+l2bdHA=OJ<_"#$HhQ7g1:aQUCVmW)1;k7kQBNVI/n62kYk;I+4/<s"+Y/VT7SipJ9FC(!*h>V'U6uMZnqOYi0r&kTSu(-;<Atbq`O!'$U#=-YVMtL5oG)9,GPbLZ5@usb3/pGFW>f0YVMtL5oG)9U\rYSoDu0RUJF/nI6]$P%fimPI1"-\!ughQI3+FL=I.@4TSu(-;;\#1o6:DRZA^sNAb6"_N'76_@e;)tUCV$KoDq2mUJF/nI6aR22kMb6o'=_uD?^*rc0/)&7N^!u=8Dn>Mp\GqN'<nsd0BYSN'7DVoDssJN]mGFQI2V'N'<nsd0BYSN'7DVoDssJrc*)]=I.@4TSu(-;;]danHaYV)1;k7kQ;_@I/oAJkYk;I+4067C.gd[(juC#c0/)&7N^!ukQ?>d7\>8fqLD%)*roh+q@o1A#;e44!$I3IVkAu4TTRV,!*P7E"_I<,NJp%$aC=cj.&.;de9CNc^p8n_"_I<,NJp%$aC=cj.&.;deG#$1"2M4$4p>Ni!KHr95*&26/Bd6U:duPRU?Lob7NVV71\qfMd0I$,RVYG8!*_8U'U6uMZnV=V+ICKRTSu(-`S7Ta2#741PgQD%N'<n'rnhL9)1;L$cKJ2'7N^!okQ???7\>8fqLB>N*rt@Wq@o1A#IN\Yq>ao+7\>8fqLB@KJ#BLB63(Co7\>8fqLB>N*rt@Wq@o1A#IN\YqE,f"YUlPF5oG)9MtWe-/%lJoR$H'sTSu(-L!^,*\Vr]UAb6!TN'76_Ab7E"UCV$HoDq30UJF/nI6\18%fgVfI1"-\"'QOi!0GCf;c#q*d)+uKJ6YR9Jhm1QC2Y?BkQ?>LUJF/nI6b37^W`9/IHfhn^m'dA"_I<,eVlZl-t)Zr.&.<OB(Q*h!M`FV)1=b-5LTi;"cPVKAb6#RhSra&dH;YZJ2J3m$L7*DCCJinku[((^V/*+$35_Dn]X#kq7ei3kQ@h&I/rWQkgQ&)D*TtR%fcqRI1"-\"0*5e!)UJpS#<a!d%7rKmBo/SOLWNtDiW3M<&=@NTRbEK8Y<W]q^(LKp,3F;?hHZR+&L5>klZG;7c,KANP;-.4hUZN5+n@l#64pd^,c)g,2LprI\*+XkQBsYoDq2XUMn!ZIq8$;"@aK;,X9`_!!S=qfuf^p7N\imUCR>3(k#>J\]]pq?u8@T!#.-`jsbeE)1B<SN'74i@.[/kh66$9r&akW#;Z.+3Yb<4kQ>4.7c,JfrrW)NbMQWq\Cft_OjOE`1&:mCN7"PrN'<npd0BY_N'7DVoDs)n4od!@oI22`&#`Fs(Y/J(Fo\s_oI22`&#a"1!C.Nt:I,kH5TQU1!6Q.,$HhQ7lM-c2!%;@L.4Cr%W+5H#5T-=m5oG)9*MX,Far#O6b3/rm(juB\`op>t7NYIIkQ?>j7\>8fqB3`.&(0"*P0jL7AW/eVAb89En!UN%kf^UJq1#\YeiO$8&r]!XAb89E`C=4p=m!C2!2+kiVkAu4#\!?_?5*C`a66Gu7N[:;qAM!o!9Re`.4Cr%T(i529BQ-hoJ:mq:r_]t:duNhcfhugq3:UZ!2LK\$HhRbk8A]7YF>#'!J!#%:I,kHn@Soo?en1-q>f0:dANXr5'W[HfBWJ=?m\@8Jhm2\Gt)/E$Nu!J(jub6k_&%9ID%6E!+o^4.4Cr%SnI]g\j-7_M:&5oN';KXd9#ri!*Fp%VkAu4GhCudR;VTF?"'K=J?9];$HhRbLDbL\0+\+q@e;)tUCSESjQQ1kI/n62kYk;I+$@d2lZds\0GC3W5oG+?0Vbi3"TlJ5N'7DVoYJG(^5a!8!&HA+'U6uM%l=&C?6B6l`9:,r7NXb:kj*JE!&,(]:I,kHn?B7X1Y;%Nq>d1UdANXr5'WIBfC8nC?m\@8Jhm2\8^%$SEdsT"!/_YB$HhRb-S;ZNN'74iB(RN#UCWs'bj,"LD=arTdES<JmJqbW7\>8fqVXq7?iI*<\iTm7LXE#mN';L7)PaM4Q`_0R!,TpD;c#q*[.sJ@oCNd$)NE,L!&]^!"_I<lMsmX.1YL3S1&Ba6;Kel:@!G/5Jhm1qg97,aCE@nl(GZ&e%fg>]I1"-\K5*m5hu?i+`q6=o\1[h)T@'R0N'=335(%Yb3hrnH@KBjH7\>8fqOikrfCt61gi`[rBCmW$UCSgoHs*Jukke>//T5^Nk\I_2!18DdVkAu4W),PODH]V/N'76?@ItusUCTtfD3I&qGB(hIFN;`"[9P6_be`LA:duOk1AZqn!2s>u.4Cr%8sPFNQJlHJ!PgaT4p>Ni6)c5%?i/OFnBC)H\mtf.JC19fN'8Y$oGN&W:rDKq:duOk1AZqn!2s>u.4Cr%8f<%H*rseEq@o1A#=U+k7AnOWG/fCQ!5QO34p>Ni5nTm\Fm!,))">NH5W;0)Jhm1qLsbrPq>d1KdANXr4t'n4]cJ/A_qf>5BOUN^.&.<1(k&RmJ#7.o>7LWbN'7DVoKeVfdFVs8%CQ(:I`J>5#JeoL4p>Ni5nTm\ajF13i;bPmUJF/nI8Ha70?kA_an'\gDu^`GdANXr4t'n4)1;K]allZ"7NW=!qM[T<W+>NL.&.<1(k&lR^<G%+^m'dA"_I<l&Ym\9"+X!5T7Sip+CEB;-Z1X7qOVo0)[cX/)1;k7k_"7Phok3cJ8.QGJhm0F?e"<*GWG.4*dsg=C]J-]oI22`&+UTdYI7;?oDu0RUJF/nI?;e=HPq53:sJ3&:duPf1\tEI*ro7rq@o1A#Pj=mQdH$<eVlZqAb88PU[RmNkUV&p!&-%#:I,kHOO*-;)1;K]c0/)&7NZ0@q:<K5+'^mg4oe]<dANXr50/sK7XgrQkY%PWqD81+-)47%)1@SqG4]plZt^-OEHV=aLXE#mN'><no_n=XkSrMn"$erC:I,kHONH_`]FLc>W8^"BGUibJ.&0R()1@Ugkki"&7NVUE0_uKJd0H(u^<c+QoDq2XUJF/nI?5\'E#F*"B><]5!5P7d4p>Ni6&q\epJ].U\<##B!;2:7"_I<lNWBC:#hQoV"+UGBT7Sip+NK"bCP;$Cbif.Z72UF[b34Ht,Ku5MYCk4-!!S<F"_I<lN^78Jpsj&j!_+73>;Q*iPgK^r#+6Xn=!M8J%<9u%5Wb`:5oG)i.=>lY$bn%'rZFYag%.utb.S;cNJp%)Ab<g8n>Z(4p6r@,0r#80XVlNob34IN7c30/2u3NIN7"PrN'=a^oGtY[UCR@I(jub6k^uMthr1%_q>d1IdANXr5.G.q*PQ6_%fj`hI1"-\K1e\kiL;b%!2,:uVkAu48/l43]o5,TR$uF#TSu'*)f##YK!%nQ2d/0:7eUsKqK`/r,bn.$)1@T)g(S_+D^]7"FeY?*^iPGu"_I>B:ZHrT`on@6ii5aq.fagMdANXr558ji-gK`N5!RNj1AUu!@e;)tUCVels,$R^U[RT7,9N*@/K4ZF$%PM`I1"-\K:g/5Q9NCRX1K!eUTaO=4i$7`TRbFfTSu)0C&DW.7c.#H)1CP[hZE:sN'7DVoYF>`5C#0`L2qQtSiL-;^Y]+^IuHPpAb<f7;`o>Sr^n)WLN7:X!se/<S!`2@(LVGVT7Zo$qAOud9_$?[kSo3&#I'a?c^_nFs(fN2558iLB?h#pac:;BHM!3=kQBItdAK"2g>JkXSiIa<K,EZfc$s+"'R(J2er7=gH5l01Y<#qaLM)#6jqrO9dhGTINP7];0`$7s6,OT.1k;\GI?X<6bJ%=]oW#7@I"(f-IIP]":RaikI=A'^Ab6""b35=jm\;FTY%KNdi29_L2EuIMNP73DNP<$^('(Iq^,aAAF+=1;p77iOQ[)(j+8dt=F(V1c"=&<'WmM&*';KK_o"TWtpd9FA(Lm#&TNRjBa,[n!\)"?Q#!=TuU[R,IRcGJ+?rKPPC__B=B&YX:*t2_HkKHEQ#R28spUr-Y3\^E-Wc@S-A+[U9ApM70oSoO-.,8g`N';d6(k)#*^A.[^qHui-4^0i@7UYih:r_^gUq4O3??Z<Y!t8YAB?SV+gQ'%fjm:D6:Dp,'8p7sH7N]EVN4qm[3r_#%M-#,>p?Z7\^I:U6I%0HTEo?/.i6nJ^(1WB=45LMKI2IA>b34IrF$3M]qSH6;a_1%f.IK?L*>s84b34IrF$3N`)LX2U[;khuG'IId?fIgBH;=atLs`,nN'@"pf2H7U036p-^XD>8lf/.V#Y(G<1A]q`>Yegg^0&q[J$/reoE!1VkYk;I++0RG8SlT<pf@5<Sf)t4hfO&eO1pWmV=[JUpH\rO.&0R()1B^ZJ%=WI@$f&^9UFR4ZlL(RT_:Td2pN!jqM[Ug@RcuA1A[B]g!KWmXnon]>fZ%"\u#5[-tr7$$\()SG4\N'E<PbNUJF/nIEX##q.09,n]+Vtgj)EI35XRtN';df(jub6k[Q57hkA';GBO;Kmgu7tjbuWpo??D[Hq,+Q^]?hYq@o1Aa'=S;6X@^]kLU0&^4_fQfB&mKNkR`EDtF'p1&;TKdDoLN^,,Rd56!edF7]o^O9QeT^"uBX_U#r,4S=IB^l=::"_I<\Oj%I$7UMK\*e3cffp/Rbe*.MVEfaa#hlZqO,QA+@rG^uM+%cMl1AV]LdDnY6^'(5"@5EqXNpkpr+$^:1:I,kH9VhQgl#Npmgi;KoI0iC#k62cP!#LSX"_I<\&Yh#<mQ9V#H)o7orhdGZlZF4oBmaiEi9[rPQBh++4+->o(k%:ak[Pf+?c%,an*H!c*2N*phs4s04ZW@&#<T`hN'7DVoJ$rQ0CAJ*H)s)3O#R"UDtb,tT9j`t*P%A`A-$d^oI22`O,4^%Bm9SHa)OT+#UUR?m;MjaKc#4<AW/eVAb7\hUG'mUHd":\M5C1;GE9JE2j(g$!;ePJ'U7"c7#\je]165?A\Pj!lI"5_emClg5TQUq5oG*pU@]6dhYec*FR//VEnBqe3oS,Ymha/b4`AaB@9-War%0r+`tpuG7\>8fqNuuaGKK(7./h=:@n0nFa2/somni%%!LS_kVkAu4U6Ik31\u,sh?9UWoPM:%Y4h4WYN;n$S\=R*7Mkim""7RL.4CsP4.Q6srPZkE]2jm)l4]\ZZ0lG!hYQ![+!,iss0Kn<\ESs/d9$98\$Mc@oDr2Nq@o1A`uXSmmUu1R\9ncnH-\<SZ'MkJGR:i#WltDjZ,#R=\_+fn\*XD@5QRWU5oG++iJsgcV3gG)%^1?=e2Pn@/,Q&?m9</sE2(`]FSa3[)LVUNN'7DVoPoXJT$81%'mb:VC7N]GmmZo\TYh.%\XjPn$!He!\t=!'dFWD.JGC%1$HhS-]9]@67ULAq^HU2BkNKPL[QJV$%642>:MfY(<&4:aPgN!FNDJMZr?RiZpIEEjqs++`[I0fnq_`aaqee+G[mV-_!&l\0'U7!8G=LJ'Wh5T<]Vg5X7[IPMktQ)3W6tA<5E.jWCIXqJ1A^4[kSm7P:SQZb?ek;@SOQsnQ^;X_!E:iN'U7!8GE\%NcTH]gj4bnfGQ(9Ca(oJ_I@W@0!_+7s/u)3.)1?VYrY4el&raOdI/WL#jgVnAY'9I,IigX!j;QnIk!Ip+NBVk&N'7DVo[05W2nm]heEuY[5PgC9H,F3:1!qp')gq],(jub6kbG=6cej[FEjU<@EVc.A+#)++qt[+K5(H6pT7Sipkf`2M0mEQfkei@n_[?TLQI2V'N'@(nqKRtHpFr?QTU!p&TSu)2\mt@qo?/aKm@93apTUuDBCl5c1AV]Ld77QWT"H@uCW&qK`m`5t/26p,Zi/L4_]O5As&mE/NWm5cN'7DVoT:Bu2dI8K4D'SHZ,#RMX`>rmDJ/Sj.&2hCq%M!9j"Y<X%AU-*li>Kgq@o1A7uke"f(#/4Qf"NUoW;ti+!NN;g<U6_%AQ]bXYfkm#6G4XO1m6*^9ni,+cJU8H:FNY>&<iE4F+G,k-*5RmERZef!aH!bIL[4fA,QlW+Y`OW+AG*QQH7gN7#[rN4ojIN4pp2!&+GK:I,kH>l))tNBRR:bg1XmlMI#\I]pUJf=\:eD\p2B7\>99EqFeZ:Kh:h^&d\DUMkEIh_J6G>l_VVI0s_Kd?jm0-n6'^$u<?"2pTtADW.'c`;K[o1\qfMdDr)R]6DI\guqu!!i,5WnTPNkq?=DM/UZ$)\0#*u7\>99@.__7o4@O9q7>FMpU8JY4JQg@roVLAog9-)I>Z22j3kT8mo=DIL:mm=(k(`G3Y?eR*jX*DKhWG5$>SPIQ[T\F/k=g?pTr8V2PY14RnUR;DBiuBkYk<aO1oI\l+rS/7c+p[&`2_UgG5Pmng3Oempl0?@/1`I]/09tPgROJWUE<ODf%u$DUuN,#6/UT5R0cNJhm242"f[<oW>7`W/Z;.NP72ahZI4'J$oHHS'e.,efK6"-fEG&pS$!D2PY1LCYo4`+0<fP;c#q*Q_qJ-NP;g&3r30.^GU42$f;7[+0<fP;c#q*BsZ]J7c2pY^'uZA-Q%995,1n>)1A=*IKpd>bH!UA;]KSJn'&XmK$ahh1\qfMd<Bc:93'Sf5-s-EUMkEIhej4D'9#+WT@'R0Q61OCVtkVtbgUM$H$T+QC%O"'khFA!GCn3IlSJAOPgT6sA>SlOs2=MtrFQsrb?K,]]frU^/6D^d$f;Ia+0<fP;c#qjrb6\LCG)sN7\amI7c/)q]H8nY9YfkEobi/bb37#5c.NudrWGC]XY]g>BCp%S]"90LRruLGkB+0C-t)ZrW#\?7cH-thaY#^SB"qV@hsu`?%8D%J(k'2,7\>:$HLu?-52Z?2G1BC;ZemCMQ=kJ4hhJ#?.uZ[M0;D</)1=r?F8(@sB_L1loIY"?dJ*Kc<@>B3GFS$'0`$=7N'7DVoG(ZWh%qi>fl*5)[lgF(6dsj+B34lppeH#8JQt[:Jhm1[0'DX1):7`ZbNR\HdG^S\=JpZ%j0n*].h^GlBCsGk@t>"WT7Yd-oVG?"oUT.C7N$V9=EsIXBWd!?1A_"JA$4PoU_nLeb31@hS6IXW1^i(eUMgB,heqR;Lt/9H:\hhYN'7DVoT`b.XVWa]"`BRP[f`CD6PCK\p<f5@&7?hST7Sip8h]AY$Q71j2p1@=J^Ls#M2l*%kWA[tT"s-?4p>NiQ!Vb<(G_E_DNrPX"/Bd%'-5,`cTX?&Dk`^0S20pTPgS+Ke*)seNYf3&7c+]5IZ^gD]nVB(A&[X^]c:Du7\>8fqM`.A"`BRP[tDlAk>*/#B;2/h^8h"DT6$`r%%K*L'U7"sn^H]JT90r"77Q/]&g-$Am]'kZZ:5r*0;D</m5+Ua:2fbN/9$N+^.g`Z?Zd41/-jej"9)m(.4Ct;kY#%9()_Oin;AqX1r]"0q;1/%P@^<i(nK'PTSu(004BE9AFs`UkhFS]LY1emIPL[5PgO.9,qO"nN4r"'I<un4&0$&501MRcg3iPcr>`E$BB1pfNmY<BUMirg+(CuUpr2Gq:e"g,X0^Mmj>Ch8dC4tE5Iq`]pd_mTkfZ1.0J9+r5oG+LY0LdSNn:d$Sk<k:khF\H#<MI;8G9VO@!"l1Jhm3!?(KM0*NsI(N4s_Q*CRqi'8%Cj^>HC[pl,H[)1;k7kj*G8<r7!O`m$77p0mU\WT?BprQt'a]tK7TV^XbT0IW\l5oG+LY0LdSNn:d$7c-CY*^g6T/(KFPJbL%W&,=--;c$\X^<a,&I0j]E*2@Eo?b]$:*M-2R\=`TFYgMV9'7M\4'U7"sn*3UBkr<+2Rq)*,o"'dolH:W).s7a=4lnYN#p+OMq@qGlUTaX&I.trNMg[Wjj5q2,Ye4C7htS#_!2C'R1&;TKdFZcTT?c#t3CY+WT`#foW\::B9al/q&+CO(i"r.a5oG(kXn9/?RG23C_%,1KY?0QAe@h,e0(8m2+8fU?.B)sf(\Ic74o4UDM=SgtSET.h#JYT\N'>l[YL-Ek;0?egO:-Gdd0IE'I1!!tkR2YE+7Kq6qC3Nbr5dP!_h[3$GAeLs%sH<DoR2&J>!7@d%l!k<(Sablp%h;<o*]-F:E64+n,)3Z:G%O>/okjQ9",Tpe8b+\TD7n?iY>^rIb/*Yj*Y0c+W,V7Wc@ZZ5+"RCrW`;=EQ@e]7GZ/gn(qeK+7(-MUU]=D4m0HOhbJ@8UWSOV<2HAYn11WGhtdC;)1;jln*!EWYe'oXs,F`I)1A`A&Ot[DB`3'1j!.Rg(I/Yk(";P25p2pu6/=9l&hi]e^rQJEmZ$CJl%&MF$_n5UE&f4J^1L?O;snupRIQE^k_!6$4p>NiF_(-(aln?te4kc30"g4%),S`E]AjiB?n=d>Jhm0`1A]"Ts*\%c]^FVaK7!i;Y/dTkT)g\C=J+!=TPbZrkuW!^k2ZJ95NM$"715k$Fq?G*r("<)Nhc(6[4hi\:I2CI^=W\R0d$<dIs@[`@W+-dI9Xt[K2(.4bAMWNDnd281]$%#dANXr^:s#^<o@U[WYp5h$);Dq7GedEZ'm6]I1"-\lc\K2O=([FM9k)'g%V9=kG:U1DTqcuAb<f#UJF232u7Picsk3(J"ppISk-Xt^4*]YOuludl#hf.dhNLjmnhi:_+]eO"_I?!Fl.[ZIdHcgH,mA_6ipK1>`Vt\IAIZjAb7FM8Oq[BO8MK)J;c[")07rI)1D#"kYk<-7pf8'hu?HbCZ"[o4mXEn@m<_/T4.3CC.9;LN4C"5B)En[(E/l*Ii&+^?Q3VLok!b)aQN_l1"YI9N1U73K$gJV]Cjo?1J`)@RgsH(mrgM`l54rb1?NnqRe61ogrS]KVmip[p=dG&MdCOM7UKLlhggYL?l=#K?;:9A&8l%N:"&"C]DQmGWue3co]8=,hXM.?m)/gN^FK.mo[P_nJ7ZstGW"aK6+E')2bAkRfDS^qAFrU7kc84c!R$krn]L'JG=LJ[V8#Q6oTc$=Njl_8UT]^*#:sAfa"*nqhAL_TQM<)W\!Iq['pnsuAWG+#X(1c&/",TEbNOS&7c/%DN&@B6m_g7b3/bCepl]j&d0Ha`U5(:lrSa<p2cXM*Jb/4S7\@HFdu2UT_<:u%1=8ITd0K-!^3MaYAO^%1'0gkYF#!M@(k'1l-@3c(o,[>GkaSC?,"qi?Qb$6]OO6!'UT]9s#HVI1LFf22hALa*o_&)7Z[[E$7J4P7[_1nnN4uh>I2.])?mQILA/TgbcKJ2'c]#Sqdm%nNdkU\K(k'1l-@3`gqV[plVkB!_\JT`0N':Vq'0TkDIIPPG;c#s@FDeef9A[-I+0^ob*jU_gG\?XtW4LAXnW7PYoj[QY1AZNdbjpj<ht<N$*e4>^T7VB*oMqOL^<;q/:SXbF5%$*D4DO\."UBuM"nd?USOVL9Hl=SJoDsl<i_dm3.l^r/.B&"lhcJ?tlgiVniR;HhUCUJN'TZE]>JU?8:I.-(qRW3Q6bQ9jV2RTG4l\bGq.p3>N'7C[1AY>WrMj5\)&qK*m!K^'Ab6#h)?592B.GrLoI6`;dJ&&L5<\h>kN10+.AIDUchJ#UIb-Cr0_uJ_m-(L[9TSeKg[9_pmouOt=O6aQ>XfeT0_uL5TD-%I#>_*JQI/dPkQ@,-pg]Z<#7$2O"_I>NaQP-`oDqT'r3=H/K*+T8Jhm17AFpTkqLBk$rn(fS_#^<,5oG),$G?COAFoo')Yr@8k^rt,T7X'[IBd-kni6Y)q?e*g^oE-;pj1kU%=?hQ`TU5s7c0/`^*;g2[dX_2Q8dqNfJD,obhEUDN'7D&fBDf3s+f!'`97:=2VNf9A(PA#)\-#04p>Nic,f*!@e9[/$[`N_I+(kt)3<WJallZ"j,C^B9D/YkLXB2AkQ;T4oYF4[4p>Nic)CO<YkB)QoDr`cH5qh`IF#YgkeQC\:e'?<qVDs&hm#WmYdTY6Z*0oM%n7XG0_uKJd5NML0;$VsXKC+7f[kW7^X8Z$NnU)N^JUqBoI6_'msD7$LJ=O^"@c`^UCUI2Y=H.L*ER>lUCXLFI1"-\RoIG?@ekB$kQ@,pp/"fdQ+Q[bI@f<ZK/,ogJspBFH!pZObIpdFSNQN7IK_:klbojn.sIWc:7j^toEDs7W+#<I.&1]YNVCF&>OS'U.q!"6N5"`o(k#6#kYk<SU[Qch<_q$4[?&%.f499cYCOmZJ)r<SoL"VPf4P%/PIVQZ$HhS%<6Mt[gHFg"$J8V&O3D6#EXjl$#.XeSc0/)&7c1##^3ne@JBcn/qS)tm_IMg9f)[K@I1"-\RoK'oZ/OO&r<h1^hpM2l.\dL](jua+QI4lXr/K*jcfbHhBCs"gN'7DVoM*Klb@gGJS#^lQb^?tK#6g&M"dLn?^4*]cj1sm%<Hj5bGrHXi^ugS>(kpA8TJB$p;]c87f3oFa?Tt4qT].coFJJ:^bgh5B7\>;/*dt6_L]&/U%ZJ,,'mIa-pS#t>cti9ErUetiO/7J6%6.qk.4Cs0?D[D<[eHKC#>k.D53E`p(k#5rkYk;VN'<<]LQ&r@7N]G/pLNFaW;bD2b6nh;c8C/_7\>:D*.:UHIN!W'N4qtT+2HhGin\_8J]>5IE6RNE:d^5V6*A*VN4qtT++V`D6SS?NPgMECUG%hY#OqT[E7b&.Dk%'\ENTTf1\qg8gZ\P4G($-(=@QXEUCZ:*kNEl*_DdHC(jubVkNMg34/:1^LSDClkPNWi"*b]30ES"F6%+d-fC-c(nBpD"r/B$ialihO)1=1?UJF/nI8e>(F*>8:NBVmE@"2#A50MhKk%=67W5I$WMYljn7UHb&08Ip[n1siJ"@f#8)LV1&ke<:,([ZTG)LVT=UCTh%oI6a2k^3;ke*&;noNa6K!<2ck*Sp$arWY,:UJF1HNP8K@VhVu/-_+8`*OYL0C%MH(Z,7gC%_%RW)1;j,^sVo*_f's$7c1&\c/8Gj!Of;O,Mip>Objs($7[e,?62,iEI"?<5EnVZ^h]!$]H(l7'/TJ!PgQrEUG'mU"5(Q)O6Z=CEs`b4$7\48R"ZVd9/HDE2DOZqqRkFM!_/f61A]R0oVEFR!1ULY;>lp/'W#`eY<eP=dANXr^,6aUBkR0jHNmk@h&kAn)h%O#aIfu2Q-lM&N4q.dI;).m^cn&+I>93A)/TjQT7SipemS-H)1;M^=F9]9N&EVi:I,kHCG>V5I#8'Z8)MA\5F6QfkDRQni^_LrBCmW$UMgT2?^f@IY`Cq;?d@>]BCmW$UMgT*$`"Yg!;fl@o_Fuh.kpf6PgQrEUG'mU"5(Z,U[R[]jo80^T@>2qoI22`D]-:85JcOcfZ/<5YOk-uQdM_(N4rlU2$r[jJ:4LUqC;JRHai=Z*K3/cAb7RlY"<Tq!:6K@@sd2CE.&UP].j'qPgQrK]-b@b"0e%s&+;_9kLNEH7c,hW4p>Ni/]4__E9@4;A_YU6G8?c[oI22`D]*^mJia3F/+\e8fD,EJ\1!)AoI22`D]*^mJia3F.lWI%T=S;,k?E3hO1po9E]^$l5oG*oY\Om,3<39oA+\Ssq1k<fjgW;*"?.a(:I,kHbHPapgc5@=l14?CfH7mdqDMgT.4Cs0)2Aak*qTCcq>dsEpZO,U'448T/um*%#&G9<2glo$7\?D1qNbR^,oD%1>8_2J,sDPSm^j'#?^JspJC19fN4rj?I0i@b^i%jJiU7h9hllu@6'j70Fnt-k5#HcD\ke8K"_I<X_rs`Iq>b[paQT[2?:NhVN'>LRdC0OZ0>ZiSfZicXYMreG]kO)hh_\&JUJF/nIEO>@&r]#)h;%rbEB0@mI3"9\OVrS90r&Y)7ULbp#I'n.^W`MM1pNZa.c.c"&ikn7c'Znf$kLho7N]F#@Rjf#V\l2t%^!KMe`]q.7c,s`:a[*.!#sX>oMo-$cQt2lh]%i)Mp\GqN4rlu-N""A%q%aoT@)8]dAKPlqNbR^,oD%1)[[R5K7&+s\f*b6jtQWgBh$uPr,%u\5*5k^aQPGV\hj1>Bh$uPN4q)3OTFh5mQ[-opudtrUTa<1f(S^<W4?,k4p>NiXi0Eb1\`>/!,ciOhaS^cLZ"-*mYj>(RaJSWU[O/h#I(,h7pj^eEU0`H]iJC`nr,b,RaJSWU[O/h#I(,<8)NXQar>*`ICm-a?iSYs+o<ti1hfG:8rUJ?7N]F;*Z0;WDs.3^UTaV_p<i_AbNMl$7c-gAs6J.FN';bT4Z<.ke`BGK/);@#cG#c,kGtH:B/'/rP0p`OU[O/h#I#SNYLiMcY&p:8lYpJTI1"-\>D^aO`omNWek4i#=eXI9jBUq5WFkd:hMf16(ju^Cs&Nt:DIW6<]W1M?X"sN.DarVVMSHED-Uo2nSk:*ifDF(EjYPh@G>!W"^D4fQ;c#q*RkX[=p12trID$JGRQ%"&9cX/PXcR<"^ltjh?Cq8M]4X_RI@<*iO%gI>!.-Kt^5g]K:A='4(SadtB(W>7UCUa.7UIg<h_R8OhrrOn)1Cl3m@edr:L4%un7sMcf_h<qqD<=a+8[bg!;9sqos41[A+XL#N'?rDoE"=#kj)gC43-R6e/<]$_rq3TPL8"*c?E%GD8/&udANXr55&FW!UM98!T0f0[%6Y-UJFg$oW\q%%q&1&?S=Lu5=V9BcKJa[7N]F;N4t>G]SjA7$Q4@"b33=c59GdWr3QX3V`nIb@Fr-4kgSl9I;Hmd"5&gbf?7EC;6ObNoP+$uNkWM@&k3tYSrCBik.6Jbri?!<^Ai?/f@:2ETDr]EN'=[ZoE"=Cl\G,S*kP%.RclAMqkW+)!0'1eT%1h]N'74SO8hC$>ajk/3kMC,2keuuH8PI4PgRNPN'75J-_CHf?H=kK]bE@#;PuJM'U7"cDS@3J-i11R5^/im"ajXt1"!\anOpG_hmWLHLjd"uZccF`S`';_@e?oEUCVl>r;G2-;qt6:=7YdohKXE#UMm.f#MRMOQZKIU;r3Yaa)6i"!5AF0boT&%A=DM<1A]MQT3ZWNc8)<QiE$G[]K&G']4q3A>l^tHkCk*Ygeg(51@r!pI2eLJ`OgV[7c32!FrGc/!)-pkd?f.<lJ$Z)7\an1o"S]+T;-<09oMT;%fh,gNBd:9rgjn#Ds*!I?fD2X*rl9S=`<r/cdHi\hp6*1buW5Qkp9)7oDnqG&YlQ/@ZA+T1AUtNf[,eVn*F<H2tkiL(k&`52U)_=SmHU>A-2f3ZP\)^p&#CaUMnbu1B,LDc5Fr7qtr$$q>^N:\*E0=4E$Q*qsT4UI1"-\!rsJ$g8"+8c`:UK.4Cr%!.]G)O1tMh]iIUpJhm0&!%9VbY^2:Y`JctaAb6!':o)^OlM)rqh\Xr2UA?YA'V!JT!'l[,UT`n0/l-3R8V\13!!!_tr9I(_06#dqp\JseN'7DVoDnqg,\6OQIO"'tMsk6L.5[e1!.Z7jU[Rf=h>b.)I>g>nB(Q*(:o&MG<W!a,cd=]Hb'RXj.57M-!.Z9>O1t)7)LYLP7NVU177J,BF"P+mdAP?M4obRT2/Y%A:O4dk%fh,X/Xu(m]U:Dps*(mk1AV]Pd0BY:.AO)`QdM_(N'74A9#Zh)l8Ka,kYkGM*rl;;Wg?fO+'>.ZidETY'U@&N!'l7L3HdFZ51NuUi>@!#b3/p-TY__EDf%t9U,)QF!2s;tPqr1MQ-fg:5R!pdPgQD-N'74Al;T;oUG)Q@^Ga="!s#!Sd9"9M;cH4.!!%/#^,#`gb=KOCs(fN24obTJPV0JJ(Z3F";clL2!!%/#^+r0MJhm0&!2rr*j,?0s:E^U(!!#tSq?e'f$HhQ7!2,e.=2=#u:duN,!7d%B!rc__Jhm0&!2sN%'eoIuPgK^95W,=?JC19fN'74A>3&I>UX/.&84F[$!%j/D>Xk?;1AUtNBOUPp1AV^7_<<ZWpYf4m_L^R!A%`0RH68=jCSNPLdANXr^9'EHRrG%piE1$8J_nEma4fb#Ab7E"UMjq.od1[BI5ofIE1lq[ag'-]Ek=!=QdM_8N4uDSesgWOpYf4m_L^Ra4NBKqcl%7$T;"+;[cU\1_L^R!A%`0RH6;_uCSNP@dANXr^9'EHRrG%piE1$8J_nF0a4fb#@e;)tUMjq.od1[BI5ofIE1lq[c`oD)Z5@usb37TKA%`0RH681?-625tb]BkF^+;aGJhm22k#cQ=J_l/l]a4pi+7gK<ZU+?YgV_WX3(BNl1A\HA=Du'-hM5US#mYbuo,R)7k^3)n%*e!7:e'?n*:$<Yd/.d`2rR$jA#a&;\aM)`G=J3V1A\HA=Du'-hM5US#mYbu;]TYKn!_Y%TT$Ue3S'[=T_IDIDo.(^a&L+5kdtI!.4Cs0CQA'7*9_f1esgWOpG(4'I[bQthZ9KJ5oG)TF0%=Z5juUqhLl!EO/\/Id<Ek!;c#s@ef=!M37.PAX>f*'mpiA-rH%('I)h10"_I=Cc*?,Y"2,5cH4pe\5%Zn-hcnFj4(e+6.&1]rNqF_=k^>GARrG%p1#&rkqCWV5$L7)4M'PZUeCN64s/WKCTDr]Q_Var28WpGGhnlS=\@l5-:];Y3OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>j+andP^.Y!YnFVKK]Y$')G'MM?NiBoZAu,ada7Z5S*l)i'Q+4X!S#2gC*bZYC;s,sEV!d>,!dm2uA6tpaQdIiU,1X``i?#=_"7>,p`p+&4O6Gi.37'j`k:Q^iS/k*Af95"5>^ZQ^5@PW3(Wc*8WB[dT5C@g7_`_VF%Wp]1%eL&&Lu'C!d9G/8ptf?:E(g$Tirf>N60!:r*e*QDl'p%0>s8KA4f/_`R'doI+4h0;oPILLJbB[=>t1H^4%alupuhSF,]QG;/L-U2%T%.=*UYY_50uKrkGnE4GG*!XqEXq6T!@o$ZaZ-hrQfs5DFqUds.ka*M"'%P7Hn+XH/c0Z38B-fGG#VQEhLISqh00da/n\o+(!7GBcQ>VaulOjT;840NtS'j?B3'lOXiIRSg)Hah18>6b(1V?\rTQ-dF6Y3O?(ZdP]Lr(?K,osqPWDJ^fU@JaQVA(UMl?T^.gBZ[`[ftF@UJK07C"q.2>tX-\]JnFgq\CN[O`7oRQanhBX2j>BTb[XQ"Mo__(,FO)O&PS1O\FQ^=SJ&dPT9Qoa")<d13b>Yg]IkY:U[]iCC(mdc<*YEC/&OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jP,)*)ID*M$_[*dp,Y=/pnb[^jId8fcs'5>kL:YK&Spdm!)j2I<dbm8NqAstsM)VfWkSrJAN-7o@8Wk>>B(V(.c)8&i"'uj:OsEV;V+9G;G@S@8:M/Fn&net,>A"cIp@@\(^0OqA"d\"NG?jt9"^W77bI;V=J`$LQ3EOLS,"[qCBnUpfKsuQmS@Ic_FY>a[,)>@(r2O>f!qYl`r-Pj2b$X"eo_,@J?9.H\q%I(t,Y?E,eW%;eIs600ri<%hb,qGBilYWBQ-:nmFWZ#`pPC.eP,+2f:\AeCRIKbuR1o&U>Z6TqmT7-p%P3$Rk1314NRE/LOsEWIo<isihs9;Md14KfGb[:^8tS(+8Y-fJF^M#Y]^hE`I-/u&]S8FRi6/m!,tX7F%FWS]p,:n?^\2bmhR=<`][=rE'ht^HH1T'mj-?hF8mghP\GUR8I9<cN9CFo5OsEUB-!%q<Q_O&cJ+DrA=;A$^s'f.-b%+gddG8qj7o`plMVFE1+nsg+q0/AT8Wk>6(%m9Y/oP<PYF810KdB<R,gFlh]4pO\01h<P8^DMSrJ)UVop(jh8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y:mA?XGHXdM.Cbb)dl?1D]s07Zs!=pnnNlOu-\-cXE^:Vo'="^:*lC3S36Z/=Dj"NjTtLoXi/-2^.e2iV.Ug*KP6[X27)48<Tbd]Ci.#psZRiDH-JPk2-n6Vu/[%lY'[\hcF$)Gu.*dVq2+'h1WB6_]A#_WtQ;4GR+"BpnnNlOu-[$5<Bd`S>U*RpI"UT=?`@[YBT.??C-Y;Sm=fmG`OGj`6#k\AOqu[)>el7nbN,PkuW:oMo/Ur?f96DKKmL-IC>HU?.Ba?H-2b'?0S3I]XaP"R==H(*mIoi]=jR"@-uS2n9?89`8s)8g&(]n\$F6*DndIkL\U6(%KDY98Wm[:kBYn:X3sc^9:nS#?=qJ]X@'H\j\%_Z:#(NgX&jDf5Mo<6?>[I!M;*/t2<q?jPDA_[lE5<i>[?cQb7DqI&(o)"q87]XYMnF.!').E3B&YT<G-MopnnNlOu-\5k@=>6q*/4aqA_9^&n7L(j^5oqkJfOV:Z@gj?ZP9Bppurb\6YH).XKB)IQ=I)qNd_DnYS\L\M"G2;:.,Sj;jolkgV`s]So$GP#U2tdu:VG\X-*9%kfj>[!D.RL.0GXoC&X%=7s.6V3bHW%^>5>re^g*GfGd<gZ=4Rfa$m*5O)!+A%b(Ql5ft47\:qtWibe/8E(r[kE)NY/od2qM@=mT\'4':Gb]E-q4Bd6GLUYM.m@)#hFcdf%3L#Y^B=-)5c]57GStpm,cS5r-Z9aGIt%CCbiaGM4iba\ak^=so-G,q>5H%rhp;,e!'`.1cTaVnn&"1IR`tB3>[ZAF9O*Rp6^dP+Sb[h$96D>\I30HG5@mBKU`'(*7-31dF-t9TjZide]YGtf)-5NieZV#\%f(:N`2+d*g\iJ6*PSk0Y?K+4T/c8"*Ql</b!2ub0?Luukt9igB*T`&Y0pC*J'*iu8M_.],YHC,dkgK)T%Hh<rdDNM&DO5S:Do<@Bu\#^_s$oT^1B(rFt<JhL*T?ZZ2ZrZP9`__,ct8FlBEPcOsEV^,Y=.udJj8(\WDR~>endstream
+endobj
+129 0 obj
+<< /Contents 194 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 174 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.rst2pdf_image_0 128 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+130 0 obj
+<< /Outlines 132 0 R
+ /PageLabels 195 0 R
+ /PageMode /UseNone
+ /Pages 174 0 R
+ /Type /Catalog >>
+endobj
+131 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -2137,476 +2215,476 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-127 0 obj
+132 0 obj
 << /Count 54
- /First 128 0 R
- /Last 162 0 R
+ /First 133 0 R
+ /Last 167 0 R
  /Type /Outlines >>
 endobj
-128 0 obj
+133 0 obj
 << /Count 5
  /Dest [ 97 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 129 0 R
- /Last 133 0 R
- /Next 134 0 R
- /Parent 127 0 R
+ /First 134 0 R
+ /Last 138 0 R
+ /Next 139 0 R
+ /Parent 132 0 R
  /Title (Introduction) >>
 endobj
-129 0 obj
+134 0 obj
 << /Dest [ 97 0 R
  /XYZ
  40.01575
  705.0394
  0 ]
- /Next 130 0 R
- /Parent 128 0 R
+ /Next 135 0 R
+ /Parent 133 0 R
  /Title (License) >>
 endobj
-130 0 obj
+135 0 obj
 << /Dest [ 97 0 R
  /XYZ
  40.01575
  651.8394
  0 ]
- /Next 131 0 R
- /Parent 128 0 R
- /Prev 129 0 R
+ /Next 136 0 R
+ /Parent 133 0 R
+ /Prev 134 0 R
  /Title (Overview) >>
 endobj
-131 0 obj
+136 0 obj
 << /Dest [ 97 0 R
  /XYZ
  40.01575
  304.6394
  0 ]
- /Next 132 0 R
- /Parent 128 0 R
- /Prev 130 0 R
+ /Next 137 0 R
+ /Parent 133 0 R
+ /Prev 135 0 R
  /Title (Features Available) >>
 endobj
-132 0 obj
+137 0 obj
 << /Dest [ 97 0 R
  /XYZ
  40.01575
  137.4394
  0 ]
- /Next 133 0 R
- /Parent 128 0 R
- /Prev 131 0 R
+ /Next 138 0 R
+ /Parent 133 0 R
+ /Prev 136 0 R
  /Title (Supported Data) >>
 endobj
-133 0 obj
+138 0 obj
 << /Dest [ 98 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 128 0 R
- /Prev 132 0 R
+ /Parent 133 0 R
+ /Prev 137 0 R
  /Title (Future Implementation) >>
 endobj
-134 0 obj
+139 0 obj
 << /Count 17
  /Dest [ 102 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 135 0 R
- /Last 139 0 R
- /Next 152 0 R
- /Parent 127 0 R
- /Prev 128 0 R
+ /First 140 0 R
+ /Last 144 0 R
+ /Next 157 0 R
+ /Parent 132 0 R
+ /Prev 133 0 R
  /Title (Requirements) >>
 endobj
-135 0 obj
+140 0 obj
 << /Count 3
  /Dest [ 102 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 136 0 R
- /Last 138 0 R
- /Next 139 0 R
- /Parent 134 0 R
+ /First 141 0 R
+ /Last 143 0 R
+ /Next 144 0 R
+ /Parent 139 0 R
  /Title (Data Requirements) >>
 endobj
-136 0 obj
+141 0 obj
 << /Count 1
  /Dest [ 102 0 R
  /XYZ
  40.01575
  295.8394
  0 ]
- /First 137 0 R
- /Last 137 0 R
- /Next 138 0 R
- /Parent 135 0 R
+ /First 142 0 R
+ /Last 142 0 R
+ /Next 143 0 R
+ /Parent 140 0 R
  /Title (Reference Lamp Files) >>
 endobj
-137 0 obj
+142 0 obj
 << /Dest [ 107 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 136 0 R
+ /Parent 141 0 R
  /Title (Headers Requirements) >>
 endobj
-138 0 obj
+143 0 obj
 << /Dest [ 108 0 R
  /XYZ
  40.01575
  684.2394
  0 ]
- /Parent 135 0 R
- /Prev 136 0 R
+ /Parent 140 0 R
+ /Prev 141 0 R
  /Title (File organization) >>
 endobj
-139 0 obj
+144 0 obj
 << /Count 12
  /Dest [ 108 0 R
  /XYZ
  40.01575
  579.4394
  0 ]
- /First 140 0 R
- /Last 143 0 R
- /Parent 134 0 R
- /Prev 135 0 R
+ /First 145 0 R
+ /Last 148 0 R
+ /Parent 139 0 R
+ /Prev 140 0 R
  /Title (Software Requirements) >>
 endobj
-140 0 obj
+145 0 obj
 << /Count 2
  /Dest [ 108 0 R
  /XYZ
  40.01575
  496.2394
  0 ]
- /First 141 0 R
- /Last 142 0 R
- /Next 143 0 R
- /Parent 139 0 R
+ /First 146 0 R
+ /Last 147 0 R
+ /Next 148 0 R
+ /Parent 144 0 R
  /Title (Setup for Remote Use) >>
 endobj
-141 0 obj
+146 0 obj
 << /Dest [ 108 0 R
  /XYZ
  40.01575
  322.6394
  0 ]
- /Next 142 0 R
- /Parent 140 0 R
+ /Next 147 0 R
+ /Parent 145 0 R
  /Title (Establish a VNC connection) >>
 endobj
-142 0 obj
+147 0 obj
 << /Dest [ 111 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 140 0 R
- /Prev 141 0 R
+ /Parent 145 0 R
+ /Prev 146 0 R
  /Title (VNC from the Terminal) >>
 endobj
-143 0 obj
+148 0 obj
 << /Count 8
  /Dest [ 111 0 R
  /XYZ
  40.01575
  597.8394
  0 ]
- /First 144 0 R
- /Last 148 0 R
- /Parent 139 0 R
- /Prev 140 0 R
+ /First 149 0 R
+ /Last 153 0 R
+ /Parent 144 0 R
+ /Prev 145 0 R
  /Title (Setup for local installation) >>
 endobj
-144 0 obj
+149 0 obj
 << /Count 2
  /Dest [ 111 0 R
  /XYZ
  40.01575
  325.0394
  0 ]
- /First 145 0 R
- /Last 146 0 R
- /Next 147 0 R
- /Parent 143 0 R
+ /First 150 0 R
+ /Last 151 0 R
+ /Next 152 0 R
+ /Parent 148 0 R
  /Title (DCR \(optional\)) >>
 endobj
-145 0 obj
+150 0 obj
 << /Dest [ 115 0 R
  /XYZ
  40.01575
  654.2394
  0 ]
- /Next 146 0 R
- /Parent 144 0 R
+ /Next 151 0 R
+ /Parent 149 0 R
  /Title (Compiling DCR) >>
 endobj
-146 0 obj
+151 0 obj
 << /Dest [ 115 0 R
  /XYZ
  40.01575
  445.0394
  0 ]
- /Parent 144 0 R
- /Prev 145 0 R
+ /Parent 149 0 R
+ /Prev 150 0 R
  /Title (Install binary DCR) >>
 endobj
-147 0 obj
+152 0 obj
 << /Dest [ 115 0 R
  /XYZ
  40.01575
  145.8394
  0 ]
- /Next 148 0 R
- /Parent 143 0 R
- /Prev 144 0 R
+ /Next 153 0 R
+ /Parent 148 0 R
+ /Prev 149 0 R
  /Title (System Installation \(not recommended\)) >>
 endobj
-148 0 obj
+153 0 obj
 << /Count 3
  /Dest [ 120 0 R
  /XYZ
  40.01575
  579.0394
  0 ]
- /First 149 0 R
- /Last 151 0 R
- /Parent 143 0 R
- /Prev 147 0 R
+ /First 154 0 R
+ /Last 156 0 R
+ /Parent 148 0 R
+ /Prev 152 0 R
  /Title (Conda Installation) >>
 endobj
-149 0 obj
+154 0 obj
 << /Dest [ 120 0 R
  /XYZ
  40.01575
  305.8394
  0 ]
- /Next 150 0 R
- /Parent 148 0 R
+ /Next 155 0 R
+ /Parent 153 0 R
  /Title (New Virtual Environment) >>
 endobj
-150 0 obj
+155 0 obj
 << /Dest [ 120 0 R
  /XYZ
  40.01575
  246.6394
  0 ]
- /Next 151 0 R
- /Parent 148 0 R
- /Prev 149 0 R
+ /Next 156 0 R
+ /Parent 153 0 R
+ /Prev 154 0 R
  /Title (Existing Virtual Environment) >>
 endobj
-151 0 obj
+156 0 obj
 << /Dest [ 120 0 R
  /XYZ
  40.01575
  151.4394
  0 ]
- /Parent 148 0 R
- /Prev 150 0 R
+ /Parent 153 0 R
+ /Prev 155 0 R
  /Title (Pipeline Installation) >>
 endobj
-152 0 obj
+157 0 obj
 << /Count 9
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 153 0 R
- /Last 157 0 R
- /Next 162 0 R
- /Parent 127 0 R
- /Prev 134 0 R
+ /First 158 0 R
+ /Last 162 0 R
+ /Next 167 0 R
+ /Parent 132 0 R
+ /Prev 139 0 R
  /Title (Running the Pipeline) >>
 endobj
-153 0 obj
-<< /Dest [ 122 0 R
- /XYZ
- 40.01575
- 747.0394
- 0 ]
- /Next 154 0 R
- /Parent 152 0 R
- /Title (Working with Virtual Environments) >>
-endobj
-154 0 obj
-<< /Dest [ 122 0 R
- /XYZ
- 40.01575
- 711.8394
- 0 ]
- /Next 155 0 R
- /Parent 152 0 R
- /Prev 153 0 R
- /Title (Prepare Data for Reduction) >>
-endobj
-155 0 obj
-<< /Dest [ 122 0 R
- /XYZ
- 40.01575
- 676.6394
- 0 ]
- /Next 156 0 R
- /Parent 152 0 R
- /Prev 154 0 R
- /Title (Run redccd) >>
-endobj
-156 0 obj
-<< /Dest [ 122 0 R
- /XYZ
- 40.01575
- 641.4394
- 0 ]
- /Next 157 0 R
- /Parent 152 0 R
- /Prev 155 0 R
- /Title (Run redspec) >>
-endobj
-157 0 obj
-<< /Count 4
- /Dest [ 122 0 R
- /XYZ
- 40.01575
- 606.2394
- 0 ]
- /First 158 0 R
- /Last 161 0 R
- /Parent 152 0 R
- /Prev 156 0 R
- /Title (Description of custom keywords) >>
-endobj
 158 0 obj
-<< /Dest [ 122 0 R
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
- 529.0394
+ 614.0394
  0 ]
  /Next 159 0 R
  /Parent 157 0 R
- /Title (General Purpose Keywords) >>
+ /Title (Working with Virtual Environments) >>
 endobj
 159 0 obj
-<< /Dest [ 123 0 R
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
- 787.0394
+ 263.8394
  0 ]
  /Next 160 0 R
  /Parent 157 0 R
  /Prev 158 0 R
- /Title (Non-linear wavelength solution) >>
+ /Title (Prepare Data for Reduction) >>
 endobj
 160 0 obj
-<< /Dest [ 123 0 R
- /XYZ
- 40.01575
- 503.8394
- 0 ]
- /Next 161 0 R
- /Parent 157 0 R
- /Prev 159 0 R
- /Title (Combined Images) >>
-endobj
-161 0 obj
-<< /Dest [ 123 0 R
- /XYZ
- 40.01575
- 346.6394
- 0 ]
- /Parent 157 0 R
- /Prev 160 0 R
- /Title (Detected lines) >>
-endobj
-162 0 obj
-<< /Count 6
- /Dest [ 124 0 R
+<< /Dest [ 125 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
+ /Next 161 0 R
+ /Parent 157 0 R
+ /Prev 159 0 R
+ /Title (Run redccd) >>
+endobj
+161 0 obj
+<< /Dest [ 125 0 R
+ /XYZ
+ 40.01575
+ 571.8394
+ 0 ]
+ /Next 162 0 R
+ /Parent 157 0 R
+ /Prev 160 0 R
+ /Title (Run redspec) >>
+endobj
+162 0 obj
+<< /Count 4
+ /Dest [ 125 0 R
+ /XYZ
+ 40.01575
+ 362.6394
+ 0 ]
  /First 163 0 R
- /Last 168 0 R
- /Parent 127 0 R
- /Prev 152 0 R
- /Title (Conclusion) >>
+ /Last 166 0 R
+ /Parent 157 0 R
+ /Prev 161 0 R
+ /Title (Description of custom keywords) >>
 endobj
 163 0 obj
+<< /Dest [ 125 0 R
+ /XYZ
+ 40.01575
+ 285.4394
+ 0 ]
+ /Next 164 0 R
+ /Parent 162 0 R
+ /Title (General Purpose Keywords) >>
+endobj
+164 0 obj
+<< /Dest [ 126 0 R
+ /XYZ
+ 40.01575
+ 573.0394
+ 0 ]
+ /Next 165 0 R
+ /Parent 162 0 R
+ /Prev 163 0 R
+ /Title (Non-linear wavelength solution) >>
+endobj
+165 0 obj
+<< /Dest [ 126 0 R
+ /XYZ
+ 40.01575
+ 289.8394
+ 0 ]
+ /Next 166 0 R
+ /Parent 162 0 R
+ /Prev 164 0 R
+ /Title (Combined Images) >>
+endobj
+166 0 obj
+<< /Dest [ 126 0 R
+ /XYZ
+ 40.01575
+ 132.6394
+ 0 ]
+ /Parent 162 0 R
+ /Prev 165 0 R
+ /Title (Detected lines) >>
+endobj
+167 0 obj
+<< /Count 6
+ /Dest [ 129 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /First 168 0 R
+ /Last 173 0 R
+ /Parent 132 0 R
+ /Prev 157 0 R
+ /Title (Conclusion) >>
+endobj
+168 0 obj
 << /Count 3
- /Dest [ 124 0 R
+ /Dest [ 129 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 164 0 R
- /Last 166 0 R
- /Next 167 0 R
- /Parent 162 0 R
+ /First 169 0 R
+ /Last 171 0 R
+ /Next 172 0 R
+ /Parent 167 0 R
  /Title (Performance) >>
 endobj
-164 0 obj
-<< /Dest [ 124 0 R
+169 0 obj
+<< /Dest [ 129 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Next 165 0 R
- /Parent 163 0 R
+ /Next 170 0 R
+ /Parent 168 0 R
  /Title (Benchmarks) >>
 endobj
-165 0 obj
-<< /Dest [ 124 0 R
+170 0 obj
+<< /Dest [ 129 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
- /Next 166 0 R
- /Parent 163 0 R
- /Prev 164 0 R
+ /Next 171 0 R
+ /Parent 168 0 R
+ /Prev 169 0 R
  /Title (Wavelength Calibration) >>
 endobj
-166 0 obj
-<< /Dest [ 124 0 R
+171 0 obj
+<< /Dest [ 129 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
- /Parent 163 0 R
- /Prev 165 0 R
+ /Parent 168 0 R
+ /Prev 170 0 R
  /Title (Comparison with IRAF) >>
 endobj
-167 0 obj
-<< /Dest [ 124 0 R
+172 0 obj
+<< /Dest [ 129 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
- /Next 168 0 R
- /Parent 162 0 R
- /Prev 163 0 R
+ /Next 173 0 R
+ /Parent 167 0 R
+ /Prev 168 0 R
  /Title (Acknowledgements) >>
 endobj
-168 0 obj
-<< /Dest [ 124 0 R
+173 0 obj
+<< /Dest [ 129 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
- /Parent 162 0 R
- /Prev 167 0 R
+ /Parent 167 0 R
+ /Prev 172 0 R
  /Title (Known Issues) >>
 endobj
-169 0 obj
-<< /Count 18
+174 0 obj
+<< /Count 20
  /Kids [ 4 0 R
  5 0 R
  6 0 R
@@ -2622,12 +2700,14 @@ endobj
  115 0 R
  120 0 R
  121 0 R
- 122 0 R
- 123 0 R
- 124 0 R ]
+ 124 0 R
+ 125 0 R
+ 126 0 R
+ 127 0 R
+ 129 0 R ]
  /Type /Pages >>
 endobj
-170 0 obj
+175 0 obj
 << /Length 994 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2686,7 +2766,7 @@ Q
  
 endstream
 endobj
-171 0 obj
+176 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2696,14 +2776,14 @@ Q
  
 endstream
 endobj
-172 0 obj
+177 0 obj
 << /Length 44 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
  
 endstream
 endobj
-173 0 obj
+178 0 obj
 << /Length 10397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3112,7 +3192,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3126,7 +3206,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3140,7 +3220,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3154,7 +3234,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3168,7 +3248,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3182,7 +3262,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3196,7 +3276,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3210,7 +3290,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3224,7 +3304,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3238,7 +3318,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3252,7 +3332,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3266,7 +3346,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3280,7 +3360,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3289,7 +3369,7 @@ Q
  
 endstream
 endobj
-174 0 obj
+179 0 obj
 << /Length 433 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3308,7 +3388,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3323,7 +3403,7 @@ Q
  
 endstream
 endobj
-175 0 obj
+180 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3333,7 +3413,7 @@ Q
  
 endstream
 endobj
-176 0 obj
+181 0 obj
 << /Length 9742 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3799,7 +3879,7 @@ Q
  
 endstream
 endobj
-177 0 obj
+182 0 obj
 << /Length 624 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3842,7 +3922,7 @@ Q
  
 endstream
 endobj
-178 0 obj
+183 0 obj
 << /Length 11052 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4467,7 +4547,7 @@ Q
  
 endstream
 endobj
-179 0 obj
+184 0 obj
 << /Length 9855 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4766,7 +4846,7 @@ Q
  
 endstream
 endobj
-180 0 obj
+185 0 obj
 << /Length 9665 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5223,7 +5303,7 @@ Q
  
 endstream
 endobj
-181 0 obj
+186 0 obj
 << /Length 7535 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -5590,7 +5670,7 @@ Q
  
 endstream
 endobj
-182 0 obj
+187 0 obj
 << /Length 9722 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6078,7 +6158,7 @@ Q
  
 endstream
 endobj
-183 0 obj
+188 0 obj
 << /Length 8987 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6557,7 +6637,7 @@ Q
  
 endstream
 endobj
-184 0 obj
+189 0 obj
 << /Length 1043 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -6625,8 +6705,8 @@ Q
  
 endstream
 endobj
-185 0 obj
-<< /Length 8917 >>
+190 0 obj
+<< /Length 8632 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -6642,7 +6722,59 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Running the Pipelin
 Q
 Q
 q
-1 0 0 1 40.01575 727.8394 cm
+1 0 0 1 40.01575 745.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (Goodman Spectroscopic Pipeline ) Tj /F1 10 Tf (is designed to be simple to use, however help is always necessary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 729.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Getting Help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 630.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 86 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+q
+BT 1 0 0 1 0 14 Tm 1.304952 Tw 12 TL /F1 10 Tf 0 0 0 rg (This manual is intended to be the prefered method to get help. However the quickest option is using ) Tj /F4 10 Tf (-h ) Tj /F1 10 Tf (or) Tj T* 0 Tw /F4 10 Tf (--help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (redccd) Tj ( ) Tj (--help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Will print the list of arguments along with a quick explanation and default values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (It is the same for ) Tj /F4 10 Tf (redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (redspec) Tj ( ) Tj (--help) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 594.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6654,7 +6786,199 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Working with Vi
 Q
 Q
 q
-1 0 0 1 40.01575 692.6394 cm
+1 0 0 1 40.01575 576.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Virtual environments are a very useful tool, the main contribution of them being:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 570.8394 cm
+Q
+q
+1 0 0 1 40.01575 570.8394 cm
+Q
+q
+1 0 0 1 40.01575 558.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Portability) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 552.8394 cm
+Q
+q
+1 0 0 1 40.01575 540.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Protection to the host environment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 534.8394 cm
+Q
+q
+1 0 0 1 40.01575 522.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Flexibility) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 522.8394 cm
+Q
+q
+1 0 0 1 40.01575 504.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If you know nothing about them we recommend you to start in the ) Tj 0 0 .501961 rg (Conda site) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 462.8394 cm
+q
+BT 1 0 0 1 0 26 Tm 3.030205 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the purpose of this manual we will just say that a ) Tj /F3 10 Tf (Virtual Environment ) Tj /F1 10 Tf (lets you have a custom set of) Tj T* 0 Tw 2.710881 Tw (libraries/tools in one place, and most importantly is independent of your host system. Installation will not be) Tj T* 0 Tw (discussed here but you can visit ) Tj 0 0 .501961 rg (this link ) Tj 0 0 0 rg (for information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 446.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Discover what environments exist in your system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 413.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 20 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (conda) Tj ( ) Tj (env) Tj ( ) Tj (list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Will print a list where the first column is the name.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 397.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Activate \(enter\) the virtual Environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 346.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (source) Tj ( ) Tj (activate) Tj ( ) Tj (<) Tj (venv-name) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Where ) Tj /F4 10 Tf (<) Tj (venv-name) Tj (> ) Tj /F1 10 Tf (is the name of your virtual environment. Your shell's prompt will change to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (\() Tj (<) Tj (venv-name) Tj (>) Tj (\)) Tj ( ) Tj ([user@hostname) Tj ( ) Tj (folder-name]$) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 330.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Deactivate \(leave\) the virtual environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 279.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (source) Tj ( ) Tj (deactivate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This time the prompt will change again to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg ([user@hostname) Tj ( ) Tj (folder-name]$) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 244.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6666,7 +6990,164 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Prepare Data fo
 Q
 Q
 q
-1 0 0 1 40.01575 657.4394 cm
+1 0 0 1 40.01575 214.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .377004 Tw (If you did a good job preparing and doing the observation this should be an easy step, either way, keep in mind the) Tj T* 0 Tw (following steps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 208.6394 cm
+Q
+q
+1 0 0 1 40.01575 208.6394 cm
+Q
+q
+1 0 0 1 40.01575 196.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remove all ) Tj /F3 10 Tf (focus ) Tj /F1 10 Tf (sequence.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 190.6394 cm
+Q
+q
+1 0 0 1 40.01575 178.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remove all ) Tj /F3 10 Tf (target acquisition ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (test ) Tj /F1 10 Tf (frames.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 172.6394 cm
+Q
+q
+1 0 0 1 40.01575 160.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Using your observation's log remove all unwanted files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 154.6394 cm
+Q
+q
+1 0 0 1 40.01575 142.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Make sure all data has the same gain \() Tj /F4 10 Tf (GAIN) Tj /F1 10 Tf (\) and readout noise \() Tj /F4 10 Tf (RDNOISE) Tj /F1 10 Tf (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 136.6394 cm
+Q
+q
+1 0 0 1 40.01575 124.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Make sure all data has the same Region Of Interest or ROI \() Tj /F4 10 Tf (ROI) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 124.6394 cm
+Q
+q
+1 0 0 1 40.01575 94.63937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .306705 Tw (The pipeline does not modify the original files unless there are problems with fits compliance, is never a bad idea to) Tj T* 0 Tw (keep copies of your original data though.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+191 0 obj
+<< /Length 11021 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 767.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6678,7 +7159,242 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Run redccd) Tj 
 Q
 Q
 q
-1 0 0 1 40.01575 622.2394 cm
+1 0 0 1 40.01575 749.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is the first step in the reduction process, the main tasks are listed below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 743.8394 cm
+Q
+q
+1 0 0 1 40.01575 743.8394 cm
+Q
+q
+1 0 0 1 40.01575 731.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create master bias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 725.8394 cm
+Q
+q
+1 0 0 1 40.01575 713.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create master flats) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 707.8394 cm
+Q
+q
+1 0 0 1 40.01575 587.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apply Corrections:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Overscan) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trim image) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Detect slit and trim out non-illuminated areas) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bias correction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Normalized flat field correction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cosmic ray rejection) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 587.8394 cm
+Q
+q
+1 0 0 1 40.01575 552.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6690,7 +7406,194 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Run redspec) Tj
 Q
 Q
 q
-1 0 0 1 40.01575 587.0394 cm
+1 0 0 1 40.01575 534.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Is the spectroscopy reduction script. The task are the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 528.6394 cm
+Q
+q
+1 0 0 1 40.01575 528.6394 cm
+Q
+q
+1 0 0 1 40.01575 516.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Classifies data and create the match of ) Tj /F4 10 Tf (OBJECT ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (COMP ) Tj /F1 10 Tf (if exists.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 510.6394 cm
+Q
+q
+1 0 0 1 40.01575 498.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identify targets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 492.6394 cm
+Q
+q
+1 0 0 1 40.01575 480.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts targets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 474.6394 cm
+Q
+q
+1 0 0 1 40.01575 462.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saved extracted targets to 1D spectrum) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 456.6394 cm
+Q
+q
+1 0 0 1 40.01575 444.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds wavelength solution automatically) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 438.6394 cm
+Q
+q
+1 0 0 1 40.01575 426.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 420.6394 cm
+Q
+q
+1 0 0 1 40.01575 408.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves wavelength calibrated file) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 408.6394 cm
+Q
+q
+1 0 0 1 40.01575 378.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .214116 Tw (The mathematical model used to define the wavelength solution is recorded in the header even though the data has) Tj T* 0 Tw (been linearized for record purpose.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 343.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6702,13 +7605,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Description of 
 Q
 Q
 q
-1 0 0 1 40.01575 545.0394 cm
+1 0 0 1 40.01575 301.4394 cm
 q
 BT 1 0 0 1 0 26 Tm .916123 Tw 12 TL /F1 10 Tf 0 0 0 rg (The pipeline adds several keywords to keep track of the process and in general for keeping important information) Tj T* 0 Tw .496531 Tw (available. In the following table is a description of all the keywords added by ) Tj /F3 10 Tf (The Goodman Pipeline) Tj /F1 10 Tf (, though not all) Tj T* 0 Tw (of them are added to all the images.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 512.2394 cm
+1 0 0 1 40.01575 268.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6720,16 +7623,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (General Purpose
 Q
 Q
 q
-1 0 0 1 40.01575 494.2394 cm
+1 0 0 1 40.01575 250.6394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (These keywords are used for record purpose, except for ) Tj /F4 10 Tf (GSP_FNAM ) Tj /F1 10 Tf (which is used to keep track of the file name.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 488.2394 cm
+1 0 0 1 40.01575 244.6394 cm
 Q
 q
-1 0 0 1 40.01575 457.8394 cm
+1 0 0 1 40.01575 214.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6741,23 +7644,191 @@ BT 1 0 0 1 0 2.4 Tm 31.89005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (G
 Q
 Q
 q
-1 0 0 1 40.01575 111.8394 cm
+1 0 0 1 40.01575 66.23937 cm
 1 1 1 rg
-n 0 340 515.2441 -16 re f*
+n 0 142 515.2441 -16 re f*
 .878431 .878431 .878431 rg
-n 0 324 515.2441 -18 re f*
+n 0 126 515.2441 -18 re f*
 1 1 1 rg
-n 0 306 515.2441 -18 re f*
+n 0 108 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 288 515.2441 -18 re f*
+n 0 90 515.2441 -18 re f*
 1 1 1 rg
-n 0 270 515.2441 -18 re f*
+n 0 72 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 252 515.2441 -18 re f*
+n 0 54 515.2441 -18 re f*
 1 1 1 rg
-n 0 234 515.2441 -18 re f*
+n 0 36 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 216 515.2441 -18 re f*
+n 0 18 515.2441 -18 re f*
+.960784 .960784 .862745 rg
+n 0 142 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 60.56959 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 9.169795 0 Td (Keyword) Tj T* -9.169795 0 Td ET
+Q
+Q
+q
+1 0 0 1 78.56959 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 430.6745 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 195.3323 0 Td (Purpose) Tj T* -195.3323 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_VERS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pipeline version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_ONAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Original file name, first read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PNAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parent file name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_FNAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Current file name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PATH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Path from where the file was read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TECH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Observing technique. Imaging or Spectroscopy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Date of processing.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 126 m 515.2441 126 l S
+n 0 108 m 515.2441 108 l S
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 72.56959 0 m 72.56959 142 l S
+n 0 142 m 515.2441 142 l S
+n 0 0 m 0 142 l S
+n 515.2441 0 m 515.2441 142 l S
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redccd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+192 0 obj
+<< /Length 10739 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 589.0394 cm
 1 1 1 rg
 n 0 198 515.2441 -18 re f*
 .878431 .878431 .878431 rg
@@ -6780,132 +7851,8 @@ n 0 54 515.2441 -18 re f*
 n 0 36 515.2441 -18 re f*
 1 1 1 rg
 n 0 18 515.2441 -18 re f*
-.960784 .960784 .862745 rg
-n 0 340 515.2441 -16 re f*
-.12549 .262745 .360784 rg
-BT /F2 10 Tf 10 TL ET
-q
-1 0 0 1 6 327 cm
-q
-.960784 .960784 .862745 rg
-n 0 0 60.56959 10 re f*
-Q
-q
-.12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 9.169795 0 Td (Keyword) Tj T* -9.169795 0 Td ET
-Q
-Q
-q
-1 0 0 1 78.56959 327 cm
-q
-.960784 .960784 .862745 rg
-n 0 0 430.6745 10 re f*
-Q
-q
-.12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 195.3323 0 Td (Purpose) Tj T* -195.3323 0 Td ET
-Q
-Q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 309 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_VERS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 309 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pipeline version.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_ONAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Original file name, first read.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 273 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PNAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 273 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parent file name.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 255 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_FNAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 255 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Current file name.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 237 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PATH) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 237 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Path from where the file was read.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 219 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TECH) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 219 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Observing technique. Imaging or Spectroscopy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 201 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_DATE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 201 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Date of processing.) Tj T* ET
-Q
-Q
 q
 1 0 0 1 6 183 cm
 q
@@ -7065,13 +8012,6 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 324 m 515.2441 324 l S
-n 0 306 m 515.2441 306 l S
-n 0 288 m 515.2441 288 l S
-n 0 270 m 515.2441 270 l S
-n 0 252 m 515.2441 252 l S
-n 0 234 m 515.2441 234 l S
-n 0 216 m 515.2441 216 l S
 n 0 198 m 515.2441 198 l S
 n 0 180 m 515.2441 180 l S
 n 0 162 m 515.2441 162 l S
@@ -7083,39 +8023,17 @@ n 0 72 m 515.2441 72 l S
 n 0 54 m 515.2441 54 l S
 n 0 36 m 515.2441 36 l S
 n 0 18 m 515.2441 18 l S
-n 72.56959 0 m 72.56959 340 l S
-n 0 340 m 515.2441 340 l S
+n 72.56959 0 m 72.56959 198 l S
+n 0 0 m 0 198 l S
+n 515.2441 0 m 515.2441 198 l S
 n 0 0 m 515.2441 0 l S
-n 0 0 m 0 340 l S
-n 515.2441 0 m 515.2441 340 l S
 Q
 Q
 q
-1 0 0 1 40.01575 111.8394 cm
+1 0 0 1 40.01575 589.0394 cm
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-186 0 obj
-<< /Length 10245 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 770.2394 cm
+1 0 0 1 40.01575 556.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7127,22 +8045,22 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Non-linear wave
 Q
 Q
 q
-1 0 0 1 40.01575 716.2394 cm
+1 0 0 1 40.01575 502.2394 cm
 q
 BT 1 0 0 1 0 38 Tm 2.265292 Tw 12 TL /F1 10 Tf 0 0 0 rg (Since writing non-linear wavelength solutions to the headers using the FITS standard \(reference\) is extremely) Tj T* 0 Tw .350256 Tw (complex and not necessarily well documented. We came up with the solution of simply describing the mathematical) Tj T* 0 Tw .459546 Tw (model from ) Tj /F4 10 Tf (astropy.modeling.models) Tj /F1 10 Tf (. This allows for maintaining the data ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (while keeping a reliable) Tj T* 0 Tw (description of the wavelength solution.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 686.2394 cm
+1 0 0 1 40.01575 472.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .560783 Tw 12 TL /F1 10 Tf 0 0 0 rg (The way it is currently implemented will work for writting for any polynomial kind of model. Reading is implemented) Tj T* 0 Tw (only for ) Tj /F4 10 Tf (Chebyshev1D ) Tj /F1 10 Tf (which is the model by default.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 680.2394 cm
+1 0 0 1 40.01575 466.2394 cm
 Q
 q
-1 0 0 1 40.01575 649.8394 cm
+1 0 0 1 40.01575 435.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7154,7 +8072,7 @@ BT 1 0 0 1 0 2.4 Tm 82.90805 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (K
 Q
 Q
 q
-1 0 0 1 40.01575 519.8394 cm
+1 0 0 1 40.01575 305.8394 cm
 1 1 1 rg
 n 0 124 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -7296,10 +8214,10 @@ n 515.2441 0 m 515.2441 124 l S
 Q
 Q
 q
-1 0 0 1 40.01575 519.8394 cm
+1 0 0 1 40.01575 305.8394 cm
 Q
 q
-1 0 0 1 40.01575 487.0394 cm
+1 0 0 1 40.01575 273.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7311,17 +8229,17 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Combined Images
 Q
 Q
 q
-1 0 0 1 40.01575 457.0394 cm
+1 0 0 1 40.01575 243.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.111205 Tw (Every image used in a combination of images is recorded in the header of the resulting one. The order does not) Tj T* 0 Tw (have importance but most likely the header of the first one will be used) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 451.0394 cm
+1 0 0 1 40.01575 237.0394 cm
 Q
 q
-1 0 0 1 40.01575 420.6394 cm
+1 0 0 1 40.01575 206.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7333,7 +8251,7 @@ BT 1 0 0 1 0 2.4 Tm 60.56405 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (K
 Q
 Q
 q
-1 0 0 1 40.01575 362.6394 cm
+1 0 0 1 40.01575 148.6394 cm
 1 1 1 rg
 n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -7411,10 +8329,10 @@ n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 362.6394 cm
+1 0 0 1 40.01575 148.6394 cm
 Q
 q
-1 0 0 1 40.01575 329.8394 cm
+1 0 0 1 40.01575 115.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7426,16 +8344,37 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Detected lines)
 Q
 Q
 q
-1 0 0 1 40.01575 299.8394 cm
+1 0 0 1 40.01575 85.83937 cm
 q
 BT 1 0 0 1 0 14 Tm .468637 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (reference lamp library ) Tj /F1 10 Tf (maintains the lamps non-linearized and also they get a record of the pixel value and the) Tj T* 0 Tw (equivalent in angstrom. In the following table a three-line lamp is shown.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 293.8394 cm
+1 0 0 1 40.01575 79.83937 cm
 Q
 q
-1 0 0 1 40.01575 263.4394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redccd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+193 0 obj
+<< /Length 3229 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 772.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7447,7 +8386,7 @@ BT 1 0 0 1 0 2.4 Tm 27.55205 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (D
 Q
 Q
 q
-1 0 0 1 40.01575 133.4394 cm
+1 0 0 1 40.01575 642.6394 cm
 1 1 1 rg
 n 0 124 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -7593,30 +8532,30 @@ n 515.2441 0 m 515.2441 124 l S
 Q
 Q
 q
-1 0 0 1 40.01575 133.4394 cm
+1 0 0 1 40.01575 642.6394 cm
 Q
 q
-1 0 0 1 40.01575 133.4394 cm
+1 0 0 1 40.01575 642.6394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redccd) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (13) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-187 0 obj
-<< /Length 2049 >>
+194 0 obj
+<< /Length 4707 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -7659,11 +8598,183 @@ q
 1 0 0 1 40.01575 677.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(Time elapsed\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Running redccd:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 644.2394 cm
+1 0 0 1 40.01575 530.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 134 Tm  T* ET
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15 FLAT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11 BIAS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (37 OBJECT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (50 COMP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Command ) Tj /F4 10 Tf (time) Tj ( ) Tj (redccd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (real) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m53.831s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (user) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m28.863s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (sys) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (0m20.969s) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 512.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (time) Tj ( ) Tj (redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 506.0394 cm
+Q
+q
+1 0 0 1 40.01575 458.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (real) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m10.221s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (user) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m38.899s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (sys) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (0m2.404s) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 458.0394 cm
+Q
+q
+1 0 0 1 40.01575 425.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7675,7 +8786,14 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Wavelength Cali
 Q
 Q
 q
-1 0 0 1 40.01575 611.4394 cm
+1 0 0 1 154.7178 208.5194 cm
+q
+285.84 0 0 210.72 0 0 cm
+/FormXob.rst2pdf_image_0 Do
+Q
+Q
+q
+1 0 0 1 40.01575 175.7194 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7687,7 +8805,7 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Comparison with
 Q
 Q
 q
-1 0 0 1 40.01575 576.2394 cm
+1 0 0 1 40.01575 140.5194 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7699,14 +8817,14 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Acknowledgement
 Q
 Q
 q
-1 0 0 1 40.01575 558.2394 cm
+1 0 0 1 40.01575 122.5194 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Acknowledge: Simon, Cesar, Bruno, Tina, David, DCR, cite papers.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 523.0394 cm
+1 0 0 1 40.01575 87.31937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -7718,7 +8836,7 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Known Issues) T
 Q
 Q
 q
-1 0 0 1 40.01575 517.0394 cm
+1 0 0 1 40.01575 81.31937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -7731,124 +8849,136 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (14) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-188 0 obj
-<< /Nums [ 0
- 189 0 R
- 1
- 190 0 R
- 2
- 191 0 R
- 3
- 192 0 R
- 4
- 193 0 R
- 5
- 194 0 R
- 6
- 195 0 R
- 7
- 196 0 R
- 8
- 197 0 R
- 9
- 198 0 R
- 10
- 199 0 R
- 11
- 200 0 R
- 12
- 201 0 R
- 13
- 202 0 R
- 14
- 203 0 R
- 15
- 204 0 R
- 16
- 205 0 R
- 17
- 206 0 R ] >>
-endobj
-189 0 obj
-<< /S /D
- /St 1 >>
-endobj
-190 0 obj
-<< /S /D
- /St 2 >>
-endobj
-191 0 obj
-<< /S /r
- /St 1 >>
-endobj
-192 0 obj
-<< /S /r
- /St 2 >>
-endobj
-193 0 obj
-<< /S /r
- /St 3 >>
-endobj
-194 0 obj
-<< /S /r
- /St 4 >>
-endobj
 195 0 obj
-<< /S /D
- /St 1 >>
+<< /Nums [ 0
+ 196 0 R
+ 1
+ 197 0 R
+ 2
+ 198 0 R
+ 3
+ 199 0 R
+ 4
+ 200 0 R
+ 5
+ 201 0 R
+ 6
+ 202 0 R
+ 7
+ 203 0 R
+ 8
+ 204 0 R
+ 9
+ 205 0 R
+ 10
+ 206 0 R
+ 11
+ 207 0 R
+ 12
+ 208 0 R
+ 13
+ 209 0 R
+ 14
+ 210 0 R
+ 15
+ 211 0 R
+ 16
+ 212 0 R
+ 17
+ 213 0 R
+ 18
+ 214 0 R
+ 19
+ 215 0 R ] >>
 endobj
 196 0 obj
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 197 0 obj
 << /S /D
- /St 3 >>
+ /St 2 >>
 endobj
 198 0 obj
-<< /S /D
- /St 4 >>
+<< /S /r
+ /St 1 >>
 endobj
 199 0 obj
-<< /S /D
- /St 5 >>
+<< /S /r
+ /St 2 >>
 endobj
 200 0 obj
-<< /S /D
- /St 6 >>
+<< /S /r
+ /St 3 >>
 endobj
 201 0 obj
-<< /S /D
- /St 7 >>
+<< /S /r
+ /St 4 >>
 endobj
 202 0 obj
 << /S /D
- /St 8 >>
+ /St 1 >>
 endobj
 203 0 obj
 << /S /D
- /St 9 >>
+ /St 2 >>
 endobj
 204 0 obj
 << /S /D
- /St 10 >>
+ /St 3 >>
 endobj
 205 0 obj
 << /S /D
- /St 11 >>
+ /St 4 >>
 endobj
 206 0 obj
 << /S /D
+ /St 5 >>
+endobj
+207 0 obj
+<< /S /D
+ /St 6 >>
+endobj
+208 0 obj
+<< /S /D
+ /St 7 >>
+endobj
+209 0 obj
+<< /S /D
+ /St 8 >>
+endobj
+210 0 obj
+<< /S /D
+ /St 9 >>
+endobj
+211 0 obj
+<< /S /D
+ /St 10 >>
+endobj
+212 0 obj
+<< /S /D
+ /St 11 >>
+endobj
+213 0 obj
+<< /S /D
  /St 12 >>
 endobj
+214 0 obj
+<< /S /D
+ /St 13 >>
+endobj
+215 0 obj
+<< /S /D
+ /St 14 >>
+endobj
 xref
-0 207
+0 216
 0000000000 65535 f
 0000000075 00000 n
 0000000161 00000 n
@@ -7972,100 +9102,109 @@ xref
 0000025199 00000 n
 0000025488 00000 n
 0000025725 00000 n
-0000025962 00000 n
-0000026199 00000 n
-0000026436 00000 n
-0000026557 00000 n
-0000026777 00000 n
-0000026864 00000 n
-0000027042 00000 n
-0000027171 00000 n
-0000027317 00000 n
-0000027473 00000 n
-0000027625 00000 n
-0000027768 00000 n
-0000027964 00000 n
-0000028148 00000 n
-0000028335 00000 n
-0000028462 00000 n
-0000028602 00000 n
-0000028791 00000 n
-0000028978 00000 n
-0000029127 00000 n
-0000029271 00000 n
-0000029466 00000 n
-0000029649 00000 n
-0000029785 00000 n
-0000029926 00000 n
-0000030104 00000 n
-0000030289 00000 n
-0000030435 00000 n
-0000030602 00000 n
-0000030746 00000 n
-0000030949 00000 n
-0000031105 00000 n
-0000031270 00000 n
-0000031419 00000 n
-0000031569 00000 n
-0000031766 00000 n
-0000031913 00000 n
-0000032082 00000 n
-0000032236 00000 n
-0000032373 00000 n
-0000032550 00000 n
-0000032728 00000 n
-0000032861 00000 n
-0000033022 00000 n
-0000033165 00000 n
-0000033320 00000 n
-0000033455 00000 n
-0000033685 00000 n
-0000034736 00000 n
-0000034872 00000 n
-0000034972 00000 n
-0000045428 00000 n
-0000045918 00000 n
-0000046054 00000 n
-0000055854 00000 n
-0000056535 00000 n
-0000067646 00000 n
-0000077559 00000 n
-0000087282 00000 n
-0000094875 00000 n
-0000104655 00000 n
-0000113700 00000 n
-0000114801 00000 n
-0000123776 00000 n
-0000134080 00000 n
-0000136187 00000 n
-0000136481 00000 n
-0000136521 00000 n
-0000136561 00000 n
-0000136601 00000 n
-0000136641 00000 n
-0000136681 00000 n
-0000136721 00000 n
-0000136761 00000 n
-0000136801 00000 n
-0000136841 00000 n
-0000136881 00000 n
-0000136921 00000 n
-0000136961 00000 n
-0000137001 00000 n
-0000137041 00000 n
-0000137081 00000 n
-0000137122 00000 n
-0000137163 00000 n
+0000025936 00000 n
+0000026178 00000 n
+0000026447 00000 n
+0000026684 00000 n
+0000026921 00000 n
+0000027158 00000 n
+0000050882 00000 n
+0000051169 00000 n
+0000051290 00000 n
+0000051510 00000 n
+0000051597 00000 n
+0000051775 00000 n
+0000051904 00000 n
+0000052050 00000 n
+0000052206 00000 n
+0000052358 00000 n
+0000052501 00000 n
+0000052697 00000 n
+0000052881 00000 n
+0000053068 00000 n
+0000053195 00000 n
+0000053335 00000 n
+0000053524 00000 n
+0000053711 00000 n
+0000053860 00000 n
+0000054004 00000 n
+0000054199 00000 n
+0000054382 00000 n
+0000054518 00000 n
+0000054659 00000 n
+0000054837 00000 n
+0000055022 00000 n
+0000055168 00000 n
+0000055335 00000 n
+0000055479 00000 n
+0000055682 00000 n
+0000055838 00000 n
+0000056003 00000 n
+0000056152 00000 n
+0000056302 00000 n
+0000056499 00000 n
+0000056646 00000 n
+0000056815 00000 n
+0000056969 00000 n
+0000057106 00000 n
+0000057283 00000 n
+0000057461 00000 n
+0000057594 00000 n
+0000057755 00000 n
+0000057898 00000 n
+0000058053 00000 n
+0000058188 00000 n
+0000058438 00000 n
+0000059489 00000 n
+0000059625 00000 n
+0000059725 00000 n
+0000070181 00000 n
+0000070671 00000 n
+0000070807 00000 n
+0000080607 00000 n
+0000081288 00000 n
+0000092399 00000 n
+0000102312 00000 n
+0000112035 00000 n
+0000119628 00000 n
+0000129408 00000 n
+0000138453 00000 n
+0000139554 00000 n
+0000148244 00000 n
+0000159324 00000 n
+0000170122 00000 n
+0000173409 00000 n
+0000178174 00000 n
+0000178498 00000 n
+0000178538 00000 n
+0000178578 00000 n
+0000178618 00000 n
+0000178658 00000 n
+0000178698 00000 n
+0000178738 00000 n
+0000178778 00000 n
+0000178818 00000 n
+0000178858 00000 n
+0000178898 00000 n
+0000178938 00000 n
+0000178978 00000 n
+0000179018 00000 n
+0000179058 00000 n
+0000179098 00000 n
+0000179139 00000 n
+0000179180 00000 n
+0000179221 00000 n
+0000179262 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 126 0 R
- /Root 125 0 R
- /Size 207 >>
+ /Info 131 0 R
+ /Root 130 0 R
+ /Size 216 >>
 startxref
-137204
+179303
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -8091,12 +9230,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 168 0 R
+<< /Contents 173 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -8108,12 +9247,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 169 0 R
+<< /Contents 174 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -8945,7 +10084,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
@@ -8962,7 +10101,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
@@ -8979,10 +10118,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 747.0394
+ 614.0394
  0 ]
  /Rect [ 60.01575
  304.7894
@@ -8996,10 +10135,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 747.0394
+ 614.0394
  0 ]
  /Rect [ 544.1398
  304.7894
@@ -9013,10 +10152,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 711.8394
+ 263.8394
  0 ]
  /Rect [ 60.01575
  286.7894
@@ -9030,10 +10169,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 711.8394
+ 263.8394
  0 ]
  /Rect [ 544.1398
  286.7894
@@ -9047,10 +10186,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 676.6394
+ 78.63937
  0 ]
  /Rect [ 60.01575
  268.7894
@@ -9064,10 +10203,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 676.6394
+ 78.63937
  0 ]
  /Rect [ 544.1398
  268.7894
@@ -9081,10 +10220,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 641.4394
+ 597.0394
  0 ]
  /Rect [ 60.01575
  250.7894
@@ -9098,10 +10237,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 641.4394
+ 597.0394
  0 ]
  /Rect [ 544.1398
  250.7894
@@ -9115,10 +10254,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 606.2394
+ 387.8394
  0 ]
  /Rect [ 60.01575
  232.7894
@@ -9132,10 +10271,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 606.2394
+ 387.8394
  0 ]
  /Rect [ 544.1398
  232.7894
@@ -9149,10 +10288,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 529.0394
+ 310.6394
  0 ]
  /Rect [ 80.01575
  214.7894
@@ -9166,10 +10305,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 529.0394
+ 310.6394
  0 ]
  /Rect [ 544.1398
  214.7894
@@ -9183,10 +10322,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 95.83937
+ 609.0394
  0 ]
  /Rect [ 80.01575
  196.7894
@@ -9200,10 +10339,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 95.83937
+ 609.0394
  0 ]
  /Rect [ 544.1398
  196.7894
@@ -9217,10 +10356,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 526.6394
+ 325.8394
  0 ]
  /Rect [ 80.01575
  178.7894
@@ -9234,10 +10373,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 526.6394
+ 325.8394
  0 ]
  /Rect [ 544.1398
  178.7894
@@ -9251,10 +10390,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 369.4394
+ 168.6394
  0 ]
  /Rect [ 80.01575
  160.7894
@@ -9268,10 +10407,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 369.4394
+ 168.6394
  0 ]
  /Rect [ 544.1398
  160.7894
@@ -9285,7 +10424,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  787.0394
@@ -9302,7 +10441,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  787.0394
@@ -9319,7 +10458,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  747.0394
@@ -9336,7 +10475,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  747.0394
@@ -9353,7 +10492,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  711.8394
@@ -9370,7 +10509,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  711.8394
@@ -9387,10 +10526,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
  /Rect [ 80.01575
  88.78937
@@ -9404,10 +10543,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
  /Rect [ 544.1398
  88.78937
@@ -9421,10 +10560,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
  /Rect [ 80.01575
  70.78937
@@ -9438,10 +10577,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
  /Rect [ 544.1398
  70.78937
@@ -9455,10 +10594,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
  /Rect [ 60.01575
  52.78937
@@ -9472,10 +10611,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
  /Rect [ 544.1398
  52.78937
@@ -9565,12 +10704,12 @@ endobj
  83 0 R
  84 0 R
  85 0 R ]
- /Contents 170 0 R
+ /Contents 175 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9586,10 +10725,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
  /Rect [ 60.01575
  784.7894
@@ -9603,10 +10742,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
  /Rect [ 544.1398
  784.7894
@@ -9618,12 +10757,12 @@ endobj
 89 0 obj
 << /Annots [ 87 0 R
  88 0 R ]
- /Contents 171 0 R
+ /Contents 176 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9646,7 +10785,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  791.0394
@@ -9700,12 +10839,12 @@ endobj
 << /Annots [ 91 0 R
  92 0 R
  94 0 R ]
- /Contents 172 0 R
+ /Contents 177 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9717,12 +10856,12 @@ endobj
  /Type /Page >>
 endobj
 96 0 obj
-<< /Contents 173 0 R
+<< /Contents 178 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9771,12 +10910,12 @@ endobj
 100 0 obj
 << /Annots [ 97 0 R
  98 0 R ]
- /Contents 174 0 R
+ /Contents 179 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9792,10 +10931,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 609.4394
+ 391.0394
  0 ]
  /Rect [ 288.4357
  665.3894
@@ -9809,10 +10948,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
- 531.8394
+ 313.4394
  0 ]
  /Rect [ 429.9968
  634.3894
@@ -9826,10 +10965,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 372.2394
+ 171.4394
  0 ]
  /Rect [ 89.46575
  588.3894
@@ -9843,10 +10982,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
- 98.63937
+ 611.8394
  0 ]
  /Rect [ 40.01575
  266.5894
@@ -9860,12 +10999,12 @@ endobj
  102 0 R
  103 0 R
  104 0 R ]
- /Contents 175 0 R
+ /Contents 180 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9877,12 +11016,12 @@ endobj
  /Type /Page >>
 endobj
 106 0 obj
-<< /Contents 176 0 R
+<< /Contents 181 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9927,12 +11066,12 @@ endobj
 109 0 obj
 << /Annots [ 107 0 R
  108 0 R ]
- /Contents 177 0 R
+ /Contents 182 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9992,12 +11131,12 @@ endobj
 << /Annots [ 110 0 R
  111 0 R
  112 0 R ]
- /Contents 178 0 R
+ /Contents 183 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -10072,12 +11211,12 @@ endobj
  115 0 R
  116 0 R
  117 0 R ]
- /Contents 179 0 R
+ /Contents 184 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -10089,12 +11228,12 @@ endobj
  /Type /Page >>
 endobj
 119 0 obj
-<< /Contents 180 0 R
+<< /Contents 185 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -10106,46 +11245,42 @@ endobj
  /Type /Page >>
 endobj
 120 0 obj
-<< /Contents 181 0 R
- /MediaBox [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://conda.io/docs/index.html) >>
+ /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 167 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Rect [ 332.3857
+ 505.5894
+ 380.1857
+ 517.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 121 0 obj
-<< /Contents 182 0 R
- /MediaBox [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://conda.io/docs/user-guide/tasks/manage-environments.html) >>
+ /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 167 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Rect [ 184.5257
+ 463.5894
+ 220.6457
+ 475.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 122 0 obj
-<< /Contents 183 0 R
+<< /Annots [ 120 0 R
+ 121 0 R ]
+ /Contents 186 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 172 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -10157,13 +11292,95 @@ endobj
  /Type /Page >>
 endobj
 123 0 obj
-<< /Outlines 125 0 R
- /PageLabels 184 0 R
- /PageMode /UseNone
- /Pages 167 0 R
- /Type /Catalog >>
+<< /Contents 187 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 172 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
 endobj
 124 0 obj
+<< /Contents 188 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 172 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+125 0 obj
+<< /Contents 189 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 172 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+126 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 878
+ /Length 23511
+ /Subtype /Image
+ /Type /XObject
+ /Width 1191 >>
+stream
+Gb"0W$$P?"HA,5aW0ZHAY=<CkZW.VE"C_H3)"'QEZ*Pa>+pj+c.o$'Aci<nf8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk@,p%it\?Lj_<s"*@"3Thl<>Al1@]GdF*8mdc7pI<OVIpQ`R$Z&&tiAI]#H^F$S%nA&<IX&nU:>\okmqFd`[EEo8h8`UV>SS'BIKUMQG[3M/gip.P8^_],T&a-?s7u7N%pt]Q8`JhlB<SocGMaA(MsWT+8tXU-r=#pu*FQ5q=;.&$aeJ2tkPV6Ip'[t6J%C-F4urICN`XLnb2=?ROsK;6%fc.qgHRl/Q20mTQR#mDqJ<CZe(U>$<W-b'Cm).V^='>`rUfQU/MknY\GK!BJ+(WH60@FP)1?Gl;'D\fkC((rI4.[MG3JPn6d?@+p?,WT9<d$u.(Vbu0;RelF8k"DEe0S?HC]HXm.W^SrsM*OCC5h5R!;WjC0[@rn;KBr!/V(G46RD\56&D5*L&2F.[N*ik7(5ER@!YkirsV=a`SEpoC;>>Z*E;@W:08f][%Pc6V3HJA;TI^pPln]k@SX.[.9h-eNH.CH.GsbCoZ\ZJ)(:*:Rp&L7@P^gSkgGmMK>=/Q^mkPn[;&nI,4>8^Gjm(hs*[<q?gJVUm,1nbO&#r/,o\"UG%$+Zja+Kj)oNBe\b=K,d#e`'9rSg?c=<m5Ng.6.bf3Qh_44U,"gbhfkWs8@/fBeH,%ncY+0tU?,QA'OFCF$s$>T2/)PdbX"UL4!ad&L*NA7.ip`*EmqcWTX7:Gb/TF@FZtH#W<AL0H?Tr6t]SZRPo?YrCX8K"qHCo:aHoZCDl%S"RqWb52h*EK9eb;LD5,1<RP3HWSeaM-2hZ6n-<Ta0qqj"qO18S'XoNL@HX*TaH*fGo"[el(dpP0GSP-f1fcbkZIFnj\gl]ZC([uS2rb:J'5d03Rcp$STYic=;oA_l`GO1m5j6J^>L7pl7_lMJk-]rbHjjRQOj(O4g^>L>;bqBSX1hkh?@eQ8O<5,iedSbRM$olIPo?PE7JS0nh>h7;qpI@pPKj_a*!K'I\-o*qNlG'VE@]X,"Qi!>7EoUn%$^@pSeE@shGZtG_$RpUHub>`\g[nA,t>;qPUZV1;an20t(8mbc@"f?4`ficbLS.k'8I9#+8:!3_&*8`AeX6r,#oA7Q9>F4dtl$&M\GII5>hWf=OmMAuL:l=*I>)l\E;3iJ!OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,jF8o?a&q8YDf9Vo6;HNOu-Qj4?"5W=l7o_qtYUsn_1nbNd6hhDq@5:miIHI\aJn!]S+Lu>]E8F?=;bRr&eKK<H\%BdB,KXH,TsDE@(2e9(b82p\0ZcI@Ir$W]u:l0<jY?j7L,W_&ufcP,.:,ri%CG`%:g)SmB%QkE'>S*;jl+p$MV=Hk&!ijRe&IHr]0LV/LCn*L1o$Q`Hq**E`'c^$_Z$nTn6.\+-+Rq7^iohff#Bb.5=cO0<PLk!+8&EoeT=HG6LNhZM1J8#uImn=P3^4\<B#54.t/F('3@@UF-K]1:c35q0Bf;ieZ2X$T;5_]M;B(YEtr+0OTDH^n;;rD>"8dZ\8A=6RsXfWXo8F?7(McRpk)EL+eKOa1H_c<.bPo'c:YRp:0`BAOT(\#\sR`l!^OH1q75Irc*Gl,bP2+`Y+,8%JK0[rM&R^&75l\FH+Ar>$?Up=[,bE@;dpbU5W2ddI23pI>$B8O%U!h_u&&SLUdEqJB6Fp\oQ^h,dpGV!#@;rp]WEbGPn3TDOM;PE]CkU)TSCiAoA^mb)s7h:lsH8oN>C91j-n5N`9bjX,KVhjjQeo:TW#8E+e=Sf_!\eC:&!oHmhW]^D=BEOU&#g1O4Jl`PX7<I4Fm.-J=H\;#tX]jiF-Ds9bXrr1(9kYD&Nqj!Knl1rb'fJ5Z%IfCYUBh[d?h1nL-d7`br]iU8Na)4uT-1*Y%fBCC?EDE-QmI68PY:;T=]rl+qM(_(C)b494Q)qTZS<&]>>Fkf`<P9:=q]O$G/t"Z/=*K$#<h/r9dF[^,99Spp'r*G\e>VAPDs7q;_\[J6IALk_f@;j-mH<"]]VE'qY/ZeJ^9+_cS!ulSl#X)oX)YZaEj!jH:G;%bBR38#%EXW3qtgMa-VGQ(\h!C5#>s:\hD+jV5*i8<iJK]?rD@icjc)GqdZRUh^5<<B4R_7N*ZKP':LA#\IGZF9oi/BZFu@"0kT4CWI76**kb(lpjgo;/HA07,?d?ap8)G<pBW)H9f[4p#gZgcp>0^^O8WoAjnV$<$s.5e\ncF_USp1UopW6Y=9ZTG"qtBs#cS*UEp\ZE%*dD)bV6<A-4^[sMX8D)gH#EO@rrj)O(YJ;PQak9;)uJ\d9&1M:FtXTdMTi,`s&S\T^=j+?lh;4=EfNTKIq6':>PY&_<VVin?<:HrV!"e'qYI5gDTpE^0C\-2nukOZ-=:(_iWSM8<dGdDSu(UT^%?`BH+OuU=2fMl`R-o^bfcJ\EDSDD/cT)C="j+#R/-07F#Bu$I/5E1]rO9eOj\9r5P%0?G;V![eTapiq>I#]q:a$$<VHN`ITr6/!2!=VrN=]:b"IoiI#EEQ3rB]ir(S-kC:MBg@Gjic^G:*p#@3K<8Wjk7k`[8`P,*dfqBSXq,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8NQ52od*1m,jFa6TD<9K_Var2D:61*YOF%e8Q&OHci:C]J)C3RqKrUMEi_2S`e",5n3p]JQ&Tdb\X`i9&'&uN7\>8fqR5NgDdnY-rUp3&mq).IC5cZIm2Y><37a!Bq@o1A[l)3P'4W"qU[JM!*,BHT5juUq?B!:0TT$Ue3S'Z:i'@><c;(/'For_"T&;m&_m*O,dANXr^9'EHRi('KJ,T@=T6IoZ$ui:nJci[sa*KI0T7Sip[cU\1@XnRZp%O@Aq9>JXf4JFn*,D/(5juUq?B!:0TT$Ue3S'Z:i'860%iO;-o)o;E+--#'N'7DVoPMjXhS]C!qKqXYs'KXu^p3#.%eMq)lbs]h$L7)48RkH:iS29N#MSBga8j8L-TKKME3)RYj-au`o7(VEdC1ugD\LM'qKq<AICG+uei^m%hM5T()P^)LG48o!iFO*kod6CDo_/mdq3etO73?:di]utMZ!NC:VkB!_XZ=t%Ld'0ThfGNQ2%O]"pYf4-`op>t7c2c:lV0bhBVY#VdDq]237.PAX;>C=:"&!EjrU*:ESdEkh4;s&291"Vd0JChHVX4<jrk6,4rin-(k'm,F/b`/]D>M<AFs``Z/.n@JN!@r'7Hs-L]b=$a*KI0hjgP;g@n8*?M-u]hpre59nXSO^I.JQ^]4?6H-a*V&*ckKd/.d`(M!)3=Q0^3D_EjA(mJODM=F'mbNQQp&*ckKd/.d`(M!*^f&oif)1B`LZ/3E\UQ8XST\b>(]ar/00h1'-2(gtcO%><(-3b<8Du[9Cmc&kF'+XXu*:(Q\IFDg#0ep^p'1UkCHr+auJ_l/l]bmM_g(kZV!<&FI5*%c*Crbb/V"@,Lr.n_9Wuf@G")df-1OUpO%tHe\IIm+0.pUq[OiuKp'5&kBe_M*k^o`PZ!;Ob$;c#q*E%@[o!<+bM'U6uMgreg_JA7%,"_I<,[kdd[i%Lj$5oG*dIK!MtDu\;M"(4JcT7SipJGUT]?dLY3J2g#jJhm1Qq\X_]n1UP45oG*dIGVu7d0IJ<N'7DVoE"\XN'<:a!,T^>;c#q*E$(hc!<-R%.4Cr%\BiL9fC1Ql!8*ghVkAu4i''UP!;t%(;c#q*E$(hc!<-R%.4Cr%\<##B!<4hN'U6uMgrJU\J:AGb$HhQ7mUPki^qYgl"_I<,pIU=XTPFZ1EK!'bAb6#t8c5-nLoUUXTo;/=Ab6#t1&:n.?UgZ>1AZOu,Y"EH*<<NXoI22`&%K`r'CYN=7NVUL1AV]Ld0JIFkQ??BN'7DVoDpm*q>fFiUJF/nIDAR94okAskYk;I+)hmg%fh&5q@o1A#Md8]"+Xa;4p>Ni!B2b0!8nZg:I,kH^eKbO!;OOs;c#q*E0JUVpN,siIWYW5RaJ%+N'?/H7NVX.@e;)tUCXkkd0BZd(jub6kQ>_nBA%]]]]AQ^!3eY^:I,kH^eKbO!;OOs;c#q*E"euW!.H[!'U6uMga"WN?N+[A!#m]i'U6uMgr/CYJ7"7!"_I<,GPM*Zln>+EJB\s[$HhQ7mU5Yf^cS;e5oG*d*=aIQgZX"Rl2\U"N'7DVoDs.iq>fHEdANXr52Zo?*rrr0q@o1A#Md/AoDu`hUJF/nID?k^4ofh?oI22`&%I8>#6=4O4p>Ni!I$6o!8sEqVkAu4i!r3u!5(,a'U6uMgqi1VJ9OJTJhm1Q3uEAGnBU5r:duOGLHh!jbNK%YDap@N1AZOhcM!bmc47Y@N'7DVoE!bcI/n6%kYk;I+4+<mkk"!?^da8H"_I<,h&ZJ1Q^?))^ugS>"_I<,h&1V@E5:[9:duPRS^@ZB#E1hMAb6#Z)1;L(_!"]n7N^!Jd0BXVN'7DVoE!bcI/n6%kYk;I+4-S+#65!f4p>Ni!Suju4oj5kdANXr5+o*tRPXd?fUC3cTSu(-0;B$XNZ!6Pb3/s(3r@dZf?*7J!!L(iN'7DVoDs@XI/n61kYk;I+4-A%#6;f'4p>Ni!IYi6!-$0G;c#q*d$N,b!6:$^"_I<,I2RG5E6RNE:duPRQdH$<a,E1cAb6"O)1;L(bihu%7N^!D5L'`=a,E1cAb6!DV5Kj2#JeoL4p>Ni!?L9_^<7/l^hSfl"_I<,*W>h<?LkM]s3h&]!4sr]'U6uMFCb"E^aZ$S5oG)97n+R#S20pTPgK_XAFoo<.AK[))1=b?7NVW#1AV]Ld0Fc(oDu`VUJF/nI6^:l*rqfdq@o1A#BXMK!Pg.Z:I,kH5Y(f53rkd+q@o1A#P<$sif$&$[V#.\.&.=:-2kNJYOg0)0aN:](jub6kQ?,cq>_YWkYk;I+4,qn#662BT7SipJ6n0u!(\j@'U6uMoO@Fn5`3seTSu(-(S_K@;N*dCAb6#:(juCG@e;)tUCZS-kQ?>LUJF/nI6]Ib3'.,9(jub6kQ?,cq>_YWkYk;I+4,qn#662BT7SipJ6r.I*rr)RI1"-\"*u]u!$K8E;c#q*d#69V!%CC0Jhm1Q?Aq&J829rTPgKa.@e9[dMUA>pN'<mNUCR?&N'7DVoDuWBI/o@<oI22`&*V!r"+V)\:I,kH5VN*r3rl&nI1"-\"*u]u!$K8E;c#q*d#69V!%CC0Jhm1Q0&?h=c>!2M*roM"q@qH:dFT5>4eiO<p%<Rl*<,kC)eS^C>o7tiXO$+ZS69\o(IfJH>VQ!gPgK_X@IsT9"f$"-hS)='p@=iZ9t]cY"OGsFUCZSJnh7>ac:;7$/-)maUMl;ZG?JCSr>^6RQhgRI1\uVSN'76O@.[/krohOqE^_MLNf6/pMk!#CkO8$DYVi1oc8+#,T7<J];eZ/AhN?1jFCFeB^]gKO_XbHjGPFOQB,>%L!AcM-!8rIV2d?)BVO'Jtd0HbHib/*oIXrjH>;>uOWc@S-A+TfF1&:n.K$cMQq-V+a3K;DkXMO*&J."j(,h4K\oWn'9)h8)/I/n6&kaSB<5I6r&`j=8\IuB7LTF7M*!%o+:$HhQ7\hNs\i.B@STSu(-$_n44/f9!Db3/r=0_te-K$gKhN'<nmMEfCXGqK)!K[H]jN'<mBUCR>W(jub6kQACMq>fH*dANXr5+i9Jdg#jhN'7DVoDr57I/n6&kYk;I+4,_h#65R!4p>Ni!F6Oj!-#d<;c#q*d"TjP!#LSX"_I<,>o7tiE5Ca::duPRL!^,*(Q:N]Ab6"/(juC'_<=fo7N^!25L'`=(Q:N]Ab6"/(juC'_<=fo7N^!2d0BXfN'7DVoDr7mR6CV\@.YlrUCZS*kQ?>C7\>8fqLEa-CT_RIGpEH!ECQRP1AZNEm@u=S/c]",dANXr5+nIo#6<A74p>Ni!UYh0!4ZY5.4Cr%BP6r<^bql_5oG)9].Tih!#B5>.4Cr%BU?9cN'76MB(RN#UCV$NoDu`bUJF/nI6bCsUX(.s!/iZ0'U6uM[.B2\!8s<nVkAu4TUjI8!8!/n"_I<,m>O4/\7Y@^.&.;dBCl5?25<r5)1=b3UCR@-)1;k7kQBNVI/n62kYk;I+4.16kQ?@S)1;k7kQBNVI/n62kYk;I+4.16+(kh/`>O(2b3/r])1;L(c0/)&7N^![bNSOg"Mj#U4p>Ni!U]gY:&qe9oI22`%qoVJ!PgRf:I,kH5Wb_O!3R2f$HhQ7g/X3JQe_n^5)_Z/Ab6#jN'76OB(RN#UCV$NoDu`bUJF/nI6bDNUCR?*B(RN#UCV$NoDu`bUJF/nI6bF05L,jM?3$@adANXr5+l2bdHA=OJ<_"#$HhQ7g1:aQUCVmW)1;k7kQBNVI/n62kYk;I+4/<s"+Y/VT7SipJ9FC(!*h>V'U6uMZnqOYi0r&kTSu(-;<Atbq`O!'$U#=-YVMtL5oG)9,GPbLZ5@usb3/pGFW>f0YVMtL5oG)9U\rYSoDu0RUJF/nI6]$P%fimPI1"-\!ughQI3+FL=I.@4TSu(-;;\#1o6:DRZA^sNAb6"_N'76_@e;)tUCV$KoDq2mUJF/nI6aR22kMb6o'=_uD?^*rc0/)&7N^!u=8Dn>Mp\GqN'<nsd0BYSN'7DVoDssJN]mGFQI2V'N'<nsd0BYSN'7DVoDssJrc*)]=I.@4TSu(-;;]danHaYV)1;k7kQ;_@I/oAJkYk;I+4067C.gd[(juC#c0/)&7N^!ukQ?>d7\>8fqLD%)*roh+q@o1A#;e44!$I3IVkAu4TTRV,!*P7E"_I<,NJp%$aC=cj.&.;de9CNc^p8n_"_I<,NJp%$aC=cj.&.;deG#$1"2M4$4p>Ni!KHr95*&26/Bd6U:duPRU?Lob7NVV71\qfMd0I$,RVYG8!*_8U'U6uMZnV=V+ICKRTSu(-`S7Ta2#741PgQD%N'<n'rnhL9)1;L$cKJ2'7N^!okQ???7\>8fqLB>N*rt@Wq@o1A#IN\Yq>ao+7\>8fqLB@KJ#BLB63(Co7\>8fqLB>N*rt@Wq@o1A#IN\YqE,f"YUlPF5oG)9MtWe-/%lJoR$H'sTSu(-L!^,*\Vr]UAb6!TN'76_Ab7E"UCV$HoDq30UJF/nI6\18%fgVfI1"-\"'QOi!0GCf;c#q*d)+uKJ6YR9Jhm1QC2Y?BkQ?>LUJF/nI6b37^W`9/IHfhn^m'dA"_I<,eVlZl-t)Zr.&.<OB(Q*h!M`FV)1=b-5LTi;"cPVKAb6#RhSra&dH;YZJ2J3m$L7*DCCJinku[((^V/*+$35_Dn]X#kq7ei3kQ@h&I/rWQkgQ&)D*TtR%fcqRI1"-\"0*5e!)UJpS#<a!d%7rKmBo/SOLWNtDiW3M<&=@NTRbEK8Y<W]q^(LKp,3F;?hHZR+&L5>klZG;7c,KANP;-.4hUZN5+n@l#64pd^,c)g,2LprI\*+XkQBsYoDq2XUMn!ZIq8$;"@aK;,X9`_!!S=qfuf^p7N\imUCR>3(k#>J\]]pq?u8@T!#.-`jsbeE)1B<SN'74i@.[/kh66$9r&akW#;Z.+3Yb<4kQ>4.7c,JfrrW)NbMQWq\Cft_OjOE`1&:mCN7"PrN'<npd0BY_N'7DVoDs)n4od!@oI22`&#`Fs(Y/J(Fo\s_oI22`&#a"1!C.Nt:I,kH5TQU1!6Q.,$HhQ7lM-c2!%;@L.4Cr%W+5H#5T-=m5oG)9*MX,Far#O6b3/rm(juB\`op>t7NYIIkQ?>j7\>8fqB3`.&(0"*P0jL7AW/eVAb89En!UN%kf^UJq1#\YeiO$8&r]!XAb89E`C=4p=m!C2!2+kiVkAu4#\!?_?5*C`a66Gu7N[:;qAM!o!9Re`.4Cr%T(i529BQ-hoJ:mq:r_]t:duNhcfhugq3:UZ!2LK\$HhRbk8A]7YF>#'!J!#%:I,kHn@Soo?en1-q>f0:dANXr5'W[HfBWJ=?m\@8Jhm2\Gt)/E$Nu!J(jub6k_&%9ID%6E!+o^4.4Cr%SnI]g\j-7_M:&5oN';KXd9#ri!*Fp%VkAu4GhCudR;VTF?"'K=J?9];$HhRbLDbL\0+\+q@e;)tUCSESjQQ1kI/n62kYk;I+$@d2lZds\0GC3W5oG+?0Vbi3"TlJ5N'7DVoYJG(^5a!8!&HA+'U6uM%l=&C?6B6l`9:,r7NXb:kj*JE!&,(]:I,kHn?B7X1Y;%Nq>d1UdANXr5'WIBfC8nC?m\@8Jhm2\8^%$SEdsT"!/_YB$HhRb-S;ZNN'74iB(RN#UCWs'bj,"LD=arTdES<JmJqbW7\>8fqVXq7?iI*<\iTm7LXE#mN';L7)PaM4Q`_0R!,TpD;c#q*[.sJ@oCNd$)NE,L!&]^!"_I<lMsmX.1YL3S1&Ba6;Kel:@!G/5Jhm1qg97,aCE@nl(GZ&e%fg>]I1"-\K5*m5hu?i+`q6=o\1[h)T@'R0N'=335(%Yb3hrnH@KBjH7\>8fqOikrfCt61gi`[rBCmW$UCSgoHs*Jukke>//T5^Nk\I_2!18DdVkAu4W),PODH]V/N'76?@ItusUCTtfD3I&qGB(hIFN;`"[9P6_be`LA:duOk1AZqn!2s>u.4Cr%8sPFNQJlHJ!PgaT4p>Ni6)c5%?i/OFnBC)H\mtf.JC19fN'8Y$oGN&W:rDKq:duOk1AZqn!2s>u.4Cr%8f<%H*rseEq@o1A#=U+k7AnOWG/fCQ!5QO34p>Ni5nTm\Fm!,))">NH5W;0)Jhm1qLsbrPq>d1KdANXr4t'n4]cJ/A_qf>5BOUN^.&.<1(k&RmJ#7.o>7LWbN'7DVoKeVfdFVs8%CQ(:I`J>5#JeoL4p>Ni5nTm\ajF13i;bPmUJF/nI8Ha70?kA_an'\gDu^`GdANXr4t'n4)1;K]allZ"7NW=!qM[T<W+>NL.&.<1(k&lR^<G%+^m'dA"_I<l&Ym\9"+X!5T7Sip+CEB;-Z1X7qOVo0)[cX/)1;k7k_"7Phok3cJ8.QGJhm0F?e"<*GWG.4*dsg=C]J-]oI22`&+UTdYI7;?oDu0RUJF/nI?;e=HPq53:sJ3&:duPf1\tEI*ro7rq@o1A#Pj=mQdH$<eVlZqAb88PU[RmNkUV&p!&-%#:I,kHOO*-;)1;K]c0/)&7NZ0@q:<K5+'^mg4oe]<dANXr50/sK7XgrQkY%PWqD81+-)47%)1@SqG4]plZt^-OEHV=aLXE#mN'><no_n=XkSrMn"$erC:I,kHONH_`]FLc>W8^"BGUibJ.&0R()1@Ugkki"&7NVUE0_uKJd0H(u^<c+QoDq2XUJF/nI?5\'E#F*"B><]5!5P7d4p>Ni6&q\epJ].U\<##B!;2:7"_I<lNWBC:#hQoV"+UGBT7Sip+NK"bCP;$Cbif.Z72UF[b34Ht,Ku5MYCk4-!!S<F"_I<lN^78Jpsj&j!_+73>;Q*iPgK^r#+6Xn=!M8J%<9u%5Wb`:5oG)i.=>lY$bn%'rZFYag%.utb.S;cNJp%)Ab<g8n>Z(4p6r@,0r#80XVlNob34IN7c30/2u3NIN7"PrN'=a^oGtY[UCR@I(jub6k^uMthr1%_q>d1IdANXr5.G.q*PQ6_%fj`hI1"-\K1e\kiL;b%!2,:uVkAu48/l43]o5,TR$uF#TSu'*)f##YK!%nQ2d/0:7eUsKqK`/r,bn.$)1@T)g(S_+D^]7"FeY?*^iPGu"_I>B:ZHrT`on@6ii5aq.fagMdANXr558ji-gK`N5!RNj1AUu!@e;)tUCVels,$R^U[RT7,9N*@/K4ZF$%PM`I1"-\K:g/5Q9NCRX1K!eUTaO=4i$7`TRbFfTSu)0C&DW.7c.#H)1CP[hZE:sN'7DVoYF>`5C#0`L2qQtSiL-;^Y]+^IuHPpAb<f7;`o>Sr^n)WLN7:X!se/<S!`2@(LVGVT7Zo$qAOud9_$?[kSo3&#I'a?c^_nFs(fN2558iLB?h#pac:;BHM!3=kQBItdAK"2g>JkXSiIa<K,EZfc$s+"'R(J2er7=gH5l01Y<#qaLM)#6jqrO9dhGTINP7];0`$7s6,OT.1k;\GI?X<6bJ%=]oW#7@I"(f-IIP]":RaikI=A'^Ab6""b35=jm\;FTY%KNdi29_L2EuIMNP73DNP<$^('(Iq^,aAAF+=1;p77iOQ[)(j+8dt=F(V1c"=&<'WmM&*';KK_o"TWtpd9FA(Lm#&TNRjBa,[n!\)"?Q#!=TuU[R,IRcGJ+?rKPPC__B=B&YX:*t2_HkKHEQ#R28spUr-Y3\^E-Wc@S-A+[U9ApM70oSoO-.,8g`N';d6(k)#*^A.[^qHui-4^0i@7UYih:r_^gUq4O3??Z<Y!t8YAB?SV+gQ'%fjm:D6:Dp,'8p7sH7N]EVN4qm[3r_#%M-#,>p?Z7\^I:U6I%0HTEo?/.i6nJ^(1WB=45LMKI2IA>b34IrF$3M]qSH6;a_1%f.IK?L*>s84b34IrF$3N`)LX2U[;khuG'IId?fIgBH;=atLs`,nN'@"pf2H7U036p-^XD>8lf/.V#Y(G<1A]q`>Yegg^0&q[J$/reoE!1VkYk;I++0RG8SlT<pf@5<Sf)t4hfO&eO1pWmV=[JUpH\rO.&0R()1B^ZJ%=WI@$f&^9UFR4ZlL(RT_:Td2pN!jqM[Ug@RcuA1A[B]g!KWmXnon]>fZ%"\u#5[-tr7$$\()SG4\N'E<PbNUJF/nIEX##q.09,n]+Vtgj)EI35XRtN';df(jub6k[Q57hkA';GBO;Kmgu7tjbuWpo??D[Hq,+Q^]?hYq@o1Aa'=S;6X@^]kLU0&^4_fQfB&mKNkR`EDtF'p1&;TKdDoLN^,,Rd56!edF7]o^O9QeT^"uBX_U#r,4S=IB^l=::"_I<\Oj%I$7UMK\*e3cffp/Rbe*.MVEfaa#hlZqO,QA+@rG^uM+%cMl1AV]LdDnY6^'(5"@5EqXNpkpr+$^:1:I,kH9VhQgl#Npmgi;KoI0iC#k62cP!#LSX"_I<\&Yh#<mQ9V#H)o7orhdGZlZF4oBmaiEi9[rPQBh++4+->o(k%:ak[Pf+?c%,an*H!c*2N*phs4s04ZW@&#<T`hN'7DVoJ$rQ0CAJ*H)s)3O#R"UDtb,tT9j`t*P%A`A-$d^oI22`O,4^%Bm9SHa)OT+#UUR?m;MjaKc#4<AW/eVAb7\hUG'mUHd":\M5C1;GE9JE2j(g$!;ePJ'U7"c7#\je]165?A\Pj!lI"5_emClg5TQUq5oG*pU@]6dhYec*FR//VEnBqe3oS,Ymha/b4`AaB@9-War%0r+`tpuG7\>8fqNuuaGKK(7./h=:@n0nFa2/somni%%!LS_kVkAu4U6Ik31\u,sh?9UWoPM:%Y4h4WYN;n$S\=R*7Mkim""7RL.4CsP4.Q6srPZkE]2jm)l4]\ZZ0lG!hYQ![+!,iss0Kn<\ESs/d9$98\$Mc@oDr2Nq@o1A`uXSmmUu1R\9ncnH-\<SZ'MkJGR:i#WltDjZ,#R=\_+fn\*XD@5QRWU5oG++iJsgcV3gG)%^1?=e2Pn@/,Q&?m9</sE2(`]FSa3[)LVUNN'7DVoPoXJT$81%'mb:VC7N]GmmZo\TYh.%\XjPn$!He!\t=!'dFWD.JGC%1$HhS-]9]@67ULAq^HU2BkNKPL[QJV$%642>:MfY(<&4:aPgN!FNDJMZr?RiZpIEEjqs++`[I0fnq_`aaqee+G[mV-_!&l\0'U7!8G=LJ'Wh5T<]Vg5X7[IPMktQ)3W6tA<5E.jWCIXqJ1A^4[kSm7P:SQZb?ek;@SOQsnQ^;X_!E:iN'U7!8GE\%NcTH]gj4bnfGQ(9Ca(oJ_I@W@0!_+7s/u)3.)1?VYrY4el&raOdI/WL#jgVnAY'9I,IigX!j;QnIk!Ip+NBVk&N'7DVo[05W2nm]heEuY[5PgC9H,F3:1!qp')gq],(jub6kbG=6cej[FEjU<@EVc.A+#)++qt[+K5(H6pT7Sipkf`2M0mEQfkei@n_[?TLQI2V'N'@(nqKRtHpFr?QTU!p&TSu)2\mt@qo?/aKm@93apTUuDBCl5c1AV]Ld77QWT"H@uCW&qK`m`5t/26p,Zi/L4_]O5As&mE/NWm5cN'7DVoT:Bu2dI8K4D'SHZ,#RMX`>rmDJ/Sj.&2hCq%M!9j"Y<X%AU-*li>Kgq@o1A7uke"f(#/4Qf"NUoW;ti+!NN;g<U6_%AQ]bXYfkm#6G4XO1m6*^9ni,+cJU8H:FNY>&<iE4F+G,k-*5RmERZef!aH!bIL[4fA,QlW+Y`OW+AG*QQH7gN7#[rN4ojIN4pp2!&+GK:I,kH>l))tNBRR:bg1XmlMI#\I]pUJf=\:eD\p2B7\>99EqFeZ:Kh:h^&d\DUMkEIh_J6G>l_VVI0s_Kd?jm0-n6'^$u<?"2pTtADW.'c`;K[o1\qfMdDr)R]6DI\guqu!!i,5WnTPNkq?=DM/UZ$)\0#*u7\>99@.__7o4@O9q7>FMpU8JY4JQg@roVLAog9-)I>Z22j3kT8mo=DIL:mm=(k(`G3Y?eR*jX*DKhWG5$>SPIQ[T\F/k=g?pTr8V2PY14RnUR;DBiuBkYk<aO1oI\l+rS/7c+p[&`2_UgG5Pmng3Oempl0?@/1`I]/09tPgROJWUE<ODf%u$DUuN,#6/UT5R0cNJhm242"f[<oW>7`W/Z;.NP72ahZI4'J$oHHS'e.,efK6"-fEG&pS$!D2PY1LCYo4`+0<fP;c#q*Q_qJ-NP;g&3r30.^GU42$f;7[+0<fP;c#q*BsZ]J7c2pY^'uZA-Q%995,1n>)1A=*IKpd>bH!UA;]KSJn'&XmK$ahh1\qfMd<Bc:93'Sf5-s-EUMkEIhej4D'9#+WT@'R0Q61OCVtkVtbgUM$H$T+QC%O"'khFA!GCn3IlSJAOPgT6sA>SlOs2=MtrFQsrb?K,]]frU^/6D^d$f;Ia+0<fP;c#qjrb6\LCG)sN7\amI7c/)q]H8nY9YfkEobi/bb37#5c.NudrWGC]XY]g>BCp%S]"90LRruLGkB+0C-t)ZrW#\?7cH-thaY#^SB"qV@hsu`?%8D%J(k'2,7\>:$HLu?-52Z?2G1BC;ZemCMQ=kJ4hhJ#?.uZ[M0;D</)1=r?F8(@sB_L1loIY"?dJ*Kc<@>B3GFS$'0`$=7N'7DVoG(ZWh%qi>fl*5)[lgF(6dsj+B34lppeH#8JQt[:Jhm1[0'DX1):7`ZbNR\HdG^S\=JpZ%j0n*].h^GlBCsGk@t>"WT7Yd-oVG?"oUT.C7N$V9=EsIXBWd!?1A_"JA$4PoU_nLeb31@hS6IXW1^i(eUMgB,heqR;Lt/9H:\hhYN'7DVoT`b.XVWa]"`BRP[f`CD6PCK\p<f5@&7?hST7Sip8h]AY$Q71j2p1@=J^Ls#M2l*%kWA[tT"s-?4p>NiQ!Vb<(G_E_DNrPX"/Bd%'-5,`cTX?&Dk`^0S20pTPgS+Ke*)seNYf3&7c+]5IZ^gD]nVB(A&[X^]c:Du7\>8fqM`.A"`BRP[tDlAk>*/#B;2/h^8h"DT6$`r%%K*L'U7"sn^H]JT90r"77Q/]&g-$Am]'kZZ:5r*0;D</m5+Ua:2fbN/9$N+^.g`Z?Zd41/-jej"9)m(.4Ct;kY#%9()_Oin;AqX1r]"0q;1/%P@^<i(nK'PTSu(004BE9AFs`UkhFS]LY1emIPL[5PgO.9,qO"nN4r"'I<un4&0$&501MRcg3iPcr>`E$BB1pfNmY<BUMirg+(CuUpr2Gq:e"g,X0^Mmj>Ch8dC4tE5Iq`]pd_mTkfZ1.0J9+r5oG+LY0LdSNn:d$Sk<k:khF\H#<MI;8G9VO@!"l1Jhm3!?(KM0*NsI(N4s_Q*CRqi'8%Cj^>HC[pl,H[)1;k7kj*G8<r7!O`m$77p0mU\WT?BprQt'a]tK7TV^XbT0IW\l5oG+LY0LdSNn:d$7c-CY*^g6T/(KFPJbL%W&,=--;c$\X^<a,&I0j]E*2@Eo?b]$:*M-2R\=`TFYgMV9'7M\4'U7"sn*3UBkr<+2Rq)*,o"'dolH:W).s7a=4lnYN#p+OMq@qGlUTaX&I.trNMg[Wjj5q2,Ye4C7htS#_!2C'R1&;TKdFZcTT?c#t3CY+WT`#foW\::B9al/q&+CO(i"r.a5oG(kXn9/?RG23C_%,1KY?0QAe@h,e0(8m2+8fU?.B)sf(\Ic74o4UDM=SgtSET.h#JYT\N'>l[YL-Ek;0?egO:-Gdd0IE'I1!!tkR2YE+7Kq6qC3Nbr5dP!_h[3$GAeLs%sH<DoR2&J>!7@d%l!k<(Sablp%h;<o*]-F:E64+n,)3Z:G%O>/okjQ9",Tpe8b+\TD7n?iY>^rIb/*Yj*Y0c+W,V7Wc@ZZ5+"RCrW`;=EQ@e]7GZ/gn(qeK+7(-MUU]=D4m0HOhbJ@8UWSOV<2HAYn11WGhtdC;)1;jln*!EWYe'oXs,F`I)1A`A&Ot[DB`3'1j!.Rg(I/Yk(";P25p2pu6/=9l&hi]e^rQJEmZ$CJl%&MF$_n5UE&f4J^1L?O;snupRIQE^k_!6$4p>NiF_(-(aln?te4kc30"g4%),S`E]AjiB?n=d>Jhm0`1A]"Ts*\%c]^FVaK7!i;Y/dTkT)g\C=J+!=TPbZrkuW!^k2ZJ95NM$"715k$Fq?G*r("<)Nhc(6[4hi\:I2CI^=W\R0d$<dIs@[`@W+-dI9Xt[K2(.4bAMWNDnd281]$%#dANXr^:s#^<o@U[WYp5h$);Dq7GedEZ'm6]I1"-\lc\K2O=([FM9k)'g%V9=kG:U1DTqcuAb<f#UJF232u7Picsk3(J"ppISk-Xt^4*]YOuludl#hf.dhNLjmnhi:_+]eO"_I?!Fl.[ZIdHcgH,mA_6ipK1>`Vt\IAIZjAb7FM8Oq[BO8MK)J;c[")07rI)1D#"kYk<-7pf8'hu?HbCZ"[o4mXEn@m<_/T4.3CC.9;LN4C"5B)En[(E/l*Ii&+^?Q3VLok!b)aQN_l1"YI9N1U73K$gJV]Cjo?1J`)@RgsH(mrgM`l54rb1?NnqRe61ogrS]KVmip[p=dG&MdCOM7UKLlhggYL?l=#K?;:9A&8l%N:"&"C]DQmGWue3co]8=,hXM.?m)/gN^FK.mo[P_nJ7ZstGW"aK6+E')2bAkRfDS^qAFrU7kc84c!R$krn]L'JG=LJ[V8#Q6oTc$=Njl_8UT]^*#:sAfa"*nqhAL_TQM<)W\!Iq['pnsuAWG+#X(1c&/",TEbNOS&7c/%DN&@B6m_g7b3/bCepl]j&d0Ha`U5(:lrSa<p2cXM*Jb/4S7\@HFdu2UT_<:u%1=8ITd0K-!^3MaYAO^%1'0gkYF#!M@(k'1l-@3c(o,[>GkaSC?,"qi?Qb$6]OO6!'UT]9s#HVI1LFf22hALa*o_&)7Z[[E$7J4P7[_1nnN4uh>I2.])?mQILA/TgbcKJ2'c]#Sqdm%nNdkU\K(k'1l-@3`gqV[plVkB!_\JT`0N':Vq'0TkDIIPPG;c#s@FDeef9A[-I+0^ob*jU_gG\?XtW4LAXnW7PYoj[QY1AZNdbjpj<ht<N$*e4>^T7VB*oMqOL^<;q/:SXbF5%$*D4DO\."UBuM"nd?USOVL9Hl=SJoDsl<i_dm3.l^r/.B&"lhcJ?tlgiVniR;HhUCUJN'TZE]>JU?8:I.-(qRW3Q6bQ9jV2RTG4l\bGq.p3>N'7C[1AY>WrMj5\)&qK*m!K^'Ab6#h)?592B.GrLoI6`;dJ&&L5<\h>kN10+.AIDUchJ#UIb-Cr0_uJ_m-(L[9TSeKg[9_pmouOt=O6aQ>XfeT0_uL5TD-%I#>_*JQI/dPkQ@,-pg]Z<#7$2O"_I>NaQP-`oDqT'r3=H/K*+T8Jhm17AFpTkqLBk$rn(fS_#^<,5oG),$G?COAFoo')Yr@8k^rt,T7X'[IBd-kni6Y)q?e*g^oE-;pj1kU%=?hQ`TU5s7c0/`^*;g2[dX_2Q8dqNfJD,obhEUDN'7D&fBDf3s+f!'`97:=2VNf9A(PA#)\-#04p>Nic,f*!@e9[/$[`N_I+(kt)3<WJallZ"j,C^B9D/YkLXB2AkQ;T4oYF4[4p>Nic)CO<YkB)QoDr`cH5qh`IF#YgkeQC\:e'?<qVDs&hm#WmYdTY6Z*0oM%n7XG0_uKJd5NML0;$VsXKC+7f[kW7^X8Z$NnU)N^JUqBoI6_'msD7$LJ=O^"@c`^UCUI2Y=H.L*ER>lUCXLFI1"-\RoIG?@ekB$kQ@,pp/"fdQ+Q[bI@f<ZK/,ogJspBFH!pZObIpdFSNQN7IK_:klbojn.sIWc:7j^toEDs7W+#<I.&1]YNVCF&>OS'U.q!"6N5"`o(k#6#kYk<SU[Qch<_q$4[?&%.f499cYCOmZJ)r<SoL"VPf4P%/PIVQZ$HhS%<6Mt[gHFg"$J8V&O3D6#EXjl$#.XeSc0/)&7c1##^3ne@JBcn/qS)tm_IMg9f)[K@I1"-\RoK'oZ/OO&r<h1^hpM2l.\dL](jua+QI4lXr/K*jcfbHhBCs"gN'7DVoM*Klb@gGJS#^lQb^?tK#6g&M"dLn?^4*]cj1sm%<Hj5bGrHXi^ugS>(kpA8TJB$p;]c87f3oFa?Tt4qT].coFJJ:^bgh5B7\>;/*dt6_L]&/U%ZJ,,'mIa-pS#t>cti9ErUetiO/7J6%6.qk.4Cs0?D[D<[eHKC#>k.D53E`p(k#5rkYk;VN'<<]LQ&r@7N]G/pLNFaW;bD2b6nh;c8C/_7\>:D*.:UHIN!W'N4qtT+2HhGin\_8J]>5IE6RNE:d^5V6*A*VN4qtT++V`D6SS?NPgMECUG%hY#OqT[E7b&.Dk%'\ENTTf1\qg8gZ\P4G($-(=@QXEUCZ:*kNEl*_DdHC(jubVkNMg34/:1^LSDClkPNWi"*b]30ES"F6%+d-fC-c(nBpD"r/B$ialihO)1=1?UJF/nI8e>(F*>8:NBVmE@"2#A50MhKk%=67W5I$WMYljn7UHb&08Ip[n1siJ"@f#8)LV1&ke<:,([ZTG)LVT=UCTh%oI6a2k^3;ke*&;noNa6K!<2ck*Sp$arWY,:UJF1HNP8K@VhVu/-_+8`*OYL0C%MH(Z,7gC%_%RW)1;j,^sVo*_f's$7c1&\c/8Gj!Of;O,Mip>Objs($7[e,?62,iEI"?<5EnVZ^h]!$]H(l7'/TJ!PgQrEUG'mU"5(Q)O6Z=CEs`b4$7\48R"ZVd9/HDE2DOZqqRkFM!_/f61A]R0oVEFR!1ULY;>lp/'W#`eY<eP=dANXr^,6aUBkR0jHNmk@h&kAn)h%O#aIfu2Q-lM&N4q.dI;).m^cn&+I>93A)/TjQT7SipemS-H)1;M^=F9]9N&EVi:I,kHCG>V5I#8'Z8)MA\5F6QfkDRQni^_LrBCmW$UMgT2?^f@IY`Cq;?d@>]BCmW$UMgT*$`"Yg!;fl@o_Fuh.kpf6PgQrEUG'mU"5(Z,U[R[]jo80^T@>2qoI22`D]-:85JcOcfZ/<5YOk-uQdM_(N4rlU2$r[jJ:4LUqC;JRHai=Z*K3/cAb7RlY"<Tq!:6K@@sd2CE.&UP].j'qPgQrK]-b@b"0e%s&+;_9kLNEH7c,hW4p>Ni/]4__E9@4;A_YU6G8?c[oI22`D]*^mJia3F/+\e8fD,EJ\1!)AoI22`D]*^mJia3F.lWI%T=S;,k?E3hO1po9E]^$l5oG*oY\Om,3<39oA+\Ssq1k<fjgW;*"?.a(:I,kHbHPapgc5@=l14?CfH7mdqDMgT.4Cs0)2Aak*qTCcq>dsEpZO,U'448T/um*%#&G9<2glo$7\?D1qNbR^,oD%1>8_2J,sDPSm^j'#?^JspJC19fN4rj?I0i@b^i%jJiU7h9hllu@6'j70Fnt-k5#HcD\ke8K"_I<X_rs`Iq>b[paQT[2?:NhVN'>LRdC0OZ0>ZiSfZicXYMreG]kO)hh_\&JUJF/nIEO>@&r]#)h;%rbEB0@mI3"9\OVrS90r&Y)7ULbp#I'n.^W`MM1pNZa.c.c"&ikn7c'Znf$kLho7N]F#@Rjf#V\l2t%^!KMe`]q.7c,s`:a[*.!#sX>oMo-$cQt2lh]%i)Mp\GqN4rlu-N""A%q%aoT@)8]dAKPlqNbR^,oD%1)[[R5K7&+s\f*b6jtQWgBh$uPr,%u\5*5k^aQPGV\hj1>Bh$uPN4q)3OTFh5mQ[-opudtrUTa<1f(S^<W4?,k4p>NiXi0Eb1\`>/!,ciOhaS^cLZ"-*mYj>(RaJSWU[O/h#I(,h7pj^eEU0`H]iJC`nr,b,RaJSWU[O/h#I(,<8)NXQar>*`ICm-a?iSYs+o<ti1hfG:8rUJ?7N]F;*Z0;WDs.3^UTaV_p<i_AbNMl$7c-gAs6J.FN';bT4Z<.ke`BGK/);@#cG#c,kGtH:B/'/rP0p`OU[O/h#I#SNYLiMcY&p:8lYpJTI1"-\>D^aO`omNWek4i#=eXI9jBUq5WFkd:hMf16(ju^Cs&Nt:DIW6<]W1M?X"sN.DarVVMSHED-Uo2nSk:*ifDF(EjYPh@G>!W"^D4fQ;c#q*RkX[=p12trID$JGRQ%"&9cX/PXcR<"^ltjh?Cq8M]4X_RI@<*iO%gI>!.-Kt^5g]K:A='4(SadtB(W>7UCUa.7UIg<h_R8OhrrOn)1Cl3m@edr:L4%un7sMcf_h<qqD<=a+8[bg!;9sqos41[A+XL#N'?rDoE"=#kj)gC43-R6e/<]$_rq3TPL8"*c?E%GD8/&udANXr55&FW!UM98!T0f0[%6Y-UJFg$oW\q%%q&1&?S=Lu5=V9BcKJa[7N]F;N4t>G]SjA7$Q4@"b33=c59GdWr3QX3V`nIb@Fr-4kgSl9I;Hmd"5&gbf?7EC;6ObNoP+$uNkWM@&k3tYSrCBik.6Jbri?!<^Ai?/f@:2ETDr]EN'=[ZoE"=Cl\G,S*kP%.RclAMqkW+)!0'1eT%1h]N'74SO8hC$>ajk/3kMC,2keuuH8PI4PgRNPN'75J-_CHf?H=kK]bE@#;PuJM'U7"cDS@3J-i11R5^/im"ajXt1"!\anOpG_hmWLHLjd"uZccF`S`';_@e?oEUCVl>r;G2-;qt6:=7YdohKXE#UMm.f#MRMOQZKIU;r3Yaa)6i"!5AF0boT&%A=DM<1A]MQT3ZWNc8)<QiE$G[]K&G']4q3A>l^tHkCk*Ygeg(51@r!pI2eLJ`OgV[7c32!FrGc/!)-pkd?f.<lJ$Z)7\an1o"S]+T;-<09oMT;%fh,gNBd:9rgjn#Ds*!I?fD2X*rl9S=`<r/cdHi\hp6*1buW5Qkp9)7oDnqG&YlQ/@ZA+T1AUtNf[,eVn*F<H2tkiL(k&`52U)_=SmHU>A-2f3ZP\)^p&#CaUMnbu1B,LDc5Fr7qtr$$q>^N:\*E0=4E$Q*qsT4UI1"-\!rsJ$g8"+8c`:UK.4Cr%!.]G)O1tMh]iIUpJhm0&!%9VbY^2:Y`JctaAb6!':o)^OlM)rqh\Xr2UA?YA'V!JT!'l[,UT`n0/l-3R8V\13!!!_tr9I(_06#dqp\JseN'7DVoDnqg,\6OQIO"'tMsk6L.5[e1!.Z7jU[Rf=h>b.)I>g>nB(Q*(:o&MG<W!a,cd=]Hb'RXj.57M-!.Z9>O1t)7)LYLP7NVU177J,BF"P+mdAP?M4obRT2/Y%A:O4dk%fh,X/Xu(m]U:Dps*(mk1AV]Pd0BY:.AO)`QdM_(N'74A9#Zh)l8Ka,kYkGM*rl;;Wg?fO+'>.ZidETY'U@&N!'l7L3HdFZ51NuUi>@!#b3/p-TY__EDf%t9U,)QF!2s;tPqr1MQ-fg:5R!pdPgQD-N'74Al;T;oUG)Q@^Ga="!s#!Sd9"9M;cH4.!!%/#^,#`gb=KOCs(fN24obTJPV0JJ(Z3F";clL2!!%/#^+r0MJhm0&!2rr*j,?0s:E^U(!!#tSq?e'f$HhQ7!2,e.=2=#u:duN,!7d%B!rc__Jhm0&!2sN%'eoIuPgK^95W,=?JC19fN'74A>3&I>UX/.&84F[$!%j/D>Xk?;1AUtNBOUPp1AV^7_<<ZWpYf4m_L^R!A%`0RH68=jCSNPLdANXr^9'EHRrG%piE1$8J_nEma4fb#Ab7E"UMjq.od1[BI5ofIE1lq[ag'-]Ek=!=QdM_8N4uDSesgWOpYf4m_L^Ra4NBKqcl%7$T;"+;[cU\1_L^R!A%`0RH6;_uCSNP@dANXr^9'EHRrG%piE1$8J_nF0a4fb#@e;)tUMjq.od1[BI5ofIE1lq[c`oD)Z5@usb37TKA%`0RH681?-625tb]BkF^+;aGJhm22k#cQ=J_l/l]a4pi+7gK<ZU+?YgV_WX3(BNl1A\HA=Du'-hM5US#mYbuo,R)7k^3)n%*e!7:e'?n*:$<Yd/.d`2rR$jA#a&;\aM)`G=J3V1A\HA=Du'-hM5US#mYbu;]TYKn!_Y%TT$Ue3S'[=T_IDIDo.(^a&L+5kdtI!.4Cs0CQA'7*9_f1esgWOpG(4'I[bQthZ9KJ5oG)TF0%=Z5juUqhLl!EO/\/Id<Ek!;c#s@ef=!M37.PAX>f*'mpiA-rH%('I)h10"_I=Cc*?,Y"2,5cH4pe\5%Zn-hcnFj4(e+6.&1]rNqF_=k^>GARrG%p1#&rkqCWV5$L7)4M'PZUeCN64s/WKCTDr]Q_Var28WpGGhnlS=\@l5-:];Y3OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>j+andP^.Y!YnFVKK]Y$')G'MM?NiBoZAu,ada7Z5S*l)i'Q+4X!S#2gC*bZYC;s,sEV!d>,!dm2uA6tpaQdIiU,1X``i?#=_"7>,p`p+&4O6Gi.37'j`k:Q^iS/k*Af95"5>^ZQ^5@PW3(Wc*8WB[dT5C@g7_`_VF%Wp]1%eL&&Lu'C!d9G/8ptf?:E(g$Tirf>N60!:r*e*QDl'p%0>s8KA4f/_`R'doI+4h0;oPILLJbB[=>t1H^4%alupuhSF,]QG;/L-U2%T%.=*UYY_50uKrkGnE4GG*!XqEXq6T!@o$ZaZ-hrQfs5DFqUds.ka*M"'%P7Hn+XH/c0Z38B-fGG#VQEhLISqh00da/n\o+(!7GBcQ>VaulOjT;840NtS'j?B3'lOXiIRSg)Hah18>6b(1V?\rTQ-dF6Y3O?(ZdP]Lr(?K,osqPWDJ^fU@JaQVA(UMl?T^.gBZ[`[ftF@UJK07C"q.2>tX-\]JnFgq\CN[O`7oRQanhBX2j>BTb[XQ"Mo__(,FO)O&PS1O\FQ^=SJ&dPT9Qoa")<d13b>Yg]IkY:U[]iCC(mdc<*YEC/&OsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jP,)*)ID*M$_[*dp,Y=/pnb[^jId8fcs'5>kL:YK&Spdm!)j2I<dbm8NqAstsM)VfWkSrJAN-7o@8Wk>>B(V(.c)8&i"'uj:OsEV;V+9G;G@S@8:M/Fn&net,>A"cIp@@\(^0OqA"d\"NG?jt9"^W77bI;V=J`$LQ3EOLS,"[qCBnUpfKsuQmS@Ic_FY>a[,)>@(r2O>f!qYl`r-Pj2b$X"eo_,@J?9.H\q%I(t,Y?E,eW%;eIs600ri<%hb,qGBilYWBQ-:nmFWZ#`pPC.eP,+2f:\AeCRIKbuR1o&U>Z6TqmT7-p%P3$Rk1314NRE/LOsEWIo<isihs9;Md14KfGb[:^8tS(+8Y-fJF^M#Y]^hE`I-/u&]S8FRi6/m!,tX7F%FWS]p,:n?^\2bmhR=<`][=rE'ht^HH1T'mj-?hF8mghP\GUR8I9<cN9CFo5OsEUB-!%q<Q_O&cJ+DrA=;A$^s'f.-b%+gddG8qj7o`plMVFE1+nsg+q0/AT8Wk>6(%m9Y/oP<PYF810KdB<R,gFlh]4pO\01h<P8^DMSrJ)UVop(jh8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y=.E8Wk>jOsEV^,Y:mA?XGHXdM.Cbb)dl?1D]s07Zs!=pnnNlOu-\-cXE^:Vo'="^:*lC3S36Z/=Dj"NjTtLoXi/-2^.e2iV.Ug*KP6[X27)48<Tbd]Ci.#psZRiDH-JPk2-n6Vu/[%lY'[\hcF$)Gu.*dVq2+'h1WB6_]A#_WtQ;4GR+"BpnnNlOu-[$5<Bd`S>U*RpI"UT=?`@[YBT.??C-Y;Sm=fmG`OGj`6#k\AOqu[)>el7nbN,PkuW:oMo/Ur?f96DKKmL-IC>HU?.Ba?H-2b'?0S3I]XaP"R==H(*mIoi]=jR"@-uS2n9?89`8s)8g&(]n\$F6*DndIkL\U6(%KDY98Wm[:kBYn:X3sc^9:nS#?=qJ]X@'H\j\%_Z:#(NgX&jDf5Mo<6?>[I!M;*/t2<q?jPDA_[lE5<i>[?cQb7DqI&(o)"q87]XYMnF.!').E3B&YT<G-MopnnNlOu-\5k@=>6q*/4aqA_9^&n7L(j^5oqkJfOV:Z@gj?ZP9Bppurb\6YH).XKB)IQ=I)qNd_DnYS\L\M"G2;:.,Sj;jolkgV`s]So$GP#U2tdu:VG\X-*9%kfj>[!D.RL.0GXoC&X%=7s.6V3bHW%^>5>re^g*GfGd<gZ=4Rfa$m*5O)!+A%b(Ql5ft47\:qtWibe/8E(r[kE)NY/od2qM@=mT\'4':Gb]E-q4Bd6GLUYM.m@)#hFcdf%3L#Y^B=-)5c]57GStpm,cS5r-Z9aGIt%CCbiaGM4iba\ak^=so-G,q>5H%rhp;,e!'`.1cTaVnn&"1IR`tB3>[ZAF9O*Rp6^dP+Sb[h$96D>\I30HG5@mBKU`'(*7-31dF-t9TjZide]YGtf)-5NieZV#\%f(:N`2+d*g\iJ6*PSk0Y?K+4T/c8"*Ql</b!2ub0?Luukt9igB*T`&Y0pC*J'*iu8M_.],YHC,dkgK)T%Hh<rdDNM&DO5S:Do<@Bu\#^_s$oT^1B(rFt<JhL*T?ZZ2ZrZP9`__,ct8FlBEPcOsEV^,Y=.udJj8(\WDR~>endstream
+endobj
+127 0 obj
+<< /Contents 190 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 172 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.rst2pdf_image_0 126 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+128 0 obj
+<< /Outlines 130 0 R
+ /PageLabels 191 0 R
+ /PageMode /UseNone
+ /Pages 172 0 R
+ /Type /Catalog >>
+endobj
+129 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -10172,476 +11389,476 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-125 0 obj
+130 0 obj
 << /Count 54
- /First 126 0 R
- /Last 160 0 R
+ /First 131 0 R
+ /Last 165 0 R
  /Type /Outlines >>
 endobj
-126 0 obj
+131 0 obj
 << /Count 5
  /Dest [ 95 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 127 0 R
- /Last 131 0 R
- /Next 132 0 R
- /Parent 125 0 R
+ /First 132 0 R
+ /Last 136 0 R
+ /Next 137 0 R
+ /Parent 130 0 R
  /Title (Introduction) >>
 endobj
-127 0 obj
+132 0 obj
 << /Dest [ 95 0 R
  /XYZ
  40.01575
  705.0394
  0 ]
- /Next 128 0 R
- /Parent 126 0 R
+ /Next 133 0 R
+ /Parent 131 0 R
  /Title (License) >>
 endobj
-128 0 obj
+133 0 obj
 << /Dest [ 95 0 R
  /XYZ
  40.01575
  651.8394
  0 ]
- /Next 129 0 R
- /Parent 126 0 R
- /Prev 127 0 R
+ /Next 134 0 R
+ /Parent 131 0 R
+ /Prev 132 0 R
  /Title (Overview) >>
 endobj
-129 0 obj
+134 0 obj
 << /Dest [ 95 0 R
  /XYZ
  40.01575
  304.6394
  0 ]
- /Next 130 0 R
- /Parent 126 0 R
- /Prev 128 0 R
+ /Next 135 0 R
+ /Parent 131 0 R
+ /Prev 133 0 R
  /Title (Features Available) >>
 endobj
-130 0 obj
+135 0 obj
 << /Dest [ 95 0 R
  /XYZ
  40.01575
  137.4394
  0 ]
- /Next 131 0 R
- /Parent 126 0 R
- /Prev 129 0 R
+ /Next 136 0 R
+ /Parent 131 0 R
+ /Prev 134 0 R
  /Title (Supported Data) >>
 endobj
-131 0 obj
+136 0 obj
 << /Dest [ 96 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 126 0 R
- /Prev 130 0 R
+ /Parent 131 0 R
+ /Prev 135 0 R
  /Title (Future Implementation) >>
 endobj
-132 0 obj
+137 0 obj
 << /Count 17
  /Dest [ 100 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 133 0 R
- /Last 137 0 R
- /Next 150 0 R
- /Parent 125 0 R
- /Prev 126 0 R
+ /First 138 0 R
+ /Last 142 0 R
+ /Next 155 0 R
+ /Parent 130 0 R
+ /Prev 131 0 R
  /Title (Requirements) >>
 endobj
-133 0 obj
+138 0 obj
 << /Count 3
  /Dest [ 100 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 134 0 R
- /Last 136 0 R
- /Next 137 0 R
- /Parent 132 0 R
+ /First 139 0 R
+ /Last 141 0 R
+ /Next 142 0 R
+ /Parent 137 0 R
  /Title (Data Requirements) >>
 endobj
-134 0 obj
+139 0 obj
 << /Count 1
  /Dest [ 100 0 R
  /XYZ
  40.01575
  295.8394
  0 ]
- /First 135 0 R
- /Last 135 0 R
- /Next 136 0 R
- /Parent 133 0 R
+ /First 140 0 R
+ /Last 140 0 R
+ /Next 141 0 R
+ /Parent 138 0 R
  /Title (Reference Lamp Files) >>
 endobj
-135 0 obj
+140 0 obj
 << /Dest [ 105 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 134 0 R
+ /Parent 139 0 R
  /Title (Headers Requirements) >>
 endobj
-136 0 obj
+141 0 obj
 << /Dest [ 106 0 R
  /XYZ
  40.01575
  684.2394
  0 ]
- /Parent 133 0 R
- /Prev 134 0 R
+ /Parent 138 0 R
+ /Prev 139 0 R
  /Title (File organization) >>
 endobj
-137 0 obj
+142 0 obj
 << /Count 12
  /Dest [ 106 0 R
  /XYZ
  40.01575
  579.4394
  0 ]
- /First 138 0 R
- /Last 141 0 R
- /Parent 132 0 R
- /Prev 133 0 R
+ /First 143 0 R
+ /Last 146 0 R
+ /Parent 137 0 R
+ /Prev 138 0 R
  /Title (Software Requirements) >>
 endobj
-138 0 obj
+143 0 obj
 << /Count 2
  /Dest [ 106 0 R
  /XYZ
  40.01575
  496.2394
  0 ]
- /First 139 0 R
- /Last 140 0 R
- /Next 141 0 R
- /Parent 137 0 R
+ /First 144 0 R
+ /Last 145 0 R
+ /Next 146 0 R
+ /Parent 142 0 R
  /Title (Setup for Remote Use) >>
 endobj
-139 0 obj
+144 0 obj
 << /Dest [ 106 0 R
  /XYZ
  40.01575
  322.6394
  0 ]
- /Next 140 0 R
- /Parent 138 0 R
+ /Next 145 0 R
+ /Parent 143 0 R
  /Title (Establish a VNC connection) >>
 endobj
-140 0 obj
+145 0 obj
 << /Dest [ 109 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 138 0 R
- /Prev 139 0 R
+ /Parent 143 0 R
+ /Prev 144 0 R
  /Title (VNC from the Terminal) >>
 endobj
-141 0 obj
+146 0 obj
 << /Count 8
  /Dest [ 109 0 R
  /XYZ
  40.01575
  597.8394
  0 ]
- /First 142 0 R
- /Last 146 0 R
- /Parent 137 0 R
- /Prev 138 0 R
+ /First 147 0 R
+ /Last 151 0 R
+ /Parent 142 0 R
+ /Prev 143 0 R
  /Title (Setup for local installation) >>
 endobj
-142 0 obj
+147 0 obj
 << /Count 2
  /Dest [ 109 0 R
  /XYZ
  40.01575
  325.0394
  0 ]
- /First 143 0 R
- /Last 144 0 R
- /Next 145 0 R
- /Parent 141 0 R
+ /First 148 0 R
+ /Last 149 0 R
+ /Next 150 0 R
+ /Parent 146 0 R
  /Title (DCR \(optional\)) >>
 endobj
-143 0 obj
+148 0 obj
 << /Dest [ 113 0 R
  /XYZ
  40.01575
  654.2394
  0 ]
- /Next 144 0 R
- /Parent 142 0 R
+ /Next 149 0 R
+ /Parent 147 0 R
  /Title (Compiling DCR) >>
 endobj
-144 0 obj
+149 0 obj
 << /Dest [ 113 0 R
  /XYZ
  40.01575
  445.0394
  0 ]
- /Parent 142 0 R
- /Prev 143 0 R
+ /Parent 147 0 R
+ /Prev 148 0 R
  /Title (Install binary DCR) >>
 endobj
-145 0 obj
+150 0 obj
 << /Dest [ 113 0 R
  /XYZ
  40.01575
  145.8394
  0 ]
- /Next 146 0 R
- /Parent 141 0 R
- /Prev 142 0 R
+ /Next 151 0 R
+ /Parent 146 0 R
+ /Prev 147 0 R
  /Title (System Installation \(not recommended\)) >>
 endobj
-146 0 obj
+151 0 obj
 << /Count 3
  /Dest [ 118 0 R
  /XYZ
  40.01575
  579.0394
  0 ]
- /First 147 0 R
- /Last 149 0 R
- /Parent 141 0 R
- /Prev 145 0 R
+ /First 152 0 R
+ /Last 154 0 R
+ /Parent 146 0 R
+ /Prev 150 0 R
  /Title (Conda Installation) >>
 endobj
-147 0 obj
+152 0 obj
 << /Dest [ 118 0 R
  /XYZ
  40.01575
  305.8394
  0 ]
- /Next 148 0 R
- /Parent 146 0 R
+ /Next 153 0 R
+ /Parent 151 0 R
  /Title (New Virtual Environment) >>
 endobj
-148 0 obj
+153 0 obj
 << /Dest [ 118 0 R
  /XYZ
  40.01575
  246.6394
  0 ]
- /Next 149 0 R
- /Parent 146 0 R
- /Prev 147 0 R
+ /Next 154 0 R
+ /Parent 151 0 R
+ /Prev 152 0 R
  /Title (Existing Virtual Environment) >>
 endobj
-149 0 obj
+154 0 obj
 << /Dest [ 118 0 R
  /XYZ
  40.01575
  151.4394
  0 ]
- /Parent 146 0 R
- /Prev 148 0 R
+ /Parent 151 0 R
+ /Prev 153 0 R
  /Title (Pipeline Installation) >>
 endobj
-150 0 obj
+155 0 obj
 << /Count 9
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 151 0 R
- /Last 155 0 R
- /Next 160 0 R
- /Parent 125 0 R
- /Prev 132 0 R
+ /First 156 0 R
+ /Last 160 0 R
+ /Next 165 0 R
+ /Parent 130 0 R
+ /Prev 137 0 R
  /Title (Running the Pipeline) >>
 endobj
-151 0 obj
-<< /Dest [ 120 0 R
- /XYZ
- 40.01575
- 747.0394
- 0 ]
- /Next 152 0 R
- /Parent 150 0 R
- /Title (Working with Virtual Environments) >>
-endobj
-152 0 obj
-<< /Dest [ 120 0 R
- /XYZ
- 40.01575
- 711.8394
- 0 ]
- /Next 153 0 R
- /Parent 150 0 R
- /Prev 151 0 R
- /Title (Prepare Data for Reduction) >>
-endobj
-153 0 obj
-<< /Dest [ 120 0 R
- /XYZ
- 40.01575
- 676.6394
- 0 ]
- /Next 154 0 R
- /Parent 150 0 R
- /Prev 152 0 R
- /Title (Run redccd) >>
-endobj
-154 0 obj
-<< /Dest [ 120 0 R
- /XYZ
- 40.01575
- 641.4394
- 0 ]
- /Next 155 0 R
- /Parent 150 0 R
- /Prev 153 0 R
- /Title (Run redspec) >>
-endobj
-155 0 obj
-<< /Count 4
- /Dest [ 120 0 R
- /XYZ
- 40.01575
- 606.2394
- 0 ]
- /First 156 0 R
- /Last 159 0 R
- /Parent 150 0 R
- /Prev 154 0 R
- /Title (Description of custom keywords) >>
-endobj
 156 0 obj
-<< /Dest [ 120 0 R
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
- 529.0394
+ 614.0394
  0 ]
  /Next 157 0 R
  /Parent 155 0 R
- /Title (General Purpose Keywords) >>
+ /Title (Working with Virtual Environments) >>
 endobj
 157 0 obj
-<< /Dest [ 120 0 R
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
- 95.83937
+ 263.8394
  0 ]
  /Next 158 0 R
  /Parent 155 0 R
  /Prev 156 0 R
- /Title (Non-linear wavelength solution) >>
+ /Title (Prepare Data for Reduction) >>
 endobj
 158 0 obj
-<< /Dest [ 121 0 R
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
- 526.6394
+ 78.63937
  0 ]
  /Next 159 0 R
  /Parent 155 0 R
  /Prev 157 0 R
- /Title (Combined Images) >>
+ /Title (Run redccd) >>
 endobj
 159 0 obj
-<< /Dest [ 121 0 R
+<< /Dest [ 123 0 R
  /XYZ
  40.01575
- 369.4394
+ 597.0394
  0 ]
+ /Next 160 0 R
  /Parent 155 0 R
  /Prev 158 0 R
- /Title (Detected lines) >>
+ /Title (Run redspec) >>
 endobj
 160 0 obj
+<< /Count 4
+ /Dest [ 123 0 R
+ /XYZ
+ 40.01575
+ 387.8394
+ 0 ]
+ /First 161 0 R
+ /Last 164 0 R
+ /Parent 155 0 R
+ /Prev 159 0 R
+ /Title (Description of custom keywords) >>
+endobj
+161 0 obj
+<< /Dest [ 123 0 R
+ /XYZ
+ 40.01575
+ 310.6394
+ 0 ]
+ /Next 162 0 R
+ /Parent 160 0 R
+ /Title (General Purpose Keywords) >>
+endobj
+162 0 obj
+<< /Dest [ 124 0 R
+ /XYZ
+ 40.01575
+ 609.0394
+ 0 ]
+ /Next 163 0 R
+ /Parent 160 0 R
+ /Prev 161 0 R
+ /Title (Non-linear wavelength solution) >>
+endobj
+163 0 obj
+<< /Dest [ 124 0 R
+ /XYZ
+ 40.01575
+ 325.8394
+ 0 ]
+ /Next 164 0 R
+ /Parent 160 0 R
+ /Prev 162 0 R
+ /Title (Combined Images) >>
+endobj
+164 0 obj
+<< /Dest [ 124 0 R
+ /XYZ
+ 40.01575
+ 168.6394
+ 0 ]
+ /Parent 160 0 R
+ /Prev 163 0 R
+ /Title (Detected lines) >>
+endobj
+165 0 obj
 << /Count 6
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 161 0 R
- /Last 166 0 R
- /Parent 125 0 R
- /Prev 150 0 R
+ /First 166 0 R
+ /Last 171 0 R
+ /Parent 130 0 R
+ /Prev 155 0 R
  /Title (Conclusion) >>
 endobj
-161 0 obj
+166 0 obj
 << /Count 3
- /Dest [ 122 0 R
+ /Dest [ 127 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 162 0 R
- /Last 164 0 R
- /Next 165 0 R
- /Parent 160 0 R
+ /First 167 0 R
+ /Last 169 0 R
+ /Next 170 0 R
+ /Parent 165 0 R
  /Title (Performance) >>
 endobj
-162 0 obj
-<< /Dest [ 122 0 R
+167 0 obj
+<< /Dest [ 127 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Next 163 0 R
- /Parent 161 0 R
+ /Next 168 0 R
+ /Parent 166 0 R
  /Title (Benchmarks) >>
 endobj
-163 0 obj
-<< /Dest [ 122 0 R
+168 0 obj
+<< /Dest [ 127 0 R
  /XYZ
  40.01575
- 661.0394
+ 442.0394
  0 ]
- /Next 164 0 R
- /Parent 161 0 R
- /Prev 162 0 R
+ /Next 169 0 R
+ /Parent 166 0 R
+ /Prev 167 0 R
  /Title (Wavelength Calibration) >>
 endobj
-164 0 obj
-<< /Dest [ 122 0 R
+169 0 obj
+<< /Dest [ 127 0 R
  /XYZ
  40.01575
- 628.2394
+ 192.5194
  0 ]
- /Parent 161 0 R
- /Prev 163 0 R
+ /Parent 166 0 R
+ /Prev 168 0 R
  /Title (Comparison with IRAF) >>
 endobj
-165 0 obj
-<< /Dest [ 122 0 R
+170 0 obj
+<< /Dest [ 127 0 R
  /XYZ
  40.01575
- 595.4394
+ 159.7194
  0 ]
- /Next 166 0 R
- /Parent 160 0 R
- /Prev 161 0 R
+ /Next 171 0 R
+ /Parent 165 0 R
+ /Prev 166 0 R
  /Title (Acknowledgements) >>
 endobj
-166 0 obj
-<< /Dest [ 122 0 R
+171 0 obj
+<< /Dest [ 127 0 R
  /XYZ
  40.01575
- 542.2394
+ 106.5194
  0 ]
- /Parent 160 0 R
- /Prev 165 0 R
+ /Parent 165 0 R
+ /Prev 170 0 R
  /Title (Known Issues) >>
 endobj
-167 0 obj
-<< /Count 16
+172 0 obj
+<< /Count 18
  /Kids [ 4 0 R
  5 0 R
  86 0 R
@@ -10655,12 +11872,14 @@ endobj
  113 0 R
  118 0 R
  119 0 R
- 120 0 R
- 121 0 R
- 122 0 R ]
+ 122 0 R
+ 123 0 R
+ 124 0 R
+ 125 0 R
+ 127 0 R ]
  /Type /Pages >>
 endobj
-168 0 obj
+173 0 obj
 << /Length 994 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -10719,7 +11938,7 @@ Q
  
 endstream
 endobj
-169 0 obj
+174 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -10729,7 +11948,7 @@ Q
  
 endstream
 endobj
-170 0 obj
+175 0 obj
 << /Length 10397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -11152,7 +12371,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11166,7 +12385,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11180,7 +12399,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11194,7 +12413,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11208,7 +12427,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11222,7 +12441,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11236,7 +12455,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11250,7 +12469,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11264,7 +12483,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11278,7 +12497,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11292,7 +12511,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11306,7 +12525,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11315,7 +12534,7 @@ Q
  
 endstream
 endobj
-171 0 obj
+176 0 obj
 << /Length 397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -11334,7 +12553,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11346,7 +12565,7 @@ Q
  
 endstream
 endobj
-172 0 obj
+177 0 obj
 << /Length 9742 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -11812,7 +13031,7 @@ Q
  
 endstream
 endobj
-173 0 obj
+178 0 obj
 << /Length 624 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -11855,7 +13074,7 @@ Q
  
 endstream
 endobj
-174 0 obj
+179 0 obj
 << /Length 11052 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -12480,7 +13699,7 @@ Q
  
 endstream
 endobj
-175 0 obj
+180 0 obj
 << /Length 9855 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -12779,7 +13998,7 @@ Q
  
 endstream
 endobj
-176 0 obj
+181 0 obj
 << /Length 9665 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -13236,7 +14455,7 @@ Q
  
 endstream
 endobj
-177 0 obj
+182 0 obj
 << /Length 7535 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -13603,7 +14822,7 @@ Q
  
 endstream
 endobj
-178 0 obj
+183 0 obj
 << /Length 9722 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -14091,7 +15310,7 @@ Q
  
 endstream
 endobj
-179 0 obj
+184 0 obj
 << /Length 8987 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -14570,7 +15789,7 @@ Q
  
 endstream
 endobj
-180 0 obj
+185 0 obj
 << /Length 1043 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -14638,8 +15857,8 @@ Q
  
 endstream
 endobj
-181 0 obj
-<< /Length 9145 >>
+186 0 obj
+<< /Length 8840 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -14655,7 +15874,59 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Running the Pipelin
 Q
 Q
 q
-1 0 0 1 40.01575 727.8394 cm
+1 0 0 1 40.01575 745.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (Goodman Spectroscopic Pipeline ) Tj /F1 10 Tf (is designed to be simple to use, however help is always necessary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 729.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Getting Help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 630.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 86 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+q
+BT 1 0 0 1 0 14 Tm 1.304952 Tw 12 TL /F1 10 Tf 0 0 0 rg (This manual is intended to be the prefered method to get help. However the quickest option is using ) Tj /F4 10 Tf (-h ) Tj /F1 10 Tf (or) Tj T* 0 Tw /F4 10 Tf (--help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (redccd) Tj ( ) Tj (--help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Will print the list of arguments along with a quick explanation and default values.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (It is the same for ) Tj /F4 10 Tf (redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (redspec) Tj ( ) Tj (--help) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 594.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14667,7 +15938,199 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Working with Vi
 Q
 Q
 q
-1 0 0 1 40.01575 692.6394 cm
+1 0 0 1 40.01575 576.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Virtual environments are a very useful tool, the main contribution of them being:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 570.8394 cm
+Q
+q
+1 0 0 1 40.01575 570.8394 cm
+Q
+q
+1 0 0 1 40.01575 558.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Portability) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 552.8394 cm
+Q
+q
+1 0 0 1 40.01575 540.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Protection to the host environment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 534.8394 cm
+Q
+q
+1 0 0 1 40.01575 522.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Flexibility) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 522.8394 cm
+Q
+q
+1 0 0 1 40.01575 504.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If you know nothing about them we recommend you to start in the ) Tj 0 0 .501961 rg (Conda site) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 462.8394 cm
+q
+BT 1 0 0 1 0 26 Tm 3.030205 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the purpose of this manual we will just say that a ) Tj /F3 10 Tf (Virtual Environment ) Tj /F1 10 Tf (lets you have a custom set of) Tj T* 0 Tw 2.710881 Tw (libraries/tools in one place, and most importantly is independent of your host system. Installation will not be) Tj T* 0 Tw (discussed here but you can visit ) Tj 0 0 .501961 rg (this link ) Tj 0 0 0 rg (for information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 446.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Discover what environments exist in your system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 413.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 20 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (conda) Tj ( ) Tj (env) Tj ( ) Tj (list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Will print a list where the first column is the name.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 397.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Activate \(enter\) the virtual Environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 346.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (source) Tj ( ) Tj (activate) Tj ( ) Tj (<) Tj (venv-name) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Where ) Tj /F4 10 Tf (<) Tj (venv-name) Tj (> ) Tj /F1 10 Tf (is the name of your virtual environment. Your shell's prompt will change to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (\() Tj (<) Tj (venv-name) Tj (>) Tj (\)) Tj ( ) Tj ([user@hostname) Tj ( ) Tj (folder-name]$) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 330.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Deactivate \(leave\) the virtual environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 279.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (source) Tj ( ) Tj (deactivate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This time the prompt will change again to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg ([user@hostname) Tj ( ) Tj (folder-name]$) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 244.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14679,7 +16142,143 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Prepare Data fo
 Q
 Q
 q
-1 0 0 1 40.01575 657.4394 cm
+1 0 0 1 40.01575 214.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .377004 Tw (If you did a good job preparing and doing the observation this should be an easy step, either way, keep in mind the) Tj T* 0 Tw (following steps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 208.6394 cm
+Q
+q
+1 0 0 1 40.01575 208.6394 cm
+Q
+q
+1 0 0 1 40.01575 196.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remove all ) Tj /F3 10 Tf (focus ) Tj /F1 10 Tf (sequence.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 190.6394 cm
+Q
+q
+1 0 0 1 40.01575 178.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remove all ) Tj /F3 10 Tf (target acquisition ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (test ) Tj /F1 10 Tf (frames.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 172.6394 cm
+Q
+q
+1 0 0 1 40.01575 160.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Using your observation's log remove all unwanted files.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 154.6394 cm
+Q
+q
+1 0 0 1 40.01575 142.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Make sure all data has the same gain \() Tj /F4 10 Tf (GAIN) Tj /F1 10 Tf (\) and readout noise \() Tj /F4 10 Tf (RDNOISE) Tj /F1 10 Tf (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 136.6394 cm
+Q
+q
+1 0 0 1 40.01575 124.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Make sure all data has the same Region Of Interest or ROI \() Tj /F4 10 Tf (ROI) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 124.6394 cm
+Q
+q
+1 0 0 1 40.01575 94.63937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .306705 Tw (The pipeline does not modify the original files unless there are problems with fits compliance, is never a bad idea to) Tj T* 0 Tw (keep copies of your original data though.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 59.43937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14691,7 +16290,263 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Run redccd) Tj 
 Q
 Q
 q
-1 0 0 1 40.01575 622.2394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+187 0 obj
+<< /Length 11371 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is the first step in the reduction process, the main tasks are listed below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create master bias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create master flats) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 733.0394 cm
+Q
+q
+1 0 0 1 40.01575 613.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apply Corrections:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Overscan) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trim image) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Detect slit and trim out non-illuminated areas) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bias correction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Normalized flat field correction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cosmic ray rejection) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 613.0394 cm
+Q
+q
+1 0 0 1 40.01575 577.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14703,7 +16558,194 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Run redspec) Tj
 Q
 Q
 q
-1 0 0 1 40.01575 587.0394 cm
+1 0 0 1 40.01575 559.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Is the spectroscopy reduction script. The task are the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 553.8394 cm
+Q
+q
+1 0 0 1 40.01575 553.8394 cm
+Q
+q
+1 0 0 1 40.01575 541.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Classifies data and create the match of ) Tj /F4 10 Tf (OBJECT ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (COMP ) Tj /F1 10 Tf (if exists.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 535.8394 cm
+Q
+q
+1 0 0 1 40.01575 523.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identify targets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 517.8394 cm
+Q
+q
+1 0 0 1 40.01575 505.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts targets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 499.8394 cm
+Q
+q
+1 0 0 1 40.01575 487.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saved extracted targets to 1D spectrum) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 481.8394 cm
+Q
+q
+1 0 0 1 40.01575 469.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds wavelength solution automatically) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 463.8394 cm
+Q
+q
+1 0 0 1 40.01575 451.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 445.8394 cm
+Q
+q
+1 0 0 1 40.01575 433.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves wavelength calibrated file) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 433.8394 cm
+Q
+q
+1 0 0 1 40.01575 403.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .214116 Tw (The mathematical model used to define the wavelength solution is recorded in the header even though the data has) Tj T* 0 Tw (been linearized for record purpose.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 368.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14715,13 +16757,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Description of 
 Q
 Q
 q
-1 0 0 1 40.01575 545.0394 cm
+1 0 0 1 40.01575 326.6394 cm
 q
 BT 1 0 0 1 0 26 Tm .916123 Tw 12 TL /F1 10 Tf 0 0 0 rg (The pipeline adds several keywords to keep track of the process and in general for keeping important information) Tj T* 0 Tw .496531 Tw (available. In the following table is a description of all the keywords added by ) Tj /F3 10 Tf (The Goodman Pipeline) Tj /F1 10 Tf (, though not all) Tj T* 0 Tw (of them are added to all the images.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 512.2394 cm
+1 0 0 1 40.01575 293.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14733,16 +16775,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (General Purpose
 Q
 Q
 q
-1 0 0 1 40.01575 494.2394 cm
+1 0 0 1 40.01575 275.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (These keywords are used for record purpose, except for ) Tj /F4 10 Tf (GSP_FNAM ) Tj /F1 10 Tf (which is used to keep track of the file name.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 488.2394 cm
+1 0 0 1 40.01575 269.8394 cm
 Q
 q
-1 0 0 1 40.01575 457.8394 cm
+1 0 0 1 40.01575 239.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14754,27 +16796,225 @@ BT 1 0 0 1 0 2.4 Tm 31.89005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (G
 Q
 Q
 q
-1 0 0 1 40.01575 111.8394 cm
+1 0 0 1 40.01575 55.43937 cm
 1 1 1 rg
-n 0 340 515.2441 -16 re f*
+n 0 178 515.2441 -16 re f*
 .878431 .878431 .878431 rg
-n 0 324 515.2441 -18 re f*
+n 0 162 515.2441 -18 re f*
 1 1 1 rg
-n 0 306 515.2441 -18 re f*
+n 0 144 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 288 515.2441 -18 re f*
+n 0 126 515.2441 -18 re f*
 1 1 1 rg
-n 0 270 515.2441 -18 re f*
+n 0 108 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 252 515.2441 -18 re f*
+n 0 90 515.2441 -18 re f*
 1 1 1 rg
-n 0 234 515.2441 -18 re f*
+n 0 72 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 216 515.2441 -18 re f*
+n 0 54 515.2441 -18 re f*
 1 1 1 rg
-n 0 198 515.2441 -18 re f*
+n 0 36 515.2441 -18 re f*
 .878431 .878431 .878431 rg
-n 0 180 515.2441 -18 re f*
+n 0 18 515.2441 -18 re f*
+.960784 .960784 .862745 rg
+n 0 178 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 165 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 60.56959 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 9.169795 0 Td (Keyword) Tj T* -9.169795 0 Td ET
+Q
+Q
+q
+1 0 0 1 78.56959 165 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 430.6745 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 195.3323 0 Td (Purpose) Tj T* -195.3323 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_VERS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pipeline version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_ONAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Original file name, first read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PNAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parent file name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_FNAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Current file name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PATH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Path from where the file was read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TECH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Observing technique. Imaging or Spectroscopy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Date of processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_OVER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Overscan region.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TRIM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.56959 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trim section.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 162 m 515.2441 162 l S
+n 0 144 m 515.2441 144 l S
+n 0 126 m 515.2441 126 l S
+n 0 108 m 515.2441 108 l S
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 72.56959 0 m 72.56959 178 l S
+n 0 178 m 515.2441 178 l S
+n 0 0 m 0 178 l S
+n 515.2441 0 m 515.2441 178 l S
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+188 0 obj
+<< /Length 11236 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 625.0394 cm
 1 1 1 rg
 n 0 162 515.2441 -18 re f*
 .878431 .878431 .878431 rg
@@ -14793,160 +17033,8 @@ n 0 54 515.2441 -18 re f*
 n 0 36 515.2441 -18 re f*
 1 1 1 rg
 n 0 18 515.2441 -18 re f*
-.960784 .960784 .862745 rg
-n 0 340 515.2441 -16 re f*
-.12549 .262745 .360784 rg
-BT /F2 10 Tf 10 TL ET
-q
-1 0 0 1 6 327 cm
-q
-.960784 .960784 .862745 rg
-n 0 0 60.56959 10 re f*
-Q
-q
-.12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 9.169795 0 Td (Keyword) Tj T* -9.169795 0 Td ET
-Q
-Q
-q
-1 0 0 1 78.56959 327 cm
-q
-.960784 .960784 .862745 rg
-n 0 0 430.6745 10 re f*
-Q
-q
-.12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 195.3323 0 Td (Purpose) Tj T* -195.3323 0 Td ET
-Q
-Q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 309 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_VERS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 309 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pipeline version.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_ONAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Original file name, first read.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 273 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PNAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 273 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parent file name.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 255 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_FNAM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 255 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Current file name.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 237 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_PATH) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 237 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Path from where the file was read.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 219 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TECH) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 219 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Observing technique. Imaging or Spectroscopy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 201 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_DATE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 201 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Date of processing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 183 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_OVER) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 183 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Overscan region.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 165 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSP_TRIM) Tj T* ET
-Q
-Q
-q
-1 0 0 1 78.56959 165 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trim section.) Tj T* ET
-Q
-Q
 q
 1 0 0 1 6 147 cm
 q
@@ -15078,15 +17166,6 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 324 m 515.2441 324 l S
-n 0 306 m 515.2441 306 l S
-n 0 288 m 515.2441 288 l S
-n 0 270 m 515.2441 270 l S
-n 0 252 m 515.2441 252 l S
-n 0 234 m 515.2441 234 l S
-n 0 216 m 515.2441 216 l S
-n 0 198 m 515.2441 198 l S
-n 0 180 m 515.2441 180 l S
 n 0 162 m 515.2441 162 l S
 n 0 144 m 515.2441 144 l S
 n 0 126 m 515.2441 126 l S
@@ -15096,18 +17175,17 @@ n 0 72 m 515.2441 72 l S
 n 0 54 m 515.2441 54 l S
 n 0 36 m 515.2441 36 l S
 n 0 18 m 515.2441 18 l S
-n 72.56959 0 m 72.56959 340 l S
-n 0 340 m 515.2441 340 l S
+n 72.56959 0 m 72.56959 162 l S
+n 0 0 m 0 162 l S
+n 515.2441 0 m 515.2441 162 l S
 n 0 0 m 515.2441 0 l S
-n 0 0 m 0 340 l S
-n 515.2441 0 m 515.2441 340 l S
 Q
 Q
 q
-1 0 0 1 40.01575 111.8394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
 q
-1 0 0 1 40.01575 79.03937 cm
+1 0 0 1 40.01575 592.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15119,43 +17197,22 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Non-linear wave
 Q
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-182 0 obj
-<< /Length 10017 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 739.0394 cm
+1 0 0 1 40.01575 538.2394 cm
 q
 BT 1 0 0 1 0 38 Tm 2.265292 Tw 12 TL /F1 10 Tf 0 0 0 rg (Since writing non-linear wavelength solutions to the headers using the FITS standard \(reference\) is extremely) Tj T* 0 Tw .350256 Tw (complex and not necessarily well documented. We came up with the solution of simply describing the mathematical) Tj T* 0 Tw .459546 Tw (model from ) Tj /F4 10 Tf (astropy.modeling.models) Tj /F1 10 Tf (. This allows for maintaining the data ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (while keeping a reliable) Tj T* 0 Tw (description of the wavelength solution.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 709.0394 cm
+1 0 0 1 40.01575 508.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .560783 Tw 12 TL /F1 10 Tf 0 0 0 rg (The way it is currently implemented will work for writting for any polynomial kind of model. Reading is implemented) Tj T* 0 Tw (only for ) Tj /F4 10 Tf (Chebyshev1D ) Tj /F1 10 Tf (which is the model by default.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 703.0394 cm
+1 0 0 1 40.01575 502.2394 cm
 Q
 q
-1 0 0 1 40.01575 672.6394 cm
+1 0 0 1 40.01575 471.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15167,7 +17224,7 @@ BT 1 0 0 1 0 2.4 Tm 82.90805 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (K
 Q
 Q
 q
-1 0 0 1 40.01575 542.6394 cm
+1 0 0 1 40.01575 341.8394 cm
 1 1 1 rg
 n 0 124 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -15309,10 +17366,10 @@ n 515.2441 0 m 515.2441 124 l S
 Q
 Q
 q
-1 0 0 1 40.01575 542.6394 cm
+1 0 0 1 40.01575 341.8394 cm
 Q
 q
-1 0 0 1 40.01575 509.8394 cm
+1 0 0 1 40.01575 309.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15324,17 +17381,17 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Combined Images
 Q
 Q
 q
-1 0 0 1 40.01575 479.8394 cm
+1 0 0 1 40.01575 279.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.111205 Tw (Every image used in a combination of images is recorded in the header of the resulting one. The order does not) Tj T* 0 Tw (have importance but most likely the header of the first one will be used) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 473.8394 cm
+1 0 0 1 40.01575 273.0394 cm
 Q
 q
-1 0 0 1 40.01575 443.4394 cm
+1 0 0 1 40.01575 242.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15346,7 +17403,7 @@ BT 1 0 0 1 0 2.4 Tm 60.56405 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (K
 Q
 Q
 q
-1 0 0 1 40.01575 385.4394 cm
+1 0 0 1 40.01575 184.6394 cm
 1 1 1 rg
 n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -15424,10 +17481,10 @@ n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 385.4394 cm
+1 0 0 1 40.01575 184.6394 cm
 Q
 q
-1 0 0 1 40.01575 352.6394 cm
+1 0 0 1 40.01575 151.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15439,16 +17496,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Detected lines)
 Q
 Q
 q
-1 0 0 1 40.01575 322.6394 cm
+1 0 0 1 40.01575 121.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .468637 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (reference lamp library ) Tj /F1 10 Tf (maintains the lamps non-linearized and also they get a record of the pixel value and the) Tj T* 0 Tw (equivalent in angstrom. In the following table a three-line lamp is shown.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 316.6394 cm
+1 0 0 1 40.01575 115.8394 cm
 Q
 q
-1 0 0 1 40.01575 286.2394 cm
+1 0 0 1 40.01575 85.43937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15460,27 +17517,15 @@ BT 1 0 0 1 0 2.4 Tm 27.55205 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (D
 Q
 Q
 q
-1 0 0 1 40.01575 156.2394 cm
+1 0 0 1 40.01575 63.43937 cm
 1 1 1 rg
-n 0 124 515.2441 -16 re f*
-.878431 .878431 .878431 rg
-n 0 108 515.2441 -18 re f*
-1 1 1 rg
-n 0 90 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 72 515.2441 -18 re f*
-1 1 1 rg
-n 0 54 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 36 515.2441 -18 re f*
-1 1 1 rg
-n 0 18 515.2441 -18 re f*
+n 0 16 515.2441 -16 re f*
 .960784 .960784 .862745 rg
-n 0 124 515.2441 -16 re f*
+n 0 16 515.2441 -16 re f*
 .12549 .262745 .360784 rg
 BT /F2 10 Tf 10 TL ET
 q
-1 0 0 1 6 111 cm
+1 0 0 1 6 3 cm
 q
 .960784 .960784 .862745 rg
 n 0 0 60.56959 10 re f*
@@ -15491,7 +17536,7 @@ BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 9.169795 0 Td (Keyword) Tj T* -9.169795 0 Td E
 Q
 Q
 q
-1 0 0 1 78.56959 111 cm
+1 0 0 1 78.56959 3 cm
 q
 .960784 .960784 .862745 rg
 n 0 0 430.6745 10 re f*
@@ -15501,6 +17546,53 @@ q
 BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 195.3323 0 Td (Purpose) Tj T* -195.3323 0 Td ET
 Q
 Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 72.56959 0 m 72.56959 16 l S
+n 0 16 m 515.2441 16 l S
+n 0 0 m 0 16 l S
+n 515.2441 0 m 515.2441 16 l S
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+189 0 obj
+<< /Length 2344 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 679.0394 cm
+1 1 1 rg
+n 0 108 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 515.2441 -18 re f*
+1 1 1 rg
+n 0 72 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -15598,38 +17690,37 @@ n 0 72 m 515.2441 72 l S
 n 0 54 m 515.2441 54 l S
 n 0 36 m 515.2441 36 l S
 n 0 18 m 515.2441 18 l S
-n 72.56959 0 m 72.56959 124 l S
-n 0 124 m 515.2441 124 l S
+n 72.56959 0 m 72.56959 108 l S
+n 0 0 m 0 108 l S
+n 515.2441 0 m 515.2441 108 l S
 n 0 0 m 515.2441 0 l S
-n 0 0 m 0 124 l S
-n 515.2441 0 m 515.2441 124 l S
 Q
 Q
 q
-1 0 0 1 40.01575 156.2394 cm
+1 0 0 1 40.01575 679.0394 cm
 Q
 q
-1 0 0 1 40.01575 156.2394 cm
+1 0 0 1 40.01575 679.0394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the Pipeline) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run redspec) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (13) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-183 0 obj
-<< /Length 2049 >>
+190 0 obj
+<< /Length 4707 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -15672,11 +17763,183 @@ q
 1 0 0 1 40.01575 677.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(Time elapsed\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Running redccd:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 644.2394 cm
+1 0 0 1 40.01575 530.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 134 Tm  T* ET
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15 FLAT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11 BIAS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (37 OBJECT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (50 COMP) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Command ) Tj /F4 10 Tf (time) Tj ( ) Tj (redccd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (real) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m53.831s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (user) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m28.863s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (sys) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (0m20.969s) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 512.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (time) Tj ( ) Tj (redspec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 506.0394 cm
+Q
+q
+1 0 0 1 40.01575 458.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (real) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m10.221s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (user) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (1m38.899s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (sys) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (0m2.404s) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 458.0394 cm
+Q
+q
+1 0 0 1 40.01575 425.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15688,7 +17951,14 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Wavelength Cali
 Q
 Q
 q
-1 0 0 1 40.01575 611.4394 cm
+1 0 0 1 154.7178 208.5194 cm
+q
+285.84 0 0 210.72 0 0 cm
+/FormXob.rst2pdf_image_0 Do
+Q
+Q
+q
+1 0 0 1 40.01575 175.7194 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15700,7 +17970,7 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Comparison with
 Q
 Q
 q
-1 0 0 1 40.01575 576.2394 cm
+1 0 0 1 40.01575 140.5194 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15712,14 +17982,14 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Acknowledgement
 Q
 Q
 q
-1 0 0 1 40.01575 558.2394 cm
+1 0 0 1 40.01575 122.5194 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Acknowledge: Simon, Cesar, Bruno, Tina, David, DCR, cite papers.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 523.0394 cm
+1 0 0 1 40.01575 87.31937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -15731,7 +18001,7 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Known Issues) T
 Q
 Q
 q
-1 0 0 1 40.01575 517.0394 cm
+1 0 0 1 40.01575 81.31937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -15744,112 +18014,124 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (14) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-184 0 obj
-<< /Nums [ 0
- 185 0 R
- 1
- 186 0 R
- 2
- 187 0 R
- 3
- 188 0 R
- 4
- 189 0 R
- 5
- 190 0 R
- 6
- 191 0 R
- 7
- 192 0 R
- 8
- 193 0 R
- 9
- 194 0 R
- 10
- 195 0 R
- 11
- 196 0 R
- 12
- 197 0 R
- 13
- 198 0 R
- 14
- 199 0 R
- 15
- 200 0 R ] >>
-endobj
-185 0 obj
-<< /S /D
- /St 1 >>
-endobj
-186 0 obj
-<< /S /D
- /St 2 >>
-endobj
-187 0 obj
-<< /S /r
- /St 1 >>
-endobj
-188 0 obj
-<< /S /r
- /St 2 >>
-endobj
-189 0 obj
-<< /S /D
- /St 1 >>
-endobj
-190 0 obj
-<< /S /D
- /St 2 >>
-endobj
 191 0 obj
-<< /S /D
- /St 3 >>
+<< /Nums [ 0
+ 192 0 R
+ 1
+ 193 0 R
+ 2
+ 194 0 R
+ 3
+ 195 0 R
+ 4
+ 196 0 R
+ 5
+ 197 0 R
+ 6
+ 198 0 R
+ 7
+ 199 0 R
+ 8
+ 200 0 R
+ 9
+ 201 0 R
+ 10
+ 202 0 R
+ 11
+ 203 0 R
+ 12
+ 204 0 R
+ 13
+ 205 0 R
+ 14
+ 206 0 R
+ 15
+ 207 0 R
+ 16
+ 208 0 R
+ 17
+ 209 0 R ] >>
 endobj
 192 0 obj
 << /S /D
- /St 4 >>
+ /St 1 >>
 endobj
 193 0 obj
 << /S /D
- /St 5 >>
+ /St 2 >>
 endobj
 194 0 obj
-<< /S /D
- /St 6 >>
+<< /S /r
+ /St 1 >>
 endobj
 195 0 obj
-<< /S /D
- /St 7 >>
+<< /S /r
+ /St 2 >>
 endobj
 196 0 obj
 << /S /D
- /St 8 >>
+ /St 1 >>
 endobj
 197 0 obj
 << /S /D
- /St 9 >>
+ /St 2 >>
 endobj
 198 0 obj
 << /S /D
- /St 10 >>
+ /St 3 >>
 endobj
 199 0 obj
 << /S /D
- /St 11 >>
+ /St 4 >>
 endobj
 200 0 obj
 << /S /D
+ /St 5 >>
+endobj
+201 0 obj
+<< /S /D
+ /St 6 >>
+endobj
+202 0 obj
+<< /S /D
+ /St 7 >>
+endobj
+203 0 obj
+<< /S /D
+ /St 8 >>
+endobj
+204 0 obj
+<< /S /D
+ /St 9 >>
+endobj
+205 0 obj
+<< /S /D
+ /St 10 >>
+endobj
+206 0 obj
+<< /S /D
+ /St 11 >>
+endobj
+207 0 obj
+<< /S /D
  /St 12 >>
 endobj
+208 0 obj
+<< /S /D
+ /St 13 >>
+endobj
+209 0 obj
+<< /S /D
+ /St 14 >>
+endobj
 xref
-0 201
+0 210
 0000000000 65535 f
 0000000075 00000 n
 0000000160 00000 n
@@ -15971,94 +18253,103 @@ xref
 0000024722 00000 n
 0000025011 00000 n
 0000025248 00000 n
-0000025485 00000 n
-0000025722 00000 n
-0000025959 00000 n
-0000026080 00000 n
-0000026300 00000 n
-0000026387 00000 n
-0000026565 00000 n
-0000026694 00000 n
-0000026840 00000 n
-0000026996 00000 n
-0000027148 00000 n
-0000027291 00000 n
-0000027487 00000 n
-0000027671 00000 n
-0000027858 00000 n
-0000027985 00000 n
-0000028125 00000 n
-0000028314 00000 n
-0000028501 00000 n
-0000028650 00000 n
-0000028794 00000 n
-0000028989 00000 n
-0000029172 00000 n
-0000029308 00000 n
-0000029449 00000 n
-0000029627 00000 n
-0000029812 00000 n
-0000029958 00000 n
-0000030125 00000 n
-0000030269 00000 n
-0000030472 00000 n
-0000030628 00000 n
-0000030793 00000 n
-0000030942 00000 n
-0000031092 00000 n
-0000031289 00000 n
-0000031436 00000 n
-0000031605 00000 n
-0000031759 00000 n
-0000031896 00000 n
-0000032073 00000 n
-0000032251 00000 n
-0000032384 00000 n
-0000032545 00000 n
-0000032688 00000 n
-0000032843 00000 n
-0000032978 00000 n
-0000033191 00000 n
-0000034242 00000 n
-0000034378 00000 n
-0000044834 00000 n
-0000045288 00000 n
-0000055088 00000 n
-0000055769 00000 n
-0000066880 00000 n
-0000076793 00000 n
-0000086516 00000 n
-0000094109 00000 n
-0000103889 00000 n
-0000112934 00000 n
-0000114035 00000 n
-0000123238 00000 n
-0000133314 00000 n
-0000135421 00000 n
-0000135685 00000 n
-0000135725 00000 n
-0000135765 00000 n
-0000135805 00000 n
-0000135845 00000 n
-0000135885 00000 n
-0000135925 00000 n
-0000135965 00000 n
-0000136005 00000 n
-0000136045 00000 n
-0000136085 00000 n
-0000136125 00000 n
-0000136165 00000 n
-0000136205 00000 n
-0000136246 00000 n
-0000136287 00000 n
+0000025459 00000 n
+0000025701 00000 n
+0000025970 00000 n
+0000026207 00000 n
+0000026444 00000 n
+0000026681 00000 n
+0000050405 00000 n
+0000050692 00000 n
+0000050813 00000 n
+0000051033 00000 n
+0000051120 00000 n
+0000051298 00000 n
+0000051427 00000 n
+0000051573 00000 n
+0000051729 00000 n
+0000051881 00000 n
+0000052024 00000 n
+0000052220 00000 n
+0000052404 00000 n
+0000052591 00000 n
+0000052718 00000 n
+0000052858 00000 n
+0000053047 00000 n
+0000053234 00000 n
+0000053383 00000 n
+0000053527 00000 n
+0000053722 00000 n
+0000053905 00000 n
+0000054041 00000 n
+0000054182 00000 n
+0000054360 00000 n
+0000054545 00000 n
+0000054691 00000 n
+0000054858 00000 n
+0000055002 00000 n
+0000055205 00000 n
+0000055361 00000 n
+0000055526 00000 n
+0000055675 00000 n
+0000055825 00000 n
+0000056022 00000 n
+0000056169 00000 n
+0000056338 00000 n
+0000056492 00000 n
+0000056629 00000 n
+0000056806 00000 n
+0000056984 00000 n
+0000057117 00000 n
+0000057278 00000 n
+0000057421 00000 n
+0000057576 00000 n
+0000057711 00000 n
+0000057944 00000 n
+0000058995 00000 n
+0000059131 00000 n
+0000069587 00000 n
+0000070041 00000 n
+0000079841 00000 n
+0000080522 00000 n
+0000091633 00000 n
+0000101546 00000 n
+0000111269 00000 n
+0000118862 00000 n
+0000128642 00000 n
+0000137687 00000 n
+0000138788 00000 n
+0000147686 00000 n
+0000159116 00000 n
+0000170411 00000 n
+0000172813 00000 n
+0000177578 00000 n
+0000177872 00000 n
+0000177912 00000 n
+0000177952 00000 n
+0000177992 00000 n
+0000178032 00000 n
+0000178072 00000 n
+0000178112 00000 n
+0000178152 00000 n
+0000178192 00000 n
+0000178232 00000 n
+0000178272 00000 n
+0000178312 00000 n
+0000178352 00000 n
+0000178392 00000 n
+0000178433 00000 n
+0000178474 00000 n
+0000178515 00000 n
+0000178556 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 124 0 R
- /Root 123 0 R
- /Size 201 >>
+ /Info 129 0 R
+ /Root 128 0 R
+ /Size 210 >>
 startxref
-136328
+178597
 %%EOF

@@ -1,3 +1,4 @@
+.. _`data requirements`:
 Data Requirements
 *****************
 The |goodman HTS|'s data has seen some evolution in the past years in shape and
@@ -7,15 +8,36 @@ header so this is in fact very important.
 The headers must be `FITS Compliant <https://fits.gsfc.nasa.gov/fits_standard.html>`_
 first of all, if not the software exits with errors.
 
-Remember that the |goodman hts| has `**two** cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
+Remember that the |goodman hts| has `two cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
 
 The Red camera does not create any problems.
 
-The Blue camera instead had some issues until **ESTIMATED DATE**. They can be simplified in three groups.
+The Blue camera instead had some issues until |headers change|. They can be simplified in a few groups.
 
 - There were non fits-compliant characters in some comments.
 - The data was defined as 3D, just like a single frame of a data cube.
 - There were several differences in keyword names and some other did not exist.
+- Duplicated keywords.
+
+What to do in case your data is older than |headers change|?.
+In principle there is no obvious limitation why the pipeline would not work, you
+just need to do some small changes in the header.
+
+Remove the following keywords:
+  - ``PARAM0``
+  - ``PARAM61``
+  - ``PARAM62``
+  - ``PARAM63``
+  - ``NAXIS3``
+
+If ``NAXIS`` is 3 set it to 2.
+
+Add the following keywords:
+  - ``INSTCONF`` with ``Blue``
+  - ``WAVMODE`` with grating and mode. ``400 m1`` or ``400 m2``.
+  - ``ROI`` Examples: ``Spectroscopic 1x1``, ``user-defined``.
+
+
 
 Reference Lamp Files
 ^^^^^^^^^^^^^^^^^^^^
@@ -29,18 +51,12 @@ that the lamp names are correct, for instance ``HgAr`` is quite different than
 
 .. table:: List of |goodman hts| supported modes
 
-   ========= ====== ======== ========
+   ========= ====== ======== ======================================
     Grating   Mode   Filter    Lamp   
-   ========= ====== ======== ======== 
-      400      M1    None     HgAr
-      400      M1    None     HgArNe
-      400      M2    GG455    Ar
-      400      M2    GG455    Ne
-      400      M2    GG455    HgAr
-      400      M2    GG455    HgArNe
-      400      M2    GG455    CuHeAr
-      400      M2    GG455    FeHeAr  
-   ========= ====== ======== ========
+   ========= ====== ======== ======================================
+      400      M1    None     HgAr, HgArNe
+      400      M2    GG455    Ar, Ne, HgAr, HgArNe, CuHeAr, FeHeAr
+   ========= ====== ======== ======================================
 
 
 .. important::
@@ -67,7 +83,6 @@ comparison lamps if they want to be used as reference lamps. The full list of
 keywords is listed under `New Keywords`_.
 
 General Custom Keywords:
-
   Every image processed with the *Goodman Spectroscopic Pipeline* will have the
   `general keywords`_. The one required for a reference lamp is the following:
 
@@ -75,10 +90,9 @@ General Custom Keywords:
 
 
 Record of `detected lines`_ in Pixel and Angstrom:
-
-  Every line detected in the reference lamp is recorded both in its pixel value
-  and later (most likely entered by hand) in angstrom value. The root string is
-  ``GSP_P`` followed by a zero-padded three digit sequential number
+  Reference lamps have a record of usable lines in its header. Initially the lamp
+  is run through a tool that identifies the lines and records its pixel value.
+  The root string is ``GSP_P`` followed by a zero-padded three digit sequential number
   (001, 002, etc). For instance.
 
     ``GSP_P001= 499.5377036976768  / Line location in pixel value``
@@ -87,7 +101,7 @@ Record of `detected lines`_ in Pixel and Angstrom:
 
     ``GSP_P003= 831.6984711087946  / Line location in pixel value``
 
-  The equivalent values in angstrom are then recorded with the root string
+  Later, the equivalent values in angstrom are then recorded with the root string
   ``GSP_A`` and the same numerical pattern as before.
 
     ``GSP_A001= 5460.75            / Line location in angstrom value``
@@ -109,7 +123,6 @@ Record of `detected lines`_ in Pixel and Angstrom:
   if you want. (On your own)
 
 `Non-linear wavelength solution`_:
-
   The method for recording the non-linear wavelength solution is actually
   very simple. It requires: ``GSP_FUNC`` which stores a string with the name of
   the mathematical model from ``astropy.modeling.models``. ``GSP_ORDR`` stores
@@ -149,3 +162,5 @@ follow these points.
 - Delete all unnecessary files (focus,  test, acquisition, unwanted exposures, etc)
 - Don't mix different ROI (Region Of Interest), Gain and Readout Noises.
 - Make sure all the required file types are present: BIAS, FLAT, COMP, OBJECT.
+
+

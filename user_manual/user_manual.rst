@@ -27,6 +27,6 @@
 
 .. |goodman hts| replace:: Goodman Spectrograph
 
-
+.. |headers change| replace:: **(ESTIMATED DATE)**
 
 

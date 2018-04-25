@@ -5,7 +5,7 @@
  /F2 3 0 R
  /F3 92 0 R
  /F4 95 0 R
- /F5 100 0 R >>
+ /F5 101 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -22,12 +22,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 168 0 R
+<< /Contents 170 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -39,12 +39,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 169 0 R
+<< /Contents 171 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -56,12 +56,12 @@ endobj
  /Type /Page >>
 endobj
 6 0 obj
-<< /Contents 170 0 R
+<< /Contents 172 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -77,7 +77,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  787.0394
@@ -94,7 +94,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  787.0394
@@ -111,7 +111,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  705.0394
@@ -128,7 +128,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  705.0394
@@ -145,7 +145,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  651.8394
@@ -162,7 +162,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  651.8394
@@ -179,7 +179,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  304.6394
@@ -196,7 +196,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  304.6394
@@ -213,7 +213,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  137.4394
@@ -230,7 +230,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  137.4394
@@ -247,7 +247,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 97 0 R
+ /Dest [ 98 0 R
  /XYZ
  40.01575
  787.0394
@@ -264,7 +264,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 97 0 R
+ /Dest [ 98 0 R
  /XYZ
  40.01575
  787.0394
@@ -352,7 +352,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
  /Rect [ 80.01575
  610.7894
@@ -369,7 +369,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
  /Rect [ 549.6998
  610.7894
@@ -383,10 +383,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 102 0 R
+ /Dest [ 107 0 R
  /XYZ
  40.01575
- 191.8394
+ 787.0394
  0 ]
  /Rect [ 100.0157
  592.7894
@@ -400,10 +400,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 102 0 R
+ /Dest [ 107 0 R
  /XYZ
  40.01575
- 191.8394
+ 787.0394
  0 ]
  /Rect [ 549.6998
  592.7894
@@ -420,7 +420,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 787.0394
+ 684.2394
  0 ]
  /Rect [ 80.01575
  574.7894
@@ -437,7 +437,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 787.0394
+ 684.2394
  0 ]
  /Rect [ 549.6998
  574.7894
@@ -454,7 +454,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
  /Rect [ 60.01575
  556.7894
@@ -471,7 +471,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
  /Rect [ 549.6998
  556.7894
@@ -488,7 +488,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
  /Rect [ 80.01575
  538.7894
@@ -505,7 +505,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
  /Rect [ 549.6998
  538.7894
@@ -522,7 +522,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
  /Rect [ 100.0157
  520.7894
@@ -539,7 +539,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
  /Rect [ 549.6998
  520.7894
@@ -553,10 +553,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 108 0 R
+ /Dest [ 111 0 R
  /XYZ
  40.01575
- 156.6394
+ 787.0394
  0 ]
  /Rect [ 100.0157
  502.7894
@@ -570,10 +570,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 108 0 R
+ /Dest [ 111 0 R
  /XYZ
  40.01575
- 156.6394
+ 787.0394
  0 ]
  /Rect [ 549.6998
  502.7894
@@ -590,7 +590,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 690.2394
+ 597.8394
  0 ]
  /Rect [ 80.01575
  484.7894
@@ -607,7 +607,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 690.2394
+ 597.8394
  0 ]
  /Rect [ 549.6998
  484.7894
@@ -624,7 +624,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 417.4394
+ 325.0394
  0 ]
  /Rect [ 100.0157
  466.7894
@@ -641,7 +641,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 417.4394
+ 325.0394
  0 ]
  /Rect [ 549.6998
  466.7894
@@ -655,10 +655,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 787.0394
+ 654.2394
  0 ]
  /Rect [ 120.0157
  448.7894
@@ -672,10 +672,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 787.0394
+ 654.2394
  0 ]
  /Rect [ 549.6998
  448.7894
@@ -689,10 +689,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 577.8394
+ 445.0394
  0 ]
  /Rect [ 120.0157
  430.7894
@@ -706,10 +706,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 577.8394
+ 445.0394
  0 ]
  /Rect [ 549.6998
  430.7894
@@ -723,10 +723,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 278.6394
+ 145.8394
  0 ]
  /Rect [ 100.0157
  412.7894
@@ -740,10 +740,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 114 0 R
+ /Dest [ 115 0 R
  /XYZ
  40.01575
- 278.6394
+ 145.8394
  0 ]
  /Rect [ 549.6998
  412.7894
@@ -757,10 +757,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 705.0394
+ 579.0394
  0 ]
  /Rect [ 100.0157
  394.7894
@@ -774,10 +774,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 705.0394
+ 579.0394
  0 ]
  /Rect [ 549.6998
  394.7894
@@ -791,10 +791,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 431.8394
+ 305.8394
  0 ]
  /Rect [ 120.0157
  376.7894
@@ -808,10 +808,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 431.8394
+ 305.8394
  0 ]
  /Rect [ 549.6998
  376.7894
@@ -825,10 +825,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 372.6394
+ 246.6394
  0 ]
  /Rect [ 120.0157
  358.7894
@@ -842,10 +842,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 372.6394
+ 246.6394
  0 ]
  /Rect [ 549.6998
  358.7894
@@ -859,10 +859,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 277.4394
+ 151.4394
  0 ]
  /Rect [ 120.0157
  340.7894
@@ -876,10 +876,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 277.4394
+ 151.4394
  0 ]
  /Rect [ 549.6998
  340.7894
@@ -893,7 +893,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
@@ -910,12 +910,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  322.7894
  555.2598
  334.7894 ]
@@ -927,7 +927,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  747.0394
@@ -944,12 +944,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  304.7894
  555.2598
  316.7894 ]
@@ -961,7 +961,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  711.8394
@@ -978,12 +978,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  286.7894
  555.2598
  298.7894 ]
@@ -995,7 +995,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  676.6394
@@ -1012,12 +1012,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  676.6394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  268.7894
  555.2598
  280.7894 ]
@@ -1029,7 +1029,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  641.4394
@@ -1046,12 +1046,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  641.4394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  250.7894
  555.2598
  262.7894 ]
@@ -1063,7 +1063,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  606.2394
@@ -1080,12 +1080,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  606.2394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  232.7894
  555.2598
  244.7894 ]
@@ -1097,7 +1097,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  529.0394
@@ -1114,12 +1114,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  529.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  214.7894
  555.2598
  226.7894 ]
@@ -1131,7 +1131,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  787.0394
@@ -1148,7 +1148,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  787.0394
@@ -1165,7 +1165,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  503.8394
@@ -1182,7 +1182,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  503.8394
@@ -1199,7 +1199,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  346.6394
@@ -1216,7 +1216,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  346.6394
@@ -1233,7 +1233,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
@@ -1250,7 +1250,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
@@ -1267,7 +1267,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  747.0394
@@ -1284,7 +1284,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  747.0394
@@ -1301,7 +1301,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  711.8394
@@ -1318,7 +1318,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  711.8394
@@ -1335,7 +1335,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  661.0394
@@ -1352,7 +1352,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  661.0394
@@ -1369,7 +1369,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  628.2394
@@ -1386,7 +1386,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  628.2394
@@ -1403,7 +1403,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  595.4394
@@ -1420,7 +1420,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  595.4394
@@ -1513,12 +1513,12 @@ endobj
  84 0 R
  85 0 R
  86 0 R ]
- /Contents 171 0 R
+ /Contents 173 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1534,7 +1534,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  542.2394
@@ -1551,7 +1551,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  542.2394
@@ -1566,12 +1566,12 @@ endobj
 90 0 obj
 << /Annots [ 88 0 R
  89 0 R ]
- /Contents 172 0 R
+ /Contents 174 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1583,12 +1583,12 @@ endobj
  /Type /Page >>
 endobj
 91 0 obj
-<< /Contents 173 0 R
+<< /Contents 175 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1611,7 +1611,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  791.0394
@@ -1645,31 +1645,32 @@ endobj
  /Type /Font >>
 endobj
 96 0 obj
-<< /Annots [ 93 0 R
- 94 0 R ]
- /Contents 174 0 R
- /MediaBox [ 0
+<< /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 167 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Contents ()
+ /Dest [ 102 0 R
+ /XYZ
+ 40.01575
+ 750.2394
+ 0 ]
+ /Rect [ 207.3257
+ 88.98937
+ 287.9157
+ 100.9894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 97 0 obj
-<< /Contents 175 0 R
+<< /Annots [ 93 0 R
+ 94 0 R
+ 96 0 R ]
+ /Contents 176 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1681,6 +1682,23 @@ endobj
  /Type /Page >>
 endobj
 98 0 obj
+<< /Contents 177 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 169 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+99 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://fits.gsfc.nasa.gov/fits_standard.html) >>
@@ -1694,7 +1712,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-99 0 obj
+100 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview) >>
@@ -1703,45 +1721,27 @@ endobj
  0 ]
  /Rect [ 256.7857
  650.5894
- 329.0257
+ 313.4657
  662.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-100 0 obj
+101 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-101 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 120 0 R
- /XYZ
- 40.01575
- 609.4394
- 0 ]
- /Rect [ 288.4357
- 70.18937
- 355.1157
- 82.18937 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 102 0 obj
-<< /Annots [ 98 0 R
- 99 0 R
- 101 0 R ]
- /Contents 176 0 R
+<< /Annots [ 99 0 R
+ 100 0 R ]
+ /Contents 178 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1757,15 +1757,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 531.8394
+ 609.4394
  0 ]
- /Rect [ 429.9968
- 757.7894
- 509.9078
- 769.7894 ]
+ /Rect [ 288.4357
+ 665.3894
+ 355.1157
+ 677.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1774,15 +1774,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
- 349.4394
+ 531.8394
  0 ]
- /Rect [ 86.14575
- 709.7894
- 150.6257
- 721.7894 ]
+ /Rect [ 429.9968
+ 634.3894
+ 509.9078
+ 646.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1791,28 +1791,46 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 121 0 R
+ /Dest [ 123 0 R
+ /XYZ
+ 40.01575
+ 349.4394
+ 0 ]
+ /Rect [ 89.46575
+ 588.3894
+ 158.9357
+ 600.3894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+106 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 123 0 R
  /XYZ
  40.01575
  789.8394
  0 ]
  /Rect [ 40.01575
- 382.9894
- 176.7357
- 394.9894 ]
+ 266.5894
+ 188.3757
+ 278.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-106 0 obj
+107 0 obj
 << /Annots [ 103 0 R
  104 0 R
- 105 0 R ]
- /Contents 177 0 R
+ 105 0 R
+ 106 0 R ]
+ /Contents 179 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1823,31 +1841,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-107 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 108 0 R
- /XYZ
- 109.2558
- 361.4394
- 0 ]
- /Rect [ 353.1802
- 124.9894
- 444.9801
- 136.9894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 108 0 obj
-<< /Annots [ 107 0 R ]
- /Contents 178 0 R
+<< /Contents 180 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1859,6 +1859,23 @@ endobj
  /Type /Page >>
 endobj
 109 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 108 0 R
+ /XYZ
+ 109.2558
+ 258.6394
+ 0 ]
+ /Rect [ 353.1802
+ 755.3894
+ 444.9801
+ 767.3894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+110 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/soar-telescope/goodman/releases/latest) >>
@@ -1866,35 +1883,21 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 629.1894
+ 536.7894
  344.8057
- 641.1894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-110 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://users.camk.edu.pl/pych/DCR/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 233.3836
- 98.18937
- 254.9833
- 110.1894 ]
+ 548.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 111 0 obj
 << /Annots [ 109 0 R
  110 0 R ]
- /Contents 179 0 R
+ /Contents 181 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1906,23 +1909,37 @@ endobj
  /Type /Page >>
 endobj
 112 0 obj
-<< /Border [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://users.camk.edu.pl/pych/DCR/) >>
+ /Border [ 0
  0
  0 ]
- /Contents ()
- /Dest [ 119 0 R
- /XYZ
- 40.01575
- 707.4394
- 0 ]
- /Rect [ 337.3457
- 234.9894
- 417.3857
- 246.9894 ]
+ /Rect [ 233.3836
+ 682.9894
+ 254.9833
+ 694.9894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 113 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 581.4394
+ 0 ]
+ /Rect [ 337.3457
+ 102.1894
+ 417.3857
+ 114.1894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+114 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/soar-telescope/goodman/releases/latest) >>
@@ -1930,21 +1947,22 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 195.9894
+ 63.18937
  344.8057
- 207.9894 ]
+ 75.18937 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-114 0 obj
+115 0 obj
 << /Annots [ 112 0 R
- 113 0 R ]
- /Contents 180 0 R
+ 113 0 R
+ 114 0 R ]
+ /Contents 182 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1955,7 +1973,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-115 0 obj
+116 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://conda.io/docs/user-guide/install/index.html) >>
@@ -1963,13 +1981,13 @@ endobj
  0
  0 ]
  /Rect [ 63.01575
- 535.5894
+ 409.5894
  136.9457
- 547.5894 ]
+ 421.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-116 0 obj
+117 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://astroconda.readthedocs.io/en/latest/installation.html#configure-astroconda-channel) >>
@@ -1977,30 +1995,30 @@ endobj
  0
  0 ]
  /Rect [ 63.01575
- 517.5894
+ 391.5894
  170.8557
- 529.5894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-117 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 119 0 R
- /XYZ
- 40.01575
- 434.0394
- 0 ]
- /Rect [ 63.01575
- 499.5894
- 555.2598
- 511.5894 ]
+ 403.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 118 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 308.0394
+ 0 ]
+ /Rect [ 63.01575
+ 373.5894
+ 555.2598
+ 385.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+119 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://conda.io/docs/user-guide/tasks/manage-environments.html) >>
@@ -2008,40 +2026,23 @@ endobj
  0
  0 ]
  /Rect [ 299.8528
- 401.3894
+ 275.3894
  422.0379
- 413.3894 ]
+ 287.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-119 0 obj
-<< /Annots [ 115 0 R
- 116 0 R
- 117 0 R
- 118 0 R ]
- /Contents 181 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 167 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
 120 0 obj
-<< /Contents 182 0 R
+<< /Annots [ 116 0 R
+ 117 0 R
+ 118 0 R
+ 119 0 R ]
+ /Contents 183 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2053,12 +2054,12 @@ endobj
  /Type /Page >>
 endobj
 121 0 obj
-<< /Contents 183 0 R
+<< /Contents 184 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2070,12 +2071,12 @@ endobj
  /Type /Page >>
 endobj
 122 0 obj
-<< /Contents 184 0 R
+<< /Contents 185 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 167 0 R
+ /Parent 169 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2087,13 +2088,47 @@ endobj
  /Type /Page >>
 endobj
 123 0 obj
-<< /Outlines 125 0 R
- /PageLabels 185 0 R
- /PageMode /UseNone
- /Pages 167 0 R
- /Type /Catalog >>
+<< /Contents 186 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 169 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
 endobj
 124 0 obj
+<< /Contents 187 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 169 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+125 0 obj
+<< /Outlines 127 0 R
+ /PageLabels 188 0 R
+ /PageMode /UseNone
+ /Pages 169 0 R
+ /Type /Catalog >>
+endobj
+126 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -2102,496 +2137,497 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-125 0 obj
+127 0 obj
 << /Count 54
- /First 126 0 R
- /Last 160 0 R
+ /First 128 0 R
+ /Last 162 0 R
  /Type /Outlines >>
 endobj
-126 0 obj
+128 0 obj
 << /Count 5
- /Dest [ 96 0 R
+ /Dest [ 97 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 127 0 R
- /Last 131 0 R
- /Next 132 0 R
- /Parent 125 0 R
+ /First 129 0 R
+ /Last 133 0 R
+ /Next 134 0 R
+ /Parent 127 0 R
  /Title (Introduction) >>
 endobj
-127 0 obj
-<< /Dest [ 96 0 R
+129 0 obj
+<< /Dest [ 97 0 R
  /XYZ
  40.01575
  705.0394
  0 ]
- /Next 128 0 R
- /Parent 126 0 R
+ /Next 130 0 R
+ /Parent 128 0 R
  /Title (License) >>
 endobj
-128 0 obj
-<< /Dest [ 96 0 R
+130 0 obj
+<< /Dest [ 97 0 R
  /XYZ
  40.01575
  651.8394
  0 ]
- /Next 129 0 R
- /Parent 126 0 R
- /Prev 127 0 R
- /Title (Overview) >>
-endobj
-129 0 obj
-<< /Dest [ 96 0 R
- /XYZ
- 40.01575
- 304.6394
- 0 ]
- /Next 130 0 R
- /Parent 126 0 R
- /Prev 128 0 R
- /Title (Features Available) >>
-endobj
-130 0 obj
-<< /Dest [ 96 0 R
- /XYZ
- 40.01575
- 137.4394
- 0 ]
  /Next 131 0 R
- /Parent 126 0 R
+ /Parent 128 0 R
  /Prev 129 0 R
- /Title (Supported Data) >>
+ /Title (Overview) >>
 endobj
 131 0 obj
 << /Dest [ 97 0 R
  /XYZ
  40.01575
- 787.0394
+ 304.6394
  0 ]
- /Parent 126 0 R
+ /Next 132 0 R
+ /Parent 128 0 R
  /Prev 130 0 R
- /Title (Future Implementation) >>
+ /Title (Features Available) >>
 endobj
 132 0 obj
+<< /Dest [ 97 0 R
+ /XYZ
+ 40.01575
+ 137.4394
+ 0 ]
+ /Next 133 0 R
+ /Parent 128 0 R
+ /Prev 131 0 R
+ /Title (Supported Data) >>
+endobj
+133 0 obj
+<< /Dest [ 98 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /Parent 128 0 R
+ /Prev 132 0 R
+ /Title (Future Implementation) >>
+endobj
+134 0 obj
 << /Count 17
  /Dest [ 102 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 133 0 R
- /Last 137 0 R
- /Next 150 0 R
- /Parent 125 0 R
- /Prev 126 0 R
+ /First 135 0 R
+ /Last 139 0 R
+ /Next 152 0 R
+ /Parent 127 0 R
+ /Prev 128 0 R
  /Title (Requirements) >>
 endobj
-133 0 obj
+135 0 obj
 << /Count 3
  /Dest [ 102 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 134 0 R
- /Last 136 0 R
- /Next 137 0 R
- /Parent 132 0 R
+ /First 136 0 R
+ /Last 138 0 R
+ /Next 139 0 R
+ /Parent 134 0 R
  /Title (Data Requirements) >>
 endobj
-134 0 obj
+136 0 obj
 << /Count 1
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
- /First 135 0 R
- /Last 135 0 R
- /Next 136 0 R
- /Parent 133 0 R
+ /First 137 0 R
+ /Last 137 0 R
+ /Next 138 0 R
+ /Parent 135 0 R
  /Title (Reference Lamp Files) >>
 endobj
-135 0 obj
-<< /Dest [ 102 0 R
- /XYZ
- 40.01575
- 191.8394
- 0 ]
- /Parent 134 0 R
- /Title (Headers Requirements) >>
-endobj
-136 0 obj
-<< /Dest [ 108 0 R
+137 0 obj
+<< /Dest [ 107 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 133 0 R
- /Prev 134 0 R
+ /Parent 136 0 R
+ /Title (Headers Requirements) >>
+endobj
+138 0 obj
+<< /Dest [ 108 0 R
+ /XYZ
+ 40.01575
+ 684.2394
+ 0 ]
+ /Parent 135 0 R
+ /Prev 136 0 R
  /Title (File organization) >>
 endobj
-137 0 obj
+139 0 obj
 << /Count 12
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
- /First 138 0 R
- /Last 141 0 R
- /Parent 132 0 R
- /Prev 133 0 R
+ /First 140 0 R
+ /Last 143 0 R
+ /Parent 134 0 R
+ /Prev 135 0 R
  /Title (Software Requirements) >>
 endobj
-138 0 obj
+140 0 obj
 << /Count 2
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
- /First 139 0 R
- /Last 140 0 R
- /Next 141 0 R
- /Parent 137 0 R
+ /First 141 0 R
+ /Last 142 0 R
+ /Next 143 0 R
+ /Parent 139 0 R
  /Title (Setup for Remote Use) >>
 endobj
-139 0 obj
+141 0 obj
 << /Dest [ 108 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
- /Next 140 0 R
- /Parent 138 0 R
+ /Next 142 0 R
+ /Parent 140 0 R
  /Title (Establish a VNC connection) >>
 endobj
-140 0 obj
-<< /Dest [ 108 0 R
+142 0 obj
+<< /Dest [ 111 0 R
  /XYZ
  40.01575
- 156.6394
+ 787.0394
  0 ]
- /Parent 138 0 R
- /Prev 139 0 R
+ /Parent 140 0 R
+ /Prev 141 0 R
  /Title (VNC from the Terminal) >>
 endobj
-141 0 obj
+143 0 obj
 << /Count 8
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 690.2394
+ 597.8394
  0 ]
- /First 142 0 R
- /Last 146 0 R
- /Parent 137 0 R
- /Prev 138 0 R
+ /First 144 0 R
+ /Last 148 0 R
+ /Parent 139 0 R
+ /Prev 140 0 R
  /Title (Setup for local installation) >>
 endobj
-142 0 obj
+144 0 obj
 << /Count 2
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 417.4394
+ 325.0394
  0 ]
- /First 143 0 R
- /Last 144 0 R
- /Next 145 0 R
- /Parent 141 0 R
+ /First 145 0 R
+ /Last 146 0 R
+ /Next 147 0 R
+ /Parent 143 0 R
  /Title (DCR \(optional\)) >>
 endobj
-143 0 obj
-<< /Dest [ 114 0 R
- /XYZ
- 40.01575
- 787.0394
- 0 ]
- /Next 144 0 R
- /Parent 142 0 R
- /Title (Compiling DCR) >>
-endobj
-144 0 obj
-<< /Dest [ 114 0 R
- /XYZ
- 40.01575
- 577.8394
- 0 ]
- /Parent 142 0 R
- /Prev 143 0 R
- /Title (Install binary DCR) >>
-endobj
 145 0 obj
-<< /Dest [ 114 0 R
+<< /Dest [ 115 0 R
  /XYZ
  40.01575
- 278.6394
+ 654.2394
  0 ]
  /Next 146 0 R
- /Parent 141 0 R
- /Prev 142 0 R
- /Title (System Installation \(not recommended\)) >>
+ /Parent 144 0 R
+ /Title (Compiling DCR) >>
 endobj
 146 0 obj
-<< /Count 3
- /Dest [ 119 0 R
+<< /Dest [ 115 0 R
  /XYZ
  40.01575
- 705.0394
+ 445.0394
  0 ]
- /First 147 0 R
- /Last 149 0 R
- /Parent 141 0 R
+ /Parent 144 0 R
  /Prev 145 0 R
- /Title (Conda Installation) >>
+ /Title (Install binary DCR) >>
 endobj
 147 0 obj
-<< /Dest [ 119 0 R
+<< /Dest [ 115 0 R
  /XYZ
  40.01575
- 431.8394
+ 145.8394
  0 ]
  /Next 148 0 R
- /Parent 146 0 R
- /Title (New Virtual Environment) >>
+ /Parent 143 0 R
+ /Prev 144 0 R
+ /Title (System Installation \(not recommended\)) >>
 endobj
 148 0 obj
-<< /Dest [ 119 0 R
- /XYZ
- 40.01575
- 372.6394
- 0 ]
- /Next 149 0 R
- /Parent 146 0 R
- /Prev 147 0 R
- /Title (Existing Virtual Environment) >>
-endobj
-149 0 obj
-<< /Dest [ 119 0 R
- /XYZ
- 40.01575
- 277.4394
- 0 ]
- /Parent 146 0 R
- /Prev 148 0 R
- /Title (Pipeline Installation) >>
-endobj
-150 0 obj
-<< /Count 9
+<< /Count 3
  /Dest [ 120 0 R
  /XYZ
  40.01575
- 787.0394
+ 579.0394
  0 ]
- /First 151 0 R
- /Last 155 0 R
- /Next 160 0 R
- /Parent 125 0 R
- /Prev 132 0 R
- /Title (Running the Pipeline) >>
+ /First 149 0 R
+ /Last 151 0 R
+ /Parent 143 0 R
+ /Prev 147 0 R
+ /Title (Conda Installation) >>
+endobj
+149 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 305.8394
+ 0 ]
+ /Next 150 0 R
+ /Parent 148 0 R
+ /Title (New Virtual Environment) >>
+endobj
+150 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 246.6394
+ 0 ]
+ /Next 151 0 R
+ /Parent 148 0 R
+ /Prev 149 0 R
+ /Title (Existing Virtual Environment) >>
 endobj
 151 0 obj
 << /Dest [ 120 0 R
  /XYZ
  40.01575
- 747.0394
+ 151.4394
  0 ]
- /Next 152 0 R
- /Parent 150 0 R
- /Title (Working with Virtual Environments) >>
+ /Parent 148 0 R
+ /Prev 150 0 R
+ /Title (Pipeline Installation) >>
 endobj
 152 0 obj
-<< /Dest [ 120 0 R
+<< /Count 9
+ /Dest [ 122 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /First 153 0 R
+ /Last 157 0 R
+ /Next 162 0 R
+ /Parent 127 0 R
+ /Prev 134 0 R
+ /Title (Running the Pipeline) >>
+endobj
+153 0 obj
+<< /Dest [ 122 0 R
+ /XYZ
+ 40.01575
+ 747.0394
+ 0 ]
+ /Next 154 0 R
+ /Parent 152 0 R
+ /Title (Working with Virtual Environments) >>
+endobj
+154 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Next 153 0 R
- /Parent 150 0 R
- /Prev 151 0 R
+ /Next 155 0 R
+ /Parent 152 0 R
+ /Prev 153 0 R
  /Title (Prepare Data for Reduction) >>
 endobj
-153 0 obj
-<< /Dest [ 120 0 R
+155 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  676.6394
  0 ]
- /Next 154 0 R
- /Parent 150 0 R
- /Prev 152 0 R
+ /Next 156 0 R
+ /Parent 152 0 R
+ /Prev 154 0 R
  /Title (Run redccd) >>
 endobj
-154 0 obj
-<< /Dest [ 120 0 R
+156 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  641.4394
  0 ]
- /Next 155 0 R
- /Parent 150 0 R
- /Prev 153 0 R
+ /Next 157 0 R
+ /Parent 152 0 R
+ /Prev 155 0 R
  /Title (Run redspec) >>
 endobj
-155 0 obj
+157 0 obj
 << /Count 4
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  606.2394
  0 ]
- /First 156 0 R
- /Last 159 0 R
- /Parent 150 0 R
- /Prev 154 0 R
+ /First 158 0 R
+ /Last 161 0 R
+ /Parent 152 0 R
+ /Prev 156 0 R
  /Title (Description of custom keywords) >>
 endobj
-156 0 obj
-<< /Dest [ 120 0 R
+158 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  529.0394
  0 ]
- /Next 157 0 R
- /Parent 155 0 R
+ /Next 159 0 R
+ /Parent 157 0 R
  /Title (General Purpose Keywords) >>
 endobj
-157 0 obj
-<< /Dest [ 121 0 R
+159 0 obj
+<< /Dest [ 123 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Next 158 0 R
- /Parent 155 0 R
- /Prev 156 0 R
+ /Next 160 0 R
+ /Parent 157 0 R
+ /Prev 158 0 R
  /Title (Non-linear wavelength solution) >>
 endobj
-158 0 obj
-<< /Dest [ 121 0 R
+160 0 obj
+<< /Dest [ 123 0 R
  /XYZ
  40.01575
  503.8394
  0 ]
- /Next 159 0 R
- /Parent 155 0 R
- /Prev 157 0 R
+ /Next 161 0 R
+ /Parent 157 0 R
+ /Prev 159 0 R
  /Title (Combined Images) >>
 endobj
-159 0 obj
-<< /Dest [ 121 0 R
+161 0 obj
+<< /Dest [ 123 0 R
  /XYZ
  40.01575
  346.6394
  0 ]
- /Parent 155 0 R
- /Prev 158 0 R
+ /Parent 157 0 R
+ /Prev 160 0 R
  /Title (Detected lines) >>
 endobj
-160 0 obj
+162 0 obj
 << /Count 6
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 161 0 R
- /Last 166 0 R
- /Parent 125 0 R
- /Prev 150 0 R
+ /First 163 0 R
+ /Last 168 0 R
+ /Parent 127 0 R
+ /Prev 152 0 R
  /Title (Conclusion) >>
 endobj
-161 0 obj
+163 0 obj
 << /Count 3
- /Dest [ 122 0 R
+ /Dest [ 124 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 162 0 R
- /Last 164 0 R
- /Next 165 0 R
- /Parent 160 0 R
+ /First 164 0 R
+ /Last 166 0 R
+ /Next 167 0 R
+ /Parent 162 0 R
  /Title (Performance) >>
 endobj
-162 0 obj
-<< /Dest [ 122 0 R
+164 0 obj
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Next 163 0 R
- /Parent 161 0 R
+ /Next 165 0 R
+ /Parent 163 0 R
  /Title (Benchmarks) >>
 endobj
-163 0 obj
-<< /Dest [ 122 0 R
+165 0 obj
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
  661.0394
  0 ]
- /Next 164 0 R
- /Parent 161 0 R
- /Prev 162 0 R
+ /Next 166 0 R
+ /Parent 163 0 R
+ /Prev 164 0 R
  /Title (Wavelength Calibration) >>
 endobj
-164 0 obj
-<< /Dest [ 122 0 R
+166 0 obj
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
  628.2394
  0 ]
- /Parent 161 0 R
- /Prev 163 0 R
+ /Parent 163 0 R
+ /Prev 165 0 R
  /Title (Comparison with IRAF) >>
 endobj
-165 0 obj
-<< /Dest [ 122 0 R
+167 0 obj
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
  595.4394
  0 ]
- /Next 166 0 R
- /Parent 160 0 R
- /Prev 161 0 R
+ /Next 168 0 R
+ /Parent 162 0 R
+ /Prev 163 0 R
  /Title (Acknowledgements) >>
 endobj
-166 0 obj
-<< /Dest [ 122 0 R
+168 0 obj
+<< /Dest [ 124 0 R
  /XYZ
  40.01575
  542.2394
  0 ]
- /Parent 160 0 R
- /Prev 165 0 R
+ /Parent 162 0 R
+ /Prev 167 0 R
  /Title (Known Issues) >>
 endobj
-167 0 obj
-<< /Count 17
+169 0 obj
+<< /Count 18
  /Kids [ 4 0 R
  5 0 R
  6 0 R
  87 0 R
  90 0 R
  91 0 R
- 96 0 R
  97 0 R
+ 98 0 R
  102 0 R
- 106 0 R
+ 107 0 R
  108 0 R
  111 0 R
- 114 0 R
- 119 0 R
+ 115 0 R
  120 0 R
  121 0 R
- 122 0 R ]
+ 122 0 R
+ 123 0 R
+ 124 0 R ]
  /Type /Pages >>
 endobj
-168 0 obj
+170 0 obj
 << /Length 994 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2638,7 +2674,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 24, 2018) Tj T* -218.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 25, 2018) Tj T* -218.934 0 Td ET
 Q
 Q
 q
@@ -2650,7 +2686,7 @@ Q
  
 endstream
 endobj
-169 0 obj
+171 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2660,15 +2696,15 @@ Q
  
 endstream
 endobj
-170 0 obj
+172 0 obj
 << /Length 44 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
  
 endstream
 endobj
-171 0 obj
-<< /Length 10390 >>
+173 0 obj
+<< /Length 10397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2824,7 +2860,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -2894,7 +2930,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -3034,7 +3070,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3048,7 +3084,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3062,7 +3098,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3076,7 +3112,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3090,7 +3126,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3104,7 +3140,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3118,7 +3154,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3132,7 +3168,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3146,7 +3182,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3160,7 +3196,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3174,7 +3210,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3188,7 +3224,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3202,7 +3238,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3216,7 +3252,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3230,7 +3266,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3244,7 +3280,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3253,7 +3289,7 @@ Q
  
 endstream
 endobj
-172 0 obj
+174 0 obj
 << /Length 433 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3272,7 +3308,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -3287,7 +3323,7 @@ Q
  
 endstream
 endobj
-173 0 obj
+175 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3297,8 +3333,8 @@ Q
  
 endstream
 endobj
-174 0 obj
-<< /Length 9495 >>
+176 0 obj
+<< /Length 9742 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3741,10 +3777,9 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Supported Data)
 Q
 Q
 q
-1 0 0 1 40.01575 100.2394 cm
+1 0 0 1 40.01575 88.23937 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To write) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.357756 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (, however you should be able to process older) Tj T* 0 Tw (data making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -3764,7 +3799,7 @@ Q
  
 endstream
 endobj
-175 0 obj
+177 0 obj
 << /Length 624 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3807,8 +3842,8 @@ Q
  
 endstream
 endobj
-176 0 obj
-<< /Length 11153 >>
+178 0 obj
+<< /Length 11052 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3850,7 +3885,7 @@ Q
 q
 1 0 0 1 40.01575 649.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (**two** cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -3863,7 +3898,7 @@ Q
 q
 1 0 0 1 40.01575 613.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (ESTIMATED DATE) Tj /F1 10 Tf (. They can be simplified in three groups.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (. They can be simplified in a few groups.) Tj T* ET
 Q
 Q
 q
@@ -3942,10 +3977,277 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 559.8394 cm
+1 0 0 1 40.01575 553.8394 cm
 Q
 q
-1 0 0 1 40.01575 527.0394 cm
+1 0 0 1 40.01575 541.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 541.8394 cm
+Q
+q
+1 0 0 1 40.01575 511.8394 cm
+q
+BT 1 0 0 1 0 14 Tm .391705 Tw 12 TL /F1 10 Tf 0 0 0 rg (What to do in case your data is older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (?. In principle there is no obvious limitation why the) Tj T* 0 Tw (pipeline would not work, you just need to do some small changes in the header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 495.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Remove the following keywords:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 402.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 80 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM61) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM62) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM63) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (NAXIS3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 384.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F4 10 Tf (NAXIS ) Tj /F1 10 Tf (is 3 set it to 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 368.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Add the following keywords:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 311.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (INSTCONF ) Tj /F1 10 Tf (with ) Tj /F4 10 Tf (Blue) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (WAVMODE ) Tj /F1 10 Tf (with grating and mode. ) Tj /F4 10 Tf (400) Tj ( ) Tj (m1 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (400) Tj ( ) Tj (m2) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (ROI ) Tj /F1 10 Tf (Examples: ) Tj /F4 10 Tf (Spectroscopic) Tj ( ) Tj (1x1) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (user-defined) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 279.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3957,16 +4259,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Reference Lamp 
 Q
 Q
 q
-1 0 0 1 40.01575 485.0394 cm
+1 0 0 1 40.01575 237.0394 cm
 q
 BT 1 0 0 1 0 26 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. The list of current lamps is the following.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 479.0394 cm
+1 0 0 1 40.01575 231.0394 cm
 Q
 q
-1 0 0 1 40.01575 448.6394 cm
+1 0 0 1 40.01575 200.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3978,243 +4280,63 @@ BT 1 0 0 1 0 2.4 Tm 117.27 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Lis
 Q
 Q
 q
-1 0 0 1 40.01575 282.6394 cm
+1 0 0 1 40.01575 142.6394 cm
 1 1 1 rg
-n 0 160 515.2441 -16 re f*
-.878431 .878431 .878431 rg
-n 0 144 515.2441 -18 re f*
-1 1 1 rg
-n 0 126 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 108 515.2441 -18 re f*
-1 1 1 rg
-n 0 90 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 72 515.2441 -18 re f*
-1 1 1 rg
-n 0 54 515.2441 -18 re f*
+n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
 n 0 36 515.2441 -18 re f*
 1 1 1 rg
 n 0 18 515.2441 -18 re f*
 .960784 .960784 .862745 rg
-n 0 160 515.2441 -16 re f*
+n 0 52 515.2441 -16 re f*
 .12549 .262745 .360784 rg
 BT /F2 10 Tf 10 TL ET
 q
-1 0 0 1 6 147 cm
+1 0 0 1 6 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 137.587 10 re f*
+n 0 0 64.01962 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 51.0135 0 Td (Grating) Tj T* -51.0135 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 14.22981 0 Td (Grating) Tj T* -14.22981 0 Td ET
 Q
 Q
 q
-1 0 0 1 155.587 147 cm
+1 0 0 1 82.01962 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 87.72466 10 re f*
+n 0 0 38.67975 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 30.80733 0 Td (Mode) Tj T* -30.80733 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 6.284873 0 Td (Mode) Tj T* -6.284873 0 Td ET
 Q
 Q
 q
-1 0 0 1 255.3117 147 cm
+1 0 0 1 132.6994 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 120.9662 10 re f*
+n 0 0 55.573 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 48.25811 0 Td (Filter) Tj T* -48.25811 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 15.5615 0 Td (Filter) Tj T* -15.5615 0 Td ET
 Q
 Q
 q
-1 0 0 1 388.2779 147 cm
+1 0 0 1 200.2724 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 120.9662 10 re f*
+n 0 0 308.9717 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 47.14811 0 Td (Lamp) Tj T* -47.14811 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 141.1509 0 Td (Lamp) Tj T* -141.1509 0 Td ET
 Q
 Q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgArNe) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ne) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgArNe) Tj T* ET
-Q
-Q
 q
 1 0 0 1 6 21 cm
 q
@@ -4223,24 +4345,24 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
 Q
 Q
 q
-1 0 0 1 155.587 21 cm
+1 0 0 1 82.01962 21 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
 Q
 Q
 q
-1 0 0 1 255.3117 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 21 cm
+1 0 0 1 132.6994 21 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CuHeAr) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2724 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr, HgArNe) Tj T* ET
 Q
 Q
 q
@@ -4251,24 +4373,24 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
 Q
 Q
 q
-1 0 0 1 155.587 3 cm
+1 0 0 1 82.01962 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
 Q
 Q
 q
-1 0 0 1 255.3117 3 cm
+1 0 0 1 132.6994 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
 Q
 Q
 q
-1 0 0 1 388.2779 3 cm
+1 0 0 1 200.2724 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FeHeAr) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ar, Ne, HgAr, HgArNe, CuHeAr, FeHeAr) Tj T* ET
 Q
 Q
 q
@@ -4276,31 +4398,25 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 144 m 515.2441 144 l S
-n 0 126 m 515.2441 126 l S
-n 0 108 m 515.2441 108 l S
-n 0 90 m 515.2441 90 l S
-n 0 72 m 515.2441 72 l S
-n 0 54 m 515.2441 54 l S
 n 0 36 m 515.2441 36 l S
 n 0 18 m 515.2441 18 l S
-n 149.587 0 m 149.587 160 l S
-n 249.3117 0 m 249.3117 160 l S
-n 382.2779 0 m 382.2779 160 l S
-n 0 160 m 515.2441 160 l S
+n 76.01962 0 m 76.01962 52 l S
+n 126.6994 0 m 126.6994 52 l S
+n 194.2724 0 m 194.2724 52 l S
+n 0 52 m 515.2441 52 l S
 n 0 0 m 515.2441 0 l S
-n 0 0 m 0 160 l S
-n 515.2441 0 m 515.2441 160 l S
+n 0 0 m 0 52 l S
+n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 282.6394 cm
+1 0 0 1 40.01575 142.6394 cm
 Q
 q
-1 0 0 1 40.01575 270.6394 cm
+1 0 0 1 40.01575 130.6394 cm
 Q
 q
-1 0 0 1 40.01575 213.8394 cm
+1 0 0 1 40.01575 73.83937 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -4332,31 +4448,7 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 207.8394 cm
-Q
-q
-1 0 0 1 40.01575 177.4394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 147.4394 cm
-q
-BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 69.43937 cm
-q
-BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
-Q
+1 0 0 1 40.01575 67.83937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -4375,25 +4467,46 @@ Q
  
 endstream
 endobj
-177 0 obj
-<< /Length 9407 >>
+179 0 obj
+<< /Length 9855 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 772.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 664.6394 cm
+q
+BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 648.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 769.0394 cm
-Q
-q
-1 0 0 1 40.01575 727.0394 cm
+1 0 0 1 40.01575 603.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 32 Tm  T* ET
 q
 1 0 0 1 20 18 cm
 q
@@ -4424,26 +4537,20 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 727.0394 cm
-Q
+1 0 0 1 40.01575 587.6394 cm
 q
-1 0 0 1 40.01575 709.0394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 703.0394 cm
-Q
-q
-1 0 0 1 40.01575 499.0394 cm
+1 0 0 1 40.01575 380.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 194 Tm  T* ET
 q
 1 0 0 1 20 168 cm
 q
-BT 1 0 0 1 0 26 Tm 1.113373 Tw 12 TL /F1 10 Tf 0 0 0 rg (Every line detected in the reference lamp is recorded both in its pixel value and later \(most likely entered by) Tj T* 0 Tw 1.259631 Tw (hand\) in angstrom value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential number) Tj T* 0 Tw (\(001, 002, etc\). For instance.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .084205 Tw 12 TL /F1 10 Tf 0 0 0 rg (Reference lamps have a record of usable lines in its header. Initially the lamp is run through a tool that identifies) Tj T* 0 Tw .471339 Tw (the lines and records its pixel value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential) Tj T* 0 Tw (number \(001, 002, etc\). For instance.) Tj T* ET
 Q
 Q
 q
@@ -4481,7 +4588,7 @@ Q
 q
 1 0 0 1 20 84 cm
 q
-BT 1 0 0 1 0 14 Tm 1.954631 Tw 12 TL /F1 10 Tf 0 0 0 rg (The equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .367888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later, the equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
 Q
 Q
 q
@@ -4526,13 +4633,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 499.0394 cm
+1 0 0 1 40.01575 368.6394 cm
 Q
 q
-1 0 0 1 40.01575 487.0394 cm
-Q
-q
-1 0 0 1 40.01575 406.2394 cm
+1 0 0 1 40.01575 287.8394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -4564,22 +4668,19 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 400.2394 cm
+1 0 0 1 40.01575 281.8394 cm
 Q
 q
-1 0 0 1 40.01575 382.2394 cm
+1 0 0 1 40.01575 265.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 376.2394 cm
-Q
-q
-1 0 0 1 40.01575 178.2394 cm
+1 0 0 1 40.01575 64.83937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 188 Tm  T* ET
 q
 1 0 0 1 20 126 cm
 q
@@ -4646,13 +4747,31 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 178.2394 cm
+1 0 0 1 40.01575 54.85039 cm
 Q
 q
-1 0 0 1 40.01575 166.2394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Requirements) Tj T* ET
+Q
 Q
 q
-1 0 0 1 40.01575 85.43937 cm
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+180 0 obj
+<< /Length 9665 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 706.2394 cm
 1 .894118 .894118 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -4683,31 +4802,10 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 79.43937 cm
+1 0 0 1 40.01575 700.2394 cm
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-178 0 obj
-<< /Length 10023 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 770.2394 cm
+1 0 0 1 40.01575 667.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4719,20 +4817,20 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (File organizati
 Q
 Q
 q
-1 0 0 1 40.01575 752.2394 cm
+1 0 0 1 40.01575 649.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There is no special requirements for files but you will avoid problems if you follow these points.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 746.2394 cm
+1 0 0 1 40.01575 643.4394 cm
 Q
 q
-1 0 0 1 40.01575 746.2394 cm
+1 0 0 1 40.01575 643.4394 cm
 Q
 q
-1 0 0 1 40.01575 734.2394 cm
+1 0 0 1 40.01575 631.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4753,10 +4851,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 728.2394 cm
+1 0 0 1 40.01575 625.4394 cm
 Q
 q
-1 0 0 1 40.01575 716.2394 cm
+1 0 0 1 40.01575 613.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4777,10 +4875,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 710.2394 cm
+1 0 0 1 40.01575 607.4394 cm
 Q
 q
-1 0 0 1 40.01575 698.2394 cm
+1 0 0 1 40.01575 595.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4801,10 +4899,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 698.2394 cm
+1 0 0 1 40.01575 595.4394 cm
 Q
 q
-1 0 0 1 40.01575 663.0394 cm
+1 0 0 1 40.01575 560.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4816,21 +4914,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Software Requir
 Q
 Q
 q
-1 0 0 1 40.01575 633.0394 cm
+1 0 0 1 40.01575 530.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.457888 Tw (Using the pipeline remotely is the recommended method, in which case you don't need to worry about software) Tj T* 0 Tw (requirements.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 615.0394 cm
+1 0 0 1 40.01575 512.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (However, we provide simple instructions below.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 582.2394 cm
+1 0 0 1 40.01575 479.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4842,16 +4940,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for Remot
 Q
 Q
 q
-1 0 0 1 40.01575 528.2394 cm
+1 0 0 1 40.01575 425.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .350742 Tw (procedure requires to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials) Tj T* 0 Tw .918205 Tw (for the VPN are the same you used for your observing run, provided by your ) Tj /F3 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give) Tj T* 0 Tw (you the information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 516.2394 cm
+1 0 0 1 40.01575 413.4394 cm
 Q
 q
-1 0 0 1 40.01575 447.4394 cm
+1 0 0 1 40.01575 344.6394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -4882,10 +4980,10 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 441.4394 cm
+1 0 0 1 40.01575 338.6394 cm
 Q
 q
-1 0 0 1 40.01575 411.0394 cm
+1 0 0 1 40.01575 308.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4897,16 +4995,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 381.0394 cm
+1 0 0 1 40.01575 278.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .280829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Separately, you should receive a server hostname, IP, display number and VNC-password. If you don't you can ask) Tj T* 0 Tw (for it. We have decided to use a similar organization of vnc displays as for ) Tj /F4 10 Tf (soaric7) Tj /F1 10 Tf (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 375.0394 cm
+1 0 0 1 40.01575 272.2394 cm
 Q
 q
-1 0 0 1 40.01575 344.6394 cm
+1 0 0 1 40.01575 241.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4918,7 +5016,7 @@ BT 1 0 0 1 0 2.4 Tm 69.24005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (V
 Q
 Q
 q
-1 0 0 1 40.01575 232.6394 cm
+1 0 0 1 40.01575 129.8394 cm
 1 1 1 rg
 n 0 106 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -5094,66 +5192,19 @@ n 515.2441 0 m 515.2441 106 l S
 Q
 Q
 q
-1 0 0 1 40.01575 232.6394 cm
+1 0 0 1 40.01575 129.8394 cm
 Q
 q
-1 0 0 1 40.01575 202.6394 cm
+1 0 0 1 40.01575 99.83937 cm
 q
 BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 172.6394 cm
+1 0 0 1 40.01575 69.83937 cm
 q
 BT 1 0 0 1 0 14 Tm 1.001705 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are not recommending a particular ) Tj /F3 10 Tf (VNC Client ) Tj /F1 10 Tf (since there are several options, so if you feel that you are not) Tj T* 0 Tw (getting the best image quality feel free to explore different clients. For this tutorial we use ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
 Q
-Q
-q
-1 0 0 1 40.01575 142.2394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Terminal) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 112.2394 cm
-q
-BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 106.2394 cm
-Q
-q
-1 0 0 1 40.01575 94.23937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (vncviewer) Tj ( ) Tj (<) Tj (vnc-server) Tj (>) Tj (:) Tj (<) Tj (display-number) Tj (>) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 94.23937 cm
-Q
-q
-1 0 0 1 40.01575 76.23937 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 64.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -5172,12 +5223,59 @@ Q
  
 endstream
 endobj
-179 0 obj
-<< /Length 7656 >>
+181 0 obj
+<< /Length 7535 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 730.2394 cm
+1 0 0 1 40.01575 772.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 736.6394 cm
+Q
+q
+1 0 0 1 40.01575 724.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (vncviewer) Tj ( ) Tj (<) Tj (vnc-server) Tj (>) Tj (:) Tj (<) Tj (display-number) Tj (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 724.6394 cm
+Q
+q
+1 0 0 1 40.01575 706.6394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 694.6394 cm
+Q
+q
+1 0 0 1 40.01575 637.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -5208,16 +5306,16 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 724.2394 cm
+1 0 0 1 40.01575 631.8394 cm
 Q
 q
-1 0 0 1 40.01575 706.2394 cm
+1 0 0 1 40.01575 613.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If the connection succeeds you will see a ) Tj /F3 10 Tf (Centos 7 ) Tj /F1 10 Tf (Desktop using ) Tj /F3 10 Tf (Gnome) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 673.4394 cm
+1 0 0 1 40.01575 581.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5229,13 +5327,13 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for local
 Q
 Q
 q
-1 0 0 1 40.01575 661.4394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 661.4394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 559.4394 cm
+1 0 0 1 40.01575 467.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5286,10 +5384,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 553.4394 cm
+1 0 0 1 40.01575 461.0394 cm
 Q
 q
-1 0 0 1 40.01575 505.4394 cm
+1 0 0 1 40.01575 413.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5321,10 +5419,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 499.4394 cm
+1 0 0 1 40.01575 407.0394 cm
 Q
 q
-1 0 0 1 40.01575 469.4394 cm
+1 0 0 1 40.01575 377.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5351,10 +5449,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 463.4394 cm
+1 0 0 1 40.01575 371.0394 cm
 Q
 q
-1 0 0 1 40.01575 433.4394 cm
+1 0 0 1 40.01575 341.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5381,10 +5479,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 433.4394 cm
+1 0 0 1 40.01575 341.0394 cm
 Q
 q
-1 0 0 1 40.01575 403.0394 cm
+1 0 0 1 40.01575 310.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5396,10 +5494,10 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (DCR \(optional\
 Q
 Q
 q
-1 0 0 1 40.01575 385.0394 cm
+1 0 0 1 40.01575 292.6394 cm
 Q
 q
-1 0 0 1 40.01575 328.2394 cm
+1 0 0 1 40.01575 235.8394 cm
 1 .894118 .894118 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -5431,26 +5529,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 322.2394 cm
+1 0 0 1 40.01575 229.8394 cm
 Q
 q
-1 0 0 1 40.01575 292.2394 cm
+1 0 0 1 40.01575 199.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.7473 Tw (In terms of cosmic ray rejection we shifted to a non-python package because the results were much better) Tj T* 0 Tw (compared to LACosmic's implementation in astropy. LACosmic was not designed to work with spectroscopy though.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 262.2394 cm
+1 0 0 1 40.01575 169.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .043005 Tw 12 TL /F1 10 Tf 0 0 0 rg (The latest version of the Goodman Spectroscopic Pipeline uses a modified version of ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (to help with the pipeline's) Tj T* 0 Tw (workflow. It is included under) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 256.2394 cm
+1 0 0 1 40.01575 163.8394 cm
 Q
 q
-1 0 0 1 40.01575 244.2394 cm
+1 0 0 1 40.01575 151.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -5464,19 +5562,40 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 244.2394 cm
+1 0 0 1 40.01575 151.8394 cm
 Q
 q
-1 0 0 1 40.01575 214.2394 cm
+1 0 0 1 40.01575 121.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .3339 Tw 12 TL /F4 10 Tf 0 0 0 rg (goodman ) Tj /F1 10 Tf (is the folder that will be created once you untar or unzip the latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic) Tj T* 0 Tw (Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 202.2394 cm
+1 0 0 1 40.01575 109.8394 cm
 Q
 q
-1 0 0 1 40.01575 121.4394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+182 0 obj
+<< /Length 9722 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 706.2394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -5507,37 +5626,16 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 115.4394 cm
+1 0 0 1 40.01575 700.2394 cm
 Q
 q
-1 0 0 1 40.01575 85.43937 cm
+1 0 0 1 40.01575 670.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .479732 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are still encouraged to visit the official ) Tj 0 0 .501961 rg (Link ) Tj 0 0 0 rg (own by the author and let me remind you once more that you have) Tj T* 0 Tw (to cite the paper mentioned several times in this manual.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-180 0 obj
-<< /Length 9659 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 773.8394 cm
+1 0 0 1 40.01575 641.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5549,16 +5647,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Compiling DCR) 
 Q
 Q
 q
-1 0 0 1 40.01575 755.8394 cm
+1 0 0 1 40.01575 623.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Compiling ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (is actually very simple.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 749.8394 cm
+1 0 0 1 40.01575 617.0394 cm
 Q
 q
-1 0 0 1 40.01575 737.8394 cm
+1 0 0 1 40.01575 605.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -5572,20 +5670,20 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 737.8394 cm
+1 0 0 1 40.01575 605.0394 cm
 Q
 q
-1 0 0 1 40.01575 719.8394 cm
+1 0 0 1 40.01575 587.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Then simply type:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 713.8394 cm
+1 0 0 1 40.01575 581.0394 cm
 Q
 q
-1 0 0 1 40.01575 701.8394 cm
+1 0 0 1 40.01575 569.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -5600,28 +5698,28 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 701.8394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 683.8394 cm
+1 0 0 1 40.01575 551.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This will compile ) Tj /F3 10 Tf (dcr ) Tj /F1 10 Tf (and also it will create other files. The executable binary here is ) Tj /F4 10 Tf (dcr) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 665.8394 cm
+1 0 0 1 40.01575 533.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We have successfully compiled ) Tj /F3 10 Tf (dcr ) Tj /F1 10 Tf (in several platforms, such as:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 659.8394 cm
+1 0 0 1 40.01575 527.0394 cm
 Q
 q
-1 0 0 1 40.01575 659.8394 cm
+1 0 0 1 40.01575 527.0394 cm
 Q
 q
-1 0 0 1 40.01575 647.8394 cm
+1 0 0 1 40.01575 515.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5642,10 +5740,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 641.8394 cm
+1 0 0 1 40.01575 509.0394 cm
 Q
 q
-1 0 0 1 40.01575 629.8394 cm
+1 0 0 1 40.01575 497.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5666,10 +5764,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 623.8394 cm
+1 0 0 1 40.01575 491.0394 cm
 Q
 q
-1 0 0 1 40.01575 611.8394 cm
+1 0 0 1 40.01575 479.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5690,10 +5788,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 605.8394 cm
+1 0 0 1 40.01575 473.0394 cm
 Q
 q
-1 0 0 1 40.01575 593.8394 cm
+1 0 0 1 40.01575 461.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5714,10 +5812,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 593.8394 cm
+1 0 0 1 40.01575 461.0394 cm
 Q
 q
-1 0 0 1 40.01575 564.6394 cm
+1 0 0 1 40.01575 431.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5729,19 +5827,19 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Install binary 
 Q
 Q
 q
-1 0 0 1 40.01575 534.6394 cm
+1 0 0 1 40.01575 401.8394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.808637 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is a suggested method. If you are not so sure what you are doing, we recommend you following this) Tj T* 0 Tw (suggestion. If you are a more advanced user you just need the ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (executable binary in your ) Tj /F4 10 Tf ($PATH ) Tj /F1 10 Tf (variable.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 528.6394 cm
+1 0 0 1 40.01575 395.8394 cm
 Q
 q
-1 0 0 1 40.01575 528.6394 cm
+1 0 0 1 40.01575 395.8394 cm
 Q
 q
-1 0 0 1 40.01575 516.6394 cm
+1 0 0 1 40.01575 383.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5762,10 +5860,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 510.6394 cm
+1 0 0 1 40.01575 377.8394 cm
 Q
 q
-1 0 0 1 40.01575 468.6394 cm
+1 0 0 1 40.01575 335.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5791,10 +5889,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 462.6394 cm
+1 0 0 1 40.01575 329.8394 cm
 Q
 q
-1 0 0 1 40.01575 384.6394 cm
+1 0 0 1 40.01575 251.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5833,10 +5931,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 378.6394 cm
+1 0 0 1 40.01575 245.8394 cm
 Q
 q
-1 0 0 1 40.01575 330.6394 cm
+1 0 0 1 40.01575 197.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5868,10 +5966,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 324.6394 cm
+1 0 0 1 40.01575 191.8394 cm
 Q
 q
-1 0 0 1 40.01575 294.6394 cm
+1 0 0 1 40.01575 161.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5911,10 +6009,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 294.6394 cm
+1 0 0 1 40.01575 161.8394 cm
 Q
 q
-1 0 0 1 40.01575 264.2394 cm
+1 0 0 1 40.01575 131.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5926,40 +6024,69 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (System Installa
 Q
 Q
 q
-1 0 0 1 40.01575 234.2394 cm
+1 0 0 1 40.01575 101.4394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.617888 Tw 12 TL /F1 10 Tf 0 0 0 rg (System installation is not recommended because can mess things up specially in Mac OS. If you are really) Tj T* 0 Tw (committed to install the pipeline in your system we recommend the ) Tj 0 0 .501961 rg (Conda Installation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 228.2394 cm
+1 0 0 1 40.01575 95.43937 cm
 Q
 q
-1 0 0 1 40.01575 228.2394 cm
+1 0 0 1 40.01575 95.43937 cm
 Q
 q
-1 0 0 1 40.01575 126.2394 cm
+1 0 0 1 40.01575 65.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 87 cm
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 87 cm
+1 0 0 1 23 15 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic Pipeline) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 69 cm
+1 0 0 1 23 -3 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (visit ) Tj 0 0 .501961 rg (https://github.com/soar-telescope/goodman/releases/latest ) Tj 0 0 0 rg (and download the ) Tj /F4 10 Tf (*.zip ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (*.tar.gz ) Tj /F1 10 Tf (file.) Tj T* ET
 Q
 Q
+q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+183 0 obj
+<< /Length 8987 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 721.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 53 Tm  T* ET
 q
 1 0 0 1 23 51 cm
 q
@@ -5989,10 +6116,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 120.2394 cm
+1 0 0 1 40.01575 715.0394 cm
 Q
 q
-1 0 0 1 40.01575 72.23937 cm
+1 0 0 1 40.01575 667.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6024,31 +6151,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 66.23937 cm
+1 0 0 1 40.01575 661.0394 cm
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-181 0 obj
-<< /Length 8438 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 631.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6075,10 +6181,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 751.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
 q
-1 0 0 1 40.01575 721.0394 cm
+1 0 0 1 40.01575 595.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6105,10 +6211,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 721.0394 cm
+1 0 0 1 40.01575 595.0394 cm
 Q
 q
-1 0 0 1 40.01575 690.6394 cm
+1 0 0 1 40.01575 564.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6120,16 +6226,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Conda Installat
 Q
 Q
 q
-1 0 0 1 40.01575 660.6394 cm
+1 0 0 1 40.01575 534.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.783606 Tw 12 TL /F1 10 Tf 0 0 0 rg (We strongly recommend installing the pipeline using ) Tj /F3 10 Tf (virtual environments) Tj /F1 10 Tf (. Below you will find a summary of) Tj T* 0 Tw (installation steps.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 648.6394 cm
+1 0 0 1 40.01575 522.6394 cm
 Q
 q
-1 0 0 1 40.01575 579.8394 cm
+1 0 0 1 40.01575 453.8394 cm
 1 .894118 .894118 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -6161,23 +6267,23 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 573.8394 cm
+1 0 0 1 40.01575 447.8394 cm
 Q
 q
-1 0 0 1 40.01575 555.8394 cm
+1 0 0 1 40.01575 429.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following list provides a summary of all the steps \(follow the links for instructions\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 549.8394 cm
+1 0 0 1 40.01575 423.8394 cm
 Q
 q
-1 0 0 1 40.01575 549.8394 cm
+1 0 0 1 40.01575 423.8394 cm
 Q
 q
-1 0 0 1 40.01575 537.8394 cm
+1 0 0 1 40.01575 411.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6197,10 +6303,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 531.8394 cm
+1 0 0 1 40.01575 405.8394 cm
 Q
 q
-1 0 0 1 40.01575 519.8394 cm
+1 0 0 1 40.01575 393.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6220,10 +6326,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 513.8394 cm
+1 0 0 1 40.01575 387.8394 cm
 Q
 q
-1 0 0 1 40.01575 501.8394 cm
+1 0 0 1 40.01575 375.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6245,10 +6351,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 495.8394 cm
+1 0 0 1 40.01575 369.8394 cm
 Q
 q
-1 0 0 1 40.01575 483.8394 cm
+1 0 0 1 40.01575 357.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6269,10 +6375,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 477.8394 cm
+1 0 0 1 40.01575 351.8394 cm
 Q
 q
-1 0 0 1 40.01575 465.8394 cm
+1 0 0 1 40.01575 339.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6293,10 +6399,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 459.8394 cm
+1 0 0 1 40.01575 333.8394 cm
 Q
 q
-1 0 0 1 40.01575 447.8394 cm
+1 0 0 1 40.01575 321.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -6317,10 +6423,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 447.8394 cm
+1 0 0 1 40.01575 321.8394 cm
 Q
 q
-1 0 0 1 40.01575 418.6394 cm
+1 0 0 1 40.01575 292.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6332,13 +6438,13 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (New Virtual Env
 Q
 Q
 q
-1 0 0 1 40.01575 388.6394 cm
+1 0 0 1 40.01575 262.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 1.078381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Creating virtual environments is well documented on the ) Tj 0 0 .501961 rg (Conda documentation site ) Tj 0 0 0 rg (just make sure you are using) Tj T* 0 Tw /F4 10 Tf (Python) Tj ( ) Tj (3.5 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (3.6) Tj /F1 10 Tf (. which are the versions against ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (is regularly tested.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 359.4394 cm
+1 0 0 1 40.01575 233.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6350,16 +6456,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Existing Virtua
 Q
 Q
 q
-1 0 0 1 40.01575 329.4394 cm
+1 0 0 1 40.01575 203.4394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.267131 Tw 12 TL /F1 10 Tf 0 0 0 rg (We provide a predefined environment through a ) Tj /F4 10 Tf (environment.yml ) Tj /F1 10 Tf (file that you can use to create a virtual) Tj T* 0 Tw (environment with all the pipeline's dependencies. It goes as follows:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 323.4394 cm
+1 0 0 1 40.01575 197.4394 cm
 Q
 q
-1 0 0 1 40.01575 311.4394 cm
+1 0 0 1 40.01575 185.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -6373,16 +6479,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 311.4394 cm
+1 0 0 1 40.01575 185.4394 cm
 Q
 q
-1 0 0 1 40.01575 293.4394 cm
+1 0 0 1 40.01575 167.4394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The new environment will be called ) Tj /F4 10 Tf (goodman) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 264.2394 cm
+1 0 0 1 40.01575 138.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -6394,16 +6500,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Pipeline Instal
 Q
 Q
 q
-1 0 0 1 40.01575 246.2394 cm
+1 0 0 1 40.01575 120.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Finally, in order to install ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (using a virtual environment you need to activate it first.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 240.2394 cm
+1 0 0 1 40.01575 114.2394 cm
 Q
 q
-1 0 0 1 40.01575 228.2394 cm
+1 0 0 1 40.01575 102.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -6417,69 +6523,22 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 228.2394 cm
+1 0 0 1 40.01575 102.2394 cm
 Q
 q
-1 0 0 1 40.01575 210.2394 cm
+1 0 0 1 40.01575 84.23937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And in case you used a different name replace ) Tj /F4 10 Tf (goodman ) Tj /F1 10 Tf (by the name of your environment.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 192.2394 cm
+1 0 0 1 40.01575 66.23937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In a terminal go to ) Tj /F4 10 Tf (<) Tj (path) Tj ( ) Tj (to) Tj ( ) Tj (download) Tj (>) Tj (/goodman-) Tj (<) Tj (version) Tj (>) Tj (/) Tj /F1 10 Tf (, then:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 186.2394 cm
-Q
-q
-1 0 0 1 40.01575 174.2394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (test) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 174.2394 cm
-Q
-q
-1 0 0 1 40.01575 156.2394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If all the tests run successfully you can then install the pipeline with:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 150.2394 cm
-Q
-q
-1 0 0 1 40.01575 138.2394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (install) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 138.2394 cm
-Q
-q
-1 0 0 1 40.01575 138.2394 cm
+1 0 0 1 40.01575 60.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -6498,8 +6557,76 @@ Q
  
 endstream
 endobj
-182 0 obj
-<< /Length 8916 >>
+184 0 obj
+<< /Length 1043 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (test) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If all the tests run successfully you can then install the pipeline with:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (install) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+185 0 obj
+<< /Length 8917 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -6977,14 +7104,14 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-183 0 obj
-<< /Length 10244 >>
+186 0 obj
+<< /Length 10245 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -7147,7 +7274,7 @@ Q
 q
 1 0 0 1 78.56959 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Value of paramter ) Tj /F4 10 Tf (c2) Tj /F1 10 Tf (. This goes on depending the order.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Value of parameter ) Tj /F4 10 Tf (c2) Tj /F1 10 Tf (. This goes on depending the order.) Tj T* ET
 Q
 Q
 q
@@ -7482,13 +7609,13 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-184 0 obj
+187 0 obj
 << /Length 2049 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -7604,118 +7731,124 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-185 0 obj
-<< /Nums [ 0
- 186 0 R
- 1
- 187 0 R
- 2
- 188 0 R
- 3
- 189 0 R
- 4
- 190 0 R
- 5
- 191 0 R
- 6
- 192 0 R
- 7
- 193 0 R
- 8
- 194 0 R
- 9
- 195 0 R
- 10
- 196 0 R
- 11
- 197 0 R
- 12
- 198 0 R
- 13
- 199 0 R
- 14
- 200 0 R
- 15
- 201 0 R
- 16
- 202 0 R ] >>
-endobj
-186 0 obj
-<< /S /D
- /St 1 >>
-endobj
-187 0 obj
-<< /S /D
- /St 2 >>
-endobj
 188 0 obj
-<< /S /r
- /St 1 >>
+<< /Nums [ 0
+ 189 0 R
+ 1
+ 190 0 R
+ 2
+ 191 0 R
+ 3
+ 192 0 R
+ 4
+ 193 0 R
+ 5
+ 194 0 R
+ 6
+ 195 0 R
+ 7
+ 196 0 R
+ 8
+ 197 0 R
+ 9
+ 198 0 R
+ 10
+ 199 0 R
+ 11
+ 200 0 R
+ 12
+ 201 0 R
+ 13
+ 202 0 R
+ 14
+ 203 0 R
+ 15
+ 204 0 R
+ 16
+ 205 0 R
+ 17
+ 206 0 R ] >>
 endobj
 189 0 obj
-<< /S /r
- /St 2 >>
+<< /S /D
+ /St 1 >>
 endobj
 190 0 obj
-<< /S /r
- /St 3 >>
+<< /S /D
+ /St 2 >>
 endobj
 191 0 obj
 << /S /r
- /St 4 >>
-endobj
-192 0 obj
-<< /S /D
  /St 1 >>
 endobj
-193 0 obj
-<< /S /D
+192 0 obj
+<< /S /r
  /St 2 >>
 endobj
-194 0 obj
-<< /S /D
+193 0 obj
+<< /S /r
  /St 3 >>
+endobj
+194 0 obj
+<< /S /r
+ /St 4 >>
 endobj
 195 0 obj
 << /S /D
- /St 4 >>
+ /St 1 >>
 endobj
 196 0 obj
 << /S /D
- /St 5 >>
+ /St 2 >>
 endobj
 197 0 obj
 << /S /D
- /St 6 >>
+ /St 3 >>
 endobj
 198 0 obj
 << /S /D
- /St 7 >>
+ /St 4 >>
 endobj
 199 0 obj
 << /S /D
- /St 8 >>
+ /St 5 >>
 endobj
 200 0 obj
 << /S /D
- /St 9 >>
+ /St 6 >>
 endobj
 201 0 obj
 << /S /D
- /St 10 >>
+ /St 7 >>
 endobj
 202 0 obj
 << /S /D
+ /St 8 >>
+endobj
+203 0 obj
+<< /S /D
+ /St 9 >>
+endobj
+204 0 obj
+<< /S /D
+ /St 10 >>
+endobj
+205 0 obj
+<< /S /D
  /St 11 >>
 endobj
+206 0 obj
+<< /S /D
+ /St 12 >>
+endobj
 xref
-0 203
+0 207
 0000000000 65535 f
 0000000075 00000 n
 0000000161 00000 n
@@ -7813,122 +7946,126 @@ xref
 0000019368 00000 n
 0000019587 00000 n
 0000019704 00000 n
-0000019970 00000 n
-0000020206 00000 n
-0000020429 00000 n
-0000020674 00000 n
-0000020806 00000 n
-0000021008 00000 n
+0000019905 00000 n
+0000020180 00000 n
+0000020416 00000 n
+0000020639 00000 n
+0000020885 00000 n
+0000021017 00000 n
 0000021285 00000 n
 0000021487 00000 n
 0000021689 00000 n
 0000021891 00000 n
-0000022170 00000 n
-0000022372 00000 n
-0000022631 00000 n
-0000022867 00000 n
-0000023080 00000 n
-0000023349 00000 n
-0000023551 00000 n
-0000023787 00000 n
-0000024056 00000 n
-0000024286 00000 n
-0000024555 00000 n
-0000024757 00000 n
-0000024999 00000 n
-0000025288 00000 n
-0000025525 00000 n
-0000025762 00000 n
-0000025999 00000 n
-0000026120 00000 n
-0000026340 00000 n
-0000026427 00000 n
-0000026605 00000 n
-0000026734 00000 n
-0000026880 00000 n
-0000027036 00000 n
-0000027188 00000 n
-0000027331 00000 n
-0000027527 00000 n
-0000027711 00000 n
-0000027898 00000 n
-0000028025 00000 n
-0000028165 00000 n
-0000028354 00000 n
-0000028541 00000 n
-0000028690 00000 n
-0000028834 00000 n
-0000029029 00000 n
-0000029212 00000 n
-0000029348 00000 n
-0000029489 00000 n
-0000029667 00000 n
-0000029852 00000 n
-0000029998 00000 n
-0000030165 00000 n
-0000030309 00000 n
-0000030512 00000 n
-0000030668 00000 n
-0000030833 00000 n
-0000030982 00000 n
-0000031132 00000 n
-0000031329 00000 n
-0000031476 00000 n
-0000031645 00000 n
-0000031799 00000 n
-0000031936 00000 n
-0000032113 00000 n
-0000032291 00000 n
-0000032424 00000 n
-0000032585 00000 n
+0000022093 00000 n
+0000022382 00000 n
+0000022619 00000 n
+0000022821 00000 n
+0000023057 00000 n
+0000023326 00000 n
+0000023539 00000 n
+0000023741 00000 n
+0000023977 00000 n
+0000024256 00000 n
+0000024486 00000 n
+0000024755 00000 n
+0000024957 00000 n
+0000025199 00000 n
+0000025488 00000 n
+0000025725 00000 n
+0000025962 00000 n
+0000026199 00000 n
+0000026436 00000 n
+0000026557 00000 n
+0000026777 00000 n
+0000026864 00000 n
+0000027042 00000 n
+0000027171 00000 n
+0000027317 00000 n
+0000027473 00000 n
+0000027625 00000 n
+0000027768 00000 n
+0000027964 00000 n
+0000028148 00000 n
+0000028335 00000 n
+0000028462 00000 n
+0000028602 00000 n
+0000028791 00000 n
+0000028978 00000 n
+0000029127 00000 n
+0000029271 00000 n
+0000029466 00000 n
+0000029649 00000 n
+0000029785 00000 n
+0000029926 00000 n
+0000030104 00000 n
+0000030289 00000 n
+0000030435 00000 n
+0000030602 00000 n
+0000030746 00000 n
+0000030949 00000 n
+0000031105 00000 n
+0000031270 00000 n
+0000031419 00000 n
+0000031569 00000 n
+0000031766 00000 n
+0000031913 00000 n
+0000032082 00000 n
+0000032236 00000 n
+0000032373 00000 n
+0000032550 00000 n
 0000032728 00000 n
-0000032883 00000 n
-0000033018 00000 n
-0000033238 00000 n
-0000034289 00000 n
-0000034425 00000 n
-0000034525 00000 n
-0000044974 00000 n
-0000045464 00000 n
-0000045600 00000 n
-0000055153 00000 n
-0000055834 00000 n
-0000067046 00000 n
-0000076511 00000 n
-0000086593 00000 n
-0000094307 00000 n
-0000104024 00000 n
-0000112520 00000 n
-0000121494 00000 n
-0000131797 00000 n
-0000133904 00000 n
-0000134183 00000 n
-0000134223 00000 n
-0000134263 00000 n
-0000134303 00000 n
-0000134343 00000 n
-0000134383 00000 n
-0000134423 00000 n
-0000134463 00000 n
-0000134503 00000 n
-0000134543 00000 n
-0000134583 00000 n
-0000134623 00000 n
-0000134663 00000 n
-0000134703 00000 n
-0000134743 00000 n
-0000134783 00000 n
-0000134824 00000 n
+0000032861 00000 n
+0000033022 00000 n
+0000033165 00000 n
+0000033320 00000 n
+0000033455 00000 n
+0000033685 00000 n
+0000034736 00000 n
+0000034872 00000 n
+0000034972 00000 n
+0000045428 00000 n
+0000045918 00000 n
+0000046054 00000 n
+0000055854 00000 n
+0000056535 00000 n
+0000067646 00000 n
+0000077559 00000 n
+0000087282 00000 n
+0000094875 00000 n
+0000104655 00000 n
+0000113700 00000 n
+0000114801 00000 n
+0000123776 00000 n
+0000134080 00000 n
+0000136187 00000 n
+0000136481 00000 n
+0000136521 00000 n
+0000136561 00000 n
+0000136601 00000 n
+0000136641 00000 n
+0000136681 00000 n
+0000136721 00000 n
+0000136761 00000 n
+0000136801 00000 n
+0000136841 00000 n
+0000136881 00000 n
+0000136921 00000 n
+0000136961 00000 n
+0000137001 00000 n
+0000137041 00000 n
+0000137081 00000 n
+0000137122 00000 n
+0000137163 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 124 0 R
- /Root 123 0 R
- /Size 203 >>
+ /Info 126 0 R
+ /Root 125 0 R
+ /Size 207 >>
 startxref
-134865
+137204
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -7937,7 +8074,7 @@ startxref
  /F2 3 0 R
  /F3 90 0 R
  /F4 93 0 R
- /F5 98 0 R >>
+ /F5 99 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -7954,12 +8091,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 166 0 R
+<< /Contents 168 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -7971,12 +8108,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 167 0 R
+<< /Contents 169 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -7992,7 +8129,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  787.0394
@@ -8009,7 +8146,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  787.0394
@@ -8026,7 +8163,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  705.0394
@@ -8043,7 +8180,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  705.0394
@@ -8060,7 +8197,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  651.8394
@@ -8077,7 +8214,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  651.8394
@@ -8094,7 +8231,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  304.6394
@@ -8111,7 +8248,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  304.6394
@@ -8128,7 +8265,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  137.4394
@@ -8145,7 +8282,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  137.4394
@@ -8162,10 +8299,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 96 0 R
  /XYZ
  40.01575
- 84.23937
+ 787.0394
  0 ]
  /Rect [ 60.01575
  664.7894
@@ -8179,10 +8316,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 94 0 R
+ /Dest [ 96 0 R
  /XYZ
  40.01575
- 84.23937
+ 787.0394
  0 ]
  /Rect [ 549.6998
  664.7894
@@ -8267,7 +8404,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
  /Rect [ 80.01575
  610.7894
@@ -8284,7 +8421,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
  /Rect [ 549.6998
  610.7894
@@ -8298,10 +8435,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 100 0 R
+ /Dest [ 105 0 R
  /XYZ
  40.01575
- 191.8394
+ 787.0394
  0 ]
  /Rect [ 100.0157
  592.7894
@@ -8315,10 +8452,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 100 0 R
+ /Dest [ 105 0 R
  /XYZ
  40.01575
- 191.8394
+ 787.0394
  0 ]
  /Rect [ 549.6998
  592.7894
@@ -8335,7 +8472,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 787.0394
+ 684.2394
  0 ]
  /Rect [ 80.01575
  574.7894
@@ -8352,7 +8489,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 787.0394
+ 684.2394
  0 ]
  /Rect [ 549.6998
  574.7894
@@ -8369,7 +8506,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
  /Rect [ 60.01575
  556.7894
@@ -8386,7 +8523,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
  /Rect [ 549.6998
  556.7894
@@ -8403,7 +8540,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
  /Rect [ 80.01575
  538.7894
@@ -8420,7 +8557,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
  /Rect [ 549.6998
  538.7894
@@ -8437,7 +8574,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
  /Rect [ 100.0157
  520.7894
@@ -8454,7 +8591,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
  /Rect [ 549.6998
  520.7894
@@ -8468,10 +8605,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 106 0 R
+ /Dest [ 109 0 R
  /XYZ
  40.01575
- 156.6394
+ 787.0394
  0 ]
  /Rect [ 100.0157
  502.7894
@@ -8485,10 +8622,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 106 0 R
+ /Dest [ 109 0 R
  /XYZ
  40.01575
- 156.6394
+ 787.0394
  0 ]
  /Rect [ 549.6998
  502.7894
@@ -8505,7 +8642,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 690.2394
+ 597.8394
  0 ]
  /Rect [ 80.01575
  484.7894
@@ -8522,7 +8659,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 690.2394
+ 597.8394
  0 ]
  /Rect [ 549.6998
  484.7894
@@ -8539,7 +8676,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 417.4394
+ 325.0394
  0 ]
  /Rect [ 100.0157
  466.7894
@@ -8556,7 +8693,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 417.4394
+ 325.0394
  0 ]
  /Rect [ 549.6998
  466.7894
@@ -8570,10 +8707,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 109 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 69.43937
+ 654.2394
  0 ]
  /Rect [ 120.0157
  448.7894
@@ -8587,10 +8724,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 109 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 69.43937
+ 654.2394
  0 ]
  /Rect [ 549.6998
  448.7894
@@ -8604,10 +8741,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 112 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 597.0394
+ 445.0394
  0 ]
  /Rect [ 120.0157
  430.7894
@@ -8621,10 +8758,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 112 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 597.0394
+ 445.0394
  0 ]
  /Rect [ 549.6998
  430.7894
@@ -8638,10 +8775,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 112 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 297.8394
+ 145.8394
  0 ]
  /Rect [ 100.0157
  412.7894
@@ -8655,10 +8792,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 112 0 R
+ /Dest [ 113 0 R
  /XYZ
  40.01575
- 297.8394
+ 145.8394
  0 ]
  /Rect [ 549.6998
  412.7894
@@ -8672,10 +8809,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 741.0394
+ 579.0394
  0 ]
  /Rect [ 100.0157
  394.7894
@@ -8689,10 +8826,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 741.0394
+ 579.0394
  0 ]
  /Rect [ 549.6998
  394.7894
@@ -8706,10 +8843,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 467.8394
+ 305.8394
  0 ]
  /Rect [ 120.0157
  376.7894
@@ -8723,10 +8860,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 467.8394
+ 305.8394
  0 ]
  /Rect [ 549.6998
  376.7894
@@ -8740,10 +8877,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 408.6394
+ 246.6394
  0 ]
  /Rect [ 120.0157
  358.7894
@@ -8757,10 +8894,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 408.6394
+ 246.6394
  0 ]
  /Rect [ 549.6998
  358.7894
@@ -8774,10 +8911,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 313.4394
+ 151.4394
  0 ]
  /Rect [ 120.0157
  340.7894
@@ -8791,10 +8928,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 117 0 R
+ /Dest [ 118 0 R
  /XYZ
  40.01575
- 313.4394
+ 151.4394
  0 ]
  /Rect [ 549.6998
  340.7894
@@ -8808,7 +8945,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  787.0394
@@ -8825,12 +8962,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  322.7894
  555.2598
  334.7894 ]
@@ -8842,7 +8979,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  747.0394
@@ -8859,12 +8996,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  304.7894
  555.2598
  316.7894 ]
@@ -8876,7 +9013,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  711.8394
@@ -8893,12 +9030,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  286.7894
  555.2598
  298.7894 ]
@@ -8910,7 +9047,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  676.6394
@@ -8927,12 +9064,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  676.6394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  268.7894
  555.2598
  280.7894 ]
@@ -8944,7 +9081,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  641.4394
@@ -8961,12 +9098,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  641.4394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  250.7894
  555.2598
  262.7894 ]
@@ -8978,7 +9115,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  606.2394
@@ -8995,12 +9132,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  606.2394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  232.7894
  555.2598
  244.7894 ]
@@ -9012,7 +9149,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  529.0394
@@ -9029,12 +9166,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  529.0394
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  214.7894
  555.2598
  226.7894 ]
@@ -9046,7 +9183,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  95.83937
@@ -9063,12 +9200,12 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  95.83937
  0 ]
- /Rect [ 549.6998
+ /Rect [ 544.1398
  196.7894
  555.2598
  208.7894 ]
@@ -9080,7 +9217,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 121 0 R
  /XYZ
  40.01575
  526.6394
@@ -9097,7 +9234,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 121 0 R
  /XYZ
  40.01575
  526.6394
@@ -9114,7 +9251,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 121 0 R
  /XYZ
  40.01575
  369.4394
@@ -9131,7 +9268,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 121 0 R
  /XYZ
  40.01575
  369.4394
@@ -9148,7 +9285,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
@@ -9165,7 +9302,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  787.0394
@@ -9182,7 +9319,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  747.0394
@@ -9199,7 +9336,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  747.0394
@@ -9216,7 +9353,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  711.8394
@@ -9233,7 +9370,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  711.8394
@@ -9250,7 +9387,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  661.0394
@@ -9267,7 +9404,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  661.0394
@@ -9284,7 +9421,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  628.2394
@@ -9301,7 +9438,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  628.2394
@@ -9318,7 +9455,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  595.4394
@@ -9335,7 +9472,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  595.4394
@@ -9428,12 +9565,12 @@ endobj
  83 0 R
  84 0 R
  85 0 R ]
- /Contents 168 0 R
+ /Contents 170 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9449,7 +9586,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  542.2394
@@ -9466,7 +9603,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 120 0 R
+ /Dest [ 122 0 R
  /XYZ
  40.01575
  542.2394
@@ -9481,12 +9618,12 @@ endobj
 89 0 obj
 << /Annots [ 87 0 R
  88 0 R ]
- /Contents 169 0 R
+ /Contents 171 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9509,7 +9646,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  791.0394
@@ -9543,31 +9680,32 @@ endobj
  /Type /Font >>
 endobj
 94 0 obj
-<< /Annots [ 91 0 R
- 92 0 R ]
- /Contents 170 0 R
- /MediaBox [ 0
+<< /Border [ 0
  0
- 595.2756
- 841.8898 ]
- /Parent 165 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 40.01575
+ 750.2394
+ 0 ]
+ /Rect [ 207.3257
+ 88.98937
+ 287.9157
+ 100.9894 ]
+ /Subtype /Link
+ /Type /Annot >>
 endobj
 95 0 obj
-<< /Contents 171 0 R
+<< /Annots [ 91 0 R
+ 92 0 R
+ 94 0 R ]
+ /Contents 172 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9579,6 +9717,23 @@ endobj
  /Type /Page >>
 endobj
 96 0 obj
+<< /Contents 173 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 167 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+97 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://fits.gsfc.nasa.gov/fits_standard.html) >>
@@ -9592,7 +9747,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-97 0 obj
+98 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview) >>
@@ -9601,45 +9756,27 @@ endobj
  0 ]
  /Rect [ 256.7857
  650.5894
- 329.0257
+ 313.4657
  662.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-98 0 obj
+99 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-99 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 118 0 R
- /XYZ
- 40.01575
- 609.4394
- 0 ]
- /Rect [ 288.4357
- 70.18937
- 355.1157
- 82.18937 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 100 0 obj
-<< /Annots [ 96 0 R
- 97 0 R
- 99 0 R ]
- /Contents 172 0 R
+<< /Annots [ 97 0 R
+ 98 0 R ]
+ /Contents 174 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9655,15 +9792,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 531.8394
+ 609.4394
  0 ]
- /Rect [ 429.9968
- 757.7894
- 509.9078
- 769.7894 ]
+ /Rect [ 288.4357
+ 665.3894
+ 355.1157
+ 677.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -9672,15 +9809,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 119 0 R
+ /Dest [ 120 0 R
  /XYZ
  40.01575
- 372.2394
+ 531.8394
  0 ]
- /Rect [ 86.14575
- 709.7894
- 150.6257
- 721.7894 ]
+ /Rect [ 429.9968
+ 634.3894
+ 509.9078
+ 646.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -9689,28 +9826,46 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 118 0 R
+ /Dest [ 121 0 R
+ /XYZ
+ 40.01575
+ 372.2394
+ 0 ]
+ /Rect [ 89.46575
+ 588.3894
+ 158.9357
+ 600.3894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+104 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
  /XYZ
  40.01575
  98.63937
  0 ]
  /Rect [ 40.01575
- 382.9894
- 176.7357
- 394.9894 ]
+ 266.5894
+ 188.3757
+ 278.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-104 0 obj
+105 0 obj
 << /Annots [ 101 0 R
  102 0 R
- 103 0 R ]
- /Contents 173 0 R
+ 103 0 R
+ 104 0 R ]
+ /Contents 175 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9721,31 +9876,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-105 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 106 0 R
- /XYZ
- 109.2558
- 361.4394
- 0 ]
- /Rect [ 353.1802
- 124.9894
- 444.9801
- 136.9894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 106 0 obj
-<< /Annots [ 105 0 R ]
- /Contents 174 0 R
+<< /Contents 176 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9757,6 +9894,23 @@ endobj
  /Type /Page >>
 endobj
 107 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 106 0 R
+ /XYZ
+ 109.2558
+ 258.6394
+ 0 ]
+ /Rect [ 353.1802
+ 755.3894
+ 444.9801
+ 767.3894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+108 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/soar-telescope/goodman/releases/latest) >>
@@ -9764,35 +9918,21 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 629.1894
+ 536.7894
  344.8057
- 641.1894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-108 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://users.camk.edu.pl/pych/DCR/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 233.3836
- 98.18937
- 254.9833
- 110.1894 ]
+ 548.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 109 0 obj
 << /Annots [ 107 0 R
  108 0 R ]
- /Contents 175 0 R
+ /Contents 177 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9804,23 +9944,37 @@ endobj
  /Type /Page >>
 endobj
 110 0 obj
-<< /Border [ 0
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://users.camk.edu.pl/pych/DCR/) >>
+ /Border [ 0
  0
  0 ]
- /Contents ()
- /Dest [ 117 0 R
- /XYZ
- 40.01575
- 743.4394
- 0 ]
- /Rect [ 337.3457
- 254.1894
- 417.3857
- 266.1894 ]
+ /Rect [ 233.3836
+ 682.9894
+ 254.9833
+ 694.9894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 111 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 118 0 R
+ /XYZ
+ 40.01575
+ 581.4394
+ 0 ]
+ /Rect [ 337.3457
+ 102.1894
+ 417.3857
+ 114.1894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+112 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/soar-telescope/goodman/releases/latest) >>
@@ -9828,21 +9982,22 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 215.1894
+ 63.18937
  344.8057
- 227.1894 ]
+ 75.18937 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-112 0 obj
+113 0 obj
 << /Annots [ 110 0 R
- 111 0 R ]
- /Contents 176 0 R
+ 111 0 R
+ 112 0 R ]
+ /Contents 178 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9853,7 +10008,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-113 0 obj
+114 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://conda.io/docs/user-guide/install/index.html) >>
@@ -9861,13 +10016,13 @@ endobj
  0
  0 ]
  /Rect [ 63.01575
- 571.5894
+ 409.5894
  136.9457
- 583.5894 ]
+ 421.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-114 0 obj
+115 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://astroconda.readthedocs.io/en/latest/installation.html#configure-astroconda-channel) >>
@@ -9875,30 +10030,30 @@ endobj
  0
  0 ]
  /Rect [ 63.01575
- 553.5894
+ 391.5894
  170.8557
- 565.5894 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-115 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 117 0 R
- /XYZ
- 40.01575
- 470.0394
- 0 ]
- /Rect [ 63.01575
- 535.5894
- 555.2598
- 547.5894 ]
+ 403.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 116 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 118 0 R
+ /XYZ
+ 40.01575
+ 308.0394
+ 0 ]
+ /Rect [ 63.01575
+ 373.5894
+ 555.2598
+ 385.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+117 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://conda.io/docs/user-guide/tasks/manage-environments.html) >>
@@ -9906,40 +10061,23 @@ endobj
  0
  0 ]
  /Rect [ 299.8528
- 437.3894
+ 275.3894
  422.0379
- 449.3894 ]
+ 287.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-117 0 obj
-<< /Annots [ 113 0 R
- 114 0 R
- 115 0 R
- 116 0 R ]
- /Contents 177 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 165 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
 118 0 obj
-<< /Contents 178 0 R
+<< /Annots [ 114 0 R
+ 115 0 R
+ 116 0 R
+ 117 0 R ]
+ /Contents 179 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9951,12 +10089,12 @@ endobj
  /Type /Page >>
 endobj
 119 0 obj
-<< /Contents 179 0 R
+<< /Contents 180 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9968,12 +10106,12 @@ endobj
  /Type /Page >>
 endobj
 120 0 obj
-<< /Contents 180 0 R
+<< /Contents 181 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 165 0 R
+ /Parent 167 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -9985,13 +10123,47 @@ endobj
  /Type /Page >>
 endobj
 121 0 obj
-<< /Outlines 123 0 R
- /PageLabels 181 0 R
- /PageMode /UseNone
- /Pages 165 0 R
- /Type /Catalog >>
+<< /Contents 182 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 167 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
 endobj
 122 0 obj
+<< /Contents 183 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 167 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+123 0 obj
+<< /Outlines 125 0 R
+ /PageLabels 184 0 R
+ /PageMode /UseNone
+ /Pages 167 0 R
+ /Type /Catalog >>
+endobj
+124 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Creator (\(unspecified\))
@@ -10000,494 +10172,495 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-123 0 obj
+125 0 obj
 << /Count 54
- /First 124 0 R
- /Last 158 0 R
+ /First 126 0 R
+ /Last 160 0 R
  /Type /Outlines >>
 endobj
-124 0 obj
+126 0 obj
 << /Count 5
- /Dest [ 94 0 R
+ /Dest [ 95 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 125 0 R
- /Last 129 0 R
- /Next 130 0 R
- /Parent 123 0 R
+ /First 127 0 R
+ /Last 131 0 R
+ /Next 132 0 R
+ /Parent 125 0 R
  /Title (Introduction) >>
 endobj
-125 0 obj
-<< /Dest [ 94 0 R
+127 0 obj
+<< /Dest [ 95 0 R
  /XYZ
  40.01575
  705.0394
  0 ]
- /Next 126 0 R
- /Parent 124 0 R
+ /Next 128 0 R
+ /Parent 126 0 R
  /Title (License) >>
 endobj
-126 0 obj
-<< /Dest [ 94 0 R
+128 0 obj
+<< /Dest [ 95 0 R
  /XYZ
  40.01575
  651.8394
  0 ]
- /Next 127 0 R
- /Parent 124 0 R
- /Prev 125 0 R
+ /Next 129 0 R
+ /Parent 126 0 R
+ /Prev 127 0 R
  /Title (Overview) >>
 endobj
-127 0 obj
-<< /Dest [ 94 0 R
+129 0 obj
+<< /Dest [ 95 0 R
  /XYZ
  40.01575
  304.6394
  0 ]
- /Next 128 0 R
- /Parent 124 0 R
- /Prev 126 0 R
+ /Next 130 0 R
+ /Parent 126 0 R
+ /Prev 128 0 R
  /Title (Features Available) >>
 endobj
-128 0 obj
-<< /Dest [ 94 0 R
+130 0 obj
+<< /Dest [ 95 0 R
  /XYZ
  40.01575
  137.4394
  0 ]
- /Next 129 0 R
- /Parent 124 0 R
- /Prev 127 0 R
+ /Next 131 0 R
+ /Parent 126 0 R
+ /Prev 129 0 R
  /Title (Supported Data) >>
 endobj
-129 0 obj
-<< /Dest [ 94 0 R
+131 0 obj
+<< /Dest [ 96 0 R
  /XYZ
  40.01575
- 84.23937
+ 787.0394
  0 ]
- /Parent 124 0 R
- /Prev 128 0 R
+ /Parent 126 0 R
+ /Prev 130 0 R
  /Title (Future Implementation) >>
 endobj
-130 0 obj
+132 0 obj
 << /Count 17
  /Dest [ 100 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 131 0 R
- /Last 135 0 R
- /Next 148 0 R
- /Parent 123 0 R
- /Prev 124 0 R
+ /First 133 0 R
+ /Last 137 0 R
+ /Next 150 0 R
+ /Parent 125 0 R
+ /Prev 126 0 R
  /Title (Requirements) >>
 endobj
-131 0 obj
+133 0 obj
 << /Count 3
  /Dest [ 100 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 132 0 R
- /Last 134 0 R
- /Next 135 0 R
- /Parent 130 0 R
+ /First 134 0 R
+ /Last 136 0 R
+ /Next 137 0 R
+ /Parent 132 0 R
  /Title (Data Requirements) >>
 endobj
-132 0 obj
+134 0 obj
 << /Count 1
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 543.8394
+ 295.8394
  0 ]
- /First 133 0 R
- /Last 133 0 R
- /Next 134 0 R
- /Parent 131 0 R
+ /First 135 0 R
+ /Last 135 0 R
+ /Next 136 0 R
+ /Parent 133 0 R
  /Title (Reference Lamp Files) >>
 endobj
-133 0 obj
-<< /Dest [ 100 0 R
- /XYZ
- 40.01575
- 191.8394
- 0 ]
- /Parent 132 0 R
- /Title (Headers Requirements) >>
-endobj
-134 0 obj
-<< /Dest [ 106 0 R
+135 0 obj
+<< /Dest [ 105 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /Parent 131 0 R
- /Prev 132 0 R
+ /Parent 134 0 R
+ /Title (Headers Requirements) >>
+endobj
+136 0 obj
+<< /Dest [ 106 0 R
+ /XYZ
+ 40.01575
+ 684.2394
+ 0 ]
+ /Parent 133 0 R
+ /Prev 134 0 R
  /Title (File organization) >>
 endobj
-135 0 obj
+137 0 obj
 << /Count 12
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 682.2394
+ 579.4394
  0 ]
- /First 136 0 R
- /Last 139 0 R
- /Parent 130 0 R
- /Prev 131 0 R
+ /First 138 0 R
+ /Last 141 0 R
+ /Parent 132 0 R
+ /Prev 133 0 R
  /Title (Software Requirements) >>
 endobj
-136 0 obj
+138 0 obj
 << /Count 2
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 599.0394
+ 496.2394
  0 ]
- /First 137 0 R
- /Last 138 0 R
- /Next 139 0 R
- /Parent 135 0 R
+ /First 139 0 R
+ /Last 140 0 R
+ /Next 141 0 R
+ /Parent 137 0 R
  /Title (Setup for Remote Use) >>
 endobj
-137 0 obj
+139 0 obj
 << /Dest [ 106 0 R
  /XYZ
  40.01575
- 425.4394
+ 322.6394
  0 ]
- /Next 138 0 R
- /Parent 136 0 R
+ /Next 140 0 R
+ /Parent 138 0 R
  /Title (Establish a VNC connection) >>
 endobj
-138 0 obj
-<< /Dest [ 106 0 R
- /XYZ
- 40.01575
- 156.6394
- 0 ]
- /Parent 136 0 R
- /Prev 137 0 R
- /Title (VNC from the Terminal) >>
-endobj
-139 0 obj
-<< /Count 8
- /Dest [ 109 0 R
- /XYZ
- 40.01575
- 690.2394
- 0 ]
- /First 140 0 R
- /Last 144 0 R
- /Parent 135 0 R
- /Prev 136 0 R
- /Title (Setup for local installation) >>
-endobj
 140 0 obj
-<< /Count 2
- /Dest [ 109 0 R
- /XYZ
- 40.01575
- 417.4394
- 0 ]
- /First 141 0 R
- /Last 142 0 R
- /Next 143 0 R
- /Parent 139 0 R
- /Title (DCR \(optional\)) >>
-endobj
-141 0 obj
 << /Dest [ 109 0 R
- /XYZ
- 40.01575
- 69.43937
- 0 ]
- /Next 142 0 R
- /Parent 140 0 R
- /Title (Compiling DCR) >>
-endobj
-142 0 obj
-<< /Dest [ 112 0 R
- /XYZ
- 40.01575
- 597.0394
- 0 ]
- /Parent 140 0 R
- /Prev 141 0 R
- /Title (Install binary DCR) >>
-endobj
-143 0 obj
-<< /Dest [ 112 0 R
- /XYZ
- 40.01575
- 297.8394
- 0 ]
- /Next 144 0 R
- /Parent 139 0 R
- /Prev 140 0 R
- /Title (System Installation \(not recommended\)) >>
-endobj
-144 0 obj
-<< /Count 3
- /Dest [ 117 0 R
- /XYZ
- 40.01575
- 741.0394
- 0 ]
- /First 145 0 R
- /Last 147 0 R
- /Parent 139 0 R
- /Prev 143 0 R
- /Title (Conda Installation) >>
-endobj
-145 0 obj
-<< /Dest [ 117 0 R
- /XYZ
- 40.01575
- 467.8394
- 0 ]
- /Next 146 0 R
- /Parent 144 0 R
- /Title (New Virtual Environment) >>
-endobj
-146 0 obj
-<< /Dest [ 117 0 R
- /XYZ
- 40.01575
- 408.6394
- 0 ]
- /Next 147 0 R
- /Parent 144 0 R
- /Prev 145 0 R
- /Title (Existing Virtual Environment) >>
-endobj
-147 0 obj
-<< /Dest [ 117 0 R
- /XYZ
- 40.01575
- 313.4394
- 0 ]
- /Parent 144 0 R
- /Prev 146 0 R
- /Title (Pipeline Installation) >>
-endobj
-148 0 obj
-<< /Count 9
- /Dest [ 118 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 149 0 R
- /Last 153 0 R
- /Next 158 0 R
- /Parent 123 0 R
- /Prev 130 0 R
- /Title (Running the Pipeline) >>
+ /Parent 138 0 R
+ /Prev 139 0 R
+ /Title (VNC from the Terminal) >>
+endobj
+141 0 obj
+<< /Count 8
+ /Dest [ 109 0 R
+ /XYZ
+ 40.01575
+ 597.8394
+ 0 ]
+ /First 142 0 R
+ /Last 146 0 R
+ /Parent 137 0 R
+ /Prev 138 0 R
+ /Title (Setup for local installation) >>
+endobj
+142 0 obj
+<< /Count 2
+ /Dest [ 109 0 R
+ /XYZ
+ 40.01575
+ 325.0394
+ 0 ]
+ /First 143 0 R
+ /Last 144 0 R
+ /Next 145 0 R
+ /Parent 141 0 R
+ /Title (DCR \(optional\)) >>
+endobj
+143 0 obj
+<< /Dest [ 113 0 R
+ /XYZ
+ 40.01575
+ 654.2394
+ 0 ]
+ /Next 144 0 R
+ /Parent 142 0 R
+ /Title (Compiling DCR) >>
+endobj
+144 0 obj
+<< /Dest [ 113 0 R
+ /XYZ
+ 40.01575
+ 445.0394
+ 0 ]
+ /Parent 142 0 R
+ /Prev 143 0 R
+ /Title (Install binary DCR) >>
+endobj
+145 0 obj
+<< /Dest [ 113 0 R
+ /XYZ
+ 40.01575
+ 145.8394
+ 0 ]
+ /Next 146 0 R
+ /Parent 141 0 R
+ /Prev 142 0 R
+ /Title (System Installation \(not recommended\)) >>
+endobj
+146 0 obj
+<< /Count 3
+ /Dest [ 118 0 R
+ /XYZ
+ 40.01575
+ 579.0394
+ 0 ]
+ /First 147 0 R
+ /Last 149 0 R
+ /Parent 141 0 R
+ /Prev 145 0 R
+ /Title (Conda Installation) >>
+endobj
+147 0 obj
+<< /Dest [ 118 0 R
+ /XYZ
+ 40.01575
+ 305.8394
+ 0 ]
+ /Next 148 0 R
+ /Parent 146 0 R
+ /Title (New Virtual Environment) >>
+endobj
+148 0 obj
+<< /Dest [ 118 0 R
+ /XYZ
+ 40.01575
+ 246.6394
+ 0 ]
+ /Next 149 0 R
+ /Parent 146 0 R
+ /Prev 147 0 R
+ /Title (Existing Virtual Environment) >>
 endobj
 149 0 obj
 << /Dest [ 118 0 R
  /XYZ
  40.01575
- 747.0394
+ 151.4394
  0 ]
- /Next 150 0 R
- /Parent 148 0 R
- /Title (Working with Virtual Environments) >>
+ /Parent 146 0 R
+ /Prev 148 0 R
+ /Title (Pipeline Installation) >>
 endobj
 150 0 obj
-<< /Dest [ 118 0 R
- /XYZ
- 40.01575
- 711.8394
- 0 ]
- /Next 151 0 R
- /Parent 148 0 R
- /Prev 149 0 R
- /Title (Prepare Data for Reduction) >>
-endobj
-151 0 obj
-<< /Dest [ 118 0 R
- /XYZ
- 40.01575
- 676.6394
- 0 ]
- /Next 152 0 R
- /Parent 148 0 R
- /Prev 150 0 R
- /Title (Run redccd) >>
-endobj
-152 0 obj
-<< /Dest [ 118 0 R
- /XYZ
- 40.01575
- 641.4394
- 0 ]
- /Next 153 0 R
- /Parent 148 0 R
- /Prev 151 0 R
- /Title (Run redspec) >>
-endobj
-153 0 obj
-<< /Count 4
- /Dest [ 118 0 R
- /XYZ
- 40.01575
- 606.2394
- 0 ]
- /First 154 0 R
- /Last 157 0 R
- /Parent 148 0 R
- /Prev 152 0 R
- /Title (Description of custom keywords) >>
-endobj
-154 0 obj
-<< /Dest [ 118 0 R
- /XYZ
- 40.01575
- 529.0394
- 0 ]
- /Next 155 0 R
- /Parent 153 0 R
- /Title (General Purpose Keywords) >>
-endobj
-155 0 obj
-<< /Dest [ 118 0 R
- /XYZ
- 40.01575
- 95.83937
- 0 ]
- /Next 156 0 R
- /Parent 153 0 R
- /Prev 154 0 R
- /Title (Non-linear wavelength solution) >>
-endobj
-156 0 obj
-<< /Dest [ 119 0 R
- /XYZ
- 40.01575
- 526.6394
- 0 ]
- /Next 157 0 R
- /Parent 153 0 R
- /Prev 155 0 R
- /Title (Combined Images) >>
-endobj
-157 0 obj
-<< /Dest [ 119 0 R
- /XYZ
- 40.01575
- 369.4394
- 0 ]
- /Parent 153 0 R
- /Prev 156 0 R
- /Title (Detected lines) >>
-endobj
-158 0 obj
-<< /Count 6
+<< /Count 9
  /Dest [ 120 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 159 0 R
- /Last 164 0 R
- /Parent 123 0 R
- /Prev 148 0 R
- /Title (Conclusion) >>
+ /First 151 0 R
+ /Last 155 0 R
+ /Next 160 0 R
+ /Parent 125 0 R
+ /Prev 132 0 R
+ /Title (Running the Pipeline) >>
 endobj
-159 0 obj
-<< /Count 3
- /Dest [ 120 0 R
+151 0 obj
+<< /Dest [ 120 0 R
  /XYZ
  40.01575
  747.0394
  0 ]
- /First 160 0 R
- /Last 162 0 R
- /Next 163 0 R
- /Parent 158 0 R
- /Title (Performance) >>
+ /Next 152 0 R
+ /Parent 150 0 R
+ /Title (Working with Virtual Environments) >>
 endobj
-160 0 obj
+152 0 obj
 << /Dest [ 120 0 R
  /XYZ
  40.01575
  711.8394
  0 ]
- /Next 161 0 R
- /Parent 159 0 R
- /Title (Benchmarks) >>
+ /Next 153 0 R
+ /Parent 150 0 R
+ /Prev 151 0 R
+ /Title (Prepare Data for Reduction) >>
+endobj
+153 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 676.6394
+ 0 ]
+ /Next 154 0 R
+ /Parent 150 0 R
+ /Prev 152 0 R
+ /Title (Run redccd) >>
+endobj
+154 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 641.4394
+ 0 ]
+ /Next 155 0 R
+ /Parent 150 0 R
+ /Prev 153 0 R
+ /Title (Run redspec) >>
+endobj
+155 0 obj
+<< /Count 4
+ /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 606.2394
+ 0 ]
+ /First 156 0 R
+ /Last 159 0 R
+ /Parent 150 0 R
+ /Prev 154 0 R
+ /Title (Description of custom keywords) >>
+endobj
+156 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 529.0394
+ 0 ]
+ /Next 157 0 R
+ /Parent 155 0 R
+ /Title (General Purpose Keywords) >>
+endobj
+157 0 obj
+<< /Dest [ 120 0 R
+ /XYZ
+ 40.01575
+ 95.83937
+ 0 ]
+ /Next 158 0 R
+ /Parent 155 0 R
+ /Prev 156 0 R
+ /Title (Non-linear wavelength solution) >>
+endobj
+158 0 obj
+<< /Dest [ 121 0 R
+ /XYZ
+ 40.01575
+ 526.6394
+ 0 ]
+ /Next 159 0 R
+ /Parent 155 0 R
+ /Prev 157 0 R
+ /Title (Combined Images) >>
+endobj
+159 0 obj
+<< /Dest [ 121 0 R
+ /XYZ
+ 40.01575
+ 369.4394
+ 0 ]
+ /Parent 155 0 R
+ /Prev 158 0 R
+ /Title (Detected lines) >>
+endobj
+160 0 obj
+<< /Count 6
+ /Dest [ 122 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /First 161 0 R
+ /Last 166 0 R
+ /Parent 125 0 R
+ /Prev 150 0 R
+ /Title (Conclusion) >>
 endobj
 161 0 obj
-<< /Dest [ 120 0 R
+<< /Count 3
+ /Dest [ 122 0 R
+ /XYZ
+ 40.01575
+ 747.0394
+ 0 ]
+ /First 162 0 R
+ /Last 164 0 R
+ /Next 165 0 R
+ /Parent 160 0 R
+ /Title (Performance) >>
+endobj
+162 0 obj
+<< /Dest [ 122 0 R
+ /XYZ
+ 40.01575
+ 711.8394
+ 0 ]
+ /Next 163 0 R
+ /Parent 161 0 R
+ /Title (Benchmarks) >>
+endobj
+163 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  661.0394
  0 ]
- /Next 162 0 R
- /Parent 159 0 R
- /Prev 160 0 R
+ /Next 164 0 R
+ /Parent 161 0 R
+ /Prev 162 0 R
  /Title (Wavelength Calibration) >>
 endobj
-162 0 obj
-<< /Dest [ 120 0 R
+164 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  628.2394
  0 ]
- /Parent 159 0 R
- /Prev 161 0 R
+ /Parent 161 0 R
+ /Prev 163 0 R
  /Title (Comparison with IRAF) >>
 endobj
-163 0 obj
-<< /Dest [ 120 0 R
+165 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  595.4394
  0 ]
- /Next 164 0 R
- /Parent 158 0 R
- /Prev 159 0 R
+ /Next 166 0 R
+ /Parent 160 0 R
+ /Prev 161 0 R
  /Title (Acknowledgements) >>
 endobj
-164 0 obj
-<< /Dest [ 120 0 R
+166 0 obj
+<< /Dest [ 122 0 R
  /XYZ
  40.01575
  542.2394
  0 ]
- /Parent 158 0 R
- /Prev 163 0 R
+ /Parent 160 0 R
+ /Prev 165 0 R
  /Title (Known Issues) >>
 endobj
-165 0 obj
-<< /Count 15
+167 0 obj
+<< /Count 16
  /Kids [ 4 0 R
  5 0 R
  86 0 R
  89 0 R
- 94 0 R
  95 0 R
+ 96 0 R
  100 0 R
- 104 0 R
+ 105 0 R
  106 0 R
  109 0 R
- 112 0 R
- 117 0 R
+ 113 0 R
  118 0 R
  119 0 R
- 120 0 R ]
+ 120 0 R
+ 121 0 R
+ 122 0 R ]
  /Type /Pages >>
 endobj
-166 0 obj
+168 0 obj
 << /Length 994 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -10534,7 +10707,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 24, 2018) Tj T* -218.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 25, 2018) Tj T* -218.934 0 Td ET
 Q
 Q
 q
@@ -10546,7 +10719,7 @@ Q
  
 endstream
 endobj
-167 0 obj
+169 0 obj
 << /Length 80 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -10556,8 +10729,8 @@ Q
  
 endstream
 endobj
-168 0 obj
-<< /Length 10389 >>
+170 0 obj
+<< /Length 10397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -10657,7 +10830,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -10713,7 +10886,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -10783,7 +10956,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -10825,7 +10998,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -10923,7 +11096,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -10937,7 +11110,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -10951,7 +11124,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -10965,7 +11138,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -10979,7 +11152,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -10993,7 +11166,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11007,7 +11180,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11021,7 +11194,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11035,7 +11208,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11049,7 +11222,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11063,7 +11236,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11077,7 +11250,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11091,7 +11264,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11105,7 +11278,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11119,7 +11292,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11133,7 +11306,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11142,7 +11315,7 @@ Q
  
 endstream
 endobj
-169 0 obj
+171 0 obj
 << /Length 397 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -11161,7 +11334,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
 Q
 Q
 q
@@ -11173,8 +11346,8 @@ Q
  
 endstream
 endobj
-170 0 obj
-<< /Length 9714 >>
+172 0 obj
+<< /Length 9742 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -11617,22 +11790,9 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Supported Data)
 Q
 Q
 q
-1 0 0 1 40.01575 100.2394 cm
+1 0 0 1 40.01575 88.23937 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To write) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 65.03937 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 25.2 re B*
-Q
-q
-BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Future Implementation) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.357756 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (, however you should be able to process older) Tj T* 0 Tw (data making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -11652,25 +11812,37 @@ Q
  
 endstream
 endobj
-171 0 obj
-<< /Length 396 >>
+173 0 obj
+<< /Length 624 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 767.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Future Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 749.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To add) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 749.8394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Future Implementation) Tj T* ET
 Q
 Q
 q
@@ -11683,8 +11855,8 @@ Q
  
 endstream
 endobj
-172 0 obj
-<< /Length 11153 >>
+174 0 obj
+<< /Length 11052 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -11726,7 +11898,7 @@ Q
 q
 1 0 0 1 40.01575 649.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (**two** cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -11739,7 +11911,7 @@ Q
 q
 1 0 0 1 40.01575 613.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (ESTIMATED DATE) Tj /F1 10 Tf (. They can be simplified in three groups.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (. They can be simplified in a few groups.) Tj T* ET
 Q
 Q
 q
@@ -11818,10 +11990,277 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 559.8394 cm
+1 0 0 1 40.01575 553.8394 cm
 Q
 q
-1 0 0 1 40.01575 527.0394 cm
+1 0 0 1 40.01575 541.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 541.8394 cm
+Q
+q
+1 0 0 1 40.01575 511.8394 cm
+q
+BT 1 0 0 1 0 14 Tm .391705 Tw 12 TL /F1 10 Tf 0 0 0 rg (What to do in case your data is older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (?. In principle there is no obvious limitation why the) Tj T* 0 Tw (pipeline would not work, you just need to do some small changes in the header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 495.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Remove the following keywords:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 402.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 80 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM61) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM62) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM63) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (NAXIS3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 384.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F4 10 Tf (NAXIS ) Tj /F1 10 Tf (is 3 set it to 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 368.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Add the following keywords:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 311.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (INSTCONF ) Tj /F1 10 Tf (with ) Tj /F4 10 Tf (Blue) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (WAVMODE ) Tj /F1 10 Tf (with grating and mode. ) Tj /F4 10 Tf (400) Tj ( ) Tj (m1 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (400) Tj ( ) Tj (m2) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (ROI ) Tj /F1 10 Tf (Examples: ) Tj /F4 10 Tf (Spectroscopic) Tj ( ) Tj (1x1) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (user-defined) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 279.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -11833,16 +12272,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Reference Lamp 
 Q
 Q
 q
-1 0 0 1 40.01575 485.0394 cm
+1 0 0 1 40.01575 237.0394 cm
 q
 BT 1 0 0 1 0 26 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. The list of current lamps is the following.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 479.0394 cm
+1 0 0 1 40.01575 231.0394 cm
 Q
 q
-1 0 0 1 40.01575 448.6394 cm
+1 0 0 1 40.01575 200.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -11854,243 +12293,63 @@ BT 1 0 0 1 0 2.4 Tm 117.27 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Lis
 Q
 Q
 q
-1 0 0 1 40.01575 282.6394 cm
+1 0 0 1 40.01575 142.6394 cm
 1 1 1 rg
-n 0 160 515.2441 -16 re f*
-.878431 .878431 .878431 rg
-n 0 144 515.2441 -18 re f*
-1 1 1 rg
-n 0 126 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 108 515.2441 -18 re f*
-1 1 1 rg
-n 0 90 515.2441 -18 re f*
-.878431 .878431 .878431 rg
-n 0 72 515.2441 -18 re f*
-1 1 1 rg
-n 0 54 515.2441 -18 re f*
+n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
 n 0 36 515.2441 -18 re f*
 1 1 1 rg
 n 0 18 515.2441 -18 re f*
 .960784 .960784 .862745 rg
-n 0 160 515.2441 -16 re f*
+n 0 52 515.2441 -16 re f*
 .12549 .262745 .360784 rg
 BT /F2 10 Tf 10 TL ET
 q
-1 0 0 1 6 147 cm
+1 0 0 1 6 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 137.587 10 re f*
+n 0 0 64.01962 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 51.0135 0 Td (Grating) Tj T* -51.0135 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 14.22981 0 Td (Grating) Tj T* -14.22981 0 Td ET
 Q
 Q
 q
-1 0 0 1 155.587 147 cm
+1 0 0 1 82.01962 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 87.72466 10 re f*
+n 0 0 38.67975 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 30.80733 0 Td (Mode) Tj T* -30.80733 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 6.284873 0 Td (Mode) Tj T* -6.284873 0 Td ET
 Q
 Q
 q
-1 0 0 1 255.3117 147 cm
+1 0 0 1 132.6994 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 120.9662 10 re f*
+n 0 0 55.573 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 48.25811 0 Td (Filter) Tj T* -48.25811 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 15.5615 0 Td (Filter) Tj T* -15.5615 0 Td ET
 Q
 Q
 q
-1 0 0 1 388.2779 147 cm
+1 0 0 1 200.2724 39 cm
 q
 .960784 .960784 .862745 rg
-n 0 0 120.9662 10 re f*
+n 0 0 308.9717 10 re f*
 Q
 q
 .12549 .262745 .360784 rg
-BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 47.14811 0 Td (Lamp) Tj T* -47.14811 0 Td ET
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 141.1509 0 Td (Lamp) Tj T* -141.1509 0 Td ET
 Q
 Q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 129 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 111 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgArNe) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 93 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ne) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 57 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
-Q
-Q
-q
-1 0 0 1 155.587 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 255.3117 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgArNe) Tj T* ET
-Q
-Q
 q
 1 0 0 1 6 21 cm
 q
@@ -12099,24 +12358,24 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
 Q
 Q
 q
-1 0 0 1 155.587 21 cm
+1 0 0 1 82.01962 21 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M1) Tj T* ET
 Q
 Q
 q
-1 0 0 1 255.3117 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.2779 21 cm
+1 0 0 1 132.6994 21 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CuHeAr) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (None) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2724 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HgAr, HgArNe) Tj T* ET
 Q
 Q
 q
@@ -12127,24 +12386,24 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (400) Tj T* ET
 Q
 Q
 q
-1 0 0 1 155.587 3 cm
+1 0 0 1 82.01962 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (M2) Tj T* ET
 Q
 Q
 q
-1 0 0 1 255.3117 3 cm
+1 0 0 1 132.6994 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GG455) Tj T* ET
 Q
 Q
 q
-1 0 0 1 388.2779 3 cm
+1 0 0 1 200.2724 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FeHeAr) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ar, Ne, HgAr, HgArNe, CuHeAr, FeHeAr) Tj T* ET
 Q
 Q
 q
@@ -12152,31 +12411,25 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 144 m 515.2441 144 l S
-n 0 126 m 515.2441 126 l S
-n 0 108 m 515.2441 108 l S
-n 0 90 m 515.2441 90 l S
-n 0 72 m 515.2441 72 l S
-n 0 54 m 515.2441 54 l S
 n 0 36 m 515.2441 36 l S
 n 0 18 m 515.2441 18 l S
-n 149.587 0 m 149.587 160 l S
-n 249.3117 0 m 249.3117 160 l S
-n 382.2779 0 m 382.2779 160 l S
-n 0 160 m 515.2441 160 l S
+n 76.01962 0 m 76.01962 52 l S
+n 126.6994 0 m 126.6994 52 l S
+n 194.2724 0 m 194.2724 52 l S
+n 0 52 m 515.2441 52 l S
 n 0 0 m 515.2441 0 l S
-n 0 0 m 0 160 l S
-n 515.2441 0 m 515.2441 160 l S
+n 0 0 m 0 52 l S
+n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 282.6394 cm
+1 0 0 1 40.01575 142.6394 cm
 Q
 q
-1 0 0 1 40.01575 270.6394 cm
+1 0 0 1 40.01575 130.6394 cm
 Q
 q
-1 0 0 1 40.01575 213.8394 cm
+1 0 0 1 40.01575 73.83937 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -12208,31 +12461,7 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 207.8394 cm
-Q
-q
-1 0 0 1 40.01575 177.4394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 147.4394 cm
-q
-BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 69.43937 cm
-q
-BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
-Q
+1 0 0 1 40.01575 67.83937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -12251,25 +12480,46 @@ Q
  
 endstream
 endobj
-173 0 obj
-<< /Length 9407 >>
+175 0 obj
+<< /Length 9855 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 772.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 664.6394 cm
+q
+BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 648.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 769.0394 cm
-Q
-q
-1 0 0 1 40.01575 727.0394 cm
+1 0 0 1 40.01575 603.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 32 Tm  T* ET
 q
 1 0 0 1 20 18 cm
 q
@@ -12300,26 +12550,20 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 727.0394 cm
-Q
+1 0 0 1 40.01575 587.6394 cm
 q
-1 0 0 1 40.01575 709.0394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 703.0394 cm
-Q
-q
-1 0 0 1 40.01575 499.0394 cm
+1 0 0 1 40.01575 380.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 194 Tm  T* ET
 q
 1 0 0 1 20 168 cm
 q
-BT 1 0 0 1 0 26 Tm 1.113373 Tw 12 TL /F1 10 Tf 0 0 0 rg (Every line detected in the reference lamp is recorded both in its pixel value and later \(most likely entered by) Tj T* 0 Tw 1.259631 Tw (hand\) in angstrom value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential number) Tj T* 0 Tw (\(001, 002, etc\). For instance.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .084205 Tw 12 TL /F1 10 Tf 0 0 0 rg (Reference lamps have a record of usable lines in its header. Initially the lamp is run through a tool that identifies) Tj T* 0 Tw .471339 Tw (the lines and records its pixel value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential) Tj T* 0 Tw (number \(001, 002, etc\). For instance.) Tj T* ET
 Q
 Q
 q
@@ -12357,7 +12601,7 @@ Q
 q
 1 0 0 1 20 84 cm
 q
-BT 1 0 0 1 0 14 Tm 1.954631 Tw 12 TL /F1 10 Tf 0 0 0 rg (The equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .367888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later, the equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
 Q
 Q
 q
@@ -12402,13 +12646,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 499.0394 cm
+1 0 0 1 40.01575 368.6394 cm
 Q
 q
-1 0 0 1 40.01575 487.0394 cm
-Q
-q
-1 0 0 1 40.01575 406.2394 cm
+1 0 0 1 40.01575 287.8394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -12440,22 +12681,19 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 400.2394 cm
+1 0 0 1 40.01575 281.8394 cm
 Q
 q
-1 0 0 1 40.01575 382.2394 cm
+1 0 0 1 40.01575 265.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 376.2394 cm
-Q
-q
-1 0 0 1 40.01575 178.2394 cm
+1 0 0 1 40.01575 64.83937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 188 Tm  T* ET
 q
 1 0 0 1 20 126 cm
 q
@@ -12522,13 +12760,31 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 178.2394 cm
+1 0 0 1 40.01575 54.85039 cm
 Q
 q
-1 0 0 1 40.01575 166.2394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Requirements) Tj T* ET
+Q
 Q
 q
-1 0 0 1 40.01575 85.43937 cm
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+176 0 obj
+<< /Length 9665 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 706.2394 cm
 1 .894118 .894118 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -12559,31 +12815,10 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 79.43937 cm
+1 0 0 1 40.01575 700.2394 cm
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-174 0 obj
-<< /Length 10023 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 770.2394 cm
+1 0 0 1 40.01575 667.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -12595,20 +12830,20 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (File organizati
 Q
 Q
 q
-1 0 0 1 40.01575 752.2394 cm
+1 0 0 1 40.01575 649.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There is no special requirements for files but you will avoid problems if you follow these points.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 746.2394 cm
+1 0 0 1 40.01575 643.4394 cm
 Q
 q
-1 0 0 1 40.01575 746.2394 cm
+1 0 0 1 40.01575 643.4394 cm
 Q
 q
-1 0 0 1 40.01575 734.2394 cm
+1 0 0 1 40.01575 631.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -12629,10 +12864,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 728.2394 cm
+1 0 0 1 40.01575 625.4394 cm
 Q
 q
-1 0 0 1 40.01575 716.2394 cm
+1 0 0 1 40.01575 613.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -12653,10 +12888,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 710.2394 cm
+1 0 0 1 40.01575 607.4394 cm
 Q
 q
-1 0 0 1 40.01575 698.2394 cm
+1 0 0 1 40.01575 595.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -12677,10 +12912,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 698.2394 cm
+1 0 0 1 40.01575 595.4394 cm
 Q
 q
-1 0 0 1 40.01575 663.0394 cm
+1 0 0 1 40.01575 560.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -12692,21 +12927,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Software Requir
 Q
 Q
 q
-1 0 0 1 40.01575 633.0394 cm
+1 0 0 1 40.01575 530.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.457888 Tw (Using the pipeline remotely is the recommended method, in which case you don't need to worry about software) Tj T* 0 Tw (requirements.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 615.0394 cm
+1 0 0 1 40.01575 512.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (However, we provide simple instructions below.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 582.2394 cm
+1 0 0 1 40.01575 479.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -12718,16 +12953,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for Remot
 Q
 Q
 q
-1 0 0 1 40.01575 528.2394 cm
+1 0 0 1 40.01575 425.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .350742 Tw (procedure requires to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials) Tj T* 0 Tw .918205 Tw (for the VPN are the same you used for your observing run, provided by your ) Tj /F3 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give) Tj T* 0 Tw (you the information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 516.2394 cm
+1 0 0 1 40.01575 413.4394 cm
 Q
 q
-1 0 0 1 40.01575 447.4394 cm
+1 0 0 1 40.01575 344.6394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -12758,10 +12993,10 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 441.4394 cm
+1 0 0 1 40.01575 338.6394 cm
 Q
 q
-1 0 0 1 40.01575 411.0394 cm
+1 0 0 1 40.01575 308.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -12773,16 +13008,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 381.0394 cm
+1 0 0 1 40.01575 278.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .280829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Separately, you should receive a server hostname, IP, display number and VNC-password. If you don't you can ask) Tj T* 0 Tw (for it. We have decided to use a similar organization of vnc displays as for ) Tj /F4 10 Tf (soaric7) Tj /F1 10 Tf (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 375.0394 cm
+1 0 0 1 40.01575 272.2394 cm
 Q
 q
-1 0 0 1 40.01575 344.6394 cm
+1 0 0 1 40.01575 241.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -12794,7 +13029,7 @@ BT 1 0 0 1 0 2.4 Tm 69.24005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (V
 Q
 Q
 q
-1 0 0 1 40.01575 232.6394 cm
+1 0 0 1 40.01575 129.8394 cm
 1 1 1 rg
 n 0 106 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -12970,66 +13205,19 @@ n 515.2441 0 m 515.2441 106 l S
 Q
 Q
 q
-1 0 0 1 40.01575 232.6394 cm
+1 0 0 1 40.01575 129.8394 cm
 Q
 q
-1 0 0 1 40.01575 202.6394 cm
+1 0 0 1 40.01575 99.83937 cm
 q
 BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 172.6394 cm
+1 0 0 1 40.01575 69.83937 cm
 q
 BT 1 0 0 1 0 14 Tm 1.001705 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are not recommending a particular ) Tj /F3 10 Tf (VNC Client ) Tj /F1 10 Tf (since there are several options, so if you feel that you are not) Tj T* 0 Tw (getting the best image quality feel free to explore different clients. For this tutorial we use ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
 Q
-Q
-q
-1 0 0 1 40.01575 142.2394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Terminal) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 112.2394 cm
-q
-BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 106.2394 cm
-Q
-q
-1 0 0 1 40.01575 94.23937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (vncviewer) Tj ( ) Tj (<) Tj (vnc-server) Tj (>) Tj (:) Tj (<) Tj (display-number) Tj (>) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 94.23937 cm
-Q
-q
-1 0 0 1 40.01575 76.23937 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 64.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -13048,12 +13236,59 @@ Q
  
 endstream
 endobj
-175 0 obj
-<< /Length 7867 >>
+177 0 obj
+<< /Length 7535 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 730.2394 cm
+1 0 0 1 40.01575 772.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 736.6394 cm
+Q
+q
+1 0 0 1 40.01575 724.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (vncviewer) Tj ( ) Tj (<) Tj (vnc-server) Tj (>) Tj (:) Tj (<) Tj (display-number) Tj (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 724.6394 cm
+Q
+q
+1 0 0 1 40.01575 706.6394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 694.6394 cm
+Q
+q
+1 0 0 1 40.01575 637.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -13084,16 +13319,16 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 724.2394 cm
+1 0 0 1 40.01575 631.8394 cm
 Q
 q
-1 0 0 1 40.01575 706.2394 cm
+1 0 0 1 40.01575 613.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If the connection succeeds you will see a ) Tj /F3 10 Tf (Centos 7 ) Tj /F1 10 Tf (Desktop using ) Tj /F3 10 Tf (Gnome) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 673.4394 cm
+1 0 0 1 40.01575 581.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13105,13 +13340,13 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for local
 Q
 Q
 q
-1 0 0 1 40.01575 661.4394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 661.4394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 559.4394 cm
+1 0 0 1 40.01575 467.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13162,10 +13397,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 553.4394 cm
+1 0 0 1 40.01575 461.0394 cm
 Q
 q
-1 0 0 1 40.01575 505.4394 cm
+1 0 0 1 40.01575 413.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13197,10 +13432,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 499.4394 cm
+1 0 0 1 40.01575 407.0394 cm
 Q
 q
-1 0 0 1 40.01575 469.4394 cm
+1 0 0 1 40.01575 377.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13227,10 +13462,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 463.4394 cm
+1 0 0 1 40.01575 371.0394 cm
 Q
 q
-1 0 0 1 40.01575 433.4394 cm
+1 0 0 1 40.01575 341.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13257,10 +13492,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 433.4394 cm
+1 0 0 1 40.01575 341.0394 cm
 Q
 q
-1 0 0 1 40.01575 403.0394 cm
+1 0 0 1 40.01575 310.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13272,10 +13507,10 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (DCR \(optional\
 Q
 Q
 q
-1 0 0 1 40.01575 385.0394 cm
+1 0 0 1 40.01575 292.6394 cm
 Q
 q
-1 0 0 1 40.01575 328.2394 cm
+1 0 0 1 40.01575 235.8394 cm
 1 .894118 .894118 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -13307,26 +13542,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 322.2394 cm
+1 0 0 1 40.01575 229.8394 cm
 Q
 q
-1 0 0 1 40.01575 292.2394 cm
+1 0 0 1 40.01575 199.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.7473 Tw (In terms of cosmic ray rejection we shifted to a non-python package because the results were much better) Tj T* 0 Tw (compared to LACosmic's implementation in astropy. LACosmic was not designed to work with spectroscopy though.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 262.2394 cm
+1 0 0 1 40.01575 169.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .043005 Tw 12 TL /F1 10 Tf 0 0 0 rg (The latest version of the Goodman Spectroscopic Pipeline uses a modified version of ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (to help with the pipeline's) Tj T* 0 Tw (workflow. It is included under) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 256.2394 cm
+1 0 0 1 40.01575 163.8394 cm
 Q
 q
-1 0 0 1 40.01575 244.2394 cm
+1 0 0 1 40.01575 151.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -13340,19 +13575,40 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 244.2394 cm
+1 0 0 1 40.01575 151.8394 cm
 Q
 q
-1 0 0 1 40.01575 214.2394 cm
+1 0 0 1 40.01575 121.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .3339 Tw 12 TL /F4 10 Tf 0 0 0 rg (goodman ) Tj /F1 10 Tf (is the folder that will be created once you untar or unzip the latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic) Tj T* 0 Tw (Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 202.2394 cm
+1 0 0 1 40.01575 109.8394 cm
 Q
 q
-1 0 0 1 40.01575 121.4394 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+178 0 obj
+<< /Length 9722 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 706.2394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -13383,16 +13639,16 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 115.4394 cm
+1 0 0 1 40.01575 700.2394 cm
 Q
 q
-1 0 0 1 40.01575 85.43937 cm
+1 0 0 1 40.01575 670.2394 cm
 q
 BT 1 0 0 1 0 14 Tm .479732 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are still encouraged to visit the official ) Tj 0 0 .501961 rg (Link ) Tj 0 0 0 rg (own by the author and let me remind you once more that you have) Tj T* 0 Tw (to cite the paper mentioned several times in this manual.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 56.23937 cm
+1 0 0 1 40.01575 641.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13404,37 +13660,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Compiling DCR) 
 Q
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-176 0 obj
-<< /Length 9898 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 623.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Compiling ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (is actually very simple.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 769.0394 cm
+1 0 0 1 40.01575 617.0394 cm
 Q
 q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 605.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -13448,20 +13683,20 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 605.0394 cm
 Q
 q
-1 0 0 1 40.01575 739.0394 cm
+1 0 0 1 40.01575 587.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Then simply type:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 733.0394 cm
+1 0 0 1 40.01575 581.0394 cm
 Q
 q
-1 0 0 1 40.01575 721.0394 cm
+1 0 0 1 40.01575 569.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -13476,28 +13711,28 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 721.0394 cm
+1 0 0 1 40.01575 569.0394 cm
 Q
 q
-1 0 0 1 40.01575 703.0394 cm
+1 0 0 1 40.01575 551.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This will compile ) Tj /F3 10 Tf (dcr ) Tj /F1 10 Tf (and also it will create other files. The executable binary here is ) Tj /F4 10 Tf (dcr) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 685.0394 cm
+1 0 0 1 40.01575 533.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We have successfully compiled ) Tj /F3 10 Tf (dcr ) Tj /F1 10 Tf (in several platforms, such as:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 679.0394 cm
+1 0 0 1 40.01575 527.0394 cm
 Q
 q
-1 0 0 1 40.01575 679.0394 cm
+1 0 0 1 40.01575 527.0394 cm
 Q
 q
-1 0 0 1 40.01575 667.0394 cm
+1 0 0 1 40.01575 515.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13518,10 +13753,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 661.0394 cm
+1 0 0 1 40.01575 509.0394 cm
 Q
 q
-1 0 0 1 40.01575 649.0394 cm
+1 0 0 1 40.01575 497.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13542,10 +13777,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 491.0394 cm
 Q
 q
-1 0 0 1 40.01575 631.0394 cm
+1 0 0 1 40.01575 479.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13566,10 +13801,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 473.0394 cm
 Q
 q
-1 0 0 1 40.01575 613.0394 cm
+1 0 0 1 40.01575 461.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13590,10 +13825,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 613.0394 cm
+1 0 0 1 40.01575 461.0394 cm
 Q
 q
-1 0 0 1 40.01575 583.8394 cm
+1 0 0 1 40.01575 431.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13605,19 +13840,19 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Install binary 
 Q
 Q
 q
-1 0 0 1 40.01575 553.8394 cm
+1 0 0 1 40.01575 401.8394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.808637 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is a suggested method. If you are not so sure what you are doing, we recommend you following this) Tj T* 0 Tw (suggestion. If you are a more advanced user you just need the ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (executable binary in your ) Tj /F4 10 Tf ($PATH ) Tj /F1 10 Tf (variable.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 395.8394 cm
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 395.8394 cm
 Q
 q
-1 0 0 1 40.01575 535.8394 cm
+1 0 0 1 40.01575 383.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13638,10 +13873,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 529.8394 cm
+1 0 0 1 40.01575 377.8394 cm
 Q
 q
-1 0 0 1 40.01575 487.8394 cm
+1 0 0 1 40.01575 335.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13667,10 +13902,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 481.8394 cm
+1 0 0 1 40.01575 329.8394 cm
 Q
 q
-1 0 0 1 40.01575 403.8394 cm
+1 0 0 1 40.01575 251.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13709,10 +13944,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 397.8394 cm
+1 0 0 1 40.01575 245.8394 cm
 Q
 q
-1 0 0 1 40.01575 349.8394 cm
+1 0 0 1 40.01575 197.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13744,10 +13979,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 343.8394 cm
+1 0 0 1 40.01575 191.8394 cm
 Q
 q
-1 0 0 1 40.01575 313.8394 cm
+1 0 0 1 40.01575 161.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13787,10 +14022,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 313.8394 cm
+1 0 0 1 40.01575 161.8394 cm
 Q
 q
-1 0 0 1 40.01575 283.4394 cm
+1 0 0 1 40.01575 131.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13802,40 +14037,69 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (System Installa
 Q
 Q
 q
-1 0 0 1 40.01575 253.4394 cm
+1 0 0 1 40.01575 101.4394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.617888 Tw 12 TL /F1 10 Tf 0 0 0 rg (System installation is not recommended because can mess things up specially in Mac OS. If you are really) Tj T* 0 Tw (committed to install the pipeline in your system we recommend the ) Tj 0 0 .501961 rg (Conda Installation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 247.4394 cm
+1 0 0 1 40.01575 95.43937 cm
 Q
 q
-1 0 0 1 40.01575 247.4394 cm
+1 0 0 1 40.01575 95.43937 cm
 Q
 q
-1 0 0 1 40.01575 145.4394 cm
+1 0 0 1 40.01575 65.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 87 cm
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 87 cm
+1 0 0 1 23 15 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic Pipeline) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 69 cm
+1 0 0 1 23 -3 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (visit ) Tj 0 0 .501961 rg (https://github.com/soar-telescope/goodman/releases/latest ) Tj 0 0 0 rg (and download the ) Tj /F4 10 Tf (*.zip ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (*.tar.gz ) Tj /F1 10 Tf (file.) Tj T* ET
 Q
 Q
+q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+179 0 obj
+<< /Length 8987 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 721.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 53 Tm  T* ET
 q
 1 0 0 1 23 51 cm
 q
@@ -13865,10 +14129,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 139.4394 cm
+1 0 0 1 40.01575 715.0394 cm
 Q
 q
-1 0 0 1 40.01575 91.43937 cm
+1 0 0 1 40.01575 667.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13900,10 +14164,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 85.43937 cm
+1 0 0 1 40.01575 661.0394 cm
 Q
 q
-1 0 0 1 40.01575 55.43937 cm
+1 0 0 1 40.01575 631.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13930,31 +14194,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 54.85039 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
 q
-1 0 0 1 34.01575 807.2126 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-177 0 obj
-<< /Length 7988 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 595.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -13981,10 +14224,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 595.0394 cm
 Q
 q
-1 0 0 1 40.01575 726.6394 cm
+1 0 0 1 40.01575 564.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13996,16 +14239,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Conda Installat
 Q
 Q
 q
-1 0 0 1 40.01575 696.6394 cm
+1 0 0 1 40.01575 534.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.783606 Tw 12 TL /F1 10 Tf 0 0 0 rg (We strongly recommend installing the pipeline using ) Tj /F3 10 Tf (virtual environments) Tj /F1 10 Tf (. Below you will find a summary of) Tj T* 0 Tw (installation steps.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 684.6394 cm
+1 0 0 1 40.01575 522.6394 cm
 Q
 q
-1 0 0 1 40.01575 615.8394 cm
+1 0 0 1 40.01575 453.8394 cm
 1 .894118 .894118 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -14037,23 +14280,23 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 609.8394 cm
+1 0 0 1 40.01575 447.8394 cm
 Q
 q
-1 0 0 1 40.01575 591.8394 cm
+1 0 0 1 40.01575 429.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following list provides a summary of all the steps \(follow the links for instructions\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 585.8394 cm
+1 0 0 1 40.01575 423.8394 cm
 Q
 q
-1 0 0 1 40.01575 585.8394 cm
+1 0 0 1 40.01575 423.8394 cm
 Q
 q
-1 0 0 1 40.01575 573.8394 cm
+1 0 0 1 40.01575 411.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14073,10 +14316,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 567.8394 cm
+1 0 0 1 40.01575 405.8394 cm
 Q
 q
-1 0 0 1 40.01575 555.8394 cm
+1 0 0 1 40.01575 393.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14096,10 +14339,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 549.8394 cm
+1 0 0 1 40.01575 387.8394 cm
 Q
 q
-1 0 0 1 40.01575 537.8394 cm
+1 0 0 1 40.01575 375.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14121,10 +14364,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 531.8394 cm
+1 0 0 1 40.01575 369.8394 cm
 Q
 q
-1 0 0 1 40.01575 519.8394 cm
+1 0 0 1 40.01575 357.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14145,10 +14388,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 513.8394 cm
+1 0 0 1 40.01575 351.8394 cm
 Q
 q
-1 0 0 1 40.01575 501.8394 cm
+1 0 0 1 40.01575 339.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14169,10 +14412,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 495.8394 cm
+1 0 0 1 40.01575 333.8394 cm
 Q
 q
-1 0 0 1 40.01575 483.8394 cm
+1 0 0 1 40.01575 321.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14193,10 +14436,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 483.8394 cm
+1 0 0 1 40.01575 321.8394 cm
 Q
 q
-1 0 0 1 40.01575 454.6394 cm
+1 0 0 1 40.01575 292.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14208,13 +14451,13 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (New Virtual Env
 Q
 Q
 q
-1 0 0 1 40.01575 424.6394 cm
+1 0 0 1 40.01575 262.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 1.078381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Creating virtual environments is well documented on the ) Tj 0 0 .501961 rg (Conda documentation site ) Tj 0 0 0 rg (just make sure you are using) Tj T* 0 Tw /F4 10 Tf (Python) Tj ( ) Tj (3.5 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (3.6) Tj /F1 10 Tf (. which are the versions against ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (is regularly tested.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 395.4394 cm
+1 0 0 1 40.01575 233.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14226,16 +14469,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Existing Virtua
 Q
 Q
 q
-1 0 0 1 40.01575 365.4394 cm
+1 0 0 1 40.01575 203.4394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.267131 Tw 12 TL /F1 10 Tf 0 0 0 rg (We provide a predefined environment through a ) Tj /F4 10 Tf (environment.yml ) Tj /F1 10 Tf (file that you can use to create a virtual) Tj T* 0 Tw (environment with all the pipeline's dependencies. It goes as follows:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 359.4394 cm
+1 0 0 1 40.01575 197.4394 cm
 Q
 q
-1 0 0 1 40.01575 347.4394 cm
+1 0 0 1 40.01575 185.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -14249,16 +14492,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 347.4394 cm
+1 0 0 1 40.01575 185.4394 cm
 Q
 q
-1 0 0 1 40.01575 329.4394 cm
+1 0 0 1 40.01575 167.4394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The new environment will be called ) Tj /F4 10 Tf (goodman) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 300.2394 cm
+1 0 0 1 40.01575 138.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14270,16 +14513,16 @@ BT 1 0 0 1 0 2.2 Tm 13.2 TL /F5 11 Tf .12549 .262745 .360784 rg (Pipeline Instal
 Q
 Q
 q
-1 0 0 1 40.01575 282.2394 cm
+1 0 0 1 40.01575 120.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Finally, in order to install ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (using a virtual environment you need to activate it first.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 276.2394 cm
+1 0 0 1 40.01575 114.2394 cm
 Q
 q
-1 0 0 1 40.01575 264.2394 cm
+1 0 0 1 40.01575 102.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -14293,69 +14536,22 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 264.2394 cm
+1 0 0 1 40.01575 102.2394 cm
 Q
 q
-1 0 0 1 40.01575 246.2394 cm
+1 0 0 1 40.01575 84.23937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And in case you used a different name replace ) Tj /F4 10 Tf (goodman ) Tj /F1 10 Tf (by the name of your environment.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 228.2394 cm
+1 0 0 1 40.01575 66.23937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In a terminal go to ) Tj /F4 10 Tf (<) Tj (path) Tj ( ) Tj (to) Tj ( ) Tj (download) Tj (>) Tj (/goodman-) Tj (<) Tj (version) Tj (>) Tj (/) Tj /F1 10 Tf (, then:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 222.2394 cm
-Q
-q
-1 0 0 1 40.01575 210.2394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (test) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 210.2394 cm
-Q
-q
-1 0 0 1 40.01575 192.2394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If all the tests run successfully you can then install the pipeline with:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 186.2394 cm
-Q
-q
-1 0 0 1 40.01575 174.2394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (install) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 174.2394 cm
-Q
-q
-1 0 0 1 40.01575 174.2394 cm
+1 0 0 1 40.01575 60.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -14374,8 +14570,76 @@ Q
  
 endstream
 endobj
-178 0 obj
-<< /Length 9144 >>
+180 0 obj
+<< /Length 1043 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (test) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If all the tests run successfully you can then install the pipeline with:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (setup.py) Tj ( ) Tj (install) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+181 0 obj
+<< /Length 9145 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -14865,14 +15129,14 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-179 0 obj
-<< /Length 10016 >>
+182 0 obj
+<< /Length 10017 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -15023,7 +15287,7 @@ Q
 q
 1 0 0 1 78.56959 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Value of paramter ) Tj /F4 10 Tf (c2) Tj /F1 10 Tf (. This goes on depending the order.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Value of parameter ) Tj /F4 10 Tf (c2) Tj /F1 10 Tf (. This goes on depending the order.) Tj T* ET
 Q
 Q
 q
@@ -15358,13 +15622,13 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-180 0 obj
+183 0 obj
 << /Length 2049 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -15480,106 +15744,112 @@ q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-181 0 obj
-<< /Nums [ 0
- 182 0 R
- 1
- 183 0 R
- 2
- 184 0 R
- 3
- 185 0 R
- 4
- 186 0 R
- 5
- 187 0 R
- 6
- 188 0 R
- 7
- 189 0 R
- 8
- 190 0 R
- 9
- 191 0 R
- 10
- 192 0 R
- 11
- 193 0 R
- 12
- 194 0 R
- 13
- 195 0 R
- 14
- 196 0 R ] >>
-endobj
-182 0 obj
-<< /S /D
- /St 1 >>
-endobj
-183 0 obj
-<< /S /D
- /St 2 >>
-endobj
 184 0 obj
-<< /S /r
- /St 1 >>
+<< /Nums [ 0
+ 185 0 R
+ 1
+ 186 0 R
+ 2
+ 187 0 R
+ 3
+ 188 0 R
+ 4
+ 189 0 R
+ 5
+ 190 0 R
+ 6
+ 191 0 R
+ 7
+ 192 0 R
+ 8
+ 193 0 R
+ 9
+ 194 0 R
+ 10
+ 195 0 R
+ 11
+ 196 0 R
+ 12
+ 197 0 R
+ 13
+ 198 0 R
+ 14
+ 199 0 R
+ 15
+ 200 0 R ] >>
 endobj
 185 0 obj
-<< /S /r
- /St 2 >>
+<< /S /D
+ /St 1 >>
 endobj
 186 0 obj
 << /S /D
- /St 1 >>
-endobj
-187 0 obj
-<< /S /D
  /St 2 >>
 endobj
+187 0 obj
+<< /S /r
+ /St 1 >>
+endobj
 188 0 obj
-<< /S /D
- /St 3 >>
+<< /S /r
+ /St 2 >>
 endobj
 189 0 obj
 << /S /D
- /St 4 >>
+ /St 1 >>
 endobj
 190 0 obj
 << /S /D
- /St 5 >>
+ /St 2 >>
 endobj
 191 0 obj
 << /S /D
- /St 6 >>
+ /St 3 >>
 endobj
 192 0 obj
 << /S /D
- /St 7 >>
+ /St 4 >>
 endobj
 193 0 obj
 << /S /D
- /St 8 >>
+ /St 5 >>
 endobj
 194 0 obj
 << /S /D
- /St 9 >>
+ /St 6 >>
 endobj
 195 0 obj
 << /S /D
- /St 10 >>
+ /St 7 >>
 endobj
 196 0 obj
 << /S /D
+ /St 8 >>
+endobj
+197 0 obj
+<< /S /D
+ /St 9 >>
+endobj
+198 0 obj
+<< /S /D
+ /St 10 >>
+endobj
+199 0 obj
+<< /S /D
  /St 11 >>
 endobj
+200 0 obj
+<< /S /D
+ /St 12 >>
+endobj
 xref
-0 197
+0 201
 0000000000 65535 f
 0000000075 00000 n
 0000000160 00000 n
@@ -15675,116 +15945,120 @@ xref
 0000018894 00000 n
 0000019113 00000 n
 0000019230 00000 n
-0000019496 00000 n
-0000019732 00000 n
-0000019955 00000 n
-0000020200 00000 n
-0000020331 00000 n
-0000020532 00000 n
+0000019431 00000 n
+0000019706 00000 n
+0000019942 00000 n
+0000020165 00000 n
+0000020410 00000 n
+0000020541 00000 n
 0000020808 00000 n
 0000021010 00000 n
 0000021212 00000 n
 0000021414 00000 n
-0000021693 00000 n
-0000021895 00000 n
-0000022154 00000 n
-0000022390 00000 n
-0000022603 00000 n
-0000022872 00000 n
-0000023074 00000 n
-0000023310 00000 n
-0000023579 00000 n
-0000023809 00000 n
-0000024078 00000 n
-0000024280 00000 n
-0000024522 00000 n
-0000024811 00000 n
-0000025048 00000 n
-0000025285 00000 n
-0000025522 00000 n
-0000025643 00000 n
-0000025863 00000 n
-0000025950 00000 n
-0000026128 00000 n
-0000026257 00000 n
-0000026403 00000 n
-0000026559 00000 n
-0000026711 00000 n
-0000026854 00000 n
-0000027050 00000 n
-0000027234 00000 n
-0000027421 00000 n
-0000027548 00000 n
-0000027688 00000 n
-0000027877 00000 n
-0000028064 00000 n
-0000028213 00000 n
-0000028357 00000 n
-0000028552 00000 n
-0000028735 00000 n
-0000028871 00000 n
-0000029012 00000 n
-0000029190 00000 n
-0000029375 00000 n
-0000029521 00000 n
-0000029688 00000 n
-0000029832 00000 n
-0000030035 00000 n
-0000030191 00000 n
-0000030356 00000 n
-0000030505 00000 n
-0000030655 00000 n
-0000030852 00000 n
-0000030999 00000 n
-0000031168 00000 n
-0000031322 00000 n
-0000031459 00000 n
-0000031636 00000 n
-0000031814 00000 n
-0000031947 00000 n
-0000032108 00000 n
+0000021616 00000 n
+0000021905 00000 n
+0000022142 00000 n
+0000022344 00000 n
+0000022580 00000 n
+0000022849 00000 n
+0000023062 00000 n
+0000023264 00000 n
+0000023500 00000 n
+0000023779 00000 n
+0000024009 00000 n
+0000024278 00000 n
+0000024480 00000 n
+0000024722 00000 n
+0000025011 00000 n
+0000025248 00000 n
+0000025485 00000 n
+0000025722 00000 n
+0000025959 00000 n
+0000026080 00000 n
+0000026300 00000 n
+0000026387 00000 n
+0000026565 00000 n
+0000026694 00000 n
+0000026840 00000 n
+0000026996 00000 n
+0000027148 00000 n
+0000027291 00000 n
+0000027487 00000 n
+0000027671 00000 n
+0000027858 00000 n
+0000027985 00000 n
+0000028125 00000 n
+0000028314 00000 n
+0000028501 00000 n
+0000028650 00000 n
+0000028794 00000 n
+0000028989 00000 n
+0000029172 00000 n
+0000029308 00000 n
+0000029449 00000 n
+0000029627 00000 n
+0000029812 00000 n
+0000029958 00000 n
+0000030125 00000 n
+0000030269 00000 n
+0000030472 00000 n
+0000030628 00000 n
+0000030793 00000 n
+0000030942 00000 n
+0000031092 00000 n
+0000031289 00000 n
+0000031436 00000 n
+0000031605 00000 n
+0000031759 00000 n
+0000031896 00000 n
+0000032073 00000 n
 0000032251 00000 n
-0000032406 00000 n
-0000032541 00000 n
-0000032744 00000 n
-0000033795 00000 n
-0000033931 00000 n
-0000044379 00000 n
-0000044833 00000 n
-0000054605 00000 n
-0000055058 00000 n
-0000066270 00000 n
-0000075735 00000 n
-0000085817 00000 n
-0000093742 00000 n
-0000103698 00000 n
-0000111744 00000 n
-0000120946 00000 n
-0000131021 00000 n
-0000133128 00000 n
-0000133377 00000 n
-0000133417 00000 n
-0000133457 00000 n
-0000133497 00000 n
-0000133537 00000 n
-0000133577 00000 n
-0000133617 00000 n
-0000133657 00000 n
-0000133697 00000 n
-0000133737 00000 n
-0000133777 00000 n
-0000133817 00000 n
-0000133857 00000 n
-0000133897 00000 n
-0000133938 00000 n
+0000032384 00000 n
+0000032545 00000 n
+0000032688 00000 n
+0000032843 00000 n
+0000032978 00000 n
+0000033191 00000 n
+0000034242 00000 n
+0000034378 00000 n
+0000044834 00000 n
+0000045288 00000 n
+0000055088 00000 n
+0000055769 00000 n
+0000066880 00000 n
+0000076793 00000 n
+0000086516 00000 n
+0000094109 00000 n
+0000103889 00000 n
+0000112934 00000 n
+0000114035 00000 n
+0000123238 00000 n
+0000133314 00000 n
+0000135421 00000 n
+0000135685 00000 n
+0000135725 00000 n
+0000135765 00000 n
+0000135805 00000 n
+0000135845 00000 n
+0000135885 00000 n
+0000135925 00000 n
+0000135965 00000 n
+0000136005 00000 n
+0000136045 00000 n
+0000136085 00000 n
+0000136125 00000 n
+0000136165 00000 n
+0000136205 00000 n
+0000136246 00000 n
+0000136287 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 122 0 R
- /Root 121 0 R
- /Size 197 >>
+ /Info 124 0 R
+ /Root 123 0 R
+ /Size 201 >>
 startxref
-133979
+136328
 %%EOF

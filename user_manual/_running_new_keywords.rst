@@ -67,7 +67,7 @@ model by default.
       GSP_NPIX   Number of pixels.
       GSP_C000   Value of parameter ``c0``.
       GSP_C001   Value of parameter ``c1``.
-      GSP_C002   Value of paramter ``c2``. This goes on depending the order.
+      GSP_C002   Value of parameter ``c2``. This goes on depending the order.
      ========== =============================================================
 
 .. _`combined images`:

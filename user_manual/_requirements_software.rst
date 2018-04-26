@@ -15,15 +15,14 @@ same you used for your observing run, provided by your *Support Scientist*, who
 will also give you the information for the data reduction computer VNC
 connection.
 
-.. note:: IRAF is available in all three data servers. Running ``iraf`` will
+.. note:: IRAF is available in the data server at SOAR. Running ``iraf`` will
     open an *xgterm* and *ds9* windows. ``iraf-only`` will open *xgterm* but
     not *ds9*
 
 Establish a VNC connection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Separately, you should receive a server hostname, IP, display number and
-VNC-password. If you don't you can ask for it. We have decided to use a similar
-organization of vnc displays as for ``soaric7``:
+VNC-password.
 
 .. _`VNC Displays table`:
 .. table:: VNC display number and working folder assigned to each partner.
@@ -41,9 +40,9 @@ organization of vnc displays as for ``soaric7``:
 For this tutorial we will call the vnc server host name as ``<vnc-server>``
 the display number  is ``<display-number>`` and your password is ``<password>``.
 
-We are not recommending a particular *VNC Client* since there are several options,
-so if you feel that you are not getting the best image quality feel free to
-explore different clients. For this tutorial we use ``vncviewer``.
+The VNC connection should work with any VNC Client like TightVNC, TigerVNC,
+RealVNC, etc. The first two run on Linux and can be used directly with the
+``vncviewer`` command line.
 
 VNC from the Terminal
 ~~~~~~~~~~~~~~~~~~~~~

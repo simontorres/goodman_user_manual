@@ -318,7 +318,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /Rect [ 60.01575
  628.7894
@@ -335,7 +335,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /Rect [ 549.6998
  628.7894
@@ -352,7 +352,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /Rect [ 80.01575
  610.7894
@@ -369,7 +369,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /Rect [ 549.6998
  610.7894
@@ -383,10 +383,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 107 0 R
+ /Dest [ 102 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Rect [ 100.0157
  592.7894
@@ -400,10 +400,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 107 0 R
+ /Dest [ 102 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Rect [ 549.6998
  592.7894
@@ -454,7 +454,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /Rect [ 60.01575
  556.7894
@@ -471,7 +471,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /Rect [ 549.6998
  556.7894
@@ -488,7 +488,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /Rect [ 80.01575
  538.7894
@@ -505,7 +505,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /Rect [ 549.6998
  538.7894
@@ -522,7 +522,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Rect [ 100.0157
  520.7894
@@ -539,7 +539,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Rect [ 549.6998
  520.7894
@@ -556,7 +556,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Rect [ 100.0157
  502.7894
@@ -573,7 +573,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Rect [ 549.6998
  502.7894
@@ -590,7 +590,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /Rect [ 80.01575
  484.7894
@@ -607,7 +607,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /Rect [ 549.6998
  484.7894
@@ -624,7 +624,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /Rect [ 100.0157
  466.7894
@@ -641,7 +641,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /Rect [ 549.6998
  466.7894
@@ -1652,11 +1652,11 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 750.2394
+ 708.2394
  0 ]
- /Rect [ 207.3257
+ /Rect [ 150.0757
  88.98937
- 287.9157
+ 230.6657
  100.9894 ]
  /Subtype /Link
  /Type /Annot >>
@@ -1706,9 +1706,9 @@ endobj
  0
  0 ]
  /Rect [ 137.2857
- 668.5894
+ 626.5894
  209.5257
- 680.5894 ]
+ 638.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1720,9 +1720,9 @@ endobj
  0
  0 ]
  /Rect [ 256.7857
- 650.5894
+ 608.5894
  313.4657
- 662.5894 ]
+ 620.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1763,9 +1763,9 @@ endobj
  365.8394
  0 ]
  /Rect [ 288.4357
- 665.3894
+ 715.7894
  355.1157
- 677.3894 ]
+ 727.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1780,9 +1780,9 @@ endobj
  288.2394
  0 ]
  /Rect [ 429.9968
- 634.3894
+ 684.7894
  509.9078
- 646.3894 ]
+ 696.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1797,9 +1797,9 @@ endobj
  135.4394
  0 ]
  /Rect [ 89.46575
- 588.3894
+ 638.7894
  158.9357
- 600.3894 ]
+ 650.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1814,9 +1814,9 @@ endobj
  575.8394
  0 ]
  /Rect [ 40.01575
- 266.5894
+ 304.9894
  188.3757
- 278.5894 ]
+ 316.9894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1866,12 +1866,12 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  109.2558
- 258.6394
+ 228.6394
  0 ]
  /Rect [ 353.1802
- 755.3894
+ 715.3894
  444.9801
- 767.3894 ]
+ 727.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1883,9 +1883,9 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 536.7894
+ 496.7894
  344.8057
- 548.7894 ]
+ 508.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -2306,7 +2306,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /First 141 0 R
  /Last 143 0 R
@@ -2319,7 +2319,7 @@ endobj
  /Dest [ 102 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /First 142 0 R
  /Last 142 0 R
@@ -2328,10 +2328,10 @@ endobj
  /Title (Reference Lamp Files) >>
 endobj
 142 0 obj
-<< /Dest [ 107 0 R
+<< /Dest [ 102 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Parent 141 0 R
  /Title (Headers Requirements) >>
@@ -2351,7 +2351,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /First 145 0 R
  /Last 148 0 R
@@ -2364,7 +2364,7 @@ endobj
  /Dest [ 108 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /First 146 0 R
  /Last 147 0 R
@@ -2376,7 +2376,7 @@ endobj
 << /Dest [ 108 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Next 147 0 R
  /Parent 145 0 R
@@ -2386,7 +2386,7 @@ endobj
 << /Dest [ 111 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Parent 145 0 R
  /Prev 146 0 R
@@ -2397,7 +2397,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /First 149 0 R
  /Last 153 0 R
@@ -2410,7 +2410,7 @@ endobj
  /Dest [ 111 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /First 150 0 R
  /Last 151 0 R
@@ -2754,7 +2754,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 25, 2018) Tj T* -218.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 26, 2018) Tj T* -218.934 0 Td ET
 Q
 Q
 q
@@ -2940,7 +2940,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -3414,7 +3414,7 @@ Q
 endstream
 endobj
 181 0 obj
-<< /Length 9742 >>
+<< /Length 9590 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3505,7 +3505,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies multiple targets \(spectra of more than one object in the slit\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
 Q
 Q
 q
@@ -3529,7 +3529,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trace the spectra) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trace the spectra.) Tj T* ET
 Q
 Q
 q
@@ -3553,7 +3553,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract the spectra) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract the spectra.) Tj T* ET
 Q
 Q
 q
@@ -3577,7 +3577,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimate and subtract background) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimate and subtract background.) Tj T* ET
 Q
 Q
 q
@@ -3625,7 +3625,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Find the wavelength solution. Defaults to automatic wavelength solution, but can be done interactively) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
 Q
 Q
 q
@@ -3859,7 +3859,7 @@ Q
 q
 1 0 0 1 40.01575 88.23937 cm
 q
-BT 1 0 0 1 0 14 Tm 1.357756 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (, however you should be able to process older) Tj T* 0 Tw (data making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .185227 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than March, 2018, however you should be able to process older data making) Tj T* 0 Tw (sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -3880,7 +3880,7 @@ Q
 endstream
 endobj
 182 0 obj
-<< /Length 624 >>
+<< /Length 3825 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3899,234 +3899,23 @@ q
 1 0 0 1 40.01575 749.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To add) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an extensive list of the features we are planning to implement.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 749.8394 cm
-Q
-q
-1 0 0 1 34.01575 807.2126 cm
+1 0 0 1 40.01575 733.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Future Implementation) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Additions:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-183 0 obj
-<< /Length 11052 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 763.0394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 30 re B*
-Q
-q
-BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 727.8394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 25.2 re B*
-Q
-q
-BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Data Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 685.8394 cm
-q
-BT 1 0 0 1 0 26 Tm .474947 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman High Throughput Spectrograph's data has seen some evolution in the past years in shape and most) Tj T* 0 Tw 1.538637 Tw (importantly in its headers. The ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (relies heavily on the data's header so this is in fact very) Tj T* 0 Tw (important.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 667.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The headers must be ) Tj 0 0 .501961 rg (FITS Compliant ) Tj 0 0 0 rg (first of all, if not the software exits with errors.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 649.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 631.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Red camera does not create any problems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 613.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (. They can be simplified in a few groups.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 607.8394 cm
-Q
-q
-1 0 0 1 40.01575 607.8394 cm
-Q
-q
-1 0 0 1 40.01575 595.8394 cm
+1 0 0 1 40.01575 658.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There were non fits-compliant characters in some comments.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 589.8394 cm
-Q
-q
-1 0 0 1 40.01575 577.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The data was defined as 3D, just like a single frame of a data cube.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 571.8394 cm
-Q
-q
-1 0 0 1 40.01575 559.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There were several differences in keyword names and some other did not exist.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 553.8394 cm
-Q
-q
-1 0 0 1 40.01575 541.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 541.8394 cm
-Q
-q
-1 0 0 1 40.01575 511.8394 cm
-q
-BT 1 0 0 1 0 14 Tm .391705 Tw 12 TL /F1 10 Tf 0 0 0 rg (What to do in case your data is older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (?. In principle there is no obvious limitation why the) Tj T* 0 Tw (pipeline would not work, you just need to do some small changes in the header.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 495.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Remove the following keywords:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 402.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 80 Tm  T* ET
-q
-1 0 0 1 20 84 cm
-Q
-q
-1 0 0 1 20 84 cm
-Q
-q
-1 0 0 1 20 72 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM0) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 20 66 cm
 Q
 q
 1 0 0 1 20 66 cm
@@ -4146,7 +3935,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM61) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extended Source Extraction) Tj T* ET
 Q
 Q
 q
@@ -4170,7 +3959,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM62) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Flux calibration module) Tj T* ET
 Q
 Q
 q
@@ -4194,7 +3983,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM63) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Source deblending) Tj T* ET
 Q
 Q
 q
@@ -4217,8 +4006,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (NAXIS3) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Live ) Tj /F1 10 Tf (version of ) Tj /F3 10 Tf (The Goodman Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -4231,25 +4019,43 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 384.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F4 10 Tf (NAXIS ) Tj /F1 10 Tf (is 3 set it to 2.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 368.8394 cm
+1 0 0 1 40.01575 642.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Add the following keywords:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Improvements:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 311.8394 cm
+1 0 0 1 40.01575 567.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 44 Tm  T* ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Method to calculate wavelength solution, giving more options in terms of models.) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 20 48 cm
@@ -4268,7 +4074,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (INSTCONF ) Tj /F1 10 Tf (with ) Tj /F4 10 Tf (Blue) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Code clean up) Tj T* ET
 Q
 Q
 q
@@ -4291,7 +4098,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (WAVMODE ) Tj /F1 10 Tf (with grating and mode. ) Tj /F4 10 Tf (400) Tj ( ) Tj (m1 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (400) Tj ( ) Tj (m2) Tj /F1 10 Tf (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Documentation) Tj T* ET
 Q
 Q
 q
@@ -4314,7 +4122,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (ROI ) Tj /F1 10 Tf (Examples: ) Tj /F4 10 Tf (Spectroscopic) Tj ( ) Tj (1x1) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (user-defined) Tj /F1 10 Tf (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Detector Quality Monitor system \(already being developed by an independent group\)) Tj T* ET
 Q
 Q
 q
@@ -4327,7 +4136,214 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 279.0394 cm
+1 0 0 1 40.01575 567.8394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Future Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+183 0 obj
+<< /Length 9195 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 763.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 721.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.258381 Tw (We present here the data and software requirements that assure that the pipeline can perform smoothly. We) Tj T* 0 Tw 2.289653 Tw (recommend to check your data and your system before running it. Otherwise, the pipeline can perform in an) Tj T* 0 Tw (unexpected way or even crash.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 685.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Data Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 643.8394 cm
+q
+BT 1 0 0 1 0 26 Tm .474947 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman High Throughput Spectrograph's data has seen some evolution in the past years in shape and most) Tj T* 0 Tw 1.538637 Tw (importantly in its headers. The ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (relies heavily on the data's header so this is in fact very) Tj T* 0 Tw (important.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 625.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The headers must be ) Tj 0 0 .501961 rg (FITS Compliant ) Tj 0 0 0 rg (first of all, if not the software exits with errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 607.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 589.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Recent data obtained with the Red Camera already meets all the requirements in terms of format and header cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 571.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Data obtained with the Blue Camera before March, 2018 is expected to have several format issues:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .371894 Tw (There were non fits-compliant characters in some comments. To solve that, you can edit the header using the most) Tj T* 0 Tw .124578 Tw (recent version of AstroPy, IRAF or WCSTOOLS to remove the following keywords: PARAM0, PARAM61, PARAM62) Tj T* 0 Tw (and PARAM63.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 499.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .132564 Tw (The data was defined as 3D, just like a single frame of a data cube. To solve this, you will have to read the data and) Tj T* 0 Tw (rewrite it with only two dimensions using AstroPy or IRAF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 481.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some keywords were added with time:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 475.8394 cm
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (INSTCONF: contains the name of the Goodman Camera used, e.g., "Blue" or "Red";) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .930241 Tw (WAVMODE: contains the ruling number of the used grating and the mode name, e.g., "400 m1" or "400) Tj T* 0 Tw (m2") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ROI: the name of the region of interest, e.g., "Spectroscopic 1x1", "user-defined", etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+Q
+q
+1 0 0 1 40.01575 391.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords. Make sure that your data does not contain duplicated keywords.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 359.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4339,16 +4355,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Reference Lamp 
 Q
 Q
 q
-1 0 0 1 40.01575 237.0394 cm
+1 0 0 1 40.01575 305.0394 cm
 q
-BT 1 0 0 1 0 26 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. The list of current lamps is the following.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw 1.184947 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. Spaces between lamps are not allowed. And the name is case insensitive: you may write) Tj T* 0 Tw ("HgAr", "HGAR" or "hgar". The list of current lamps is the following.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 231.0394 cm
+1 0 0 1 40.01575 299.0394 cm
 Q
 q
-1 0 0 1 40.01575 200.6394 cm
+1 0 0 1 40.01575 268.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4360,7 +4376,7 @@ BT 1 0 0 1 0 2.4 Tm 117.27 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Lis
 Q
 Q
 q
-1 0 0 1 40.01575 142.6394 cm
+1 0 0 1 40.01575 210.6394 cm
 1 1 1 rg
 n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -4490,13 +4506,13 @@ n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 142.6394 cm
+1 0 0 1 40.01575 210.6394 cm
 Q
 q
-1 0 0 1 40.01575 130.6394 cm
+1 0 0 1 40.01575 198.6394 cm
 Q
 q
-1 0 0 1 40.01575 73.83937 cm
+1 0 0 1 40.01575 141.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -4528,7 +4544,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 67.83937 cm
+1 0 0 1 40.01575 135.8394 cm
+Q
+q
+1 0 0 1 40.01575 105.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 75.43937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .766506 Tw (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but must be taken) Tj T* 0 Tw (into account.) Tj T* ET
+Q
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -4548,42 +4583,24 @@ Q
 endstream
 endobj
 184 0 obj
-<< /Length 9855 >>
+<< /Length 9489 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 772.6394 cm
+1 0 0 1 40.01575 715.0394 cm
 q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw 1.217338 Tw (write non-linear solution to a FITS header is far too complex for our use case and there is no apparent effort on) Tj T* 0 Tw 1.273052 Tw (trying to simplify it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 742.6394 cm
-q
-BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 664.6394 cm
-q
-BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 648.6394 cm
+1 0 0 1 40.01575 699.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 603.6394 cm
+1 0 0 1 40.01575 654.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -4617,27 +4634,27 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 587.6394 cm
+1 0 0 1 40.01575 638.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 380.6394 cm
+1 0 0 1 40.01575 419.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 194 Tm  T* ET
+BT 1 0 0 1 0 206 Tm  T* ET
 q
-1 0 0 1 20 168 cm
+1 0 0 1 20 180 cm
 q
 BT 1 0 0 1 0 26 Tm .084205 Tw 12 TL /F1 10 Tf 0 0 0 rg (Reference lamps have a record of usable lines in its header. Initially the lamp is run through a tool that identifies) Tj T* 0 Tw .471339 Tw (the lines and records its pixel value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential) Tj T* 0 Tw (number \(001, 002, etc\). For instance.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 162 cm
+1 0 0 1 20 174 cm
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -4663,19 +4680,19 @@ q
 Q
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 96 cm
 q
 BT 1 0 0 1 0 14 Tm .367888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later, the equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 90 cm
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 42 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -4701,22 +4718,22 @@ q
 Q
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 42 cm
 Q
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 14 Tm .406005 Tw 12 TL /F4 10 Tf 0 0 0 rg (GSP_P001 ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (GSP_A001 ) Tj /F1 10 Tf (are a match. If any of the angstrom value entries have a value of ) Tj /F4 10 Tf (0 ) Tj /F1 10 Tf (\(default value\)) Tj T* 0 Tw (the equivalent pair pixel/angstrom entry is ignored.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .406005 Tw 12 TL /F4 10 Tf 0 0 0 rg (GSP_P001 ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (GSP_A001 ) Tj /F1 10 Tf (are a match. If any of the angstrom value entries have a value of ) Tj /F4 10 Tf (0 ) Tj /F1 10 Tf (\(default value\)) Tj T* 0 Tw .329064 Tw (the equivalent pair pixel/angstrom entry is ignored. Also they must be organized in an ) Tj /F3 10 Tf (always increasing ) Tj /F1 10 Tf (way, if) Tj T* 0 Tw (they are not, they will be ignored too.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 368.6394 cm
+1 0 0 1 40.01575 407.0394 cm
 Q
 q
-1 0 0 1 40.01575 287.8394 cm
+1 0 0 1 40.01575 326.2394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -4748,16 +4765,16 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 281.8394 cm
+1 0 0 1 40.01575 320.2394 cm
 Q
 q
-1 0 0 1 40.01575 265.8394 cm
+1 0 0 1 40.01575 304.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 64.83937 cm
+1 0 0 1 40.01575 103.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 188 Tm  T* ET
@@ -4827,7 +4844,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 54.85039 cm
+1 0 0 1 40.01575 91.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -4847,7 +4864,7 @@ Q
 endstream
 endobj
 185 0 obj
-<< /Length 9665 >>
+<< /Length 9619 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -4897,20 +4914,26 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (File organizati
 Q
 Q
 q
-1 0 0 1 40.01575 649.4394 cm
+1 0 0 1 40.01575 625.4394 cm
+q
+BT 1 0 0 1 0 26 Tm .530205 Tw 12 TL /F1 10 Tf 0 0 0 rg (redccd and redspec will look for all fits files inside the current working directory or inside the path provided with the) Tj T* 0 Tw 1.554508 Tw /F4 10 Tf (--raw-path ) Tj /F1 10 Tf (\(redccd\)/) Tj /F4 10 Tf (--data-path ) Tj /F1 10 Tf (\(redspec\) flag non-recursively. Make sure to have only data that contains) Tj T* 0 Tw (relevant signal. Data obtained during focus process, saturated flats, etc, must be left in another folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 607.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There is no special requirements for files but you will avoid problems if you follow these points.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Also, if you want to avoid any problems we recommend you to follow these points.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 643.4394 cm
+1 0 0 1 40.01575 601.4394 cm
 Q
 q
-1 0 0 1 40.01575 643.4394 cm
+1 0 0 1 40.01575 601.4394 cm
 Q
 q
-1 0 0 1 40.01575 631.4394 cm
+1 0 0 1 40.01575 589.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4931,10 +4954,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 625.4394 cm
+1 0 0 1 40.01575 583.4394 cm
 Q
 q
-1 0 0 1 40.01575 613.4394 cm
+1 0 0 1 40.01575 571.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4955,10 +4978,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 607.4394 cm
+1 0 0 1 40.01575 565.4394 cm
 Q
 q
-1 0 0 1 40.01575 595.4394 cm
+1 0 0 1 40.01575 553.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4979,10 +5002,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 595.4394 cm
+1 0 0 1 40.01575 553.4394 cm
 Q
 q
-1 0 0 1 40.01575 560.2394 cm
+1 0 0 1 40.01575 518.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -4994,21 +5017,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Software Requir
 Q
 Q
 q
-1 0 0 1 40.01575 530.2394 cm
+1 0 0 1 40.01575 488.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.457888 Tw (Using the pipeline remotely is the recommended method, in which case you don't need to worry about software) Tj T* 0 Tw (requirements.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 512.2394 cm
+1 0 0 1 40.01575 470.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (However, we provide simple instructions below.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 479.4394 cm
+1 0 0 1 40.01575 437.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5020,16 +5043,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for Remot
 Q
 Q
 q
-1 0 0 1 40.01575 425.4394 cm
+1 0 0 1 40.01575 383.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .350742 Tw (procedure requires to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials) Tj T* 0 Tw .918205 Tw (for the VPN are the same you used for your observing run, provided by your ) Tj /F3 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give) Tj T* 0 Tw (you the information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 413.4394 cm
+1 0 0 1 40.01575 371.4394 cm
 Q
 q
-1 0 0 1 40.01575 344.6394 cm
+1 0 0 1 40.01575 302.6394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -5045,7 +5068,7 @@ Q
 q
 1 0 0 1 8 8 cm
 q
-BT 1 0 0 1 0 14 Tm .796123 Tw 12 TL /F1 10 Tf 0 0 0 rg (IRAF is available in all three data servers. Running ) Tj /F4 10 Tf (iraf ) Tj /F1 10 Tf (will open an ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (ds9 ) Tj /F1 10 Tf (windows. ) Tj /F4 10 Tf (iraf-only) Tj T* 0 Tw /F1 10 Tf (will open ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (but not ) Tj /F3 10 Tf (ds9) Tj T* ET
+BT 1 0 0 1 0 14 Tm 3.409653 Tw 12 TL /F1 10 Tf 0 0 0 rg (IRAF is available in the data server at SOAR. Running ) Tj /F4 10 Tf (iraf ) Tj /F1 10 Tf (will open an ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (ds9 ) Tj /F1 10 Tf (windows.) Tj T* 0 Tw /F4 10 Tf (iraf-only ) Tj /F1 10 Tf (will open ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (but not ) Tj /F3 10 Tf (ds9) Tj T* ET
 Q
 Q
 q
@@ -5060,10 +5083,10 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 338.6394 cm
+1 0 0 1 40.01575 296.6394 cm
 Q
 q
-1 0 0 1 40.01575 308.2394 cm
+1 0 0 1 40.01575 266.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5075,16 +5098,17 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 278.2394 cm
+1 0 0 1 40.01575 248.2394 cm
 q
-BT 1 0 0 1 0 14 Tm .280829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Separately, you should receive a server hostname, IP, display number and VNC-password. If you don't you can ask) Tj T* 0 Tw (for it. We have decided to use a similar organization of vnc displays as for ) Tj /F4 10 Tf (soaric7) Tj /F1 10 Tf (:) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Separately, you should receive a server hostname, IP, display number and VNC-password.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 272.2394 cm
+1 0 0 1 40.01575 242.2394 cm
 Q
 q
-1 0 0 1 40.01575 241.8394 cm
+1 0 0 1 40.01575 211.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5096,7 +5120,7 @@ BT 1 0 0 1 0 2.4 Tm 69.24005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (V
 Q
 Q
 q
-1 0 0 1 40.01575 129.8394 cm
+1 0 0 1 40.01575 99.83937 cm
 1 1 1 rg
 n 0 106 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -5272,18 +5296,12 @@ n 515.2441 0 m 515.2441 106 l S
 Q
 Q
 q
-1 0 0 1 40.01575 129.8394 cm
-Q
-q
 1 0 0 1 40.01575 99.83937 cm
-q
-BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
-Q
 Q
 q
 1 0 0 1 40.01575 69.83937 cm
 q
-BT 1 0 0 1 0 14 Tm 1.001705 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are not recommending a particular ) Tj /F3 10 Tf (VNC Client ) Tj /F1 10 Tf (since there are several options, so if you feel that you are not) Tj T* 0 Tw (getting the best image quality feel free to explore different clients. For this tutorial we use ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -5304,11 +5322,17 @@ Q
 endstream
 endobj
 186 0 obj
-<< /Length 7535 >>
+<< /Length 7864 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 772.6394 cm
+1 0 0 1 40.01575 763.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .251894 Tw 12 TL /F1 10 Tf 0 0 0 rg (The VNC connection should work with any VNC Client like TightVNC, TigerVNC, RealVNC, etc. The first two run on) Tj T* 0 Tw (Linux and can be used directly with the ) Tj /F4 10 Tf (vncviewer ) Tj /F1 10 Tf (command line.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5320,16 +5344,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Te
 Q
 Q
 q
-1 0 0 1 40.01575 742.6394 cm
+1 0 0 1 40.01575 702.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 736.6394 cm
+1 0 0 1 40.01575 696.6394 cm
 Q
 q
-1 0 0 1 40.01575 724.6394 cm
+1 0 0 1 40.01575 684.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -5343,19 +5367,19 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 724.6394 cm
+1 0 0 1 40.01575 684.6394 cm
 Q
 q
-1 0 0 1 40.01575 706.6394 cm
+1 0 0 1 40.01575 666.6394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 694.6394 cm
+1 0 0 1 40.01575 654.6394 cm
 Q
 q
-1 0 0 1 40.01575 637.8394 cm
+1 0 0 1 40.01575 597.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -5386,16 +5410,16 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 591.8394 cm
 Q
 q
-1 0 0 1 40.01575 613.8394 cm
+1 0 0 1 40.01575 573.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If the connection succeeds you will see a ) Tj /F3 10 Tf (Centos 7 ) Tj /F1 10 Tf (Desktop using ) Tj /F3 10 Tf (Gnome) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 581.0394 cm
+1 0 0 1 40.01575 541.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5407,13 +5431,13 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for local
 Q
 Q
 q
-1 0 0 1 40.01575 569.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 Q
 q
-1 0 0 1 40.01575 569.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 Q
 q
-1 0 0 1 40.01575 467.0394 cm
+1 0 0 1 40.01575 427.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5464,10 +5488,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 461.0394 cm
+1 0 0 1 40.01575 421.0394 cm
 Q
 q
-1 0 0 1 40.01575 413.0394 cm
+1 0 0 1 40.01575 373.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5499,10 +5523,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 407.0394 cm
+1 0 0 1 40.01575 367.0394 cm
 Q
 q
-1 0 0 1 40.01575 377.0394 cm
+1 0 0 1 40.01575 337.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5529,10 +5553,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 371.0394 cm
+1 0 0 1 40.01575 331.0394 cm
 Q
 q
-1 0 0 1 40.01575 341.0394 cm
+1 0 0 1 40.01575 301.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -5559,10 +5583,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 341.0394 cm
+1 0 0 1 40.01575 301.0394 cm
 Q
 q
-1 0 0 1 40.01575 310.6394 cm
+1 0 0 1 40.01575 270.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -5574,10 +5598,10 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (DCR \(optional\
 Q
 Q
 q
-1 0 0 1 40.01575 292.6394 cm
+1 0 0 1 40.01575 252.6394 cm
 Q
 q
-1 0 0 1 40.01575 235.8394 cm
+1 0 0 1 40.01575 195.8394 cm
 1 .894118 .894118 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -5609,26 +5633,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 229.8394 cm
+1 0 0 1 40.01575 189.8394 cm
 Q
 q
-1 0 0 1 40.01575 199.8394 cm
+1 0 0 1 40.01575 159.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.7473 Tw (In terms of cosmic ray rejection we shifted to a non-python package because the results were much better) Tj T* 0 Tw (compared to LACosmic's implementation in astropy. LACosmic was not designed to work with spectroscopy though.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 169.8394 cm
+1 0 0 1 40.01575 129.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .043005 Tw 12 TL /F1 10 Tf 0 0 0 rg (The latest version of the Goodman Spectroscopic Pipeline uses a modified version of ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (to help with the pipeline's) Tj T* 0 Tw (workflow. It is included under) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 163.8394 cm
+1 0 0 1 40.01575 123.8394 cm
 Q
 q
-1 0 0 1 40.01575 151.8394 cm
+1 0 0 1 40.01575 111.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -5642,16 +5666,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 151.8394 cm
+1 0 0 1 40.01575 111.8394 cm
 Q
 q
-1 0 0 1 40.01575 121.8394 cm
+1 0 0 1 40.01575 81.83937 cm
 q
 BT 1 0 0 1 0 14 Tm .3339 Tw 12 TL /F4 10 Tf 0 0 0 rg (goodman ) Tj /F1 10 Tf (is the folder that will be created once you untar or unzip the latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic) Tj T* 0 Tw (Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 109.8394 cm
+1 0 0 1 40.01575 69.83937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -9161,40 +9185,40 @@ xref
 0000070181 00000 n
 0000070671 00000 n
 0000070807 00000 n
-0000080607 00000 n
-0000081288 00000 n
-0000092399 00000 n
-0000102312 00000 n
-0000112035 00000 n
-0000119628 00000 n
-0000129408 00000 n
-0000138453 00000 n
-0000139554 00000 n
-0000148244 00000 n
-0000159324 00000 n
-0000170122 00000 n
-0000173409 00000 n
-0000178174 00000 n
-0000178498 00000 n
-0000178538 00000 n
-0000178578 00000 n
-0000178618 00000 n
-0000178658 00000 n
-0000178698 00000 n
-0000178738 00000 n
-0000178778 00000 n
-0000178818 00000 n
-0000178858 00000 n
-0000178898 00000 n
-0000178938 00000 n
-0000178978 00000 n
-0000179018 00000 n
-0000179058 00000 n
-0000179098 00000 n
-0000179139 00000 n
-0000179180 00000 n
-0000179221 00000 n
-0000179262 00000 n
+0000080455 00000 n
+0000084338 00000 n
+0000093591 00000 n
+0000103138 00000 n
+0000112815 00000 n
+0000120737 00000 n
+0000130517 00000 n
+0000139562 00000 n
+0000140663 00000 n
+0000149353 00000 n
+0000160433 00000 n
+0000171231 00000 n
+0000174518 00000 n
+0000179283 00000 n
+0000179607 00000 n
+0000179647 00000 n
+0000179687 00000 n
+0000179727 00000 n
+0000179767 00000 n
+0000179807 00000 n
+0000179847 00000 n
+0000179887 00000 n
+0000179927 00000 n
+0000179967 00000 n
+0000180007 00000 n
+0000180047 00000 n
+0000180087 00000 n
+0000180127 00000 n
+0000180167 00000 n
+0000180207 00000 n
+0000180248 00000 n
+0000180289 00000 n
+0000180330 00000 n
+0000180371 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
@@ -9204,7 +9228,7 @@ trailer
  /Root 130 0 R
  /Size 216 >>
 startxref
-179303
+180412
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -9509,7 +9533,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /Rect [ 60.01575
  628.7894
@@ -9526,7 +9550,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /Rect [ 549.6998
  628.7894
@@ -9543,7 +9567,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /Rect [ 80.01575
  610.7894
@@ -9560,7 +9584,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /Rect [ 549.6998
  610.7894
@@ -9574,10 +9598,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 105 0 R
+ /Dest [ 100 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Rect [ 100.0157
  592.7894
@@ -9591,10 +9615,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 105 0 R
+ /Dest [ 100 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Rect [ 549.6998
  592.7894
@@ -9645,7 +9669,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /Rect [ 60.01575
  556.7894
@@ -9662,7 +9686,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /Rect [ 549.6998
  556.7894
@@ -9679,7 +9703,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /Rect [ 80.01575
  538.7894
@@ -9696,7 +9720,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /Rect [ 549.6998
  538.7894
@@ -9713,7 +9737,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Rect [ 100.0157
  520.7894
@@ -9730,7 +9754,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Rect [ 549.6998
  520.7894
@@ -9747,7 +9771,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Rect [ 100.0157
  502.7894
@@ -9764,7 +9788,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Rect [ 549.6998
  502.7894
@@ -9781,7 +9805,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /Rect [ 80.01575
  484.7894
@@ -9798,7 +9822,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /Rect [ 549.6998
  484.7894
@@ -9815,7 +9839,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /Rect [ 100.0157
  466.7894
@@ -9832,7 +9856,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /Rect [ 549.6998
  466.7894
@@ -10826,11 +10850,11 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 750.2394
+ 708.2394
  0 ]
- /Rect [ 207.3257
+ /Rect [ 150.0757
  88.98937
- 287.9157
+ 230.6657
  100.9894 ]
  /Subtype /Link
  /Type /Annot >>
@@ -10880,9 +10904,9 @@ endobj
  0
  0 ]
  /Rect [ 137.2857
- 668.5894
+ 626.5894
  209.5257
- 680.5894 ]
+ 638.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -10894,9 +10918,9 @@ endobj
  0
  0 ]
  /Rect [ 256.7857
- 650.5894
+ 608.5894
  313.4657
- 662.5894 ]
+ 620.5894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -10937,9 +10961,9 @@ endobj
  391.0394
  0 ]
  /Rect [ 288.4357
- 665.3894
+ 715.7894
  355.1157
- 677.3894 ]
+ 727.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -10954,9 +10978,9 @@ endobj
  313.4394
  0 ]
  /Rect [ 429.9968
- 634.3894
+ 684.7894
  509.9078
- 646.3894 ]
+ 696.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -10971,9 +10995,9 @@ endobj
  171.4394
  0 ]
  /Rect [ 89.46575
- 588.3894
+ 638.7894
  158.9357
- 600.3894 ]
+ 650.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -10988,9 +11012,9 @@ endobj
  611.8394
  0 ]
  /Rect [ 40.01575
- 266.5894
+ 304.9894
  188.3757
- 278.5894 ]
+ 316.9894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -11040,12 +11064,12 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  109.2558
- 258.6394
+ 228.6394
  0 ]
  /Rect [ 353.1802
- 755.3894
+ 715.3894
  444.9801
- 767.3894 ]
+ 727.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -11057,9 +11081,9 @@ endobj
  0
  0 ]
  /Rect [ 83.01575
- 536.7894
+ 496.7894
  344.8057
- 548.7894 ]
+ 508.7894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -11480,7 +11504,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 747.0394
+ 705.0394
  0 ]
  /First 139 0 R
  /Last 141 0 R
@@ -11493,7 +11517,7 @@ endobj
  /Dest [ 100 0 R
  /XYZ
  40.01575
- 295.8394
+ 375.8394
  0 ]
  /First 140 0 R
  /Last 140 0 R
@@ -11502,10 +11526,10 @@ endobj
  /Title (Reference Lamp Files) >>
 endobj
 140 0 obj
-<< /Dest [ 105 0 R
+<< /Dest [ 100 0 R
  /XYZ
  40.01575
- 787.0394
+ 119.8394
  0 ]
  /Parent 139 0 R
  /Title (Headers Requirements) >>
@@ -11525,7 +11549,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 579.4394
+ 537.4394
  0 ]
  /First 143 0 R
  /Last 146 0 R
@@ -11538,7 +11562,7 @@ endobj
  /Dest [ 106 0 R
  /XYZ
  40.01575
- 496.2394
+ 454.2394
  0 ]
  /First 144 0 R
  /Last 145 0 R
@@ -11550,7 +11574,7 @@ endobj
 << /Dest [ 106 0 R
  /XYZ
  40.01575
- 322.6394
+ 280.6394
  0 ]
  /Next 145 0 R
  /Parent 143 0 R
@@ -11560,7 +11584,7 @@ endobj
 << /Dest [ 109 0 R
  /XYZ
  40.01575
- 787.0394
+ 747.0394
  0 ]
  /Parent 143 0 R
  /Prev 144 0 R
@@ -11571,7 +11595,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 597.8394
+ 557.8394
  0 ]
  /First 147 0 R
  /Last 151 0 R
@@ -11584,7 +11608,7 @@ endobj
  /Dest [ 109 0 R
  /XYZ
  40.01575
- 325.0394
+ 285.0394
  0 ]
  /First 148 0 R
  /Last 149 0 R
@@ -11926,7 +11950,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 25, 2018) Tj T* -218.934 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 26, 2018) Tj T* -218.934 0 Td ET
 Q
 Q
 q
@@ -12105,7 +12129,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -12566,7 +12590,7 @@ Q
 endstream
 endobj
 177 0 obj
-<< /Length 9742 >>
+<< /Length 9590 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -12657,7 +12681,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies multiple targets \(spectra of more than one object in the slit\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
 Q
 Q
 q
@@ -12681,7 +12705,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trace the spectra) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trace the spectra.) Tj T* ET
 Q
 Q
 q
@@ -12705,7 +12729,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract the spectra) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extract the spectra.) Tj T* ET
 Q
 Q
 q
@@ -12729,7 +12753,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimate and subtract background) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimate and subtract background.) Tj T* ET
 Q
 Q
 q
@@ -12777,7 +12801,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Find the wavelength solution. Defaults to automatic wavelength solution, but can be done interactively) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
 Q
 Q
 q
@@ -13011,7 +13035,7 @@ Q
 q
 1 0 0 1 40.01575 88.23937 cm
 q
-BT 1 0 0 1 0 14 Tm 1.357756 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (, however you should be able to process older) Tj T* 0 Tw (data making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .185227 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data older than March, 2018, however you should be able to process older data making) Tj T* 0 Tw (sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -13032,7 +13056,7 @@ Q
 endstream
 endobj
 178 0 obj
-<< /Length 624 >>
+<< /Length 3825 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -13051,234 +13075,23 @@ q
 1 0 0 1 40.01575 749.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To add) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an extensive list of the features we are planning to implement.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 749.8394 cm
-Q
-q
-1 0 0 1 34.01575 807.2126 cm
+1 0 0 1 40.01575 733.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Future Implementation) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Additions:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.01575 22.67717 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-179 0 obj
-<< /Length 11052 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 763.0394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 30 re B*
-Q
-q
-BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 727.8394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 25.2 re B*
-Q
-q
-BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Data Requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 685.8394 cm
-q
-BT 1 0 0 1 0 26 Tm .474947 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman High Throughput Spectrograph's data has seen some evolution in the past years in shape and most) Tj T* 0 Tw 1.538637 Tw (importantly in its headers. The ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (relies heavily on the data's header so this is in fact very) Tj T* 0 Tw (important.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 667.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The headers must be ) Tj 0 0 .501961 rg (FITS Compliant ) Tj 0 0 0 rg (first of all, if not the software exits with errors.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 649.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 631.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Red camera does not create any problems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 613.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The Blue camera instead had some issues until ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (. They can be simplified in a few groups.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 607.8394 cm
-Q
-q
-1 0 0 1 40.01575 607.8394 cm
-Q
-q
-1 0 0 1 40.01575 595.8394 cm
+1 0 0 1 40.01575 658.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There were non fits-compliant characters in some comments.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 589.8394 cm
-Q
-q
-1 0 0 1 40.01575 577.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The data was defined as 3D, just like a single frame of a data cube.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 571.8394 cm
-Q
-q
-1 0 0 1 40.01575 559.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There were several differences in keyword names and some other did not exist.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 553.8394 cm
-Q
-q
-1 0 0 1 40.01575 541.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 541.8394 cm
-Q
-q
-1 0 0 1 40.01575 511.8394 cm
-q
-BT 1 0 0 1 0 14 Tm .391705 Tw 12 TL /F1 10 Tf 0 0 0 rg (What to do in case your data is older than ) Tj /F2 10 Tf (\(ESTIMATED DATE\)) Tj /F1 10 Tf (?. In principle there is no obvious limitation why the) Tj T* 0 Tw (pipeline would not work, you just need to do some small changes in the header.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 495.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Remove the following keywords:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 402.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 80 Tm  T* ET
-q
-1 0 0 1 20 84 cm
-Q
-q
-1 0 0 1 20 84 cm
-Q
-q
-1 0 0 1 20 72 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM0) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 20 66 cm
 Q
 q
 1 0 0 1 20 66 cm
@@ -13298,7 +13111,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM61) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extended Source Extraction) Tj T* ET
 Q
 Q
 q
@@ -13322,7 +13135,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM62) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Flux calibration module) Tj T* ET
 Q
 Q
 q
@@ -13346,7 +13159,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (PARAM63) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Source deblending) Tj T* ET
 Q
 Q
 q
@@ -13369,8 +13182,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (NAXIS3) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Live ) Tj /F1 10 Tf (version of ) Tj /F3 10 Tf (The Goodman Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -13383,25 +13195,43 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 384.8394 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F4 10 Tf (NAXIS ) Tj /F1 10 Tf (is 3 set it to 2.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 368.8394 cm
+1 0 0 1 40.01575 642.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Add the following keywords:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Improvements:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 311.8394 cm
+1 0 0 1 40.01575 567.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 44 Tm  T* ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Method to calculate wavelength solution, giving more options in terms of models.) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 20 48 cm
@@ -13420,7 +13250,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (INSTCONF ) Tj /F1 10 Tf (with ) Tj /F4 10 Tf (Blue) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Code clean up) Tj T* ET
 Q
 Q
 q
@@ -13443,7 +13274,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (WAVMODE ) Tj /F1 10 Tf (with grating and mode. ) Tj /F4 10 Tf (400) Tj ( ) Tj (m1 ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (400) Tj ( ) Tj (m2) Tj /F1 10 Tf (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Documentation) Tj T* ET
 Q
 Q
 q
@@ -13466,7 +13298,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (ROI ) Tj /F1 10 Tf (Examples: ) Tj /F4 10 Tf (Spectroscopic) Tj ( ) Tj (1x1) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (user-defined) Tj /F1 10 Tf (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Detector Quality Monitor system \(already being developed by an independent group\)) Tj T* ET
 Q
 Q
 q
@@ -13479,7 +13312,214 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 279.0394 cm
+1 0 0 1 40.01575 567.8394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Future Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+179 0 obj
+<< /Length 9195 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 763.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 721.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.258381 Tw (We present here the data and software requirements that assure that the pipeline can perform smoothly. We) Tj T* 0 Tw 2.289653 Tw (recommend to check your data and your system before running it. Otherwise, the pipeline can perform in an) Tj T* 0 Tw (unexpected way or even crash.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 685.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Data Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 643.8394 cm
+q
+BT 1 0 0 1 0 26 Tm .474947 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman High Throughput Spectrograph's data has seen some evolution in the past years in shape and most) Tj T* 0 Tw 1.538637 Tw (importantly in its headers. The ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (relies heavily on the data's header so this is in fact very) Tj T* 0 Tw (important.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 625.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The headers must be ) Tj 0 0 .501961 rg (FITS Compliant ) Tj 0 0 0 rg (first of all, if not the software exits with errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 607.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remember that the Goodman Spectrograph has ) Tj 0 0 .501961 rg (two cameras) Tj 0 0 0 rg (, ) Tj /F3 10 Tf (Blue ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Red) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 589.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Recent data obtained with the Red Camera already meets all the requirements in terms of format and header cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 571.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Data obtained with the Blue Camera before March, 2018 is expected to have several format issues:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .371894 Tw (There were non fits-compliant characters in some comments. To solve that, you can edit the header using the most) Tj T* 0 Tw .124578 Tw (recent version of AstroPy, IRAF or WCSTOOLS to remove the following keywords: PARAM0, PARAM61, PARAM62) Tj T* 0 Tw (and PARAM63.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 499.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .132564 Tw (The data was defined as 3D, just like a single frame of a data cube. To solve this, you will have to read the data and) Tj T* 0 Tw (rewrite it with only two dimensions using AstroPy or IRAF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 481.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some keywords were added with time:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 475.8394 cm
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (INSTCONF: contains the name of the Goodman Camera used, e.g., "Blue" or "Red";) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .930241 Tw (WAVMODE: contains the ruling number of the used grating and the mode name, e.g., "400 m1" or "400) Tj T* 0 Tw (m2") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ROI: the name of the region of interest, e.g., "Spectroscopic 1x1", "user-defined", etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+Q
+q
+1 0 0 1 40.01575 391.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duplicated keywords. Make sure that your data does not contain duplicated keywords.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 359.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13491,16 +13531,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Reference Lamp 
 Q
 Q
 q
-1 0 0 1 40.01575 237.0394 cm
+1 0 0 1 40.01575 305.0394 cm
 q
-BT 1 0 0 1 0 26 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. The list of current lamps is the following.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .301084 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having an ) Tj /F3 10 Tf (automatic wavelength calibration method ) Tj /F1 10 Tf (relies on having previously calibrated reference lamps obtained) Tj T* 0 Tw .585205 Tw (in the same configuration or mode. It is also important that the lamp names are correct, for instance ) Tj /F4 10 Tf (HgAr ) Tj /F1 10 Tf (is quite) Tj T* 0 Tw 1.184947 Tw (different than ) Tj /F4 10 Tf (HgArNe) Tj /F1 10 Tf (. Spaces between lamps are not allowed. And the name is case insensitive: you may write) Tj T* 0 Tw ("HgAr", "HGAR" or "hgar". The list of current lamps is the following.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 231.0394 cm
+1 0 0 1 40.01575 299.0394 cm
 Q
 q
-1 0 0 1 40.01575 200.6394 cm
+1 0 0 1 40.01575 268.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -13512,7 +13552,7 @@ BT 1 0 0 1 0 2.4 Tm 117.27 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Lis
 Q
 Q
 q
-1 0 0 1 40.01575 142.6394 cm
+1 0 0 1 40.01575 210.6394 cm
 1 1 1 rg
 n 0 52 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -13642,13 +13682,13 @@ n 515.2441 0 m 515.2441 52 l S
 Q
 Q
 q
-1 0 0 1 40.01575 142.6394 cm
+1 0 0 1 40.01575 210.6394 cm
 Q
 q
-1 0 0 1 40.01575 130.6394 cm
+1 0 0 1 40.01575 198.6394 cm
 Q
 q
-1 0 0 1 40.01575 73.83937 cm
+1 0 0 1 40.01575 141.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -13680,7 +13720,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 67.83937 cm
+1 0 0 1 40.01575 135.8394 cm
+Q
+q
+1 0 0 1 40.01575 105.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 75.43937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .766506 Tw (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but must be taken) Tj T* 0 Tw (into account.) Tj T* ET
+Q
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -13700,42 +13759,24 @@ Q
 endstream
 endobj
 180 0 obj
-<< /Length 9855 >>
+<< /Length 9489 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 772.6394 cm
+1 0 0 1 40.01575 715.0394 cm
 q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Headers Requirements) Tj T* ET
+BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw 1.217338 Tw (write non-linear solution to a FITS header is far too complex for our use case and there is no apparent effort on) Tj T* 0 Tw 1.273052 Tw (trying to simplify it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 742.6394 cm
-q
-BT 1 0 0 1 0 14 Tm .383381 Tw 12 TL /F1 10 Tf 0 0 0 rg (Goodman HTS spectra have small non-linearities on their wavelength solutions. They are small but big enough that) Tj T* 0 Tw (they ) Tj /F2 10 Tf (must ) Tj /F1 10 Tf (be taken into account.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 664.6394 cm
-q
-BT 1 0 0 1 0 62 Tm 1.996123 Tw 12 TL /F1 10 Tf 0 0 0 rg (It was necessary to implement a custom way of storing non-linear wavelength solutions that at the same time) Tj T* 0 Tw .850241 Tw (allowed for keeping data as ) Tj /F3 10 Tf (untouched ) Tj /F1 10 Tf (as possible. The main reason is that linearizing the reference lamps made) Tj T* 0 Tw .369116 Tw (harder to track down those non-linearities on the new data being calibrated and also; The documentation on how to) Tj T* 0 Tw .528205 Tw (write non-linear solution to a FITS header is not good, besides it appears that nobody is trying to improve it neither) Tj T* 0 Tw .664004 Tw (trying to implement it. Below I compile a list of required keywords for comparison lamps if they want to be used as) Tj T* 0 Tw (reference lamps. The full list of keywords is listed under ) Tj 0 0 .501961 rg (New Keywords) Tj 0 0 0 rg (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 648.6394 cm
+1 0 0 1 40.01575 699.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (General Custom Keywords:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 603.6394 cm
+1 0 0 1 40.01575 654.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -13769,27 +13810,27 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 587.6394 cm
+1 0 0 1 40.01575 638.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Record of ) Tj 0 0 .501961 rg (detected lines ) Tj 0 0 0 rg (in Pixel and Angstrom:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 380.6394 cm
+1 0 0 1 40.01575 419.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 194 Tm  T* ET
+BT 1 0 0 1 0 206 Tm  T* ET
 q
-1 0 0 1 20 168 cm
+1 0 0 1 20 180 cm
 q
 BT 1 0 0 1 0 26 Tm .084205 Tw 12 TL /F1 10 Tf 0 0 0 rg (Reference lamps have a record of usable lines in its header. Initially the lamp is run through a tool that identifies) Tj T* 0 Tw .471339 Tw (the lines and records its pixel value. The root string is ) Tj /F4 10 Tf (GSP_P ) Tj /F1 10 Tf (followed by a zero-padded three digit sequential) Tj T* 0 Tw (number \(001, 002, etc\). For instance.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 162 cm
+1 0 0 1 20 174 cm
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -13815,19 +13856,19 @@ q
 Q
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 96 cm
 q
 BT 1 0 0 1 0 14 Tm .367888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later, the equivalent values in angstrom are then recorded with the root string ) Tj /F4 10 Tf (GSP_A ) Tj /F1 10 Tf (and the same numerical) Tj T* 0 Tw (pattern as before.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 90 cm
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 42 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -13853,22 +13894,22 @@ q
 Q
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 42 cm
 Q
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 14 Tm .406005 Tw 12 TL /F4 10 Tf 0 0 0 rg (GSP_P001 ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (GSP_A001 ) Tj /F1 10 Tf (are a match. If any of the angstrom value entries have a value of ) Tj /F4 10 Tf (0 ) Tj /F1 10 Tf (\(default value\)) Tj T* 0 Tw (the equivalent pair pixel/angstrom entry is ignored.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .406005 Tw 12 TL /F4 10 Tf 0 0 0 rg (GSP_P001 ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (GSP_A001 ) Tj /F1 10 Tf (are a match. If any of the angstrom value entries have a value of ) Tj /F4 10 Tf (0 ) Tj /F1 10 Tf (\(default value\)) Tj T* 0 Tw .329064 Tw (the equivalent pair pixel/angstrom entry is ignored. Also they must be organized in an ) Tj /F3 10 Tf (always increasing ) Tj /F1 10 Tf (way, if) Tj T* 0 Tw (they are not, they will be ignored too.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 368.6394 cm
+1 0 0 1 40.01575 407.0394 cm
 Q
 q
-1 0 0 1 40.01575 287.8394 cm
+1 0 0 1 40.01575 326.2394 cm
 .933333 1 .8 rg
 n 0 80.8 515.2441 -80.8 re f*
 0 0 0 rg
@@ -13900,16 +13941,16 @@ n 515.2441 0 m 515.2441 80.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 281.8394 cm
+1 0 0 1 40.01575 320.2394 cm
 Q
 q
-1 0 0 1 40.01575 265.8394 cm
+1 0 0 1 40.01575 304.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Non-linear wavelength solution) Tj 0 0 0 rg (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 64.83937 cm
+1 0 0 1 40.01575 103.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 188 Tm  T* ET
@@ -13979,7 +14020,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 54.85039 cm
+1 0 0 1 40.01575 91.23937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -13999,7 +14040,7 @@ Q
 endstream
 endobj
 181 0 obj
-<< /Length 9665 >>
+<< /Length 9619 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -14049,20 +14090,26 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (File organizati
 Q
 Q
 q
-1 0 0 1 40.01575 649.4394 cm
+1 0 0 1 40.01575 625.4394 cm
+q
+BT 1 0 0 1 0 26 Tm .530205 Tw 12 TL /F1 10 Tf 0 0 0 rg (redccd and redspec will look for all fits files inside the current working directory or inside the path provided with the) Tj T* 0 Tw 1.554508 Tw /F4 10 Tf (--raw-path ) Tj /F1 10 Tf (\(redccd\)/) Tj /F4 10 Tf (--data-path ) Tj /F1 10 Tf (\(redspec\) flag non-recursively. Make sure to have only data that contains) Tj T* 0 Tw (relevant signal. Data obtained during focus process, saturated flats, etc, must be left in another folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 607.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There is no special requirements for files but you will avoid problems if you follow these points.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Also, if you want to avoid any problems we recommend you to follow these points.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 643.4394 cm
+1 0 0 1 40.01575 601.4394 cm
 Q
 q
-1 0 0 1 40.01575 643.4394 cm
+1 0 0 1 40.01575 601.4394 cm
 Q
 q
-1 0 0 1 40.01575 631.4394 cm
+1 0 0 1 40.01575 589.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14083,10 +14130,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 625.4394 cm
+1 0 0 1 40.01575 583.4394 cm
 Q
 q
-1 0 0 1 40.01575 613.4394 cm
+1 0 0 1 40.01575 571.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14107,10 +14154,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 607.4394 cm
+1 0 0 1 40.01575 565.4394 cm
 Q
 q
-1 0 0 1 40.01575 595.4394 cm
+1 0 0 1 40.01575 553.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14131,10 +14178,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 595.4394 cm
+1 0 0 1 40.01575 553.4394 cm
 Q
 q
-1 0 0 1 40.01575 560.2394 cm
+1 0 0 1 40.01575 518.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14146,21 +14193,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Software Requir
 Q
 Q
 q
-1 0 0 1 40.01575 530.2394 cm
+1 0 0 1 40.01575 488.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.457888 Tw (Using the pipeline remotely is the recommended method, in which case you don't need to worry about software) Tj T* 0 Tw (requirements.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 512.2394 cm
+1 0 0 1 40.01575 470.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (However, we provide simple instructions below.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 479.4394 cm
+1 0 0 1 40.01575 437.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14172,16 +14219,16 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for Remot
 Q
 Q
 q
-1 0 0 1 40.01575 425.4394 cm
+1 0 0 1 40.01575 383.4394 cm
 q
 BT 1 0 0 1 0 38 Tm .96294 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline has been installed on a dedicated computer at SOAR. The) Tj T* 0 Tw .350742 Tw (procedure requires to open a VNC session, for which you need to be connected to the SOAR VPN. The credentials) Tj T* 0 Tw .918205 Tw (for the VPN are the same you used for your observing run, provided by your ) Tj /F3 10 Tf (Support Scientist) Tj /F1 10 Tf (, who will also give) Tj T* 0 Tw (you the information for the data reduction computer VNC connection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 413.4394 cm
+1 0 0 1 40.01575 371.4394 cm
 Q
 q
-1 0 0 1 40.01575 344.6394 cm
+1 0 0 1 40.01575 302.6394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -14197,7 +14244,7 @@ Q
 q
 1 0 0 1 8 8 cm
 q
-BT 1 0 0 1 0 14 Tm .796123 Tw 12 TL /F1 10 Tf 0 0 0 rg (IRAF is available in all three data servers. Running ) Tj /F4 10 Tf (iraf ) Tj /F1 10 Tf (will open an ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (ds9 ) Tj /F1 10 Tf (windows. ) Tj /F4 10 Tf (iraf-only) Tj T* 0 Tw /F1 10 Tf (will open ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (but not ) Tj /F3 10 Tf (ds9) Tj T* ET
+BT 1 0 0 1 0 14 Tm 3.409653 Tw 12 TL /F1 10 Tf 0 0 0 rg (IRAF is available in the data server at SOAR. Running ) Tj /F4 10 Tf (iraf ) Tj /F1 10 Tf (will open an ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (ds9 ) Tj /F1 10 Tf (windows.) Tj T* 0 Tw /F4 10 Tf (iraf-only ) Tj /F1 10 Tf (will open ) Tj /F3 10 Tf (xgterm ) Tj /F1 10 Tf (but not ) Tj /F3 10 Tf (ds9) Tj T* ET
 Q
 Q
 q
@@ -14212,10 +14259,10 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 338.6394 cm
+1 0 0 1 40.01575 296.6394 cm
 Q
 q
-1 0 0 1 40.01575 308.2394 cm
+1 0 0 1 40.01575 266.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14227,16 +14274,17 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (Establish a VNC
 Q
 Q
 q
-1 0 0 1 40.01575 278.2394 cm
+1 0 0 1 40.01575 248.2394 cm
 q
-BT 1 0 0 1 0 14 Tm .280829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Separately, you should receive a server hostname, IP, display number and VNC-password. If you don't you can ask) Tj T* 0 Tw (for it. We have decided to use a similar organization of vnc displays as for ) Tj /F4 10 Tf (soaric7) Tj /F1 10 Tf (:) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Separately, you should receive a server hostname, IP, display number and VNC-password.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 272.2394 cm
+1 0 0 1 40.01575 242.2394 cm
 Q
 q
-1 0 0 1 40.01575 241.8394 cm
+1 0 0 1 40.01575 211.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14248,7 +14296,7 @@ BT 1 0 0 1 0 2.4 Tm 69.24005 0 Td 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (V
 Q
 Q
 q
-1 0 0 1 40.01575 129.8394 cm
+1 0 0 1 40.01575 99.83937 cm
 1 1 1 rg
 n 0 106 515.2441 -16 re f*
 .878431 .878431 .878431 rg
@@ -14424,18 +14472,12 @@ n 515.2441 0 m 515.2441 106 l S
 Q
 Q
 q
-1 0 0 1 40.01575 129.8394 cm
-Q
-q
 1 0 0 1 40.01575 99.83937 cm
-q
-BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
-Q
 Q
 q
 1 0 0 1 40.01575 69.83937 cm
 q
-BT 1 0 0 1 0 14 Tm 1.001705 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are not recommending a particular ) Tj /F3 10 Tf (VNC Client ) Tj /F1 10 Tf (since there are several options, so if you feel that you are not) Tj T* 0 Tw (getting the best image quality feel free to explore different clients. For this tutorial we use ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 5.966506 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this tutorial we will call the vnc server host name as ) Tj /F4 10 Tf (<) Tj (vnc-server) Tj (> ) Tj /F1 10 Tf (the display number is) Tj T* 0 Tw /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (and your password is ) Tj /F4 10 Tf (<) Tj (password) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
@@ -14456,11 +14498,17 @@ Q
 endstream
 endobj
 182 0 obj
-<< /Length 7535 >>
+<< /Length 7864 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 772.6394 cm
+1 0 0 1 40.01575 763.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .251894 Tw 12 TL /F1 10 Tf 0 0 0 rg (The VNC connection should work with any VNC Client like TightVNC, TigerVNC, RealVNC, etc. The first two run on) Tj T* 0 Tw (Linux and can be used directly with the ) Tj /F4 10 Tf (vncviewer ) Tj /F1 10 Tf (command line.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14472,16 +14520,16 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (VNC from the Te
 Q
 Q
 q
-1 0 0 1 40.01575 742.6394 cm
+1 0 0 1 40.01575 702.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 2.83494 Tw 12 TL /F1 10 Tf 0 0 0 rg (Find the ) Tj /F4 10 Tf (<) Tj (display-number) Tj (> ) Tj /F1 10 Tf (that corresponds to you from the ) Tj 0 0 .501961 rg (VNC Displays table) Tj 0 0 0 rg (. Open a terminal, and) Tj T* 0 Tw (assuming you have installed ) Tj /F4 10 Tf (vncviewer) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 736.6394 cm
+1 0 0 1 40.01575 696.6394 cm
 Q
 q
-1 0 0 1 40.01575 724.6394 cm
+1 0 0 1 40.01575 684.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -14495,19 +14543,19 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 724.6394 cm
+1 0 0 1 40.01575 684.6394 cm
 Q
 q
-1 0 0 1 40.01575 706.6394 cm
+1 0 0 1 40.01575 666.6394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You will be asked to type in the ) Tj /F4 10 Tf (<) Tj (password) Tj (> ) Tj /F1 10 Tf (provided.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 694.6394 cm
+1 0 0 1 40.01575 654.6394 cm
 Q
 q
-1 0 0 1 40.01575 637.8394 cm
+1 0 0 1 40.01575 597.8394 cm
 .933333 1 .8 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -14538,16 +14586,16 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 591.8394 cm
 Q
 q
-1 0 0 1 40.01575 613.8394 cm
+1 0 0 1 40.01575 573.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If the connection succeeds you will see a ) Tj /F3 10 Tf (Centos 7 ) Tj /F1 10 Tf (Desktop using ) Tj /F3 10 Tf (Gnome) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 581.0394 cm
+1 0 0 1 40.01575 541.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14559,13 +14607,13 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F5 14 Tf .12549 .262745 .360784 rg (Setup for local
 Q
 Q
 q
-1 0 0 1 40.01575 569.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 Q
 q
-1 0 0 1 40.01575 569.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 Q
 q
-1 0 0 1 40.01575 467.0394 cm
+1 0 0 1 40.01575 427.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14616,10 +14664,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 461.0394 cm
+1 0 0 1 40.01575 421.0394 cm
 Q
 q
-1 0 0 1 40.01575 413.0394 cm
+1 0 0 1 40.01575 373.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14651,10 +14699,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 407.0394 cm
+1 0 0 1 40.01575 367.0394 cm
 Q
 q
-1 0 0 1 40.01575 377.0394 cm
+1 0 0 1 40.01575 337.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14681,10 +14729,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 371.0394 cm
+1 0 0 1 40.01575 331.0394 cm
 Q
 q
-1 0 0 1 40.01575 341.0394 cm
+1 0 0 1 40.01575 301.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -14711,10 +14759,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 341.0394 cm
+1 0 0 1 40.01575 301.0394 cm
 Q
 q
-1 0 0 1 40.01575 310.6394 cm
+1 0 0 1 40.01575 270.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -14726,10 +14774,10 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F5 12 Tf .12549 .262745 .360784 rg (DCR \(optional\
 Q
 Q
 q
-1 0 0 1 40.01575 292.6394 cm
+1 0 0 1 40.01575 252.6394 cm
 Q
 q
-1 0 0 1 40.01575 235.8394 cm
+1 0 0 1 40.01575 195.8394 cm
 1 .894118 .894118 rg
 n 0 56.8 515.2441 -56.8 re f*
 0 0 0 rg
@@ -14761,26 +14809,26 @@ n 515.2441 0 m 515.2441 56.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 229.8394 cm
+1 0 0 1 40.01575 189.8394 cm
 Q
 q
-1 0 0 1 40.01575 199.8394 cm
+1 0 0 1 40.01575 159.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.7473 Tw (In terms of cosmic ray rejection we shifted to a non-python package because the results were much better) Tj T* 0 Tw (compared to LACosmic's implementation in astropy. LACosmic was not designed to work with spectroscopy though.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 169.8394 cm
+1 0 0 1 40.01575 129.8394 cm
 q
 BT 1 0 0 1 0 14 Tm .043005 Tw 12 TL /F1 10 Tf 0 0 0 rg (The latest version of the Goodman Spectroscopic Pipeline uses a modified version of ) Tj /F4 10 Tf (dcr ) Tj /F1 10 Tf (to help with the pipeline's) Tj T* 0 Tw (workflow. It is included under) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 163.8394 cm
+1 0 0 1 40.01575 123.8394 cm
 Q
 q
-1 0 0 1 40.01575 151.8394 cm
+1 0 0 1 40.01575 111.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -14794,16 +14842,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 151.8394 cm
+1 0 0 1 40.01575 111.8394 cm
 Q
 q
-1 0 0 1 40.01575 121.8394 cm
+1 0 0 1 40.01575 81.83937 cm
 q
 BT 1 0 0 1 0 14 Tm .3339 Tw 12 TL /F4 10 Tf 0 0 0 rg (goodman ) Tj /F1 10 Tf (is the folder that will be created once you untar or unzip the latest release of the ) Tj /F3 10 Tf (Goodman Spectroscopic) Tj T* 0 Tw (Pipeline) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 109.8394 cm
+1 0 0 1 40.01575 69.83937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -18310,38 +18358,38 @@ xref
 0000059131 00000 n
 0000069587 00000 n
 0000070041 00000 n
-0000079841 00000 n
-0000080522 00000 n
-0000091633 00000 n
-0000101546 00000 n
-0000111269 00000 n
-0000118862 00000 n
-0000128642 00000 n
-0000137687 00000 n
-0000138788 00000 n
-0000147686 00000 n
-0000159116 00000 n
-0000170411 00000 n
-0000172813 00000 n
-0000177578 00000 n
-0000177872 00000 n
-0000177912 00000 n
-0000177952 00000 n
-0000177992 00000 n
-0000178032 00000 n
-0000178072 00000 n
-0000178112 00000 n
-0000178152 00000 n
-0000178192 00000 n
-0000178232 00000 n
-0000178272 00000 n
-0000178312 00000 n
-0000178352 00000 n
-0000178392 00000 n
-0000178433 00000 n
-0000178474 00000 n
-0000178515 00000 n
-0000178556 00000 n
+0000079689 00000 n
+0000083572 00000 n
+0000092825 00000 n
+0000102372 00000 n
+0000112049 00000 n
+0000119971 00000 n
+0000129751 00000 n
+0000138796 00000 n
+0000139897 00000 n
+0000148795 00000 n
+0000160225 00000 n
+0000171520 00000 n
+0000173922 00000 n
+0000178687 00000 n
+0000178981 00000 n
+0000179021 00000 n
+0000179061 00000 n
+0000179101 00000 n
+0000179141 00000 n
+0000179181 00000 n
+0000179221 00000 n
+0000179261 00000 n
+0000179301 00000 n
+0000179341 00000 n
+0000179381 00000 n
+0000179421 00000 n
+0000179461 00000 n
+0000179501 00000 n
+0000179542 00000 n
+0000179583 00000 n
+0000179624 00000 n
+0000179665 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
@@ -18351,5 +18399,5 @@ trailer
  /Root 128 0 R
  /Size 210 >>
 startxref
-178597
+179706
 %%EOF

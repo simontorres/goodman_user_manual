@@ -27,6 +27,6 @@
 
 .. |goodman hts| replace:: Goodman Spectrograph
 
-.. |headers change| replace:: **(ESTIMATED DATE)**
+.. |headers change| replace:: March, 2018
 
 

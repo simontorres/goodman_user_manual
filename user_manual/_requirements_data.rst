@@ -10,41 +10,37 @@ first of all, if not the software exits with errors.
 
 Remember that the |goodman hts| has `two cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
 
-The Red camera does not create any problems.
+Recent data obtained with the Red Camera already meets all the requirements in
+terms of format and header cards.
 
-The Blue camera instead had some issues until |headers change|. They can be simplified in a few groups.
+Data obtained with the Blue Camera before |headers change| is expected to have
+several format issues:
 
-- There were non fits-compliant characters in some comments.
-- The data was defined as 3D, just like a single frame of a data cube.
-- There were several differences in keyword names and some other did not exist.
-- Duplicated keywords.
+There were non fits-compliant characters in some comments. To solve that, you
+can edit the header using the most recent version of AstroPy, IRAF or WCSTOOLS
+to remove the following keywords: PARAM0, PARAM61, PARAM62 and PARAM63.
 
-What to do in case your data is older than |headers change|?.
-In principle there is no obvious limitation why the pipeline would not work, you
-just need to do some small changes in the header.
+The data was defined as 3D, just like a single frame of a data cube.
+To solve this, you will have to read the data and rewrite it with only two
+dimensions using AstroPy or IRAF.
 
-Remove the following keywords:
-  - ``PARAM0``
-  - ``PARAM61``
-  - ``PARAM62``
-  - ``PARAM63``
-  - ``NAXIS3``
+Some keywords were added with time:
 
-If ``NAXIS`` is 3 set it to 2.
-
-Add the following keywords:
-  - ``INSTCONF`` with ``Blue``
-  - ``WAVMODE`` with grating and mode. ``400 m1`` or ``400 m2``.
-  - ``ROI`` Examples: ``Spectroscopic 1x1``, ``user-defined``.
+  * INSTCONF: contains the name of the Goodman Camera used, e.g., "Blue" or "Red";
+  * WAVMODE: contains the ruling number of the used grating and the mode name, e.g., "400 m1" or "400 m2"
+  * ROI: the name of the region of interest, e.g., "Spectroscopic 1x1", "user-defined", etc.
 
 
+Duplicated keywords. Make sure that your data does not contain duplicated keywords.
 
 Reference Lamp Files
 ^^^^^^^^^^^^^^^^^^^^
 Having an *automatic wavelength calibration method* relies on having previously calibrated
 reference lamps obtained in the same configuration or mode. It is also important
 that the lamp names are correct, for instance ``HgAr`` is quite different than
-``HgArNe``. The list of current lamps is the following.
+``HgArNe``. Spaces between lamps are not allowed. And the name is case
+insensitive: you may write "HgAr", "HGAR" or "hgar".
+The list of current lamps is the following.
 
 
 .. _`Table Supported Modes`:
@@ -70,15 +66,15 @@ Headers Requirements
 ~~~~~~~~~~~~~~~~~~~~
 
 Goodman HTS spectra have small non-linearities on their wavelength solutions.
-They are small but big enough that they **must** be taken into account.
+They are small but must be taken into account.
 
 It was necessary to  implement a custom way of storing non-linear wavelength
 solutions that at the same time allowed for keeping data as *untouched* as
 possible. The main reason is that linearizing the reference lamps made
 harder to track down those non-linearities on the new data being calibrated and
 also; The documentation on how to write non-linear solution to a FITS header is
-not good, besides it appears that nobody is trying to improve it neither
-trying to implement it. Below I compile a list of required keywords for
+far too complex for our use case and there is no apparent effort on trying to
+simplify it. Below I compile a list of required keywords for
 comparison lamps if they want to be used as reference lamps. The full list of
 keywords is listed under `New Keywords`_.
 
@@ -113,6 +109,8 @@ Record of `detected lines`_ in Pixel and Angstrom:
 
   ``GSP_P001`` and ``GSP_A001`` are a match. If any of the angstrom value entries
   have a value of ``0`` (default value) the equivalent pair pixel/angstrom entry is ignored.
+  Also they must be organized in an *always increasing* way, if they are not, they
+  will be ignored too.
 
 .. important::
 
@@ -155,8 +153,12 @@ Record of `detected lines`_ in Pixel and Angstrom:
 
 File organization
 ^^^^^^^^^^^^^^^^^
+redccd and redspec will look for all fits files inside the current working
+directory or inside the path provided with the ``--raw-path`` (redccd)/``--data-path`` (redspec)
+flag non-recursively. Make sure to have only data that contains relevant signal.
+Data obtained during focus process, saturated flats, etc, must be left in another folder.
 
-There is no special requirements for files but you will avoid problems if you
+Also, if you want to avoid any problems we recommend you to
 follow these points.
 
 - Delete all unnecessary files (focus,  test, acquisition, unwanted exposures, etc)

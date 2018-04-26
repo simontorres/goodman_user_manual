@@ -20,13 +20,12 @@ processing is done by ``redccd``, which trims the images, and carries out bias
 and flat corrections. The spectroscopic processing is done by ``redspec`` and
 carries out the following steps:
 
-- Identifies multiple targets (spectra of more than one object in the slit)
-- Trace the spectra
-- Extract the spectra
-- Estimate and subtract background
+- Identifies point-source targets.
+- Trace the spectra.
+- Extract the spectra.
+- Estimate and subtract background.
 - Saves extracted (1D) spectrum, without wavelength calibration.
-- Find the wavelength solution. Defaults to automatic wavelength solution, but
-  can be done interactively
+- Finds the wavelength solution.
 - Linearize data (resample)
 - Write wavelength solution to FITS header
 - Create a new file for the wavelength calibrated 1D spectrum

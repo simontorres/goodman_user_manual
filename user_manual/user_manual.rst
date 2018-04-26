@@ -17,7 +17,7 @@
     PageBreak
 
 
-.. include:: conclusion.rst
+.. include:: _conclusion_acknowledgement.rst
 
 .. |pipeline name| replace:: *The Goodman Pipeline*
 

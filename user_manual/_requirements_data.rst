@@ -16,22 +16,19 @@ terms of format and header cards.
 Data obtained with the Blue Camera before |headers change| is expected to have
 several format issues:
 
-There were non fits-compliant characters in some comments. To solve that, you
-can edit the header using the most recent version of AstroPy, IRAF or WCSTOOLS
-to remove the following keywords: PARAM0, PARAM61, PARAM62 and PARAM63.
+    1. There were non fits-compliant characters in some comments. To solve that, you can edit the header using the most recent version of AstroPy, IRAF or WCSTOOLS to remove the following keywords: ``PARAM0``, ``PARAM61``, ``PARAM62`` and ``PARAM63``.
 
-The data was defined as 3D, just like a single frame of a data cube.
-To solve this, you will have to read the data and rewrite it with only two
-dimensions using AstroPy or IRAF.
+    2. The data was defined as 3D, just like a single frame of a data cube. To solve this, you will have to read the data and rewrite it with only two dimensions using AstroPy or IRAF.
 
-Some keywords were added with time:
+    3. Some keywords were added with time.
 
-  * INSTCONF: contains the name of the Goodman Camera used, e.g., "Blue" or "Red";
-  * WAVMODE: contains the ruling number of the used grating and the mode name, e.g., "400 m1" or "400 m2"
-  * ROI: the name of the region of interest, e.g., "Spectroscopic 1x1", "user-defined", etc.
+        * INSTCONF: contains the name of the Goodman Camera used, e.g., "Blue" or "Red".
 
+        * WAVMODE: contains the ruling number of the used grating and the mode name, e.g., "400 m1" or "400 m2".
 
-Duplicated keywords. Make sure that your data does not contain duplicated keywords.
+        * ROI: the name of the region of interest, e.g., "Spectroscopic 1x1", "user-defined", etc.
+
+    4. Duplicated keywords. Make sure that your data does not contain duplicated keywords.
 
 Reference Lamp Files
 ^^^^^^^^^^^^^^^^^^^^
@@ -59,6 +56,9 @@ The list of current lamps is the following.
 
     More lamps will be made public shortly.
 
+.. raw:: pdf
+
+    PageBreak
 
 .. _`Header Requirements`:
 
@@ -119,6 +119,10 @@ Record of `detected lines`_ in Pixel and Angstrom:
   is that the line identification has to be done only once and then the
   model can be fitted several times, actually you can try several models
   if you want. (On your own)
+
+.. raw:: pdf
+
+    PageBreak
 
 `Non-linear wavelength solution`_:
   The method for recording the non-linear wavelength solution is actually

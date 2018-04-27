@@ -62,37 +62,77 @@ If the connection succeeds you will see a *Centos 7* Desktop using *Gnome*.
 
 Setup for local installation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-6. Get latest release of the *Goodman Spectroscopic Pipeline*
 
-   visit https://github.com/soar-telescope/goodman/releases/latest and download
-   the ``*.zip`` or ``*.tar.gz``
+The |pipeline name| is completely written in Python 3.x and relies on several
+libraries like:
 
-   ``cd <download_location>``
+* NumPy
+* SciPy
+* MatPlotLib
+* Pandas
+* AstroPy
+* AstroPy/ccdproc
+* AstroPy/astroplan
+* DCR
 
-   ``tar -xvf <pipeline_file>.tar.gz``
+We **do not** recommend the installation of these libraries or the
+|pipeline name| in your system since updates and upgrades may ruin it. We rather
+recomment the use of Virtual Environments. If you are not familiar with this
+term, please check the official documentation by visiting the link below:
 
-   or
+    https://docs.python.org/3/tutorial/venv.html
 
-   ``unzip <pipeline_file>.zip``
+    or
 
+    http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
-7. Install requirements from ``requirements.txt``
+Another option is to install **Conda**, a Virtual Environment Manager, and
+**AstroConda**, the same but for astronomers. Everything you need to know
+about installing both can be found in the link below:
 
-   ``cd <goodman_pipeline_unpacked_location>``
+    https://astroconda.readthedocs.io/
 
-   ``pip install -r requirements.txt``
+Once you have Python running and all the libraries installed either using
+Conda/AstroConda or not, you may download the last version available in the
+following address:
 
-8. Install the pipeline
+    https://github.com/soar-telescope/goodman/releases/latest
 
-   ``pip install .``
+Before carry on, make sure that your Virtual Environment is active if this is
+the case. There are several ways of doing this but normally the command below
+should work:
 
-9. Upgrading the pipeline
+    ``$ source activate <my_environment_name>``
 
-   ``pip install . --upgrade``
+Where ``<my_environment_name>`` is the name of your Virtual Environment (e.g.
+astroconda).
+
+Now you can finally install the |pipeline name]. Download the file, decompress
+it, and enter the directory created during the file decompression. Test if the
+installation by typing:
+
+    ``$ python setup.py test``
+
+If you have any errors, check the traceback. If you find difficulties carring
+on at this poing, you may contact us using the e-mail
+`goodman-pipeline@ctio.noao.edu`.
+
+If no error messages start to scream at your screen, you are good to carry
+on with the installation.
+
+    ``$ python setup.py install``
+
+.. note::
+
+    This will install the pipeline in the currently active Python version. If
+you have Virtual Environments, make sure that they are active. If not, you can add
+the ``--user`` option to install only for your user and avoid needing root access.
+
 
 DCR (optional)
 ~~~~~~~~~~~~~~
-.. warning:: Don't forget to cite: Pych, W., 2004, PASP, 116, 148
+
+.. warning:: Please cite: Pych, W., 2004, PASP, 116, 148
 
 In terms of cosmic ray rejection we shifted to a non-python package because the
 results were much better compared to LACosmic's implementation in astropy.

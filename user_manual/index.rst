@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. To Do
+   - complete acknowledgement
+   - Add License
+   - Make sure titles are not left in the bottom of a page and the content in the next.
+
 Welcome to Goodman HTS Pipeline User Manual
 ===========================================
 
@@ -11,8 +16,6 @@ Welcome to Goodman HTS Pipeline User Manual
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
 
 Indices and tables
 ==================

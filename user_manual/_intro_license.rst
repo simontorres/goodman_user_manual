@@ -6,7 +6,7 @@
 .. |organization| replace:: NOAO/AURA, Inc.
 
 License
-=======
+*******
 
 Copyright (c) |year|, |copyright holder|
 All rights reserved.
@@ -25,6 +25,7 @@ modification, are permitted provided that the following conditions are met:
   names of its contributors may be used to endorse or promote products
   derived from this software without specific prior written permission.
 
+|
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE

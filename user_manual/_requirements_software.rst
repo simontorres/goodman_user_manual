@@ -92,6 +92,21 @@ about installing both can be found in the link below:
 
     https://astroconda.readthedocs.io/
 
+.. warning::
+
+    You may find that `ccdproc` and `astroplan` do not come with Astroconda.
+    They are not available on any Conda channel either. That means that you will
+    have to install them separately. You can do that by downloading the source files
+    and installing them by hand, or, simply
+    `activate your Virtual Environment <https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment>`_ and,
+    then, install these two packages using pip with
+
+    ``pip install ccdproc astroplan``.
+
+System installation is not recommended because can mess things up specially in
+Linux and Mac OS. Before you proceed, make sure that your system has all
+the required libraries, as described in `Setup for local installation`_.
+
 Once you have Python running and all the libraries installed either using
 Conda/AstroConda or not, you may download the last version available in the
 following address:
@@ -107,7 +122,7 @@ should work:
 Where ``<my_environment_name>`` is the name of your Virtual Environment (e.g.
 astroconda).
 
-Now you can finally install the |pipeline name]. Download the file, decompress
+Now you can finally install the |pipeline name|. Download the file, decompress
 it, and enter the directory created during the file decompression. Test if the
 installation by typing:
 
@@ -124,10 +139,10 @@ on with the installation.
 
 .. note::
 
-    This will install the pipeline in the currently active Python version. If
-you have Virtual Environments, make sure that they are active. If not, you can add
-the ``--user`` option to install only for your user and avoid needing root access.
-
+    This will install the pipeline in the currently active Python version.
+    If you have Virtual Environments, make sure that they are active. If not,
+    you can add the ``--user`` option to install only for your user and avoid
+    needing root access.
 
 DCR (optional)
 ~~~~~~~~~~~~~~
@@ -144,7 +159,7 @@ of ``dcr`` to help with the pipeline's workflow. It is included under
   ``<path_to_download_location>/goodman/pipeline/data/dcr-source/dcr/``
 
 ``goodman`` is the folder that will be created once you untar or unzip the latest
-release of the *Goodman Spectroscopic Pipeline*.
+release of the |pipeline name|.
 
 .. important::
 
@@ -154,7 +169,8 @@ release of the *Goodman Spectroscopic Pipeline*.
     created. ``GSP_DCRR`` which stores the reference to the paper to cite.
 
 
-You are still encouraged to visit the official  `Link <http://users.camk.edu.pl/pych/DCR/>`_
+You are still encouraged to visit the official
+`Link <http://users.camk.edu.pl/pych/DCR/>`_
 own by the author and let me remind you once more that you have to cite the
 paper mentioned several times in this manual.
 
@@ -172,7 +188,6 @@ Then simply type:
 This will compile `dcr` and also it will create other files. The executable
 binary here is ``dcr``.
 
-
 We have successfully compiled *dcr* in several platforms, such as:
 
 - Ubuntu 16.04
@@ -184,10 +199,9 @@ We have successfully compiled *dcr* in several platforms, such as:
 Install binary DCR
 ------------------
 
-This is a suggested method. If you are not so sure what you are doing, we recommend
-you following this suggestion. If you are a more advanced user you just need the
-``dcr`` executable binary in your ``$PATH`` variable.
-
+This is a suggested method. If you are not so sure what you are doing, we
+recommend you following this suggestion. If you are a more advanced user you
+just need the ``dcr`` executable binary in your ``$PATH`` variable.
 
 1. Open a terminal
 2. In your home directory create a hidden directory ``.bin`` (Home directory
@@ -215,93 +229,3 @@ you following this suggestion. If you are a more advanced user you just need the
 5. Close and reopen the terminal or load the ``.bashrc`` file.
 
     ``source ~/.bashrc``
-
-
-
-System Installation (not recommended)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-System installation is not recommended because can mess things up specially in Mac OS.
-If you are really committed to install the pipeline in your system we recommend the `Conda Installation`_
-
-6. Get latest release of the |pipeline full name|
-
-   visit https://github.com/soar-telescope/goodman/releases/latest and download
-   the ``*.zip`` or ``*.tar.gz`` file.
-
-   ``cd <download_location>``
-
-   ``tar -xvf goodman-<version>.tar.gz``
-
-   or
-
-   ``unzip goodman-<version>.zip``
-
-
-7. Install requirements from ``requirements.txt``
-
-   ``cd goodman-<version>``
-
-   ``pip install -r requirements.txt``
-
-8. Install the pipeline
-
-   ``pip install .``
-
-9. Upgrading the pipeline
-
-   ``pip install . --upgrade``
-
-
-Conda Installation
-~~~~~~~~~~~~~~~~~~
-
-We strongly recommend installing the pipeline using *virtual environments*.
-Below you will find a summary of installation steps.
-
-.. warning:: Remember that we are not providing any kind of support for
-  installation. After this documentation you are on your own.
-
-The following list provides a summary of all the steps (follow the links for instructions).
-
-- `Install Anaconda <https://conda.io/docs/user-guide/install/index.html>`_
-- `Add astroconda channel <https://astroconda.readthedocs.io/en/latest/installation.html#configure-astroconda-channel>`_
-- `Create virtual environment`_
-- Activate environment
-- Install requirements
-- Install pipeline
-
-.. _`create virtual environment`:
-New Virtual Environment
------------------------
-Creating virtual environments is well documented on the `Conda documentation site <https://conda.io/docs/user-guide/tasks/manage-environments.html>`_
-just make sure you are using ``Python 3.5`` or ``3.6``. which are the versions
-against |pipeline name| is regularly tested.
-
-Existing Virtual Environment
-----------------------------
-We provide a predefined environment through a ``environment.yml`` file that you
-can use to create a virtual environment with all the pipeline's dependencies.
-It goes as follows:
-
-  ``conda create -f environment.yml``
-
-The new environment will be called ``goodman``.
-
-Pipeline Installation
----------------------
-
-Finally, in order to install |pipeline name| using a virtual environment you need
-to activate it first.
-
-  ``source activate goodman``
-
-And in case you used a different name replace ``goodman`` by the name of your environment.
-
-In a terminal go to ``<path to download>/goodman-<version>/``, then:
-
-  ``python setup.py test``
-
-If all the tests run successfully  you can then install the pipeline with:
-
-  ``python setup.py install``
-

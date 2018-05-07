@@ -4,7 +4,7 @@ Description of custom keywords
 ******************************
 
 The pipeline adds several keywords to keep track of the process and in general
-for keeping important information available. In the following table is a description
+for keeping important information available. The following table gives a description
 of all the keywords added by |pipeline name|, though not all of them are
 added to all the images.
 
@@ -47,13 +47,12 @@ Non-linear wavelength solution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Since writing non-linear wavelength solutions to the headers using the FITS
-standard (reference) is extremely complex and not necessarily well documented.
-We came up with the solution of simply describing the mathematical model
+standard (reference) is extremely complex and not necessarily well documented,
+we came up with the solution of simply describing the mathematical model
 from ``astropy.modeling.models``. This allows for maintaining the data
 *untouched* while keeping a reliable description of the wavelength solution.
 
-The way it is currently implemented will work for writting for any polynomial
-kind of model. Reading is implemented only for ``Chebyshev1D`` which is the
+The current implementation will work for writting any polinomial model. Reading is implemented only for ``Chebyshev1D`` which is the
 model by default.
 
 .. _`table non-linear keywords`:

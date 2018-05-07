@@ -1,20 +1,18 @@
 .. _`data requirements`:
 Data Requirements
 *****************
-The |goodman HTS|'s data has seen some evolution in the past years in shape and
-most importantly in its headers. The |pipeline name| relies heavily on the data's
+The |goodman HTS|'s data has seen some evolution in the past years, in shape and
+most importantly in its headers. The |pipeline full name| relies heavily on the data's
 header so this is in fact very important.
 
-The headers must be `FITS Compliant <https://fits.gsfc.nasa.gov/fits_standard.html>`_
-first of all, if not the software exits with errors.
+The headers must be `FITS Compliant <https://fits.gsfc.nasa.gov/fits_standard.html>`_,
+otherwise the software exits with errors.
 
-Remember that the |goodman hts| has `two cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
+Bear in mind that the |goodman hts| has `two cameras <http://www.ctio.noao.edu/soar/content/goodman-spectrograph-overview>`_, *Blue* and *Red*.
 
 Recent data obtained with the Red Camera already meets all the requirements in
-terms of format and header cards.
-
-Data obtained with the Blue Camera before |headers change| is expected to have
-several format issues:
+terms of format and header cards. Data obtained with the Blue Camera before
+|headers change| is expected to have several format issues:
 
     1. There were non fits-compliant characters in some comments. To solve that, you can edit the header using the most recent version of AstroPy, IRAF or WCSTOOLS to remove the following keywords: ``PARAM0``, ``PARAM61``, ``PARAM62`` and ``PARAM63``.
 
@@ -70,11 +68,11 @@ They are small but must be taken into account.
 
 It was necessary to  implement a custom way of storing non-linear wavelength
 solutions that at the same time allowed for keeping data as *untouched* as
-possible. The main reason is that linearizing the reference lamps made
-harder to track down those non-linearities on the new data being calibrated and
-also; The documentation on how to write non-linear solution to a FITS header is
+possible. The main reason is that linearizing the reference lamps made it
+harder to track down those non-linearities on the new data being calibrated. Also,
+The documentation on how to write non-linear solution to a FITS header is
 far too complex for our use case and there is no apparent effort on trying to
-simplify it. Below I compile a list of required keywords for
+simplify it. Below we compile a list of required keywords for
 comparison lamps if they want to be used as reference lamps. The full list of
 keywords is listed under `New Keywords`_.
 
@@ -157,13 +155,12 @@ Record of `detected lines`_ in Pixel and Angstrom:
 
 File organization
 ^^^^^^^^^^^^^^^^^
-redccd and redspec will look for all fits files inside the current working
+redccd and redspec will look for all FITS files inside the current working
 directory or inside the path provided with the ``--raw-path`` (redccd)/``--data-path`` (redspec)
 flag non-recursively. Make sure to have only data that contains relevant signal.
-Data obtained during focus process, saturated flats, etc, must be left in another folder.
+Data obtained during the focusing process, saturated flats, etc, must be removed.
 
-Also, if you want to avoid any problems we recommend you to
-follow these points.
+Also, we recommend you follow these good practices:
 
 - Delete all unnecessary files (focus,  test, acquisition, unwanted exposures, etc)
 - Don't mix different ROI (Region Of Interest), Gain and Readout Noises.

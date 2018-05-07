@@ -1,12 +1,12 @@
 Run redspec
 ***********
 
-Is the spectroscopy reduction script. The task are the following:
+Is the spectroscopy reduction script. The tasks are the following:
 
-- Classifies data and create the match of ``OBJECT`` and ``COMP`` if exists.
-- Identify targets
+- Classifies data and creates the match of ``OBJECT`` and ``COMP`` if it exists.
+- Identifies targets
 - Extracts targets
-- Saved extracted targets to 1D spectrum
+- Saves extracted targets to 1D spectrum
 - Finds wavelength solution automatically
 - Linearizes data
 - Saves wavelength calibrated file

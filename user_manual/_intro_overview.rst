@@ -21,13 +21,13 @@ and flat corrections. The spectroscopic processing is done by ``redspec`` and
 carries out the following steps:
 
 - Identifies point-source targets.
-- Trace the spectra.
-- Extract the spectra.
-- Estimate and subtract background.
-- Saves extracted (1D) spectrum, without wavelength calibration.
+- Traces the spectra.
+- Extracts the spectra.
+- Estimates and subtract background.
+- Saves extracted (1D) spectra, without wavelength calibration.
 - Finds the wavelength solution.
-- Linearize data (resample)
-- Write wavelength solution to FITS header
-- Create a new file for the wavelength calibrated 1D spectrum
+- Linearizes data (resample)
+- Writes the wavelength solution to FITS header
+- Creates a new file for the wavelength-calibrated 1D spectrum
 
 

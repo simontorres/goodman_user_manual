@@ -131,7 +131,7 @@ endobj
  /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Rect [ 60.01575
  718.7894
@@ -148,7 +148,7 @@ endobj
  /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Rect [ 549.6998
  718.7894
@@ -165,7 +165,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Rect [ 60.01575
  700.7894
@@ -182,7 +182,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Rect [ 549.6998
  700.7894
@@ -199,7 +199,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Rect [ 60.01575
  682.7894
@@ -216,7 +216,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Rect [ 549.6998
  682.7894
@@ -233,7 +233,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Rect [ 60.01575
  664.7894
@@ -250,7 +250,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Rect [ 549.6998
  664.7894
@@ -1187,9 +1187,9 @@ endobj
  791.0394
  0 ]
  /Rect [ 171.3738
- 285.3894
+ 267.3894
  251.819
- 297.3894 ]
+ 279.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1201,9 +1201,9 @@ endobj
  0
  0 ]
  /Rect [ 210.0957
- 273.3894
+ 255.3894
  306.4757
- 285.3894 ]
+ 267.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1244,9 +1244,9 @@ endobj
  708.2394
  0 ]
  /Rect [ 185.0857
- 571.3894
+ 543.3894
  265.6757
- 583.3894 ]
+ 555.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -1820,7 +1820,7 @@ endobj
 << /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Next 112 0 R
  /Parent 109 0 R
@@ -1831,7 +1831,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Next 113 0 R
  /Parent 109 0 R
@@ -1842,7 +1842,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Next 114 0 R
  /Parent 109 0 R
@@ -1853,7 +1853,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Parent 109 0 R
  /Prev 113 0 R
@@ -2199,7 +2199,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 220.932 0 Td (May 07, 2018) Tj T* -220.932 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 220.932 0 Td (May 09, 2018) Tj T* -220.932 0 Td ET
 Q
 Q
 q
@@ -2684,7 +2684,7 @@ Q
 endstream
 endobj
 144 0 obj
-<< /Length 9607 >>
+<< /Length 9263 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2721,24 +2721,38 @@ q
 1 0 0 1 40.01575 667.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copyright \(c\) 2018, NOAO/AURA, Inc. All rights reserved. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BSD 3-Clause License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 637.8394 cm
+1 0 0 1 40.01575 649.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copyright \(c\) 2018, SOAR Telescope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 631.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All rights reserved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 601.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.738381 Tw (Redistribution and use in source and binary forms, with or without modification, are permitted provided that the) Tj T* 0 Tw (following conditions are met:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 595.8394 cm
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 595.8394 cm
 Q
 q
-1 0 0 1 40.01575 607.8394 cm
+1 0 0 1 40.01575 571.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2759,10 +2773,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 601.8394 cm
+1 0 0 1 40.01575 565.8394 cm
 Q
 q
-1 0 0 1 40.01575 577.8394 cm
+1 0 0 1 40.01575 541.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2783,10 +2797,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 571.8394 cm
+1 0 0 1 40.01575 535.8394 cm
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 511.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2800,37 +2814,24 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.995783 Tw (Neither the name of the NOAO/AURA, Inc. nor the names of its contributors may be used to endorse or) Tj T* 0 Tw (promote products derived from this software without specific prior written permission.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .369163 Tw (Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote) Tj T* 0 Tw (products derived from this software without specific prior written permission.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 511.8394 cm
 Q
 q
-1 0 0 1 40.01575 541.8394 cm
-Q
-q
-1 0 0 1 40.01575 529.8394 cm
+1 0 0 1 40.01575 397.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.859546 Tw (THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY) Tj T* 0 Tw 1.217008 Tw (EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF) Tj T* 0 Tw .845341 Tw (MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL) Tj T* 0 Tw 2.490372 Tw (THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,) Tj T* 0 Tw 8.041566 Tw (SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO,) Tj T* 0 Tw 4.364508 Tw (PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR) Tj T* 0 Tw 3.753099 Tw (BUSINESS INTERRUPTION\) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN) Tj T* 0 Tw 2.288554 Tw (CONTRACT, STRICT LIABILITY, OR TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY) Tj T* 0 Tw (WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 529.8394 cm
-Q
-q
-1 0 0 1 40.01575 415.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.859546 Tw (THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY) Tj T* 0 Tw 1.217008 Tw (EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF) Tj T* 0 Tw .845341 Tw (MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL) Tj T* 0 Tw 3.297008 Tw (NOAO/AURA, Inc. All rights reserved. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,) Tj T* 0 Tw 2.239409 Tw (EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF) Tj T* 0 Tw 1.307841 Tw (SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION\)) Tj T* 0 Tw .52493 Tw (HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR) Tj T* 0 Tw 2.830292 Tw (TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY WAY OUT OF THE USE OF THIS) Tj T* 0 Tw (SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 380.6394 cm
+1 0 0 1 40.01575 362.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2842,49 +2843,25 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Overview) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 314.6394 cm
+1 0 0 1 40.01575 296.6394 cm
 q
 BT 1 0 0 1 0 50 Tm 1.371606 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline - ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (- is a Python-based package for) Tj T* 0 Tw 2.22493 Tw (producing science-ready, wavelength-calibrated, 1-D spectra. The goal of ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (is to provide) Tj T* 0 Tw .720241 Tw (SOAR users with an easy to use, very well documented software for reducing spectra obtained with the Goodman) Tj T* 0 Tw .07494 Tw (spectrograph. Though the current implementation assumes offline data reduction, our aim is to provide the capability) Tj T* 0 Tw (to run it in real time, so 1-D wavelength calibrated spectra can be produced shortly after the shutter closes.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 272.6394 cm
+1 0 0 1 40.01575 254.6394 cm
 q
 BT 1 0 0 1 0 26 Tm 1.405535 Tw 12 TL /F1 10 Tf 0 0 0 rg (The pipeline is primarily intended to be run on a data reduction dedicated computer. Instructions for running the) Tj T* 0 Tw 1.037606 Tw (software are provided in the ) Tj 0 0 .501961 rg (Running Pipeline ) Tj 0 0 0 rg (section of this guide. The Goodman Spectroscopic Data Reduction) Tj T* 0 Tw (Pipeline project is hosted at GitHub at ) Tj 0 0 .501961 rg (it's GitHub Repository) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 230.6394 cm
+1 0 0 1 40.01575 212.6394 cm
 q
 BT 1 0 0 1 0 26 Tm .140829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Currently the pipeline is separated into two main components. The initial processing is done by ) Tj /F4 10 Tf (redccd) Tj /F1 10 Tf (, which trims) Tj T* 0 Tw 2.037756 Tw (the images, and carries out bias and flat corrections. The spectroscopic processing is done by ) Tj /F4 10 Tf (redspec ) Tj /F1 10 Tf (and) Tj T* 0 Tw (carries out the following steps:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 224.6394 cm
-Q
-q
-1 0 0 1 40.01575 224.6394 cm
-Q
-q
-1 0 0 1 40.01575 212.6394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 40.01575 206.6394 cm
 Q
 q
 1 0 0 1 40.01575 206.6394 cm
@@ -2904,7 +2881,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Traces the spectra.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
 Q
 Q
 q
@@ -2928,7 +2905,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts the spectra.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Traces the spectra.) Tj T* ET
 Q
 Q
 q
@@ -2952,7 +2929,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimates and subtract background.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts the spectra.) Tj T* ET
 Q
 Q
 q
@@ -2976,7 +2953,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves extracted \(1D\) spectra, without wavelength calibration.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimates and subtract background.) Tj T* ET
 Q
 Q
 q
@@ -3000,7 +2977,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves extracted \(1D\) spectra, without wavelength calibration.) Tj T* ET
 Q
 Q
 q
@@ -3024,7 +3001,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data \(resample\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
 Q
 Q
 q
@@ -3048,7 +3025,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Writes the wavelength solution to FITS header) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data \(resample\)) Tj T* ET
 Q
 Q
 q
@@ -3072,14 +3049,14 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Creates a new file for the wavelength-calibrated 1D spectrum) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Writes the wavelength solution to FITS header) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 68.63937 cm
+1 0 0 1 40.01575 62.63937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -3099,11 +3076,35 @@ Q
 endstream
 endobj
 145 0 obj
-<< /Length 6575 >>
+<< /Length 6944 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 767.8394 cm
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Creates a new file for the wavelength-calibrated 1D spectrum) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3115,13 +3116,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Features Availa
 Q
 Q
 q
-1 0 0 1 40.01575 755.8394 cm
+1 0 0 1 40.01575 727.8394 cm
 Q
 q
-1 0 0 1 40.01575 755.8394 cm
+1 0 0 1 40.01575 727.8394 cm
 Q
 q
-1 0 0 1 40.01575 719.8394 cm
+1 0 0 1 40.01575 691.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3142,10 +3143,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 713.8394 cm
+1 0 0 1 40.01575 685.8394 cm
 Q
 q
-1 0 0 1 40.01575 701.8394 cm
+1 0 0 1 40.01575 673.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3166,10 +3167,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 695.8394 cm
+1 0 0 1 40.01575 667.8394 cm
 Q
 q
-1 0 0 1 40.01575 671.8394 cm
+1 0 0 1 40.01575 643.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3190,10 +3191,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 665.8394 cm
+1 0 0 1 40.01575 637.8394 cm
 Q
 q
-1 0 0 1 40.01575 653.8394 cm
+1 0 0 1 40.01575 625.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3214,10 +3215,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 647.8394 cm
+1 0 0 1 40.01575 619.8394 cm
 Q
 q
-1 0 0 1 40.01575 635.8394 cm
+1 0 0 1 40.01575 607.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3238,10 +3239,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 635.8394 cm
+1 0 0 1 40.01575 607.8394 cm
 Q
 q
-1 0 0 1 40.01575 600.6394 cm
+1 0 0 1 40.01575 572.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3253,13 +3254,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Supported Data)
 Q
 Q
 q
-1 0 0 1 40.01575 570.6394 cm
+1 0 0 1 40.01575 542.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 1.078476 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data obtained since March, 2018, however you should be able to process older data) Tj T* 0 Tw (making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 535.4394 cm
+1 0 0 1 40.01575 507.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3271,21 +3272,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Future Implemen
 Q
 Q
 q
-1 0 0 1 40.01575 517.4394 cm
+1 0 0 1 40.01575 489.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is a list of the features we are planning to implement.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 501.4394 cm
+1 0 0 1 40.01575 473.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Additions:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 426.4394 cm
+1 0 0 1 40.01575 398.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 62 Tm  T* ET
@@ -3394,14 +3395,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 410.4394 cm
+1 0 0 1 40.01575 382.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Improvements:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 353.4394 cm
+1 0 0 1 40.01575 325.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 44 Tm  T* ET
@@ -3487,7 +3488,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 353.4394 cm
+1 0 0 1 40.01575 325.4394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -8069,36 +8070,36 @@ xref
 0000029048 00000 n
 0000037042 00000 n
 0000037178 00000 n
-0000046843 00000 n
-0000053476 00000 n
-0000063277 00000 n
-0000070193 00000 n
-0000079052 00000 n
-0000090026 00000 n
-0000098372 00000 n
-0000107323 00000 n
-0000116012 00000 n
-0000127099 00000 n
-0000137871 00000 n
-0000141158 00000 n
-0000142741 00000 n
-0000143020 00000 n
-0000143060 00000 n
-0000143100 00000 n
-0000143140 00000 n
-0000143180 00000 n
-0000143220 00000 n
-0000143260 00000 n
-0000143300 00000 n
-0000143340 00000 n
-0000143380 00000 n
-0000143420 00000 n
-0000143460 00000 n
-0000143500 00000 n
-0000143540 00000 n
-0000143581 00000 n
-0000143622 00000 n
-0000143663 00000 n
+0000046499 00000 n
+0000053501 00000 n
+0000063302 00000 n
+0000070218 00000 n
+0000079077 00000 n
+0000090051 00000 n
+0000098397 00000 n
+0000107348 00000 n
+0000116037 00000 n
+0000127124 00000 n
+0000137896 00000 n
+0000141183 00000 n
+0000142766 00000 n
+0000143045 00000 n
+0000143085 00000 n
+0000143125 00000 n
+0000143165 00000 n
+0000143205 00000 n
+0000143245 00000 n
+0000143285 00000 n
+0000143325 00000 n
+0000143365 00000 n
+0000143405 00000 n
+0000143445 00000 n
+0000143485 00000 n
+0000143525 00000 n
+0000143565 00000 n
+0000143606 00000 n
+0000143647 00000 n
+0000143688 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
@@ -8108,7 +8109,7 @@ trailer
  /Root 106 0 R
  /Size 175 >>
 startxref
-143704
+143729
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -8243,7 +8244,7 @@ endobj
  /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Rect [ 60.01575
  718.7894
@@ -8260,7 +8261,7 @@ endobj
  /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Rect [ 549.6998
  718.7894
@@ -8277,7 +8278,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Rect [ 60.01575
  700.7894
@@ -8294,7 +8295,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Rect [ 549.6998
  700.7894
@@ -8311,7 +8312,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Rect [ 60.01575
  682.7894
@@ -8328,7 +8329,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Rect [ 549.6998
  682.7894
@@ -8345,7 +8346,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Rect [ 60.01575
  664.7894
@@ -8362,7 +8363,7 @@ endobj
  /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Rect [ 549.6998
  664.7894
@@ -9299,9 +9300,9 @@ endobj
  791.0394
  0 ]
  /Rect [ 171.3738
- 285.3894
+ 267.3894
  251.819
- 297.3894 ]
+ 279.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -9313,9 +9314,9 @@ endobj
  0
  0 ]
  /Rect [ 210.0957
- 273.3894
+ 255.3894
  306.4757
- 285.3894 ]
+ 267.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -9356,9 +9357,9 @@ endobj
  708.2394
  0 ]
  /Rect [ 185.0857
- 571.3894
+ 543.3894
  265.6757
- 583.3894 ]
+ 555.3894 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -9932,7 +9933,7 @@ endobj
 << /Dest [ 72 0 R
  /XYZ
  40.01575
- 399.8394
+ 381.8394
  0 ]
  /Next 112 0 R
  /Parent 109 0 R
@@ -9943,7 +9944,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 787.0394
+ 759.0394
  0 ]
  /Next 113 0 R
  /Parent 109 0 R
@@ -9954,7 +9955,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 619.8394
+ 591.8394
  0 ]
  /Next 114 0 R
  /Parent 109 0 R
@@ -9965,7 +9966,7 @@ endobj
 << /Dest [ 74 0 R
  /XYZ
  40.01575
- 554.6394
+ 526.6394
  0 ]
  /Parent 109 0 R
  /Prev 113 0 R
@@ -10311,7 +10312,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 220.932 0 Td (May 07, 2018) Tj T* -220.932 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 220.932 0 Td (May 09, 2018) Tj T* -220.932 0 Td ET
 Q
 Q
 q
@@ -10796,7 +10797,7 @@ Q
 endstream
 endobj
 144 0 obj
-<< /Length 9607 >>
+<< /Length 9263 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -10833,24 +10834,38 @@ q
 1 0 0 1 40.01575 667.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copyright \(c\) 2018, NOAO/AURA, Inc. All rights reserved. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BSD 3-Clause License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 637.8394 cm
+1 0 0 1 40.01575 649.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copyright \(c\) 2018, SOAR Telescope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 631.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All rights reserved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 601.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.738381 Tw (Redistribution and use in source and binary forms, with or without modification, are permitted provided that the) Tj T* 0 Tw (following conditions are met:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 595.8394 cm
 Q
 q
-1 0 0 1 40.01575 631.8394 cm
+1 0 0 1 40.01575 595.8394 cm
 Q
 q
-1 0 0 1 40.01575 607.8394 cm
+1 0 0 1 40.01575 571.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -10871,10 +10886,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 601.8394 cm
+1 0 0 1 40.01575 565.8394 cm
 Q
 q
-1 0 0 1 40.01575 577.8394 cm
+1 0 0 1 40.01575 541.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -10895,10 +10910,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 571.8394 cm
+1 0 0 1 40.01575 535.8394 cm
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 511.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -10912,37 +10927,24 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.995783 Tw (Neither the name of the NOAO/AURA, Inc. nor the names of its contributors may be used to endorse or) Tj T* 0 Tw (promote products derived from this software without specific prior written permission.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .369163 Tw (Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote) Tj T* 0 Tw (products derived from this software without specific prior written permission.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 547.8394 cm
+1 0 0 1 40.01575 511.8394 cm
 Q
 q
-1 0 0 1 40.01575 541.8394 cm
-Q
-q
-1 0 0 1 40.01575 529.8394 cm
+1 0 0 1 40.01575 397.8394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.859546 Tw (THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY) Tj T* 0 Tw 1.217008 Tw (EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF) Tj T* 0 Tw .845341 Tw (MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL) Tj T* 0 Tw 2.490372 Tw (THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,) Tj T* 0 Tw 8.041566 Tw (SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO,) Tj T* 0 Tw 4.364508 Tw (PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR) Tj T* 0 Tw 3.753099 Tw (BUSINESS INTERRUPTION\) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN) Tj T* 0 Tw 2.288554 Tw (CONTRACT, STRICT LIABILITY, OR TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY) Tj T* 0 Tw (WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 529.8394 cm
-Q
-q
-1 0 0 1 40.01575 415.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.859546 Tw (THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY) Tj T* 0 Tw 1.217008 Tw (EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF) Tj T* 0 Tw .845341 Tw (MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL) Tj T* 0 Tw 3.297008 Tw (NOAO/AURA, Inc. All rights reserved. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,) Tj T* 0 Tw 2.239409 Tw (EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF) Tj T* 0 Tw 1.307841 Tw (SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION\)) Tj T* 0 Tw .52493 Tw (HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR) Tj T* 0 Tw 2.830292 Tw (TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY WAY OUT OF THE USE OF THIS) Tj T* 0 Tw (SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 380.6394 cm
+1 0 0 1 40.01575 362.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -10954,49 +10956,25 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Overview) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 314.6394 cm
+1 0 0 1 40.01575 296.6394 cm
 q
 BT 1 0 0 1 0 50 Tm 1.371606 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Goodman Spectroscopic Data Reduction Pipeline - ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (- is a Python-based package for) Tj T* 0 Tw 2.22493 Tw (producing science-ready, wavelength-calibrated, 1-D spectra. The goal of ) Tj /F3 10 Tf (The Goodman Pipeline ) Tj /F1 10 Tf (is to provide) Tj T* 0 Tw .720241 Tw (SOAR users with an easy to use, very well documented software for reducing spectra obtained with the Goodman) Tj T* 0 Tw .07494 Tw (spectrograph. Though the current implementation assumes offline data reduction, our aim is to provide the capability) Tj T* 0 Tw (to run it in real time, so 1-D wavelength calibrated spectra can be produced shortly after the shutter closes.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 272.6394 cm
+1 0 0 1 40.01575 254.6394 cm
 q
 BT 1 0 0 1 0 26 Tm 1.405535 Tw 12 TL /F1 10 Tf 0 0 0 rg (The pipeline is primarily intended to be run on a data reduction dedicated computer. Instructions for running the) Tj T* 0 Tw 1.037606 Tw (software are provided in the ) Tj 0 0 .501961 rg (Running Pipeline ) Tj 0 0 0 rg (section of this guide. The Goodman Spectroscopic Data Reduction) Tj T* 0 Tw (Pipeline project is hosted at GitHub at ) Tj 0 0 .501961 rg (it's GitHub Repository) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 230.6394 cm
+1 0 0 1 40.01575 212.6394 cm
 q
 BT 1 0 0 1 0 26 Tm .140829 Tw 12 TL /F1 10 Tf 0 0 0 rg (Currently the pipeline is separated into two main components. The initial processing is done by ) Tj /F4 10 Tf (redccd) Tj /F1 10 Tf (, which trims) Tj T* 0 Tw 2.037756 Tw (the images, and carries out bias and flat corrections. The spectroscopic processing is done by ) Tj /F4 10 Tf (redspec ) Tj /F1 10 Tf (and) Tj T* 0 Tw (carries out the following steps:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 224.6394 cm
-Q
-q
-1 0 0 1 40.01575 224.6394 cm
-Q
-q
-1 0 0 1 40.01575 212.6394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 40.01575 206.6394 cm
 Q
 q
 1 0 0 1 40.01575 206.6394 cm
@@ -11016,7 +10994,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Traces the spectra.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Identifies point-source targets.) Tj T* ET
 Q
 Q
 q
@@ -11040,7 +11018,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts the spectra.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Traces the spectra.) Tj T* ET
 Q
 Q
 q
@@ -11064,7 +11042,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimates and subtract background.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extracts the spectra.) Tj T* ET
 Q
 Q
 q
@@ -11088,7 +11066,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves extracted \(1D\) spectra, without wavelength calibration.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estimates and subtract background.) Tj T* ET
 Q
 Q
 q
@@ -11112,7 +11090,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Saves extracted \(1D\) spectra, without wavelength calibration.) Tj T* ET
 Q
 Q
 q
@@ -11136,7 +11114,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data \(resample\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finds the wavelength solution.) Tj T* ET
 Q
 Q
 q
@@ -11160,7 +11138,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Writes the wavelength solution to FITS header) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linearizes data \(resample\)) Tj T* ET
 Q
 Q
 q
@@ -11184,14 +11162,14 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Creates a new file for the wavelength-calibrated 1D spectrum) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Writes the wavelength solution to FITS header) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 68.63937 cm
+1 0 0 1 40.01575 62.63937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -11211,11 +11189,35 @@ Q
 endstream
 endobj
 145 0 obj
-<< /Length 6575 >>
+<< /Length 6944 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 767.8394 cm
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Creates a new file for the wavelength-calibrated 1D spectrum) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -11227,13 +11229,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Features Availa
 Q
 Q
 q
-1 0 0 1 40.01575 755.8394 cm
+1 0 0 1 40.01575 727.8394 cm
 Q
 q
-1 0 0 1 40.01575 755.8394 cm
+1 0 0 1 40.01575 727.8394 cm
 Q
 q
-1 0 0 1 40.01575 719.8394 cm
+1 0 0 1 40.01575 691.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -11254,10 +11256,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 713.8394 cm
+1 0 0 1 40.01575 685.8394 cm
 Q
 q
-1 0 0 1 40.01575 701.8394 cm
+1 0 0 1 40.01575 673.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -11278,10 +11280,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 695.8394 cm
+1 0 0 1 40.01575 667.8394 cm
 Q
 q
-1 0 0 1 40.01575 671.8394 cm
+1 0 0 1 40.01575 643.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -11302,10 +11304,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 665.8394 cm
+1 0 0 1 40.01575 637.8394 cm
 Q
 q
-1 0 0 1 40.01575 653.8394 cm
+1 0 0 1 40.01575 625.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -11326,10 +11328,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 647.8394 cm
+1 0 0 1 40.01575 619.8394 cm
 Q
 q
-1 0 0 1 40.01575 635.8394 cm
+1 0 0 1 40.01575 607.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -11350,10 +11352,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 635.8394 cm
+1 0 0 1 40.01575 607.8394 cm
 Q
 q
-1 0 0 1 40.01575 600.6394 cm
+1 0 0 1 40.01575 572.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -11365,13 +11367,13 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Supported Data)
 Q
 Q
 q
-1 0 0 1 40.01575 570.6394 cm
+1 0 0 1 40.01575 542.6394 cm
 q
 BT 1 0 0 1 0 14 Tm 1.078476 Tw 12 TL /F1 10 Tf 0 0 0 rg (We are currently supporting data obtained since March, 2018, however you should be able to process older data) Tj T* 0 Tw (making sure you data meets the ) Tj 0 0 .501961 rg (data requirements) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 535.4394 cm
+1 0 0 1 40.01575 507.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -11383,21 +11385,21 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Future Implemen
 Q
 Q
 q
-1 0 0 1 40.01575 517.4394 cm
+1 0 0 1 40.01575 489.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is a list of the features we are planning to implement.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 501.4394 cm
+1 0 0 1 40.01575 473.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Additions:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 426.4394 cm
+1 0 0 1 40.01575 398.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 62 Tm  T* ET
@@ -11506,14 +11508,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 410.4394 cm
+1 0 0 1 40.01575 382.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Improvements:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 353.4394 cm
+1 0 0 1 40.01575 325.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 44 Tm  T* ET
@@ -11599,7 +11601,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 353.4394 cm
+1 0 0 1 40.01575 325.4394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -16194,36 +16196,36 @@ xref
 0000029048 00000 n
 0000037041 00000 n
 0000037177 00000 n
-0000046842 00000 n
-0000053475 00000 n
-0000063276 00000 n
-0000070192 00000 n
-0000079051 00000 n
-0000090025 00000 n
-0000098371 00000 n
-0000107322 00000 n
-0000116219 00000 n
-0000127656 00000 n
-0000138925 00000 n
-0000141327 00000 n
-0000142910 00000 n
-0000143189 00000 n
-0000143229 00000 n
-0000143269 00000 n
-0000143309 00000 n
-0000143349 00000 n
-0000143389 00000 n
-0000143429 00000 n
-0000143469 00000 n
-0000143509 00000 n
-0000143549 00000 n
-0000143589 00000 n
-0000143629 00000 n
-0000143669 00000 n
-0000143709 00000 n
-0000143750 00000 n
-0000143791 00000 n
-0000143832 00000 n
+0000046498 00000 n
+0000053500 00000 n
+0000063301 00000 n
+0000070217 00000 n
+0000079076 00000 n
+0000090050 00000 n
+0000098396 00000 n
+0000107347 00000 n
+0000116244 00000 n
+0000127681 00000 n
+0000138950 00000 n
+0000141352 00000 n
+0000142935 00000 n
+0000143214 00000 n
+0000143254 00000 n
+0000143294 00000 n
+0000143334 00000 n
+0000143374 00000 n
+0000143414 00000 n
+0000143454 00000 n
+0000143494 00000 n
+0000143534 00000 n
+0000143574 00000 n
+0000143614 00000 n
+0000143654 00000 n
+0000143694 00000 n
+0000143734 00000 n
+0000143775 00000 n
+0000143816 00000 n
+0000143857 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
@@ -16233,5 +16235,5 @@ trailer
  /Root 106 0 R
  /Size 175 >>
 startxref
-143873
+143898
 %%EOF
